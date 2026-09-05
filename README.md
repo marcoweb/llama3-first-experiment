@@ -10,19 +10,20 @@ O pipeline implementa a abordagem **LLM em Pipeline Híbrido**:
 
 ```mermaid
 flowchart LR
-    Doc[Documento: Título + Resumo + Palavras-Chave] --> Hybrid[Recuperação Híbrida]
+    Doc["Documento: Título + Resumo + Palavras-Chave"] --> Hybrid["Recuperação Híbrida"]
     
-    subgraph Indexação do Vocabulário [NAL Thesaurus / AGRICOLA]
-        BM25[Índice Léxico: BM25]
-        FAISS[Índice Semântico: FAISS + Embeddings]
+    subgraph Vocab ["Indexação do Vocabulário (NAL Thesaurus / AGRICOLA)"]
+        BM25["Índice Léxico: BM25"]
+        FAISS["Índice Semântico: FAISS + Embeddings"]
     end
     
-    Indexação do Vocabulário --> Hybrid
-    Hybrid -->|Fusão RRF| Cand[Descritores Candidatos]
-    Cand --> LLaMA[Reranqueamento LLaMA 3 via Ollama]
+    BM25 --> Hybrid
+    FAISS --> Hybrid
+    Hybrid -->|Fusão RRF| Cand["Descritores Candidatos"]
+    Cand --> LLaMA["Reranqueamento LLaMA 3 via Ollama"]
     Doc --> LLaMA
-    LLaMA --> Pred[Descritores Finais Autorizados]
-    Pred --> Eval[Avaliação vs. Gold Standard: Precisão, Revocação e Medida-F]
+    LLaMA --> Pred["Descritores Finais Autorizados"]
+    Pred --> Eval["Avaliação vs. Gold Standard: Precisão, Revocação e Medida-F"]
 ```
 
 1. **Vocabulário Controlado**: Baseado nos descritores do NAL Thesaurus derivados da base AGRICOLA (~23.000 termos únicos).
