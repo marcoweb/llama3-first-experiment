@@ -1,0 +1,56 @@
+#ITI#Physiological and biochemical attributes associated with jelly-seed disorder in mango (Mangifera indica L.)#FTI#
+#IRE#‘Jelly-seed’ is considered as a serious disorder of mango which causes considerable postharvest losses. Due to the lack of clear understanding of jelly-seed disorder genesis and minuscule research work, a study was carried out to know the physiological and biochemical basis leading to the incidence of the jelly-seed disorder in ‘Langra’ and ‘Dashehari’ mango varieties. The results revealed that the respiration rate (143.32 and 149.32 mg kg−1 h−1 CO2) in the jelly-seed affected fruits was higher than the healthy fruits of both the varieties, while the ethylene evolution rate showed no significant difference. The biochemical attributes such as β-carotene (1.28 and 1.64 g kg−1) and total antioxidant capacity (607.78 and 563.25 mmol kg−1 Trolox) of jelly-seed affected pulp was significantly lower than the healthy pulp (HP) and pulp surrounding affected pulp (PSAP) in both the varieties, respectively. Ascorbic acid (66.76 and 33.70 g kg−1), TSS, reducing sugars (9.34 and 8.49%), total sugars and titratable acidity have been recorded to be higher in the jelly-seed affected pulp (AP) in both the varieties, respectively. This may be due to the higher activities of α-amylase (0.99 and 1.21 g kg−1 h−1 maltose liberated), pectin methylesterase (0.30 and 0.30 mmol min−1 kg−1 acid) and cellulase (0.0487 and 0.0564 U g−1) enzymes in the jelly-seed AP in both the varieties, respectively. Polyphenol oxidase enzyme activity was also significantly higher in jelly-seed affected pulp of both the varieties. The results of respiration rate suggested that the jelly-seed malady in mango may be a result of high seed activity rather than fruit pulp activity because the mesocarp tissue surrounding the vicinity of the seed is totally disintegrated and the seed might have entered into premature seed germination mode (vivipary nature). The affected fruits showed a higher respiration rate, reduced β-carotene content and total antioxidant capacity leading to loss of nutritional value. © 2020, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Antioxidants; Enzymatic activities; Jelly-seed; Respiration; β-Carotene#FPC#
+#IRF#Abu-Goukh A.B.A., Bashir H.A., Changes in pectic enzymes and cellulase activity during guava fruit ripening, Food Chem, 83, 2, pp. 213-218, (2003); 
+Abu-Sarra A.F., Abu-Goukh A.F., Changes in pectinesterase, polygalacturonase and cellulase activity during mango fruit ripening, J Hortic Sci, 67, pp. 561-568, (1992); 
+Agius F., Gonzalez-Lamothe R., Caballero L.J., Muoz-Blanco J., Botella M.A., Valpuesta V., Engineering increased vitamin C levels in plants by over expression of a d-galacturonic acid reductase, Nat Biotechnol, 21, pp. 177-181, (2003); 
+Amiot M.J., Tacchini M., Aubert S., Nicolas J., Phenolic composition and browning susceptibility of various apple cultivars at maturity, J Food Sci, 57, 4, pp. 958-962, (1992); 
+An Y., Lin L., Transcriptional regulatory programs underlying barley germination and regulatory functions of gibberellin and abscisic acid, BMC Plant Biol, 11, 1, (2011); 
+Anthon G.E., Barrett D.M., Pectin methylesterase activity and other factors affecting pH and titratable acidity in processing tomatoes, Food Chem, 132, 2, pp. 915-920, (2012); 
+Apak R., Guclu K., Ozyurek M., Karademir S.E., Novel total antioxidants capacity index for dietary polyphenol and vitamins C and E using their cupric ion reducing capability in the presence of neocuprine: CUPRAC method, J Agric Food Chem, 52, pp. 7970-7981, (2004); 
+Bernfeld P., Amylases, Methods in enzymology, 1, pp. 149-158, (1955); 
+Carpita N.C., Gibeaut D.M., Structural models of primary cell walls in flowering plants: consistency of molecular structure with the physical properties of the walls during growth, Plant J, 3, pp. 1-30, (1993); 
+Chytil F., Vitamin A: not for vision only, Br J Nutr, 82, 3, pp. 161-162, (1999); 
+Elhassan S.Y., Abu-Goukh A.B.A., Role of cellulase enzyme in fruit softening during muskmelon fruit ripening, Am J Sci Ind Res, 7, 4, pp. 98-105, (2016); 
+Endress H.U., Pectins: production, properties and applications, Renewable resources for functional polymers and biomaterials, pp. 210-260, (2011); 
+Gill K.B.S., Dhaliwal H.S., Mahajan B.V.C., Effect of post-harvest treatment of ascorbic acid on shelf-life and quality of guava (Psidium guajava L.) cv. Allahabad Safeda, Int J Agric Sci Vet Med, 2, pp. 130-141, (2014); 
+Hagerman A.E., Austin P.J., Continuous spectrophotometry assay for plant pectin methylesterase, J Agric Food Chem, 34, pp. 440-444, (1986); 
+Halliwell B., How to characterize an antioxidant: an update, Ind Biochem Soc Symp, 61, 1, pp. 73-101, (1995); 
+Ilker Y., Kader A.A., Ilker R., Morris L.L., Anatomy of lettuce tissue affected by three physiological disorders, J Am Soc Hortic Sci, 102, 4, pp. 426-428, (1977); 
+Irving D.E., Shingleton G.J., Hurst P.L., Starch degradation in buttercup squash (Cucurbita maxima), J Am Soc Hortic Sci, 124, pp. 587-590, (1999); 
+Janave M.T., Biochemical changes induced due to Staphylococcus infection in spongy Alphonso mango (Mangifera indica L.) fruits, J Crop Sci Biotechnol, 10, 3, pp. 167-174, (2007); 
+Joshi A.P.K., Rupasinghe H.P.V., Pitts N.L., Khanizadeh S., Biochemical characterization of enzymatic browning in selected apple genotypes, Can J Plant Sci, 87, 5, pp. 1067-1074, (2007); 
+Katrodia J.S., Rane D.A., Salunkhe D.K., Biochemical nature of spongy tissue in Alphonso fruits, Acta Hortic, 231, pp. 835-839, (1988); 
+Krishnamurthy S., Chemical studies on internal breakdown in Alphonso mango (Mangifera indica L.), Ind J Hortic, 38, pp. 70-73, (1981); 
+Lannetta P.P.M., Wyman M., Neelam A., Jones C., Taylor M.A., Davies H.V., Sexton R., A causal role for ethylene and endo-β-1, 4-glucanase in the abscission of red-raspberry (Rubus idaeus) drupelets, Physiol Plant, 110, 4, pp. 535-543, (2000); 
+Lin H.L., Shiesh C.C., Chen P.J., Physiological disorders in relation to compositional changes in mango (Mangifera indica L.) cv. Chiin Hwang fruit, Acta Hortic, 984, pp. 357-363, (2013); 
+Lipton W.J., Aharoni Y., Chilling injury and ripening of honey dew muskmelons stored at 2.5 °C or 5 °C after ethylene treatment at 20 °C, J Am Soc Hortic Sci, 104, 3, pp. 327-330, (1979); 
+Litz R.E., The mango: botany, production and uses, (2009); 
+Maria I.G., Tomas-Barberan F.A., Hess-Pierce B., Kader A., Antioxidant capacities, phenolic compounds, carotenoids, and vitamin C contents of nectarine, peach, and plum cultivars from California, J Agric Food Chem, 50, pp. 4976-4982, (2002); 
+Nicoli M.C., Calligaris S., Manzocco L., Effect of enzymatic and chemical oxidation on the antioxidant capacity of catechin model systems and apple derivatives, J Agric Food Chem, 48, pp. 4576-4580, (2000); 
+Oosthuyse S.A., Disorders of fibreless mangoes grown in South Africa for export, Yearbook-S Afr Mango Grow Assoc, 13, pp. 80-88, (1993); 
+Patkar V.R., Gunjate R.T., Lad B.L., Effect of spongy tissue on chemical composition of ripe Alphonso mango fruit, South Ind Hortic, 32, 2, pp. 83-85, (1984); 
+Paull R.E., Postharvest physiology of mango fruit, Proceedings of the Conference on Mango in Hawaii, pp. 36-40, (1993); 
+Peroni F.H.G., Koike C., Louro R.P., Purgatto E., do Nascimento J.R.O., Lajolo F.M., Cordenunsi B.R., Mango starch degradation. II. The binding of α-amylase and β-amylase to the starch granule, J Agric Food Chem, 56, 16, pp. 7416-7421, (2008); 
+Ranganna S., Handbook of analysis and quality control for fruit and vegetable products, (1986); 
+Ravindra V., Shivashankar S., Spongy tissue in Alphonso mango -significance of in situ seed germination events, Curr Sci, 87, pp. 1045-1049, (2004); 
+Ravindra V., Shivashankar S., Reddy T.M., Kotur S.C., Spongy tissue in Alphonso mango. III. Radiotracer evidence for increased mobilization of water from mesocarp to seed, Curr Sci, 99, pp. 571-574, (2010); 
+Raymond L., Schaffer B., Brecht J.K., Crane J.H., Internal breakdown in mango fruit: symptomology and histology of jelly-seed, soft nose and stem-end cavity, Postharvest Biol Technol, 13, pp. 59-70, (1998); 
+Saltveit M.E., Pharr D.M., Larson R.A., Mechanical stress induces ethylene production and epinasty in poinsettia cultivars, J Am Soc Hortic Sci, 104, 4, pp. 452-455, (1979); 
+Selvaraj Y., Raja E.M., Rawal R.D., Biochemical studies on internal breakdown—a ripening disorder in mango fruits, Ind J Hortic, 57, 3, pp. 183-188, (2000); 
+Sharma R.R., Physiological disorders of tropical and subtropical fruits, Fruit production-problems and solution, pp. 322-345, (2006); 
+Sharma R.R., Krishna H., Fruit production: major fruits, (2014); 
+Shivashankar S., Physiological disorders of mango fruit, Hortic Rev, 42, pp. 313-347, (2014); 
+Shivashankar S., Ravindra V., Louis L., Biochemical changes in seed and mesocarp of mango (Mangifera indica L.) cv. ‘Alphonso’ and their significance during the development of spongy tissue, J Hortic Sci Biotechnol, 82, pp. 35-40, (2007); 
+Shivashankar S., Sumathi M., Singh H.S., Premature seed germination induced by very-long-chain fatty acids causes jelly-seed disorder in the mango (Mangifera indica L.) cultivar ‘Amrapali’ in India, J Hortic Sci Biotechol, 91, 2, pp. 138-147, (2016); 
+Singh L.B., The mango: botany, cultivation, and utilization, (1960); 
+Singh V.K., Kumari S., Changes in biochemical and mineral constituents associated with jelly-seed in mango (Mangifera indica L.) cv. Dashehari, Ind J Agric Sci, 81, 6, pp. 563-566, (2011); 
+Sojo M.M., Nunez-Delicado E., Garcia-Carmona F., Sanchez-Ferrer A., Partial purification of a banana polyphenol oxidase using Triton X-114 and PEG 8000 for removal of polyphenols, J Agric Food Chem, 46, 12, pp. 4924-4930, (1998); 
+Srivastav M., Singh S., Ajang M., Evaluation of mango genotypes for jelly-seed disorder, Ind J Hortic, 72, 3, pp. 408-410, (2015); 
+Srivastava M.K., Dwivedi U.N., Delayed ripening of banana fruit by salicylic acid, Plant Sci, 158, 1-2, pp. 87-96, (2000); 
+Subramanyam H.S., Krishnamurthy N.V., Subhadra V.B., Dalal G.S., Randhawa C.E.K., Studies on internal breakdown, a physiological ripening disorder in Alphonso mangoes (Mangifera indica L.), Trop Sci, 13, pp. 203-210, (1971); 
+Talcott S.T., Moore J.P., Lounds-Singleton A.J., Percival S.S., Ripening associated phytochemical changes in mangos (Mangifera indica) following thermal quarantine and low temperature storage, J Food Sci, 70, 5, pp. C337-C341, (2005); 
+Thygesen P.W., Dry I.B., Robinson S.P., Polyphenol oxidase in potato (a multigene family that exhibits differential expression patterns), Plant Physiol, 109, 2, pp. 525-531, (1995); 
+Van Lelyveld L.J., Smith J.H.E., Physiological factors in the maturation and ripening of mango (Mangifera indica L.) fruit in relation to the jelly-seed physiological disorder, J Hortic Sci, 54, 4, pp. 283-287, (1979); 
+Weissenberg M., Levy A., Schaeffler I., Menagem E., Barzilai M., Rapid isocratic HPLC analysis of beta-carotene in red peppers (Capsicum annuum L.) and food preparations, Chromatographia, 46, pp. 399-403, (1997); 
+Wills R., McGlasson B., Graham D., Joyce D., Postharvest: an introduction to the physiology and handling of fruit, vegetables and ornamentals, (1998)#FRF#

@@ -1,0 +1,53 @@
+#ITI#Marjoram physiological and molecular performance under water stress and chitosan treatment#FTI#
+#IRE#Chitosan as natural product might have potential application in the production of Origanum majorana “Marjoram”, a known historic plant with economic importance in the agriculture and pharmaceutical industries. Under three irrigation periods (1, 3, and 5 days) in marjoram plants for 8 weeks, chitosan was applied as water solution at 50, 200 and 500 ppm. Chitosan increased selected morphological parameters and associated with elevated physiological and molecular performance. Enhanced metabolism of the treated plants was expressed as increased rates of stomatal conductance and photosynthetic rates. In addition, soluble sugars and proline levels were higher. Elevated expression of MnSOD Cu/ZnSOD, FeSOD, APX, DREB2 and ERF3 s were also detected. Further elevated expression of CYP71D179/182 and CYP71D178 PII, essential oil composition-related genes, was also found. The SOD and APX enzymes were more active and there were reductions in the levels of reactive oxygen species. Thymol and cis-Sabinene were higher in treated plants essential oils. Chitosan may alleviate water stress in marjoram by enhancing the metabolism and stress related genes in treated plants. © 2019, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Chitosan; Gas exchange; Marjoram; Oregano; Origanum majorana#FPC#
+#IRF#Adams R.P., Identification of Essential Oil Compounds by Gas Chromatography/Mass Spectrometry, pp. 35-48, (2007); 
+Ali F., Bano A., Fazal A., Recent methods of drought stress tolerance in plants, Plant Growth Regul, 82, pp. 363-375, (2017); 
+Baatour O., Kaddour R., Tarchoun I., Et al., Modification of fatty acid, essential oil and phenolic contents of salt-treated sweet marjoram (origanum majorana L.) according to developmental stage, J Food Sci, 77, pp. 1047-1054, (2013); 
+Bandurska H., Does proline accumulated in leaves of water deficit stressed barley plants confine cell membrane injuries? II. Proline accumulation during hardening and its involvement in reducing membrane injuries in leaves subjected to severe osmotic stress, Acta Physiol Plant, 23, (2001); 
+Bates L.S., Waldren R.P., Teare I.D., Rapid determination of free proline for water stress studies, Plant Soil, 39, pp. 205-207, (1973); 
+Bhattacharjee S., Saha A.K., Plant Water-Stress Response Mechanisms, Approaches to plant stress and their management, (2014); 
+Bistgani Z.E., Siadat S.A., Bakhshandeh A., Pirbalouti A.G., Hashemi M., Interactive effects of drought stress and chitosan application on physiological characteristics and essential oil yield of Thymus daenensis Celak, The Crop J, 2017, pp. 407-415, (2017); 
+Bittelli M., Flury M., Campbell G.S., Nichols E.J., Reduction of transpiration through foliar application of chitosan, Agric For Meteorol, 107, pp. 167-175, (2001); 
+Chen Y., Chen C., Tan Z., Liu J., Zhuang L., Yang Z., Huang B., Functional identification and characterization of genes cloned from halophyte seashore paspalum conferring salinity and cadmium tolerance, Front Pant Sci, 7, (2016); 
+Crocoll C., Biosynthesis of the phenolic monoterpenes, thymol and carvacrol, by terpene synthases and cytochrome P450s in oregano and thyme, (2010); 
+Crocoll C., Asbach J., Novak J., Gershenzon J., Degenhardt J., Terpene synthases of oregano (Origanum vulgare L.) and their roles in the pathway and regulation of terpene biosynthesis, Plant Mol Biol, 73, pp. 587-603, (2010); 
+Dubois M., Gilles K.A., Hamilton J.K., Rebers P.A., Smith F., Colorimetric method for determination of sugars and related substances, Anal Chem, 28, pp. 350-356, (1956); 
+Dzung N.A., Thang N.T., Effect of oligoglucosamine on the growth anddevelopment of peanut (Arachis hypogea L.), Proceedings of the 6Th Asia-Pacific on Chitin, Chitosan Symposium Singapore, (2004); 
+Elansary H.O., Chemical diversity and antioxidant capacity of essential oils of marjoram in Northwest Egypt, Essent Oil Bear Plants, 18, pp. 917-924, (2015); 
+Elansary H.O., Green roof Petunia, Ageratum, and Mentha responses to water stress, seaweeds, and trinexapac-ethyl treatments, Acta Physiol Plant, 39, (2017); 
+Elansary H.O., Yessoufou K., Abdel-Hamid A.M.E., El-Esawi M.A., Ali H.M., Elshikh M.S., Seaweed extracts enhance Salam turfgrass performance during PII and saline shock, Front Plant Sci, 8, (2017); 
+El-Esawi M.A., Elansary H.O., Elshanhory N., Abdel-Hamid A.M.E., Ali H.M., Elshikh M.S., Salicylic acid-regulated antioxidant mechanisms and gene expression enhance rosemary performance under saline conditions, Front Physiol, 8, (2017); 
+El-keltawi N.E., Croteau R., Influence of foliar applied cytokinins on growth and essential oil content of several members of the lamiaceae, Phytochemittry, 26, pp. 891-895, (1987); 
+Farouk S., Ghoneem K.M., Ali A., Induction and expression of systematic resistance to downy mildew disease in cucumber plant by elicitors, Egypt J Phytopathol, 2, pp. 95-111, (2008); 
+Farouk S., Mosa A.A., Taha A.A., Heba I.M., EL-Gahmery A.M., Protective effect of humic acid and chitosan on radish (Raphanus sativus L. var. sativus) plants subjected to cadmium stress, J Stress Physiol Biochem, 7, pp. 99-116, (2011); 
+Fialho C.M.T., Ferreira E.A., Meira R.A.S., Et al., Anatomical characters of Brachiaria brizantha submitted to trinexapac-ethyl application, Planta Daninha, 27, pp. 533-539, (2009); 
+Franz C., Novak J., Breeding of oegano, Oregano: the genera Origanum and Lippia, (2002); 
+Ghasemi Pirbalouti A., Malekpoor F., Salimi A., Golparvar A., Exogenous application of chitosan on biochemical and physiological characteristics, phenolic content and antioxidant activity of two species of basil (Ocimum ciliatum and Ocimum basilicum) underreduced irrigation, Sci Hort, 217, pp. 114-122, (2017); 
+Hekmat M.Y., Abdalah M.Y.A., Mosa A.A.A., Nour Eldeen E.A.E., Effect of water stress and foliar spray of humic acid on growth and essential oil quality of marjoram (Majorana hortensis Moench) Plant, J Plant Prod Mansoura Univ, 1, pp. 1113-1123, (2010); 
+Kang J.Y., Choi H.I., Im M.Y., Kim S.Y., Arabidopsis basic leucine zipper proteins that mediate stress-responsive abscisic acid signaling, Plant Cell, 14, pp. 343-357, (2002); 
+Khan I.A., Abourashed E.A., Leung’s encyclopedia of common natural ingredients: Used in food, drugs and cosmetics, pp. 437-438, (2010); 
+Kong M., Chen X.G., Xing K., Park H.J., Antimicrobial properties of chitosan and mode of action: a state of the art review, Int J Food Microbiol, 133, pp. 51-63, (2010); 
+Liu Q., Kasuga M., Sakuma Y., Et al., Two transcription factors, DREB1 and DREB2, with an EREBP/AP2 DNA binding domain separate two cellular signal transduction pathways in drought and low-temperature-responsive gene expression, respectively, in Arabidopsis, Plant Cell, 10, pp. 1391-1406, (1988); 
+Ma Y.H., Ma F.W., Zhang J.K., Et al., Effects of high temperature on activities and gene expression of enzymes involved in ascorbate–glutathione cycle in apple leaves, Plant Sci, 175, pp. 761-766, (2008); 
+Makri O., Cultivation of Oregano, Oregano: the genera Origanum and Lippia, (2002); 
+Mansfeld R., Verzeichnis landwirschftlicher and gartnerischer Kulturpflanzen (Ohne Zierpflanzen) 2nd edn, 4, pp. 224-225, (1986); 
+Morshedloo M.R., Craker L.E., Salami A., Nazeri V., Sang H., Maggi F., Effect of prolonged water stress on essential oil content, compositions and gene expression patterns of mono- and sesquiterpene synthesis in two oregano (Origanum vulgare L.) subspecies, Plant Physiol Biochem, 111, pp. 119-128, (2017); 
+Morton J.F., Atlas of medicinal plants of Middle America, (1981); 
+Nilsen E.T., Orcutt D.M., Physiology of plants under stress: Abiotic factors, (1996); 
+Ninou E., Paschalidis K., Mylonas I., Essential oil responses to water stress in Greek oregano populations, Essent Oil Bear Plants, (2017); 
+Patricelli D., Barbero F., Occhipinti A., Bertea C.M., Bonelli S., Casacci L.P., Zebelo S.A., Crocoll C., Gershenzon J., Maffei M.E., Plant defences against ants provide a pathway to social parasitism in butterflies, Proc R Soc B R Soc, 282, (2015); 
+Radacsi P., Inotai K., Sarosi S.Z., Czovek P., Bernath J., Nemeth E., Effect of water supply on the physiological characteristic and production of basil (Ocimum basilicum L.), Eur J Hortic Sci, 75, pp. 193-197, (2010); 
+Radyukina N.L., Shashukova A.V., Makarova S.S., Kuznetsov V.V., Exogenous proline modifies differential expression of superoxide dismutase genes in UV-B-irradiated Salvia officinalis Plants, Rus J Plant Physiol, 58, pp. 51-59, (2011); 
+Ramirez M., Rodriguez A.T., Alfonso L., Peniche C., Chitin and its derivatives as biopolymers with potential agricultural applications, Biotecnol Apl, 27, pp. 270-276, (2010); 
+Saxena R., Tomar R.S., Kumar M., Exploring nanobiotechnology to mitigate abiotic stress in crop plants, J Pharm Sci Res, 8, pp. 974-980, (2016); 
+Sharp R.G., A review of the applications of chitin and its derivatives in agriculture to modify plant-microbial interactions and improve crop yields, Agron, 3, pp. 757-793, (2013); 
+Sheikh-Mohamadi M.H., Etemadi N., Nikbakht A., Arab M., Majidi M.M., Pessarakli M., Antioxidant defence system and physiological responses of Iranian crested wheatgrass (Agropyron cristatum L.) to drought and salinity stress, Acta Physiol Plant, 39, (2017); 
+Simon J.E., Chadwick A.F., Craker L.E., Herbs: an annotated bibliography, 1971–1980, (1984); 
+Small E., Culinary herbs, pp. 611-613, (2006); 
+Soliman F.M., Yousif M.F., Zaghloul S.S., Okba M.M., Seasonal variation in the essential oil composition of Origanum majorana L. cultivated in Egypt, Z Naturforsch C, 64, pp. 611-614, (2009); 
+Song S.Q., Sang Q.M., Guo S.R., Physiological synergisms of chitosan on salt resistance of cucumber seedlings, Acta Bot Boreali-Occidentalia Sin, 26, pp. 435-441, (2006); 
+Toscano S., Scuderi D., Giuffrida F., Romano D., Responses of Mediterranean ornamental shrubs to drought stress and recovery, HortScience, 178, pp. 145-153, (2014); 
+Yin H., Frette X.C., Christensen L.P., Grevsen K., Chitosan oligosaccharides promote the content of polyphenols in Greek oregano (Origanum vulgare ssp. hirtum), J Agric Food Chem, 60, pp. 136-143, (2012); 
+Zhang G., Chen M., Li L., Et al., Overexpression of the soybean GmERF3 gene, an AP2/ERT type transcription factor for increased tolerance to salt, drought, and diseases in transgenic tobacco, J Exp Bot, 60, pp. 3781-3796, (2009); 
+Zhang C., Shi S., Wang B., Zhao J., Physiological and biochemical changes in different drought-tolerant alfalfa (Medicago sativa L.) varieties under PEG-induced drought stress, Acta Physiol Plant, 40, (2018)#FRF#

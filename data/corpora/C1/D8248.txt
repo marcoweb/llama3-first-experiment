@@ -1,0 +1,58 @@
+#ITI#Research on automatic irrigation control: State of the art and recent results#FTI#
+#IRE#Availability of fresh water is one of the elementary conditions for life on Earth, however, water is a limited resource, which is now under an unprecedented pressure by global population growth, climate change and demand from several economic sectors such as tourism, industry, and agriculture. In particular, irrigated agriculture is one of the major water-consuming sectors. The aforementioned issues justify the need for a sustainable and rational use of water in irrigated crops, which motivates the implementation of new precise automatic irrigation technologies based on control theory. In this paper, we introduce the main concepts of control theory, how can it be applied to irrigation and a literature review of automatic irrigation control systems over the last decade. In addition, we present our latest developments in this field. In particular, we present some promising preliminary experimental results of four different control strategies applied to fruit trees in southern Spain to show the potential of the application of control techniques to irrigation. © 2012 Elsevier B.V.#FRE#
+#IPC#Automatic irrigation; Control theory; Feedback; Water productivity; Water use efficiency#FPC#
+#IRF#Abraham N., Hema P.S., Saritha E.K., Subramannian S., Irrigation automation based on soil electrical conductivity and leaf temperature, Agricultural Water Management, 45, pp. 145-157, (2000); 
+Astrom K.J., Hagglund T., Advanced PID Control: ISA - The Instrumentation, (2006); 
+Bennett S., A brief history of automatic control, IEEE Control Systems Magazine, pp. 17-25, (1996); 
+Boote K.J., Jones J.W., Hoogenboom G., Simulation of crop growth: CROPGRO model, Agricultural Systems Modeling and Simulation, pp. 113-133, (1998); 
+Boutraa T., Akhkha A., Alshuaibi A., Atta R., Evaluation of the effectiveness of an automated irrigation system using wheat crops, Agriculture and Biology Journal of North America, 2, 1, pp. 80-88, (2011); 
+Bouyoucos C.J., A new electric automatic irrigation system, Agronomy Journal, 44, pp. 448-451, (1952); 
+Camacho E.F., Bordons C., Model Predictive Control, (2004); 
+Caceres R., Casadesus J., Marfa O., Adaptation of an automatic irrigation-control tray system for outdoor nurseries, Biosystems Engineering, 96, pp. 419-425, (2007); 
+Capraro F., Patino D., Tosetti S., Schugurensky C., Neural Network-Based Irrigation Control for Precision Agriculture, Proceedings of ICNSC, pp. 357-362, (2008); 
+Cardenas-Lailhacar B., Dukes M.D., Miller G.L., Sensor-based automation of irrigation on bermudagrass, during wet weather conditions, Journal of Irrigation and Drainage Engineering, 134, pp. 120-128, (2008); 
+Cardenas-Lailhacar B., Dukes M.D., Miller G.L., Sensor-based automation of irrigation on bermudagrass, during dry weather conditions, Journal of Irrigation and Drainage Engineering, 136, (2010); 
+Chapman H.D., Liebig G.F., Adaptation and use of automatically operated sand culture equipment, Journal of Agricultural Research, 56, pp. 73-80, (1938); 
+Clothier B., Wise use of water and nutrients in agriculture, SciTopics, (2008); 
+Dickinson H., Jenkins R., James Watt and the Steam Engine, (1927); 
+El Ghoumari M.Y., Tantau H.J., Serrano J.S., Non-linear constrained MPC: real-time implementation of greenhouse air temperature control, Computers and Electronics in Agriculture, 49, pp. 345-356, (2005); 
+Evett S.R., Howell T.A., Schneider A.D., Upchurch D.R., Wanjura D.F., Automatic drip irrigation of corn and soybean, Proc. of the 4th Decennial National Irrigation Symp., pp. 401-408, (2000); 
+Fereres E., Goldhamer D.A., Parsons L.R., Irrigation water management of horticultural crops, Hortscience, 38, pp. 1036-1042, (2003); 
+Fernandez J.E., Green S.R., Caspari H.W., Diaz-Espejo A., Cuevas M.V., The use of sap flow measurements for scheduling irrigation in olive, apple and Asian pear trees and in grapevines, Plant and Soil, 305, pp. 91-104, (2008); 
+Fernandez J.E., Palomo M.J., Diaz-Espejo A., Clothier B.E., Green S.R., Giron I.F., Moreno F., Heat-pulse measurements of sap flow in olives for automating irrigation: tests, root flow and diagnostics of water stress, Agricultural Water Management, 51, pp. 99-123, (2001); 
+Fernandez J.E., Romero R., Garcia I., Muriel J.L., An automatic controller for high frequency irrigation based on FDR measurements combined with the crop coefficient approach, The Third International Symposium on Soil Water Measurement Using Capacitance, Impedance and TDR (Murcia, Spain), (2010); 
+Fernandez J.E., Romero R., Diaz-Espejo A., Cuevas M.V., Muriel J.L., Montano J.C., A device for scheduling irrigation in fruit tree orchards from sap flow readings, Acta Horticulturae, 792, pp. 283-290, (2008); 
+Fernandez J.E., Romero R., Diaz-Espejo A., Muriel J.L., Cuevas M.V., Montano J.C., Design and testing of an automatic irrigation controller for fruit tree orchards based on sap flow measurements, Australian Journal of Agricultural Research, 59, pp. 589-598, (2008); 
+Garcia-Orellana Y., Ruiz-Sanchez M.C., Alarcon J.J., Conejero W., Ortuno M.F., Nicolas E., Torrecillas A., Preliminary assessment of the feasibility of using maximum daily trunk shrinkage for irrigation scheduling in lemon trees, Agricultural Water Management, 89, pp. 167-171, (2007); 
+Goldhamer D.A., Fereres E., Irrigation scheduling of almond trees with trunk diameter sensors, Irrigation Science, 23, pp. 11-19, (2004); 
+Green S., (2001); 
+Hoogenboom G., Jones J., Wilkens P., Porter C., Batchelor W., Hunt L., Boote K., Singh U., Uryasev O., Bowen W., Decision Support System for Agrotechnology Transfer Version 4.0 [CD-ROM], 1, pp. 235-265, (2004); 
+Jones H.G., Irrigation scheduling: advantages and pitfalls of plant-based methods, Journal of Experimental Botany, 55, pp. 2427-2436, (2004); 
+Khalil H., Nonlinear Systems, (1992); 
+Larsbo M., Jarvis N., MACRO 5.0: A Model of Water Flow and Solute Transport in Macroporous Soil: Technical Description, (2003); 
+Love J., Process Automation Handbook: A Guide to Theory and Practice, pp. 155-171, (2007); 
+Luthra S.K., Kaledhonkar M.J., Singh O.P., Tyagi N.K., Design and development of an auto irrigation system, Agricultural Water Management, 33, pp. 169-181, (1997); 
+Mayr O., The Origins of Feedback Control, (1975); 
+McCarthy A., Hancock N., Raine S., Advanced process control of irrigation: the current state and an analysis to aid future development, Irrigation Science, pp. 1-10, (2011); 
+Miranda F.R., Yoder R.E., Wilkerson J.B., Odhiambo L.O., An autonomous controller for site-specific management of fixed irrigation systems, Computers and Electronics in Agriculture, 48, pp. 183-197, (2005); 
+Morari M., Model predictive control - ideas for the next generation, IEE Workshop on Model Predictive Control: Techniques and Applications, (1999); 
+O'Shaughnessy S.A., Evett S.R., Canopy temperature based system effectively schedules and controls center pivot irrigation for cotton, Agricultural Water Management, 97, pp. 1310-1316, (2010); 
+Pannocchia G., Laacho N., Rawlings J.B., A candidate to replace PID control: Siso-constrained lq control, AIChE Journal, 51, pp. 1178-1189, (2005); 
+Park Y., Shamma J.S., Harmon T.C., A receding horizontal control algorithm for adaptive management of soil moisture and chemical levels during irrigation, Environmental Modelling & Software, 24, pp. 1112-1121, (2009); 
+Peters R., Evett S., Automation of a center pivot using the temperature-time-threshold method of irrigation scheduling, Journal of Irrigation and Drainage Engineering, 134, (2008); 
+Pinon S., Camacho E.F., Kuchen B., Pena M., Constrained predictive control of a greenhouse, Computers and Electronics in Agriculture, 49, pp. 317-329, (2005); 
+Rodriguez F., Guzman J.L., Berenguel M., Arahal M.R., Adaptive hierarchical control of greenhouse crop production, International Journal of Adaptive Control and Signal Processing, 22, pp. 180-197, (2008); 
+Romero R., (2011); 
+Romero R., Muriel J.L., Garcia I., Green S.R., Clothier B.E., Improving heat-pulse methods to extend the measurement range including reverse flows, Acta Horticulturae, 951, pp. 31-38, (2012); 
+Romero R., Muriel J.L., Garcia I., Automatic irrigation system in almonds and walnuts trees based on sap flow measurements, Acta Horticulturae (ISHS), 846, pp. 135-142, (2009); 
+Taylor S.A., Ashcroft G.L., Physical Edaphology: The Physics of Irrigated and Nonirrigated Soils, (1972); 
+Turral H., Burke J., Faures J.M., Climate Change, Water and Food Security, (2011); 
+(2008); 
+(2009); 
+Vanclooster M., Viaene P., Diels J., WAVE: A Mathematical Model for Simulating Water and Agrochemicals in the Soil and Vadose Environment: Reference and User's Manual (Release 2.0), (1994); 
+van Dam J.C., (2000); 
+van Dam J.C., Groenendijk P., Hendriks R.F.A., Kroes J.G., Advances of modeling water flow in variably saturated soils with SWAP, Vadose Zone Journal, 7, pp. 640-653, (2008); 
+van Diepen C.A., Wolf J., van Keulen H., Rappoldt C., WOFOST: a simulation model of crop production, Soil Use and Management, 5, pp. 16-24, (1989); 
+Xinjian X., Design of fuzzy drip irrigation control system based on ZigBee wireless sensor network. Computer and computing technologies in agriculture IV, IFIP Advances in Information and Communication Technology, 344, pp. 495-501, (2011); 
+Zhou Y., Yang X., Wang L., Ying Y., A wireless design of low-cost irrigation system using ZigBee technology, Proceedings of the 2009 International Conference on Networks Security, Wireless Communications and Trusted Computing - Volume 01 (NSWCTC '09), vol. 1, pp. 572-575, (2009); 
+Zhu L.Z., Li X., Study of automatic control system for irrigation, Advanced Materials Research, pp. 1463-1467, (2011)#FRF#

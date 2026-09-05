@@ -1,0 +1,37 @@
+#ITI#From State to user-based water allocations: An empirical analysis of institutions developed by agricultural user associations in France#FTI#
+#IRE#Regulating water use in agriculture in water stressed basins is a challenging task. Recent scholarship emphasises the need to combine strong State oversight for achieving the collective extraction caps with considerable leeway to users to allocate water according to local priorities. This form of “co-management” between the State and users aims to improve the implementation of sustainable extraction limits. This model was adopted in France where agricultural user groups share water resources within a capped allocation pool enforced by the State. This paper evaluates whether the allocation rules developed by user groups improve environmental, economic and social performance. A detailed survey was carried out amongst the 54 agricultural user groups created across France. Results suggest that the reform has led to greater awareness amongst irrigators of their water resources and the slow emergence of collective action. Allocation rules have been developed, reflecting local economic and social priorities, as well as the temporal and spatial dynamics of local surface and groundwater resources. Although challenges remain, the research presented in this paper supports co-management to manage agricultural water extraction, and discusses institutional design features that can facilitate its implementation. © 2020 Elsevier B.V.#FRE#
+#IPC#Collective action; Common property management; Drought; Regulation; Water scarcity#FPC#
+#IRF#Arnaud L., Conceptual approaches, methods and models used to assess abstraction limits for unconfined aquifers in France, Sustainable Groundwater Management., 24, pp. 211-227, (2020); 
+Blomquist W., Dividing the Waters: Governing Groundwater in Southern California, (1992); 
+Boone S., Fragaszy S., Emerging scarcity and emerging commons: water management groups and groundwater governance in Aotearoa New Zealand, Water Altern., 11, 3, (2018); 
+Bruns B.R., Ringler C., Meinzen-Dick R.S., Water Rights Reform: Lessons for Institutional Design, (2005); 
+Closas A., Molle F., Hernandez-Mora N., Sticks and carrots to manage groundwater over-abstraction in La Mancha, Spain. Agric. Water Manag., 194, pp. 113-124, (2017); 
+de Graaf I.E., Gleeson T., van Beek L.R., Sutanudjaja E.H., Bierkens M.F., Environmental flow limits to global groundwater pumping, Nature, 574, 7776, pp. 90-94, (2019); 
+Douez O., Du Peuty J.E., Leperq D., Montginoul M., Developing substitution resources as compensation for reduced groundwater entitlements : the case of the poitou marshes, Sustainable Groundwater Management., 24, (2020); 
+EEA (European Environmental Agency), Water Resources Across Europe — Confronting Water Scarcity and Drought. Report 2/2009, (2009); 
+Esteban E., Albiac J., The problem of sustainable groundwater management: the case of La Mancha aquifers, Spain. Hydrogeol. J., 20, 5, pp. 851-863, (2012); 
+Famiglietti J.S., The global groundwater crisis, Nat. Clim. Chang., 4, 11, pp. 945-948, (2014); 
+Figureau A.G., Montginoul M., Rinaudo J.D., Policy instruments for decentralized management of agricultural groundwater abstraction: a participatory evaluation, Ecol. Econ., 119, pp. 147-157, (2015); 
+Gruere G., Ashley C., Cadilhon J., Reforming water policies in agriculture: lessons from past reforms, OECD Publishing, Paris., (2018); 
+Hoffman C.M., Zellmer S., Assessing institutional ability to support adaptive integrated water resources management, Neb. Law Rev., 91, 4, pp. 805-865, (2013); 
+Holley C., Sinclair D., A new water policy option for Australia? Collaborative water governance, compliance and enforcement and audited self-management, Australas. Nat. Res. Law Policy, 17, 2, pp. 189-216, (2014); 
+Kiparsky M., Milman A., Owen D., Fisher A.T., The importance of institutional design for distributed local-level governance of groundwater: the case of California's Sustainable Groundwater Management Act, Water, 9, 10, (2017); 
+Lafitte J.J., Devos P., Portet P., Les Organismes Unique de Gestion Collective. Rapport n<sup>o</sup>006313-01 n°006313-01, (2006); 
+Lopez-Gunn E., Groundwater governance and social capital, Geoforum, 43, 6, pp. 1140-1151, (2012); 
+Lopez-Gunn E., Cortina L.M., Is self-regulation a myth? Case study on Spanish groundwater user associations and the role of higher-level authorities, Hydrogeol. J., 14, 3, pp. 361-379, (2006); 
+Loubier S., Polge M., Etude Sur Les Règlements Intérieurs des Organismes Uniques de Gestion Collective et Sur Les Critères d'allocation de La Ressource en Eau, (2016); 
+Molle F., Closas A., Comanagement of groundwater: a review, Wiley Interdiscip. Rev. Water, 7, 1, (2020); 
+Molle F., Closas A., Why is state‐centered groundwater governance largely ineffective? A review, Wiley Interdiscip. Rev. Water, 7, 1, (2020); 
+Montginoul M., Rinaudo J.D., Alcouffe C., Compliance and enforcement: the achille heel of French water policy, Sustainable Groundwater Management, 24, pp. 435-459, (2020); 
+OECD, Water Resources Allocation: Sharing Risks and Opportunities, (2015); 
+Ostrom E., Governing the Commons: The Evolution of Institutions for Collective Action, (1990); 
+Rinaudo J.D., Groundwater policy in France: from private to collective management, Sustainable Groundwater Management, 24, pp. 47-65, (2020); 
+Rinaudo J.D., Donoso G., State, market or community failure? Untangling the determinants of groundwater depletion in Copiapó (Chile), Int. J. Water. Resour. D, pp. 1-21, (2018); 
+Rinaudo J.D., Herivaux C., Quels Instruments Pour Une Gestion Collective Des Prélèvements Individuels En Eau Pour l'irrigation?, (2016); 
+Rinaudo J.D., Moreau C., Garin P., Et al., Social justice and groundwater allocation in agriculture: a French case study, Integrated Groundwater Management, (2016); 
+Schlager E., Lopez-Gunn E., Collective systems for water management: is the tragedy of the commons a myth, Water Crisis: Myth or Reality, 43-58, pp. 43-59, (2006); 
+Shalsi S., Ordens C.M., Curtis A., Simmons C.T., Can collective action address the “tragedy of the commons” in groundwater management? Insights from an Australian case study, Hydrogeol. J., 27, 7, pp. 2471-2483, (2019); 
+Skurray J.H., The scope for collective action in a large groundwater basin: an institutional analysis of aquifer governance in Western Australia, Ecol. Econ., 114, pp. 128-140, (2015); 
+Tang S.Y., Institutions and Collective Action: Self-Governance in Irrigation, (1992); 
+Wester P., Minero R.S., Hoogesteger J., Assessment of the development of aquifer management councils (COTAS) for sustainable groundwater management in Guanajuato, Mexico. Hydrogeol. J., 19, 4, pp. 889-899, (2011); 
+Young M.D., Designing water abstraction regimes for an ever-changing and ever-varying future, Agric. Water Manag., 145, pp. 32-38, (2014)#FRF#

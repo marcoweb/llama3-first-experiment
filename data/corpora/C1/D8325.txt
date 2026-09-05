@@ -1,0 +1,55 @@
+#ITI#Water footprints of bioethanol cropping systems in Uruguay#FTI#
+#IRE#Bioenergy is the most widely used type of renewable energy. However, an assessment of water consumption and pollution is necessary to determine the water demand of this energy source. The Uruguayan public policy to decarbonize energy sources highlighted the use of bioenergy. In this regard, we analyzed the water footprint (WF) of four bioethanol cropping systems: (1) maize-wheat-sorghum rotation without harvested crop residues (MWS), (2) maize-wheat-sorghum rotation with harvested crop residues (MWS-R), (3) continuous sweet sorghum (Ss), and (4) switchgrass (Sw). In order to assess the WF of bioethanol production, green (WFgreen) and gray (WFgray) components of crop production were calculated by considering the different volumes of water involved in evaporation, rainfall, and fertilizer pollution. Annual cropping systems (i.e., MWS, MWS-R, Ss) had the largest WFs (23.1–30.9 m3Lethanol−1). Switchgrass had the lowest values per hectare and per liter of ethanol (12,735 m3(ha yr)−1 and 3.8 m3Lethanol−1, respectively). The volume required to assimilate phosphorous (P) and nitrogen (N) fertilizers played a significant role in bioethanol cropping systems. In annual systems, WFgray was the main fraction (87%) of total WF (WFT). Averaged across all cropping systems, WFgray related to P was 13 times larger than WFgray related to N. © 2021 Elsevier B.V.#FRE#
+#IPC#Bioenergy; Gray water; Green water; Intensification; Soil erosion#FPC#
+#IRF#Allen R.G., Pereira L.S., Raes D., Smith M., Crop Evapotranspiration - Guidelines for Computing Crop Water Requirements-FAO Irrigation and Drainage Paper 56, (1998); 
+Berretta E., Risso D., Montossi F., Pigurina G., (2000); 
+Bocchiola D., Nana E., Soncini A., Impact of climate change scenarios on crop yield and water footprint of maize in the Po valley of Italy, Agric. Water Manag., 116, pp. 50-61, (2013); 
+Cai X., Zhang X., Wang D., Land availability for biofuel production, Environ. Sci. Technol., 45, pp. 334-339, (2011); 
+Chapagain A.K., Hoekstra A.Y., Savenije H.H.G., Gautam R., The water footprint of cotton consumption: an assessment of the impact of worldwide consumption of cotton products on the water resources in the cotton producing countries, Ecol. Econom., 60, pp. 186-203, (2006); 
+Chapagain A., Hoekstra A., Water footprints of nations, Value of Water Research Report Series, (2004); 
+Chukalla A.D., Krol M.S., Hoekstra A.Y., Green and blue water footprint reduction in irrigated agriculture: effect of irrigation techniques, irrigation strategies and mulching, Hydrol. Earth Syst. Sci., 19, pp. 4877-4891, (2015); 
+Custodio E., Llamas M.R., (1976); 
+David K., Ragauskas A.J., Switchgrass as an energy crop for biofuel production: a review of its ligno-cellulosic chemical properties, Energy Environ. Sci., 3, pp. 1235-1238, (2010); 
+(2014); 
+Dominguez-Faus R., Powers S.E., Burken J.G., Alvarez P.J., The water footprint of biofuels: a drink or drive issue?, Environ. Sci. Technol., 43, pp. 3005-3010, (2009); 
+Duran A., Garcia-Prechac F., Uruguayan soils: origin, classification, managment and conservation (Suelos del Uruguay: Origen, clasificación, manejo y conservación), (2007); 
+FAO, CROPWAT 8.0 Model, (2010); 
+Fargione J., Hill J., Tilman D., Polasky S., Hawthorne P., Land clearing and the biofuel carbon debt, Science, 319, pp. 1235-1238, (2008); 
+Foster G.R., McCool D.K., Renard K.G., Moldenhauer W.C., Conversion of the universal soil loss equation to SI metric units, J. Soil Water Conserv., 36, pp. 355-359, (1981); 
+Garcia-Prechac F., Hill M., Clerici C., Erosion 6 Software: Soil Erosion Estimation Model in Uruguay And Southern Region of the La Plata Basin (Erosión 6: modelo de estimación de erosión de suelos en Uruguay y región sur de la Cuenca del Plata), (2013); 
+Gelfand I., Sahajpal R., Zhang X., Izaurralde R.C., Gross K.L., Robertson G.P., Sustainable bioenergy production from marginal lands in the US Midwest, Nature, 493, pp. 514-517, (2013); 
+Gerbens-Leenes P., Bioenergy water footprints, comparing first, second and third generation feedstocks for bioenergy supply in 2040, Eur. Water, pp. 373-380, (2017); 
+Gerbens-Leenes P., Hoekstra A., van der Meer T., The water footprint of energy from biomass: a quantitative assessment and consequences of an increasing share of bio-energy in energy supply, Ecol. Econom., 68, pp. 1052-1060, (2009); 
+Gerbens-Leenes P.W., Green, blue and grey bioenergy water footprints, a comparison of feedstocks for bioenergy supply in 2040, Environ. Process, pp. 1-14, (2018); 
+Gerbens-Leenes W., Hoekstra A.Y., The water footprint of sweeteners and bio-ethanol, Environ. Int., pp. 202-211, (2012); 
+Gerbens-Leenes W., Hoekstra A.Y., van der Meer T.H., The water footprint of bioenergy, Proc. Natl. Acad. Sci. USA, 106, pp. 10219-10223, (2009); 
+Halvorsen K.E., Barnes J.R., Solomon B.D., Upper Midwestern USA ethanol potential from cellulosic materials, Soc. Nat. Resour., 22, pp. 931-938, (2009); 
+Herath I., Green S., Horne D., Singh R., Clothier B., Quantifying and reducing the water footprint of rain-fed potato production part II: a hydrological assessment using modelling supported by measurements, J. Clean. Prod., 81, pp. 103-110, (2014); 
+Hoekstra A.Y., Chapagain A.K., Mekonnen M.M., Aldaya M.M., The Water Footprint Assessment Manual: Setting the Global Standard, (2011); 
+Holmatov B., Hoekstra A.Y., Krol M.S., Land, water and carbon footprints of circular bioenergy production systems, Renew. Sustain. Energy Rev., 111, pp. 224-235, (2019); 
+IEA World Energy Outlook, (2017); 
+Ji X., Long X., A review of the ecological and socioeconomic effects of biofuel and energy policy recommendations, Renew. Sustain. Energy Rev., 61, pp. 41-52, (2016); 
+Khan M.N., Mohammad F., Eutrophication: challenges and solutions, Eutrophication: Causes, Consequences and Control, pp. 1-15, (2014); 
+Kottek M., Grieser J., Beck C., Rudolf B., Rubel F., World Map of the Köppen-Geiger climate classification updated, Meteorol. Z., 15, pp. 259-263, (2006); 
+Liu C., Kroeze C., Hoekstra A.Y., Gerbens-Leenes W., Past and future trends in grey water footprints of anthropogenic nitrogen and phosphorus inputs to major world rivers, Ecol. Indic., 18, pp. 42-49, (2012); 
+Lovarelli D., Bacenetti J., Fiala M., Water footprint of crop productions: a review, Sci. Total Environ., 548-549, pp. 236-251, (2016); 
+Ludena C.E., Ryfisch D., (2015); 
+Mathioudakis V., Gerbens-Leenes P., Van der Meer T., Hoekstra A., The water footprint of second-generation bioenergy: a comparison of biomass feedstocks and conversion techniques, J. Clean. Prod., 148, pp. 571-582, (2017); 
+Mekonnen M.M., Hoekstra A.Y., The green, blue and grey water footprint of crops and derived crop products, Hydrol. Earth Syst. Sci., 15, pp. 1577-1600, (2011); 
+Mekonnen M.M., Pahlow M., Aldaya M.M., Zarate E., Hoekstra A.Y., Sustainability, efficiency and equitability of water consumption and pollution in Latin America and the Caribbean, Sustainability, 7, pp. 2086-2112, (2015); 
+Mekonnen M.M., Hoekstra A.Y., Global gray water footprint and water pollution levels related to anthropogenic nitrogen loads to fresh water, Environ. Sci. Technol., (2015); 
+Morales M., Quintero J., Conejeros R., Aroca G., Life cycle assessment of lignocellulosic bioethanol: environmental impacts and energy balance, Renew. Sustain. Energy Rev., 42, pp. 1349-1361, (2015); 
+(1979); 
+Nunez M., Pfister S., Anton A., Munoz P., Hellweg S., Koehler A., Rieradevall J., Assessing the environmental impact of water consumption by energy crops grown in Spain, J. Ind. Ecol., 17, pp. 90-102, (2013); 
+R Core Team, R: A Language and Environment for Statistical Computing, (2013); 
+Scherer L., Pfister S., Modelling spatially explicit impacts from phosphorus emissions in agriculture, Int. J. Life Cycle Assess., 20, pp. 785-795, (2015); 
+Silva A., de Leon J., Garcia F., Duran A., Methodological Aspects in the Determination of the Water Retention Capacity of the Soils of Uruguay (Aspectos metodológicos en la determinación de la capacidad de retener agua de los suelos del Uruguay), (1988); 
+Siri-Prieto G., (2013); 
+Steduto P., Hsiao T.C., Raes D., Fereres E., AquaCrop–The FAO crop model to simulate yield response to water: I. Concepts and underlying principles, Agron. J., 101, pp. 426-437, (2009); 
+Su M.-H., Huang C.-H., Li W.-Y., Tso C.-T., Lur H.-S., Water footprint analysis of bioethanol energy crops in Taiwan, J. Clean. Prod, 88, pp. 132-138, (2015); 
+Tsakmakis I.D., Zoidou M., Gikas G.D., Sylaios G.K., Impact of irrigation technologies and strategies on cotton water footprint using aquaCrop and CROPWAT models, Environ. Process, 5, pp. 181-199, (2018); 
+Uruguay X.X., (2017); 
+USDA, Soil Taxonomy: A Basic System of Soil Classification for Making and Interpreting Soil Surveys, Agricultural Handbook, pp. 57-60, (1999); 
+Van Heerden P.S., Crosby C.T., Grove B., Benade N., Theron E., Schulze R.E., Tewolde M.H., Integrating and Upgrading of SAPWAT and PLANWAT to Create a Powerful and User-friendly Irrigation Water Planning Tool, (2008); 
+Wu M., Chiu Y., Demissie Y., Quantifying the regional water footprint of biofuel production by incorporating hydrologic modeling, Water Resour. Res., 48, pp. 1-11, (2012); 
+Zhong J., Yu T.E., Clark C.D., English B.C., Larson J.A., Cheng C.L., Effect of land use change for bioenergy production on feedstock cost and water quality, Appl. Energy, pp. 580-590, (2018)#FRF#

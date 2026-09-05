@@ -1,0 +1,45 @@
+#ITI#Irrigation, crop stress and drainage reduction under uncertainty: A scenario study#FTI#
+#IRE#Two thirds of human water use is linked to agricultural practices including crop irrigation. Furthermore, excess irrigation leads to drainage problems. For this reason, reduced irrigation strategies need to be implemented to protect water resources. However, low irrigation may lead to crop water stress. A fast and inexpensive way to predict the necessary amount of irrigation required is by a model-based approach. With this approach, it is possible to explore the relation between irrigation, crop water stress and drainage. However, parameter uncertainty can reduce prediction accuracy. Therefore, the aims of this research were: (1) to develop and test a methodology that allows the analysis of uncertainty sources in irrigation strategies (2) to identify how much irrigation can be reduced while maintaining a low risk of crop stress, and (3) to explore the influence of uncertainty in soil parameters and evapotranspiration on model predictions. Results from a realistic case considered in this study indicated that, while maintaining a low risk of crop stress (<1 %), it is possible to reduce drainage (by 88 %) and water use (22 %) for a conventional irrigation strategy. This reduction is dependent on the type of risk aversion strategy and is specific for a case scenario where variations are certain. © 2019 The Authors#FRE#
+#IPC#Evapotranspiration; Hydraulic conductivity; Monte Carlo; Richards equation; Uncertainty#FPC#
+#IRF#Allen R., Pereira L., Raes D., Smith M., Crop Evapotranspiration - Guidelines for Computing Crop Water Requirements, (1998); 
+Bahceci I., Nacar A.S., Subsurface drainage and salt leaching in irrigated land in south-east Turkey, Irrig. Drain., 58, pp. 346-356, (2009); 
+Basha H.A., Multidimensional linearized nonsteady infiltration with prescribed boundary conditions at the soil surface, Water Resour. Res., 35, pp. 75-83, (1999); 
+Council of the European Union, Protection of Groundwater Against Pollution and Deterioration C/06/294, (2006); 
+Council of the European Union, Article 17 of Directive 2000/60/EC of the Council of 23 October 2000 Establishing a Framework for Community Action in the Field of Water Policy, (2000); 
+Darcy H.P.C., Les Fontaines Publiques De La Ville De Dijon, (1856); 
+FAO, AQUASTAT Main Database, (2016); 
+Gholamhoseini M., AghaAlikhani M., Modarres Sanavy S.A.M., Mirlatifi S.M., Interactions of irrigation, weed and nitrogen on corn yield, nitrogen use efficiency and nitrate leaching, Agric. Water Manag., 126, pp. 9-18, (2013); 
+Hack-ten Broeke M.J.D., Irrigation management for optimizing crop production and nitrate leaching on grassland, Agric. Water Manag., 49, pp. 97-114, (2001); 
+Heinen M., FUSSIM2: brief description of the simulation model and application to fertigation scenarios, Agronomie, 21, pp. 285-296, (2001); 
+Heinen M., Assinck F., Voogt W., Zwinkels F., Balendonck J., Ontwikkeling Emissiemanagementsysteem Grondgebonden Teelt; Modellen. Alterra-rapport 2369, (2012); 
+Heinen M., Willigen P., FUSSIM2. A two-dimensional simulation model for water flow, solute transport, and root uptake of water and nutrients in partly unsaturated porous media, Quantitative Approaches in Systems Analysis No. 20, (1998); 
+Hu Q., Yang Y., Han S., Yang Y., Ai Z., Wang J., Ma F., Identifying changes in irrigation return flow with gradually intensified water-saving technology using HYDRUS for regional water resources management, Agric. Water Manag., 194, pp. 33-47, (2017); 
+Leith J.H., Burger D.W., Growth of chrysanthemum using an irrigation system controlled by soil moisture tension, J. Am. Soc. Hortic. Sci., 114, pp. 387-392, (1989); 
+Jawaharlal D., Srinivasulu M., Manoj Kumar G., Manohar Rao A., Crop production function for Chrysanthemum crop under drip irrigation system, Int.J.Curr.Microbiol.App.Sci., 6, pp. 2340-2346, (2017); 
+Jensen L.S., Mueller T., Nielsen N.E., Hansen S., Crocker G.J., Grace P.R., Klir J., Korschens M., Poulton P.R., Simulating trends in soil organic carbon in long-term experiments using the soil-plant-atmosphere model DAISY, Geoderma, 81, pp. 5-28, (1997); 
+Jain S.K., Sudheer K.P., Fitting of hydrologic models: a close look at the nash–sutcliffe index, J. Hydrol. Eng., 13, pp. 981-986, (2008); 
+Kaoutar F., Hirich A., Ouafae B., Choukr-Allah R., Ragab R., Yield and dry matter simulation using the saltmed model for five quinoa (Chenopodium quinoa) accessions under deficit irrigation in South Morocco, Irrig. Drain., 66, 3, pp. 340-350, (2017); 
+Kiehl P.A., Lieth J.H., Burger D.W., Growth response of Chrysanthemum to various container medium moisture tension levels, J. Am. Soc. Hortic. Sci. jashs, 117, pp. 224-229, (1992); 
+Krause P., Boyle D.P., Base F., Comparison of different efficiency criteria for hydrological model assessment, Adv. Geosci., 5, pp. 89-97, (2005); 
+Kroes J.G., Dam J.C., Bartholomeus R.P., Groenendijk P., Heinen M., Hendriks R.F.A., Mulder H.M., Supit I., Walsum P.E.V.V., SWAP version 4. Theory description and user manual, Report 2780, (2017); 
+Ma Y., Feng S., Huo Z., Song X., Application of the SWAP model to simulate the field water cycle under deficit irrigation in Beijing, China. Math. Comput. Model., 54, pp. 1044-1052, (2011); 
+Malone R.W., Huth N., Carberry P.S., Ma L., Kaspar T.C., Karlen D.L., Meade T., Kanwar R.S., Heilman P., Evaluating and predicting agricultural management effects under tile drainage using modified APSIM, Geoderma, 140, pp. 310-322, (2007); 
+Molz F.J., Models of water transport in the soil-plant system: a review, Water Resour. Res., 17, pp. 1245-1260, (1981); 
+Mualem Y., A new model for predicting the hydraulic conductivity of unsaturated porous media, Water Resour. Res., 12, pp. 513-522, (1976); 
+Mun S., Sassenrath G.F., Schmidt A.M., Lee N., Wadsworth M.C., Rice B., Corbitt J.Q., Schneider J.M., Tagert M.L., Pote J., Prabhu R., Uncertainty analysis of an irrigation scheduling model for water management in crop production, Agric. Water Manag., 155, pp. 100-112, (2015); 
+Nash J.E., Sutcliffe J.V., River flow forecasting through conceptual models part I — a discussion of principles, J. Hydrol., 10, pp. 282-290, (1970); 
+Netzer Y., Yao C., Shenker M., Bravdo B.-A., Schwartz A., Water use and the development of seasonal crop coefficients for Superior Seedless grapevines trained to an open-gable trellis system, Irrig. Sci., 27, pp. 109-120, (2009); 
+Pinto V.M., Reichardt K., van Dam J., de Jong van L.Q., Bruno I.P., Durigon A., Dourado-Neto D., Bortolotto R.P., Deep drainage modeling for a fertigated coffee plantation in the Brazilian savanna, Agric. Water Manag., 148, pp. 130-140, (2015); 
+Prats A.G., Pico S.G., Performance evaluation and uncertainty measurement in irrigation scheduling soil water-balance approach, J. Irrig. Drain. Eng., 136, pp. 732-743, (2010); 
+Qin W., Heinen M., Assinck F.B.T., Oenema O., Exploring optimal fertigation strategies for orange production, using soil–crop modelling, Agric. Ecosyst. Environ., 223, pp. 31-40, (2016); 
+Ragab R., A holistic generic integrated approach for irrigation, crop and field management: the SALTMED model, Environ. Model. Softw., 17, pp. 345-361, (2002); 
+Richards L.A., Capillary conduction of liquids through porous mediums, J. Appl. Phys., 1, pp. 318-333, (1931); 
+Srivastava R., Yeh T.C.J., Analytical solutions for one dimensional, transient infiltration toward the water table in homogeneous and layered soils, Water Resour. Res., 27, pp. 753-762, (1991); 
+Sun H., Su Z., Lv J., Li L., Wang Y., Dynamic drought risk assessment using crop model and remote sensing techniques, IOP Conf. Ser. Earth Environ. Sci., 57, (2017); 
+Turan A., Ucar Y., Kazaz S., Effects of different irrigation treatments on quality parameters of cut chrysanthemum, Sci. Pap. - Ser. B, Hortic., pp. 419-426, (2015); 
+Van Genuchten M., A closed-form equation for predicting the hydraulic conductivity of unsaturated Soils1, Soil Sci. Soc. Am. J., (1980); 
+Voogt W., Kipp J.A., de Graaf R., Spaans L., A fertigation model for glasshouse crops grown in soil, Acta Horticulturae, pp. 495-502, (2000); 
+Voogt W., van Winkel A., Steinbuch F., Evaluation of the fertigation model, a decision support system for water and nutrient supply for soil grown greenhouse crops, Acta Horticulturae, pp. 531-538, (2006); 
+Voogt W., Zwinkels F., Balendonck J., Dorland H., Winkel A., Heinen M., Ontwikkeling Emissiemanagementsysteem Grondgebonden Teelt; De Lysimeter En Drainmeter, Rapporten GTB : 1190, (2012); 
+Whalley W.R., Watts C.W., Hilhorst M.A., Bird N.R.A., Balendonck J., Longstaff D.J., The design of porous material sensors to measure the matric potential of water in soil, Eur. J. Soil Sci., 52, pp. 511-519, (2001); 
+Willmott C.J., Some comments on the evaluation of model performance, Bull. Am. Meteorol. Soc., 63, pp. 1309-1313, (1982)#FRF#

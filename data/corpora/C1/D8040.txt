@@ -1,0 +1,53 @@
+#ITI#Hydroponic production of ‘Biquinho’ pepper with brackish water#FTI#
+#IRE#In order to generate information about the potential of ‘Biquinho’ pepper as an alternative crop for regions with limited supply of freshwater but with availability of brackish water, such as the semiarid region, a study was carried out with this crop grown in NFT (Nutrient Film Technique) hydroponic system for 120 days after transplanting (DAT). The experiment used nutrient solution prepared in water from the local municipal supply system (electrical conductivity of water –ECw = 0.34 dS m−1) and six other brackish waters prepared artificially by the addition of NaCl, with electrical conductivity of the nutrient solution -ECsol: 2.70 (control), 3.64, 4.58, 5.28, 6.09, 6.90 and 7.77 dS m−1, composing seven treatments repeated six times in randomized blocks. Fruit yield, salt tolerance and yield earliness index were evaluated. The yield of ‘Biquinho’ pepper cultivated in NFT hydroponic system, without restriction of salinity, was 2.87 kg per plant, corresponding to 46.1 Mg ha−1, considering an estimated area of 0.62 m2 per plant. A plateau followed by exponential decay model was fitted to determine the threshold salinity of ‘Biquinho’ pepper, which was 5.22 dS m−1 in the nutrient solution, corresponding to the relative potential yield. Salinity reduced the yield earliness index of ‘Biquinho’ pepper. © 2020 Elsevier B.V.#FRE#
+#IPC#Capsicum chinense; Salinity; Salt tolerance; Soilless culture#FPC#
+#IRF#AlHarbi A.R., Saleh A.M., Al-Omran A.M., Wahb-Allah M.A., Response of bell-pepper (Capsicum annuum L.) to salt stress and deficit irrigation strategy under greenhouse conditions, Acta Hortic., 1034, pp. 443-450, (2014); 
+Andrade Junior V.C., Pedrosa C.E., Miranda T.G., Valadares N.R., Pereira S.L., Azevedo A.M., Biometric evaluation of morpho-agronomic traits in pepper lines and hybrids, Hortic. Bras., 36, pp. 357-361, (2018); 
+Ayers R.S., Westcot D.W., A Qualidade da Água na Agricultura, (1999); 
+Azuma R., Ito N., Nakayama N., Suwa R., Nguyen N.T., Larrinaga-Mayoral J.A., Esaka M., Fujiyama H., Saneoka H., Fruits are more sensitive to salinity than leaves and stems in pepper plants (Capsicum annuum L.), Sci. Hortic., 125, pp. 171-178, (2010); 
+Baath G.S., Shukla M.K., Bosland P.W., Steiner R.L., Walker S.J., Irrigation water salinity influences at various growth stages of Capsicum annuum, Agric. Water Manag., 179, pp. 246-253, (2017); 
+Baenas N., Belovic M., Ilic N., Moreno D.A., Garcia-Viguera C., Industrial use of pepper (Capsicum annuum L.) derived products: Technological benefits and biological advantages, Food Chem., 274, pp. 872-885, (2019); 
+Bales C., Kovalsky P., Fletcher J., Waite T.D., Low cost desalination of brackish groundwaters by Capacitive Deionization (CDI) – implications for irrigated agriculture, Desalination, 453, pp. 37-53, (2019); 
+Barroca M.V., Bonomo R., Fernandes A.A., Souza J.M., Lâminas de irrigação nos componentes de produção das pimentas ‘De cheiro’ e ‘Dedo-de-Moça, Rev. Agro Mbiente On-line, 9, (2015); 
+Bojorquez-Quintal E., Velarde-Buendia A., Ku-Gonzalez A., Carillo-Pech M., Ortega-Camacho D., Echevarria-Machado I., Pottosin I., Martinez-Estevez M., Mechanisms of salt tolerance in habanero pepper plants (Capsicum chinense Jacq.): proline accumulation, ions dynamics and sodium root-shoot partition and compartmentation, Front. Plant Sci., 5, pp. 1-14, (2014); 
+Butcher K., Wick A.F., DeSutter T., Chatterjee A., Harmon J., Corn and soybean yield response to salinity influenced by soil texture, Agron. J., 110, pp. 1243-1253, (2018); 
+Cova A.M.W., Freitas F.T.O., Viana P.C., Rafael M.R.S., Neto A.D.D.A., Soares T.M., Content of inorganic solutes in lettuce grown with brackish water in different hydroponic systems, Rev. Bras. Eng. Agríc. Ambient., 21, pp. 150-155, (2017); 
+Delaide B., Teerlinck S., Decombel A., Bleyaert P., Effect of wastewater from a pikeperch (Sander lucioperca L.) recirculated aquaculture system on hydroponic tomato production and quality, Agric. Water Manag., 226, (2019); 
+Dias N.S., Diniz A.A., Morais P.L.D., Pereira G.S., Sa F.V.S., Souza B.G.A., Cavalcante L.F., Ferreira Neto M., Yield and quality of cherry tomato fruits in hydroponic cultivation, Biosci. J., 35, pp. 1470-1477, (2019); 
+Domenico C.I., Coutinho J.P., Godoy H.T., Melo A.M., Caracterização agronômica e pungência em pimenta de cheiro, Hortic. Bras., 30, pp. 466-472, (2012); 
+Fioravanco J.C., Precocidade de produção de cultivares de macieira sobre dois porta-enxertos, Rev. Bras. Frutic., 37, pp. 676-684, (2015); 
+Goncalves V.D., Muller D.H., Fava C.L.F., Camili E.C., Maturação fisiológica de sementes de pimenta “bode vermelha”, Rev. Caatinga, 28, pp. 137-146, (2015); 
+Heinrich A.G., Ferraz R.M., Ragassi C.F., Reifschneider F.J., Caracterização e avaliação de progênies autofecundadas de pimenta biquinho salmão, Hortic. Bras., 33, pp. 465-470, (2015); 
+(2017); 
+Jaimez R.E., Vielma O., Rada F., Garcia-Nunez C., Effects of water deficit on the dynamics of flowering and fruit production in Capsicum chinense jacq in a tropical semiarid region of Venezuela, J. Agron. Crop Sci., 185, pp. 113-119, (2000); 
+Jin E., Cao L., Xiang S., Zhou W., Ruan R., Liu Y., Feasibility of using pretreated swine wastewater for production of water spinach (Ipomoea aquatic Forsk.) in a hydroponic system, Agric. Water Manag., 228, (2020); 
+Leal L.Y.C., Souza E.R., Santos J.H.S., Santos M.A., Comparison of soil and hydroponic cultivation systems for spinach irrigated with brackish water, Sci. Hortic., 274, (2020); 
+Lima N.D.S., Silva E.F.F., Menezes D., Camara T.R., Willadino L.G., Fruit yield and nutritional characteristics of sweet pepper grown under salt stress in hydroponic system, Rev. Caatinga, 31, pp. 297-305, (2018); 
+Lopez-Lopez R., Inzunza-Ibarra M.A., Sanchez-Cohen I., Fierro-Alvarez A., Sifuentes-Ibarra E., Water use efficiency and productivity of habanero pepper (Capsicum chinense Jacq.) based on two transplanting dates, Water Sci. Technol., 71, pp. 885-891, (2015); 
+Maas E.V., Salt tolerance of plants, The Handbook of Plant Science in Agriculture, (1984); 
+Maas E.V., Hoffman G.J., Crop salt tolerance - current assessment, J. Irrig. Drain. Div., 103, pp. 115-134, (1977); 
+Minhas P.S., Ramos T.B., Ben-Gal A., Pereira L.S., Coping with salinity in irrigated agriculture: crop evapotranspiration and water management issues, Agric. Water Manag., 227, (2020); 
+Modesto F.J.N., Santos M.A.C.M., Soares T.M., Santos E.P.M., Crescimento, produção e consumo hídrico do quiabeiro submetido à salinidade em condições hidropônicas, Irriga, 24, pp. 86-97, (2019); 
+Navarro J.M., Garrido C., Flores P., Martinez V., The effect of salinity on yield and fruit quality of pepper grown in perlite, Span. J. Agric. Res., 8, (2010); 
+Nayar K.G., Lienhard V., Brackish water desalination for greenhouse agriculture: comparing the costs of RO, CCRO, EDR, and monovalent-selective EDR, Desalination, 475, (2020); 
+Niu G., Rodriguez D.S., Call E., Bosland P.W., Ulery A., Acosta E., Responses of eight chile peppers to saline water irrigation, Sci. Hortic., 126, pp. 215-222, (2010); 
+Penella C., Nebauer S.G., Lopez-Galarza S., SanBautista A., Gorbe E., Calatayud A., Evaluation for salt stress tolerance of pepper genotypes to be used as rootstocks, J. Food, Agric. Environ., 11, pp. 1101-1107, (2013); 
+Rameeh V., Gerami M., Soil salinity effects on phenological traits, plant height and seed yield in rapeseed genotypes, Soil Sci. Annu., 66, pp. 17-20, (2015); 
+Rameshwaran P., Tepe A., Yazar A., Ragab R., The effect of saline irrigation water on the yield of pepper: experimental and modelling study, J. Irrig. Drain., 64, pp. 41-49, (2015); 
+Rameshwaran P., Tepe A., Yazar A., Ragab R., Effects of drip-irrigation regimes with saline water on pepper productivity and soil salinity under greenhouse conditions, Sci. Hortic., 199, pp. 114-123, (2016); 
+Romdhane L., Dal Cortivo C., Vamerali T., Radhouane L., Effects of drought and salinity on maize phenology, morphology and productivity in a semi-arid environment, Ital. J. Agrometeorol., 21, pp. 43-54, (2016); 
+Rufino J.L.S., Penteado D.C.S., Importância econômica, perspectivas e potencialidades do mercado para pimenta, Inf. Agropec, 27, pp. 7-15, (2006); 
+Sa F.V.S., Souto L.S., Paiva E.P., Torres S.B., Oliveira F.A., Initial development and tolerance of pepper species to salinity stress, Rev. Caatinga, 32, pp. 826-833, (2019); 
+Santos A.C., Silva M.G., Boechat C.L., Chagas D.S., Mendes W.S., Brackish water: an option for producing hydroponic Capsicum annuum in laminar flows of mineral nutrients, Rev. Colomb. Cienc. Hortíc., 12, pp. 147-155, (2018); 
+Shahid S.A., Zaman M., Heng L., pp. 1-42, (2018); 
+Shannon M.C., Grieve C.M., Tolerance of vegetable crops to salinity, Sci. Hortic., 78, pp. 5-38, (1998); 
+Silva M.G., Oliveira I.S., Soares T.M., Gheyi H.R., Santana G.O., Pinho J.S., Growth, production and water consumption of coriander in hydroponic system using brackish waters, Rev. Bras. Eng. Agríc. Ambient., 22, pp. 547-552, (2018); 
+Silva W.P., Silva C.M.D.P.S., Cavalcanti C.G.B., Silva D.D.P.S., Soares I.B., Oliveira J.A.S., Silva C.D.P.S., ‘LAB Fit ajuste de curvas’: um software em português para tratamento de dados experimentais, Rev. Bras. Ensino De Fís., 26, pp. 419-427, (2004); 
+Sonneveld C., La nutrición mineral y salinidad en los cultivos sin suelo: su manejo, Tratado de Cultivo Sin Suelo, pp. 305-367, (2004); 
+Sonneveld C., Straver N., Nutrient Solutions for Vegetebles and Flowers Grown in Water or Substrates, (1994); 
+Steppuhn H., van Genuchten M.T., Grieve C.M., Root-zone salinity, Crop Sci., 45, (2005); 
+Thapa R., Wick A., Chatterjee A., Response of spring wheat to sulfate-based salinity stress under greenhouse and field conditions, Agron. J., 109, pp. 442-454, (2017); 
+Unlukara A., Kurunc A., Cemek B., Green long pepper growth under different saline and water regime conditions and usability of water consumption in plant salt tolerance, Tar. Bil. Derg., 21, pp. 167-176, (2015); 
+Urrea-Lopez R., Garza R.I.D., Valiente-Banuet J.I., Effects of substrate salinity and nutrient levels on physiological response, yield, and fruit quality of ‘Habanero’ pepper, HortScience, 49, pp. 812-818, (2014); 
+Yasuor H., Tamir G., Stein A., Cohen S., Bar-Tal A., Ben-Gal A., Yermiyahu U., Does water salinity affect pepper plant response to nitrogen fertigation?, Agric. Water Manag., 191, pp. 57-66, (2017); 
+Zamljen T., Zupanc V., Slatnar A., Influence of irrigation on yield and primary and secondary metabolites in two chilies species, Capsicum annuum L. and Capsicum chinense Jacq, Agric. Water Manag., 234, (2020)#FRF#

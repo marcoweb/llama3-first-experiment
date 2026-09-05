@@ -1,0 +1,38 @@
+#ITI#Evaluation of long-term climate change impact on the growing season and water use of mature pecan in Lower Rio Grande Valley#FTI#
+#IRE#Pecan is a major crop in the Lower Rio Grande Valley (LRGV), New Mexico. New Mexico is currently the largest pecan producer in the United States. Pecan is also considered a major water user which can consume as much as 1200–1300 mm of water during the growing season. Climate change can have significant potential impact on the water requirement of pecan as well as its productivity and cost of production. This study evaluates the climate change effects on the duration of growing season (DGS) and water requirement of pecan in LRGV over the period of 1901–2019. Temperature data for the study period was used to identify the DGS. Hargreaves–Samani model was used to calculate reference evapotranspiration (ET0). Daily crop coefficient (Kc) over the study period was calculated using a developed regression model relating growing season Kc to cumulative growing degree days (GDD). The Mann-Kendall and Sen's methods were applied to determine if there was a significant positive or negative trend in the DGS, ET0, and actual evapotranspiration (ETa). Statistical results showed a decreasing trend in the DGS over 1901–1950 whereas an increasing trend in the DGS was detected for the period of 1950–2019. Like the DGS variations, decreasing and increasing trends for both seasonal ET0 and ETa were observed for the first 50 years and the rest of the period with 99% confidence level, respectively. Results showed an increase of 124 mm in seasonal ETa between 1950 and 2019. The study showed that climate change effects in LRGV have been occurring for the study period, continuous increases in both DGS and ETa may bring changes in crop water requirement, and economics of pecan production as well as other horticultural challenges such as insufficient chill period for flowering, increased vivipary, and delayed or prolonged harvest. © 2021 Elsevier B.V.#FRE#
+#IPC#Actual evapotranspiration; Duration of growing season; Reference evapotranspiration#FPC#
+#IRF#Allen R.G., Pereira L.S., Raes D., Smith M., Crop Evapotranspiration: Guidelines for Computing Crop Water Requirements, (1998); 
+Impacts of A Warming Arctic: Arctic Climate Impact Assessment, (2004); 
+Bandyopadhyay B., Bhadra A., Raghuwnshi N.S., Singh R., Temporal trends in estimates of reference evapotranspiration over India, J. Hydrol. Eng., 14, pp. 508-515, (2009); 
+Chandler W.H., Deciduous Orchards, (1942); 
+Chavarria S.B., Gutzler D.S., Observed changes in climate and streamflow in the Upper Rio Grande Basin, J. Am. Water Resour. Assoc., 54, pp. 644-659, (2018); 
+Fan J., Wu L., Zhang F., Xiang Y., Zheng J., Climate change effects on reference crop evapotranspiration across different climatic zones of China during 1956–2015, J. Hydrol., 542, pp. 923-937, (2016); 
+Gocic M., Trajkovic S., Analysis of changes in meteorological variables using Mann-Kendall and Sen's slope estimator statistical tests in Serbia, Glob. Planet. Change, 100, pp. 172-182, (2013); 
+Hargreaves G.H., Samani Z.A., Reference crop evapotranspiration from temperature, Appl. Eng. Agric., 1, pp. 96-99, (1985); 
+Huo Z.L., Dai X.Q., Feng S.Y., Kang S.Z., Huang G.H., Effect of climate change on reference evapotranspiration and aridity index in arid region of China, J. Hydrol., 492, pp. 24-34, (2013); 
+Hurd B.H., Coonrod J., Hydro-economic consequences of climate change in the upper Rio Grande, Clim. Res., 53, pp. 103-118, (2012); 
+Kendall M.G., Rank Correlation Methods, (1975); 
+Li M., Chu R., Shen S., Islam A.R.M.T., Quantifying climatic impact on reference evapotranspiration trends in the Huai river basin of Eastern China, Water, 10, (2018); 
+Linderholm H.W., Growing season changes in the last century, Agric. For. Meteorol., 137, pp. 1-14, (2006); 
+Luedeling E., Zhang M., Girvetz E.H., Climatic changes lead to declining winter chill for fruit and nut trees in California during 1950–2099, PLoS One, 4, (2009); 
+Mann H.B., Nonparametric tests against trend, Econometrica, 13, pp. 245-259, (1945); 
+Miyamoto S., Consumptive water use of irrigated pecans, J. Am. Soc. Hortic. Sci., 108, 5, pp. 676-681, (1983); 
+Mokari E., Shukla M.K., Simunek J., Fernandez J.L., Numerical modeling of nitrate in a flood-irrigated Pecan Orchard, Soil Sci. Soc. Am. J., 83, pp. 555-564, (2019); 
+Niiler E., (2019); 
+Nouri M., Bannayan M., Spatiotemporal changes in aridity index and reference evapotranspiration over semi-arid and humid regions of Iran: trend, cause, and sensitivity analyses, Theor. Appl. Clim., 136, pp. 1073-1084, (2018); 
+(2017); 
+Pessarakli M., Handbook of plant and crop physiology, Evaluating and Managing Crops Water Requirement, (2014); 
+Samani Z., Bawazir S., Using remote sensing to evaluate the spatial variability of evapotranspiration and crop coefficient in the lower Rio Grande Valley, New Mexico, Irrig. Sci., 28, pp. 93-100, (2009); 
+Samani Z., Bawazir S., Skaggs R., Longworth J., Pinon A., Tran V., A simple irrigation scheduling approach for pecans, Agric. Water Manag., 98, pp. 661-664, (2011); 
+Sammis T.W., Mexal J.G., Miller D., Evapotranspiration of flood irrigated pecans, J. Agric. Water Manag., 69, 3, pp. 179-190, (2004); 
+Sen P.K., Estimates of the Regression Coefficient Based on Kendall's Tau, J. Am. Stat. Assoc., 63, pp. 1379-1389, (1968); 
+Song X., Zhu K., Lu F., Xiao W., Spatial and temporal variation of reference evapotranspiration under climate change: a case study in the Sanjiang Plain, Northeast China, Hydrol. Res., 49, (2017); 
+Tabari H., Evaluation of reference crop evapotranspiration equations in various climates, Water Resour. Manag., 24, pp. 2311-2337, (2010); 
+Tabari H., Marofi S., Changes of pan evaporation in the west of Iran, Water Resour. Manag., 25, pp. 97-111, (2010); 
+(2020); 
+Vegis A., pp. 168-298, (1961); 
+Ward F.A., Mayer A.S., Garnica L.A., Townsend N.T., Gutzler D.S., The economics of aquifer protection plans under climate-water stress: new insights from hydroeconomic modeling, J. Hydrol., 576, pp. 667-684, (2019); 
+Willmott C.J., On the validation of models, Phys. Geogr., 2, pp. 184-194, (1981); 
+Zhang K.X., Pan S.M., Zhang W., Xu Y.H., Cao L.G., Hao Y.P., Wang Y., Influence of climate change on reference evapotranspiration and aridity index and their temporal-spatial variations in the Yellow River Basin, China, from 1961 to 2012, Quat. Int., 380-381, 4, pp. 75-82, (2015); 
+Zhang L., Traore S., Cui Y., Luo Y., Zhu G., Liu B., Fipps G., Karthikeyan R., Singh V., Assessment of spatiotemporal variability of reference evapotranspiration and controlling climate factors over decades in China using geospatial techniques, Agric. Water Manag., (2019); 
+Zhang X., Kang S., Zhang L., Liu J., Spatial variation of climatology monthly crop reference evapotranspiration and sensitivity coefficients in Shiyang river basin of northwest China, Agric. Water Manag., 97, pp. 1506-1516, (2010)#FRF#

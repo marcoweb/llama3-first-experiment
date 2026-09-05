@@ -1,0 +1,55 @@
+#ITI#Seasonal water quality changes in on-farm water storage systems in a south-central U.S. agricultural watershed#FTI#
+#IRE#The objective of this study was to investigate the ability of on-farm water storage (OFWS) systems to mitigate off-site nutrient movement in a south-central U.S. agricultural watershed. We examined the seasonal water quality changes in an OFWS system by measuring several physical and chemical constituents at multiple sampling points throughout the system. Water quality sampling occurred every three weeks during the growing season and every six weeks during the dormant season from February 2012 to December 2014. The collected data were grouped into four seasons and then analyzed using boxplots along with the Wilcoxon and Kruskal-Wallis rank-sum tests for detecting changes in nutrient concentrations. Significant water quality changes were observed in the OFWS system by season and nutrient species, indicating a variation in downstream nutrient reduction with season. The in-ditch median removal efficiency, from the center of the tailwater recovery ditch to the outlet, was 54% during winter and 50% during spring for NO3-N; 60% during spring for NH3-N; 26% during autumn and 65% during winter for ortho-P; and 31% during winter and 10% during spring for TP. The in-pond median concentration removal efficiency was ∼77% during summer for NO3-N, while the concentration remained stable during winter, spring and autumn; 53% from winter to spring and 58% from spring to summer for NH3-N; 70% from winter to spring for ortho-P, while remaining stable during the other seasons; and 28% from winter to spring and 55% from spring to summer for TP. Our results support the hypothesis that OFWS systems could mitigate downstream nutrient-enrichment pollution, especially during spring. The results obtained from this study offer a better insight into the behavior of OFWS systems and help enhance the management of agroecosystems from an ecological and hydrological perspective for water quality pollution control and water resource conservation. © 2017 Elsevier B.V.#FRE#
+#IPC#Agricultural runoff; BMP; Nutrient reduction; On-farm water storage systems; Tailwater recovery ditch#FPC#
+#IRF#Ahiablame L., Chaubey I., Smith D., Nutrient content at the sediment-water interface of tile-fed agricultural drainage ditches, Water, 2, 3, pp. 411-428, (2010); 
+Bernot M.J., Dodds W.K., Nitrogen retention, removal, and saturation in lotic ecosystems, Ecosystems, 8, 4, pp. 442-453, (2005); 
+Bernot M.J., Tank J.L., Royer T.V., David M.B., Nutrient uptake in streams draining agricultural catchments of the midwestern United States, Freshwater Biol., 51, 3, pp. 499-509, (2006); 
+Carpenter S.R., Caraco N.F., Correll D.L., Howarth R.W., Sharpley A.N., Smith V.H., Nonpoint pollution of surface waters with phosphorus and nitrogen, Ecol. Appl., 8, 3, pp. 559-568, (1998); 
+Carruth G.W., Paz J.O., Tagert M.L., Guzman S.M., Oldham J.L., Reusing irrigation water from tailwater recovery systems: implications on field and stream-level nutrient status, ASABE Paper: 141913747, (2014); 
+David M.B., Wall L.G., Royer T.V., Tank J.L., Denitrification and the nitrogen budget of a reservoir in an agricultural landscape, Ecol. Appl., 16, 6, pp. 2177-2190, (2006); 
+Dodds W.K., Priscu J.C., Ellis B.K., Seasonal uptake and regeneration of inorganic nitrogen and phosphorus in a large oligotrophic lake: size-fractionation and antibiotic treatment, J. Plankton Res., 13, 6, pp. 1339-1358, (1991); 
+Dollinger J., Dages C., Bailly J.S., Lagacherie P., Voltz M., Managing ditches for agroecological engineering of landscape. A review, Agron. Sustainable Dev., pp. 1-22, (2015); 
+FAO, Food and Agriculture Organization of the United Nations, (2015); 
+Fink D.F., Mitsch W.J., Hydrology and nutrient biogeochemistry in a created river diversion oxbow wetland, Ecol. Eng., 30, 2, pp. 93-102, (2007); 
+Fu D., Gong W., Xu Y., Singh R.P., Surampalli R.Y., Zhang T.C., Nutrient mitigation capacity of agricultural drainage ditches in Tai lake basin, Ecol. Eng., 71, pp. 101-107, (2014); 
+Helsel D.R., Statistics for Censored Environmental Data Using Minitab<sup>®</sup> and R, (2012); 
+Herzon I., Helenius J., Agricultural drainage ditches, their biological importance and functioning, Biol. Conserv., 141, 5, pp. 1171-1183, (2008); 
+Hollinger E., Cornish P.S., Baginska B., Mann R., Kuczera G., Farm-scale stormwater losses of sediment and nutrients from a market garden near Sydney, Australia, Agric. Water Manage., 47, 3, pp. 227-241, (2001); 
+Jordan S.J., Stoffer J., Nestlerode J.A., Wetlands as sinks for reactive nitrogen at continental and global scales: a meta-analysis, Ecosystems, 14, 1, pp. 144-155, (2011); 
+Kebede H., Fisher D.K., Sui R., Reddy K.N., Irrigation methods and scheduling in the delta region of Mississippi: current status and strategies to improve irrigation efficiency, Am. J. Plant Sci., 5, 20, (2014); 
+Kroger R., Holland M.M., Moore M.T., Cooper C.M., Agricultural drainage ditches mitigate phosphorus loads as a function of hydrological variability, J. Environ. Qual., 37, 1, pp. 107-113, (2008); 
+Kruskal W.H., Wallis W.A., Use of ranks in one-criterion variance analysis, J. Am. Stat. Assoc., 47, 260, pp. 583-621, (1952); 
+Lillebo A.I., Morais M., Guilherme P., Fonseca R., Serafim A., Neves R., Nutrient dynamics in Mediterranean temporary streams: a case study in Pardiela catchment (Degebe River, Portugal), Limnologica-Ecol. Manage. Inland Waters, 37, 4, pp. 337-348, (2007); 
+Littlejohn K.A., Poganski B.H., Kroger R., Ramirez-Avila J.J., Effectiveness of low-grade weirs for nutrient removal in an agricultural landscape in the Lower Mississippi Alluvial Valley, Agric. Water Manage., 131, pp. 79-86, (2014); 
+MDEQ, Total Maximum Daily Load Nutrients and Organic Enrichment/Low DO For Porter Bayou, (2008); 
+MDEQ, Mississippi's nonpoint source management program, Annual Report, (2012); 
+Massey J., Water-conserving irrigation systems for furrow and flood irrigated crops in the mississippi delta, Final Report, (2010); 
+Moore M.T., Kroger R., Locke M.A., Cullum R.F., Steinriede R.W., Testa S., Lizotte R.E., Bryant C.T., Cooper C.M., Nutrient mitigation capacity in Mississippi Delta, USA drainage ditches, Environ. Pollut., 158, 1, pp. 175-184, (2010); 
+Moore M.T., Pierce J.R., Farris J.L., Water-quality analysis of an intensively used on-farm storage reservoir in the northeast Arkansas Delta, Arch. Environ. Contam. Toxicol., pp. 1-6, (2015); 
+Nixon S.W., Coastal marine eutrophication: a definition, social causes, and future concerns, Ophelia, 41, 1, pp. 199-219, (1995); 
+Ongley E.D., Control of water pollution from agriculture, FAO Irrigation and Drainage Paper, (1996); 
+Perez-Gutierrez J.D., Paz J.O., Tagert M.L., Karki R., Seasonal variation of water quality in on-farm water storage systems: case study of a mississippi delta agricultural watershed, ASABE Paper: 152190473, (2015); 
+Penn C.J., Bryant R.B., Kleinman P.J., Allen A.L., Removing dissolved phosphorus from drainage ditch water with phosphorus sorbing materials, J. Soil Water Conserv., 62, 4, pp. 269-276, (2007); 
+Peterson B.J., Wollheim W.M., Mulholland P.J., Webster J.R., Meyer J.L., Tank J.L., Marti E., Bowden W.B., Vallett H.M., Hershey A.E., McDowell W.H., Dodds W.K., Hamilton S.K., Gregory S., Morall D.D., Control of nitrogen export from watersheds by headwater streams, Science, 292, 5514, pp. 86-90, (2001); 
+Popp J.S.H., Wailes E.J., Young K.B., Smartt J., Assessing the benefits of on-farm reservoirs and tail-water recovery systems, (2004); 
+Rabalais N.N., Turner R.E., Scavia D., Beyond science into policy: gulf of Mexico hypoxia and the Mississippi River, Bioscience, 52, 2, (2002); 
+Rabalais N.N., Turner R.E., Wiseman W.J., Gulf of Mexico hypoxia, AKA the dead zone, Annu. Rev. Ecol. Syst., pp. 235-263, (2002); 
+Rabalais N., Nitrogen in aquatic ecosystems, Ambio, 31, pp. 102-112, (2002); 
+Randall G.W., Huggins D.R., Russelle M.P., Fuchs D.J., Nelson W.W., Anderson J.L., Nitrate losses through subsurface tile drainage in conservation reserve program, alfalfa, and row crop systems, J. Environ. Qual., 26, 5, pp. 1240-1247, (1997); 
+Reddy K.R., DeBusk W.F., Nutrient removal potential of selected aquatic macrophytes, J. Environ. Qual., 14, 4, pp. 459-462, (1985); 
+Reddy K.R., Campbell K.L., Graetz D.A., Portier K.M., Use of biological filters for treating agricultural drainage effluents, J. Environ. Qual., 11, 4, pp. 591-595, (1982); 
+Schlesinger W.H., Biogeochemistry: An Analysis of Global Change, (1991); 
+Seitzinger S.P., Kroeze C., Bouwman A.F., Caraco N., Dentener F., Styles R.V., Global patterns of dissolved inorganic and particulate nitrogen inputs to coastal systems: recent conditions and future projections, Estuaries, 25, 4, pp. 640-655, (2002); 
+Silvan N., Vasander H., Laine J., Vegetation is the main factor in nutrient retention in a constructed wetland buffer, Plant Soil, 258, 1, pp. 179-187, (2004); 
+Sims J.T., Simard R.R., Joern B.C., Phosphorus loss in agricultural drainage: historical perspective and current research, J. Environ. Qual., 27, 2, pp. 277-293, (1998); 
+Smith V.H., Tilman G.D., Nekola J.C., Eutrophication: impacts of excess nutrient inputs on freshwater, marine, and terrestrial ecosystems, Environ. Pollut., 100, 1, pp. 179-196, (1999); 
+Smith V.H., Eutrophication, Encyclopedia of Inland Waters, pp. 61-73, (2009); 
+Stream Solute Workshop, Concepts and methods for assessing solute dynamics in stream ecosystems, J. North Am. Benthol. Soc., 9, pp. 95-119, (1990); 
+Sylvan J.B., Dortch Q., Nelson D.M., Maier Brown A.F., Morrison W., Ammerman J.W., Phosphorus limits phytoplankton growth on the Louisiana shelf during the period of hypoxia formation, Environ. Sci. Technol., 40, 24, pp. 7548-7553, (2006); 
+Taylor J.M., Moore M.T., Scott J.T., Contrasting nutrient mitigation and denitrification potential of agricultural drainage environments with different emergent aquatic macrophytes, J. Environ. Qual., 44, pp. 1304-1314, (2015); 
+US Census Bureau, World Vital Events, (2015); 
+USEPA, Handbook for Sampling and Sample Preservation of Water and Wastewater, EPA 600/4-82-029, (1982); 
+Vitousek P.M., Aber J.D., Howarth R.W., Likens G.E., Matson P.A., Schindler D.W., Schlesinger W.H., Tilman D.G., Human alteration of the global nitrogen cycle: sources and consequences, Ecol. Appl., 7, 3, pp. 737-750, (1997); 
+Wax C.L., Pote J.W., Merrell T.L., Climatological and cultural influences on annual groundwater decline in the mississippi shallow alluvial aquifer, 38th Annual Mississippi Water Resources Research Conference, Jackson, April 2008, (2008); 
+Wilcoxon F., Individual comparisons by ranking methods, Biometrics Bull., pp. 80-83, (1945); 
+Woltemade C.J., Ability of restored wetlands to reduce nitrogen and phosphorus concentrations in agricultural drainage water, J. Soil Water Conserv., 55, 3, pp. 303-309, (2000)#FRF#

@@ -1,0 +1,32 @@
+#ITI#Improved volume balance using upstream flow depth for advance time estimation#FTI#
+#IRE#Modification of classical volume balance models is one of the effective strategies to improving design of surface irrigation and optimal usage of water resources in agricultural section. In this paper, a modified volume balance model is developed to predict the advance curve in surface irrigation based on the variable actual depth at the upstream end of furrow. The simulations of the suggested structure are generated through a combination of different values of the furrow irrigation variables (inflow discharge, length of furrow, and infiltration parameters), to compare between different models and measured data. The results show that the modified volume balance is more accurate than previous equations by model efficiency of 0.94, 0.98, and 0.97 for furrow length of 60, 80, and 100 m, respectively. Sensitivity analysis is made by changing only one input parameter including discharge, field slope, roughness coefficient and infiltration parameters at a time while keeping all others fixed. Furthermore, the inflow rate can have a considerable impact on the model estimations. Nevertheless, the developed model is more sensitive to decreasing inflow discharge amount than to increasing it. © 2017 Elsevier B.V.#FRE#
+#IPC#Advance curve; Furrow irrigation; Model efficiency; Sensitivity analysis#FPC#
+#IRF#Al-Azba A., Strelkoff T., Correct form of Hall technique for border irrigation advance, J. Irrig. Drain. Eng., 120, 2, pp. 292-304, (1994); 
+Al-Azba A.A., Explicit volume balance model solution, J. Irrig. Drain. Eng., 125, 5, pp. 273-279, (1999); 
+Ebrahimian H., Liaghat A.M., Field evaluation of various mathematical models for furrow and border irrigation systems, Soil Water Res., 6, 2, pp. 91-101, (2011); 
+Fakharinia M., Lalehzari R., Yaghoobzadeh M., The use of subsurface barriers in the sustainable management of groundwater resources, World Appl. Sci. J., 19, 11, pp. 1585-1590, (2012); 
+Fok Y.S., Bishop A.A., Analysis of water advance in surface irrigation, J. Irrig. Drain. Div., 91, 1, pp. 99-117, (1965); 
+Golestani S., Shayannejad M., Tabatabaei S.H., Investigation of Hall technique in adjusted volume balance—zero inertia combined model for furrow irrigation, Iran Water Res. J., 4, 6, pp. 11-18, (2010); 
+Hall W.A., Estimating irrigation border flow, Agric. Eng., 37, 4, pp. 263-265, (1956); 
+Hart W.E., Bassett D.L., Strelkoff T., Surface irrigation hydraulics–kinematics, J. Irrig. Drain. Eng., 94, 4, pp. 419-440, (1968); 
+Katopodes N.D., Strelkoff T.S., Hydrodynamics of border irrigation-complete model, J. Irrig. Drain. Eng., 103, 3, pp. 309-324, (1977); 
+Lalehzari R., Boroomand Nasab S., Moazed H., Haghighi A., Multi-objective management of water allocation to sustainable irrigation planning and optimal cropping pattern, J. Irrig. Drain. Eng., 142, 1, (2016); 
+Lalehzari R., Tabatabaei S.H., Kholghi M., Simulation of nitrate transport and wastewater seepage in groundwater flow system, Int. J. Environ. Sci. Technol., 10, pp. 1367-1376, (2013); 
+Lalehzari R., Tabatabaei S.H., Kholghi M., Yarali N., Saba A.A., Evaluation of scenarios in artificial recharge with treated wastewater on the quantity and quality of Shahrekord aquifer, J. Environ. Stud., 40, 1, pp. 52-55, (2014); 
+Lalehzari R., Ansari Samani F., Boroomand Nasab S., Analysis of evaluation indicators by opportunity time in furrow irrigation, Irrig. Drain., 64, 1, pp. 85-92, (2015); 
+Levien L.A., Souza F., Algebraic computation of flow in furrow irrigation, J. Irrig. Drain. Eng., 113, 3, pp. 367-377, (1987); 
+Lewis M.R., Milne W.E., Analysis of border irrigation, Agric. Eng., 19, pp. 267-272, (1938); 
+Maheshwari B.L., Effects of recession criteria on prediction of recession times in border irrigation models, Agric. Water Manage., 21, pp. 167-176, (1992); 
+Maheshwari B.L., McMahon T.A., Turner A.K., Sensitivity analysis of parameters of border irrigation models, Agric. Water Manage., 18, pp. 277-287, (1990); 
+McClymont D., Development of a Decision Support System for Furrow and Border Irrigation, (2007); 
+McCuen R.H., The role of sensitivity analysis in hydrologic modelling, J. Hydrol., 18, pp. 37-53, (1973); 
+Ng E., Loomls R.S., Simulation of Growth and Yield of the Potato Crop, pp. 62-65, (1984); 
+Philip J.R., Farrell D.A., General solution of the infiltration-advance problem in irrigation hydraulics, J. Geophysical Res., 69, pp. 621-631, (1964); 
+Strelkoff T., Katopodes N.D., Border-irrigation hydraulics with zero inertia, J. Irrig. Drain. Eng., 103, 3, pp. 325-342, (1977); 
+Strelkoff T., Computation of flow in border irrigation, J. Irrig. Drain. Eng., 103, 3, pp. 357-377, (1977); 
+Tabatabaei S.H., Lalehzari R., Nourmahnad N., Khazaei M., Groundwater quality and land use change (A case study: Shahrekord aquifer, Iran), J. Res. Agric. Sci., 6, pp. 39-48, (2010); 
+Valiantzas J.D., Border advance using improved volume-balance model, J. Irrig. Drain. Eng., 119, 6, pp. 1006-1012, (1994); 
+Valiantzas J.D., Explicit time of advance formula for furrow design, J. Irrig. Drain. Eng., 125, 1, pp. 19-25, (1999); 
+Walker W.R., Humpherys A.S., Kinematic-wave furrow irrigation model, J. Irrig. Drain. Eng., 109, 4, pp. 377-392, (1983); 
+Walker W.R., Skogerboe G.V., Surface Irrigation. Theory and Practice, (1987); 
+Zandparsa S., Sepaskhah A.R., Modification of the Fok–Bishop solution for determination of water advance in border irrigation, J. Agric. Eng. Res., 49, pp. 127-132, (1991)#FRF#

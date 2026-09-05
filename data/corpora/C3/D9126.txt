@@ -1,0 +1,44 @@
+#ITI#The effects of innovative silicon applications on growth and powdery mildew control in soilless-grown cucumber (Cucumis sativus L.) and zucchini (Cucurbita pepo L.)#FTI#
+#IRE#Silicon (Si) is one of the most beneficial microelements for several plants, in mediating the growth regulation in horticultural species. This research evaluated the effects of innovative Si-applications on. soilless-grown Cucumis sativus L. and Cucurbita pepo L. Crop growth, powdery mildew incidence and abiotic stress resistance were evaluated. Two experiments were carried out in a nonheated glasshouse on benches. Two new Si treatments (Si–Nanosponge complex, and one experimental fertilizer) were compared with the traditional K2SiO3. Topas® EC 10 was used as control fungicide treatment. Biometric parameters, and incidence and severity of powdery mildew were measured. Cucumis sativus plants showed a severe powdery mildew infection, and no significant effect of the Si treatments was found. Cucurbita pepo plants were initially grown under lower disease pressure conditions, and the positive effect of Si treatments was found. The innovative use of Si–Nanosponge complex and the new experimental fertilizer can be considered a good alternative to traditional compounds for plant growth stimulation. © 2017, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Disease control; Fertilization; Greenhouse; Hydroponics; Nanosponge complex#FPC#
+#IRF#Benton J.M., Cobb A.H., The modification of phytosterol profiles and in vitro photosynthetic electron transport of Galium aparine L. (cleavers) treated with the fungicide, epoxiconazole, Plant Growth Regul, 22, pp. 93-100, (1997); 
+Buttaro D., Bonasia A., Minuto A., Serio F., Santamaria P., Effect of silicon in the nutrient solution on the incidence of powdery mildew and quality traits in carosello and barattiere (Cumumis melo L.) grown in a soiless system, J Hortic Sci Biotechnol, 84, 3, pp. 300-304, (2009); 
+Cavalli R., Trotta F., Tumiatti W., Cyclodextrin-based nanosponges for drug delivery, J Incl Phenom Macrocycl Chem, 56, pp. 209-213, (2006); 
+Cho H.R., Joung H.J., Lim K.B., Kim K.S., Effect of calcium and silicate application on pathogenicity of Erwinia carotovora subsp. carotovora in Zantedeschia spp, Hortic Environ Biotechnol, 54, 4, pp. 364-371, (2013); 
+Datnoff L.E., Sebold K.W., Correa-V F.J., The use of silicon for integrated disease management: reducing fungicide applications and enhancing host-plant resistance, Silicon in agriculture, pp. 171-184, (2001); 
+Standards E.P.P.O., European and Mediterranean Plant Protection organization. Evaluation of plant protection products (PP 1). Efficacy evaluation of fungicides. Powdery mildew on cucurbits and other vegetables (PP 1/057 (3)), 2, pp. 78-82, (2005); 
+Fawe A., Abou-Zaid M., Menzies J.G., Belanger R.R., Silicon mediated accumulation of flavonoid phytoalexins, Biochem Cell Biol, 88, pp. 397-401, (1998); 
+Fletcher R.A., Gilley A., Sankhla N., Davis T.D., Triazoles as plant growth regulators and stress protectants, Horticultural reviews, pp. 55-138, (2010); 
+Garg N., Bhandari P., Silicon nutrition and mycorrhizal inoculations improve growth, nutrient status, K<sup>+</sup>/Na<sup>+</sup> ratio and yield of Cicer arietinum L. genotypes under salinity stress, Plant Growth, (2015); 
+Gascho G.J., Silicon sources for agriculture, Silicon in agriculture, pp. 197-202, (2001); 
+Guntzer F., Keller C., Meunier J.D., Benefits of plant silicon for crops: a review, Agron Sustain Dev, 32, pp. 201-213, (2012); 
+Hammerschmidt R., Silicon and plant defense: the evidence continues to mount, Physiol Mol Plant Path, 66, pp. 117-118, (2005); 
+Liang Y.C., Sun W.C., Si J., Romheld V., Effects of foliar-and root-applied silicon on the enhancement of induced resistance to powdery mildew in Cucumis sativus, Plant Path, 54, pp. 678-685, (2005); 
+Ma J.F., Miyake Y., Takahashi E., Silicon as a beneficial element for crop plants, Silicon in agriculture, pp. 17-39, (2001); 
+Marschner H., Mineral nutrition of higher plants, (1995); 
+Maynard D.N., Hochmuth G.J., Knott’s handbook for vegetable growers, (2007); 
+Mecfel J., Hinke S., Goedel W.A., Marx G., Fehlhaber R., Baeucker E., Wienhaus O., Effect of silicon fertilizers on silicon accumulation in wheat, J Plant Nutr Soil Sci, 170, pp. 769-772, (2007); 
+Meyer J.H., Keeping M.G., Past, present and future research of the role of silicon for sugarcane in southern Africa, Silicon in agriculture, pp. 257-275, (2001); 
+Miyake Y., Takahashi E., Effect of silicon on growth of solution cultured cucumber plants, Soil Sci Plant Nutr, 29, pp. 71-83, (1983); 
+National Action Plans, (2009); 
+Pagani A.P.S., Dianese A.C., Cafe-Filho A.C., Management of wheat blast with synthetic fungicides, partial resistance and silicate and phosphite minerals, Phytoparasitica, 42, pp. 609-617, (2014); 
+Petit A.N., Fontaine F., Vatsa P., Clement C., Vaillant-Gaveau N., Fungicide impacts on photosynthesis in crop plants, Photosynth Res, 111, pp. 315-326, (2012); 
+Rademacher W., Growth retardants: effects on gibberellin biosynthesis and other metabolic pathways, Annu Rev Plant Phys, 51, pp. 501-531, (2000); 
+Rodgers-Gray B.S., Shaw M.W., Effects of straw and silicon soil amendments on some foliar and stem-base diseases in pot-grown winter wheat, Plant Path, 53, pp. 733-740, (2004); 
+Roggero C.M., Dicarlo S., Tumiatti V., Tumiatti M., Devecchi M., Scariot V., Kapila S., Use of funcionalised nanosponges for the growth, conservation, protection and dinsinfection of vegetable organisms, WO/2013/046165, (2013); 
+Savvas D., Ntatsi G., Biostimulant activity of silicon in horticulture, Sci Hortic Amst, 196, pp. 66-81, (2015); 
+Savvas D., Giotis D., Chatzieustratiou E., Bakea M., Patakioutas G., Silicon supply in soilless cultivations of zucchini alleviates stress induced by salinity and powdery mildew infections, Environ Exp Bot, 65, pp. 11-17, (2009); 
+Schwarz D., Rouphael Y., Colla G., Venema J.H., Grafting as a tool to improve tolerance of vegetables to abiotic stress: thermal stress, water stress and organic pollutants, Sci Hortic Amst, 127, pp. 167-171, (2010); 
+Seebold K.W., Datnoff L.E., Correja-Victoria F.J., Kucharek T.A., Snyder G.H., Effect of silicon and fungicides on the control of leaf and neck blast in upland rice, Plant Dis, 88, pp. 253-258, (2004); 
+Seglie L., Devecchi M., Trotta F., Chiavazza P.M., Dolci M (2008) Effects of nanosponges including new anti-ethylene compounds on post harvest longevity of cut flowers and of nanosponges including phytohormones on in vitro regeneration of ornamental species. In: Proceeding book of the 14th international cyclodextrins symposium, 8-11, (2008); 
+Sharma R., Pathak K., Polymeric nanosponges as an alternative carrier for improved retention of econazole nitrate onto the skin through topical hydrogel formulation, Pharm Dev Technol, 16, pp. 367-376, (2010); 
+Sivanesan I., Son M.S., Song J.Y., Jeong B.R., Silicon supply through the subirrigation system affects growth of three chrysanthemum cultivars, Hortic Environ Biotechnol, 54, 1, pp. 14-19, (2013); 
+Soundararajan P., Sivanesan I., Jana S., Jong B.R., Influence of silicon supplementation on the growth and tolerance to high temperature in Salvia splendens, Hortic Environ Biotechnol, 55, 4, pp. 271-279, (2014); 
+Soundararajan P., Manivannan A., Park Y.G., Muneer S., Jong B.R., Silicon alleviates salt stress by modulating antioxidant enzyme activities in Dianthus caryophyllus ‘Tula’, Hortic Environ Biotechnol, 56, 2, pp. 233-239, (2015); 
+Swaminathan S., Pastero L., Serpe L., Trotta F., Vavia P., Aquilano D., Trotta M., Zara G., Cavalli R., Cyclodextrin-based nanosponges encapsulating camptothecin: physicochemical characterization, stability and cytotoxicity, Eur J Pharm Biopharm, 74, pp. 193-201, (2010); 
+Tesi R., Colture protette. Ortoflorovivaismo in ambiente mediterraneo, (2008); 
+Trotta F., Tumiatti W., Cross-linked polymers based on cyclodextrin for removing polluting agents, WO2006002814, (2006); 
+Van Bockhaven J., De Vleesschauwer D., Hofte M., Towards establishing broad-spectrum disease resistance in plants: silicon leads the way, J Exp Bot, 64, 5, pp. 1281-1293, (2013); 
+Vercelli M., Gaino W., Contartese V., Gallo L., Di Carlo S., Tumiatti V., Larcher F., Scariot V., Preliminary studies on the effect of Fe–nanosponge complex in horticulture, Acta Sci Pol Hortic, 14, 2, pp. 51-58, (2015); 
+Voogt W., Sonneveld C., Silicon in horticultural crops grown in soilless culture, Silicon in agriculture, pp. 115-131, (2001); 
+Walters D.R., Bingham I.J., Influence of nutrition on disease development caused by fungal pathogens: implications for plant disease control, Ann Appl Biol, 151, pp. 307-324, (2007)#FRF#

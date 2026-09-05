@@ -1,0 +1,43 @@
+#ITI#Influence of silicon on spring wheat seedlings under salt stress#FTI#
+#IRE#The aim of the study was to examine the effect of silicon on spring wheat subjected to salt stress. The experiment was conducted in hydroponic conditions on 10-day old wheat seedlings. Salt stress was induced by sodium chloride at the concentration of 70 and 100 mM added to nutrient medium. Silicon (H4SiO4) at the doses of 1.0 and 1.5 mM significantly increased the shoots and roots weight of wheat seedlings and the content of photosynthetic pigments (chlorophyll a and b, as well as carotenoids) in leaves. It reduced a detrimental effect of salt stress and restricted peroxidation of membrane lipids. We also observed a greater accumulation of nitrates and the decrease in malondialdehyde concentration in plant tissues as a result of silicon addition. Under osmotic stress, silicon did not change the content of sugars in wheat shoots and roots. Silicon did not clearly affect proline content. In general, the obtained results point out that silicon can be used for the alleviation of adverse effect of salinity on plants status. © 2018, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Malondialdehyde; Nitrates; Photosynthetic pigments; Proline; Salinity; Silicic acid; Soluble sugars; Triticum aestivum L#FPC#
+#IRF#Abdel Latef A.A., Tran L.-S.P., Impacts of priming with silicon on the growth and tolerance of maize plants to alkaline stress, Front Plant Sci, 7, (2016); 
+Al-Aghabary Z.K., Shi Q.H., Influence of silicon supply on chlorophyll content, chlorophyll fluorescence, and antioxidative enzyme activities in tomato under salt stress, J Plant Nutr, 27, pp. 2101-2115, (2004); 
+Cataldo D.A., Haroon M., Schrader L.E., Youngs V.L., Rapid colorimetric determination of nitrate in plant tissue by nitration of salicylic acid, Commun Soil Sci Plant Anal, 6, pp. 71-80, (1975); 
+Das P., Seal P., Biswas A.K., Regulation of growth antioxidants and sugar metabolism in rice (Oryza sativa L.) seedlings by NaCl and its reversal by silicon, Am J Plant Sci, 7, pp. 623-638, (2016); 
+Dziagwa-Becker M., Ramos J.M.M., Topolski J., Oleszek W., Determination of free amino acids in plants by liquid chromatography coupled to tandem mass spectrometry (LC-MS/MS), Anal Methods, 7, pp. 7574-7580, (2015); 
+Elkhatib H.A., Elkhatib E.A., Allah A.M.K., El-sharkawya M., Yield response of salt stressed potato to potassium fertilization; a preliminary mathematical model, J Plant Nutr, 27, pp. 111-122, (2004); 
+El-Tayeb M.A., Response of barley grains to the interactive effect of salinity and salicylic acid salinity, Plant Growth Regulat, 45, pp. 215-224, (2005); 
+Epstein E., Silicon, Ann Rev Plant Physiol Plant Mol Biol, 50, pp. 641-664, (1999); 
+Flowers T.J., Improving crop salt tolerance, J Exp Bot, 55, pp. 307-319, (2004); 
+Gao X., Zou C., Wang L., Zhang F., Silicon improves water use efficiency in maize plants, J Plant Nutr, 27, pp. 1457-1470, (2004); 
+Gao X., Zou C., Wang L., Zhang F., Silicon decreases transpiration rate and conductance from stomata of maize plants, J Plant Nutr, 29, pp. 1637-1647, (2006); 
+Gassami-Golezani K., Lafti R., Najafi N., Some physiological responses of mungbean to salicylic acid and silicon under salt stress, Adv Biores, 6, pp. 7-13, (2015); 
+Griffin J.J., Ranney T., Pharr D.M., Heat and drought influence photosynthesis, water relations and soluble carbohydrates of two ecotypes of redbud (Cercis Canadensis), J Am Soc Hortic Sci, 129, pp. 497-502, (2004); 
+Hasegawa P.M., Bressan R.A., Zhu J.-K., Bohnert H.J., Plant cellular and molecular responses to high salinity, Annu Rev Plant Physiol Plant Mol Biol, 551, pp. 463-499, (2000); 
+Hattori T., Sonobe K., Inanaga S., An P., Tsuji W., Araki H., Eneji A.E., Morita S., Short term stomatal responses to light intensity changes and osmotic stress in sorghum seedlings raised with and without silicon, Environ Exp Bot, 60, pp. 177-182, (2007); 
+Heath R.L., Packer L., Photoperoxidation in isolated chloroplasts. I. Kinetics and stoichiometry of fatty acid peroxidation, Arch Biochem Biophys, 125, pp. 189-198, (1968); 
+Henriet C., Draye X., Oppitz L., Swennen R., Delvaux B., Effects, distribution and uptake of silicon in banana (Musa spp.) under controlled conditions, Plant Soil, 287, pp. 359-374, (2006); 
+Jamil A., Riaz S., Ashraf M., Foolad M.R., Gene expression profiling of plants under salt stress, Crit Rev Plant Sci, 30, pp. 435-458, (2011); 
+Kaya C., Tuna L., Hoggs D., Effect of silicon on plant growth and mineral nutrition of maize grown under water-stress conditions, J Plant Nutr, 29, pp. 1469-1480, (2006); 
+Liang Y., Effects of Si on leaf ultrastructure, chlorophyll content and photosynthetic activity in barley under salt stress, Podosphere, 8, pp. 289-296, (1998); 
+Liang Y., Effects of silicon on enzyme activity and sodium, potassium and calcium concentration in barley under salt stress, Plant Soil, 209, pp. 217-224, (1999); 
+Liang Y., Zhang W., Chen Q., Liu Y., Ding R., Effect of exogenous silicon (Si) on H+ -ATPase activity, phospholipids and fluidity of plasma membrane in leaves of salt-stressed barley (Hordeum vulgare L.), Environ Exp Bot, 57, pp. 212-219, (2006); 
+Lichtenthaler H.K., Chlorophylls and carotenoids: pigments of photosynthetic biomembranes, Methods Enzymol, 148, pp. 350-382, (1987); 
+Ma J.F., Yamayi N., Silicon uptake and accumulation in higher plants, Trends Plant Sci, 11, pp. 392-397, (2006); 
+Mahmood S., Daur I., Al-Solaimani S.G., Ahmad S., Madkour M.H., Yasir M., Hirt H., Ali S., Ali Z., Plant growth promoting rhizobacteria and silicon synergistically enhance salinity tolerance of mung been, Front Plant Sci, 7, (2016); 
+Nelson N., A photometric adaptation of the Somogyi method for the determination of glucose, J Biol Chem, 153, pp. 375-380, (1944); 
+Qian Q., Zai W., Zhu Z., Yu J., Effects of exogenous silicon on active oxygen scavenging systems in chloroplasts of cucumber (Cucumis sativus L.) seedlings under salt stress, J Plant Physiol Mol Biol, 32, pp. 107-112, (2006); 
+Qin L., Kang W., Qi Y., Zhang Z., Wang N., The influence of silicon application on growth and photosynthesis response of salt stressed grapevines (Vitis vinifera L.), Acta Physiol Plant, 38, (2016); 
+Ramachandra R.A., Chaitanya K.V., Vivekanandan M., Drought-induced responses of photosynthesis and antioxidant metabolism in higher plants, J Plant Physiol, 161, pp. 1198-1202, (2004); 
+Sacala E., Role of silicon in plant resistance to water stress, J Elementol, 14, pp. 619-630, (2009); 
+Sacala E., The influence of increasing doses of silicon on maize seedlings grown under salt stress, J Plant Nutr, 40, pp. 819-827, (2017); 
+Sacala E., Durbajlo W., The effect of sodium silicate on maize growing under stress condition, Przemysł Chemiczny, 91, pp. 949-951, (2012); 
+Shen B., Jensen R.G., Bohnert H.J., Increased resistance to oxidative stress in transgenic plants by targeting mannitol biosynthesis to chloroplasts, Plant Physiol, 113, pp. 1177-1183, (1997); 
+Thomas H., Drought resistance in plants, Mechanisms of environmental stress resistance in plants. Harwood Academic Publ, pp. 1-42, (1997); 
+Torabi F., Majd A., Euteshari S., The effect of silicon on alleviation of salt stress in borage (Borago officinalis L.), Soil Sci Plant Nutr, 6, pp. 788-798, (2015); 
+Tuna A.L., Kaya C., Higgs D., Murillo-Amador B., Aydemir S., Girgin A.R., Silicon improves salinity tolerance in wheat plants, Environ Exp Bot, 62, pp. 10-16, (2008); 
+Zhu J.K., Plant soil tolerance, Trends Plant Sci, 6, pp. 66-71, (2001); 
+Zhu Z., Wei G., Li J., Qian Q., Yu I., Silicon alleviates salt stress and increases antioxidant enzymes activity in leaves of salt-stressed of cucumber (Cucumis sativus L.), Plant Sci, 167, pp. 527-533, (2004); 
+Zielinska S., Carbohydrates metabolism as one of the elements of mechanisms of abiotic stress tolerance in plants, Kosmos, 61, pp. 613-623, (2012); 
+Zuccarini P., Effects of silicon on photosynthesis, water relations and nutrient uptake of Phaseolus vulgaris under NaCl stress, Biologia Plantarum, 52, pp. 157-160, (2008)#FRF#

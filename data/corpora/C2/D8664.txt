@@ -1,0 +1,40 @@
+#ITI#Response to strigolactone treatment in chrysanthemum axillary buds is influenced by auxin transport inhibition and sucrose availability#FTI#
+#IRE#Axillary bud outgrowth is regulated by both environmental cues and internal plant hormone signaling. Central to this regulation is the balance between auxins, cytokinins, and strigolactones. Auxins are transported basipetally and inhibit the axillary bud outgrowth indirectly by either restricting auxin export from the axillary buds to the stem (canalization model) or inducing strigolactone biosynthesis and limiting cytokinin levels (second messenger model). Both models have supporting evidence and are not mutually exclusive. In this study, we used a modified split-plate bioassay to apply different plant growth regulators to isolated stem segments of chrysanthemum and measure their effect on axillary bud growth. Results showed axillary bud outgrowth in the bioassay within 5 days after nodal stem excision. Treatments with apical auxin (IAA) inhibited bud outgrowth which was counteracted by treatments with basal cytokinins (TDZ, zeatin, 2-ip). Treatments with basal strigolactone (GR24) could inhibit axillary bud growth without an apical auxin treatment. GR24 inhibition of axillary buds could be counteracted with auxin transport inhibitors (TIBA and NPA). Treatments with sucrose in the medium resulted in stronger axillary bud growth, which could be inhibited with apical auxin treatment but not with basal strigolactone treatment. These observations provide support for both the canalization model and the second messenger model with, on the one hand, the influence of auxin transport on strigolactone inhibition of axillary buds and, on the other hand, the inhibition of axillary bud growth by strigolactone without an apical auxin source. The inability of GR24 to inhibit bud growth in a sucrose treatment raises an interesting question about the role of strigolactone and sucrose in axillary bud outgrowth and calls for further investigation. © 2016, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Auxin; Axillary bud; Chrysanthemum; Shoot branching; Split-plate assay; Strigolactone#FPC#
+#IRF#Barbier F., Peron T., Lecerf M., Et al., Sucrose is an early modulator of the key hormonal mechanisms controlling bud outgrowth in Rosa hybrida, J Exp Bot, 66, pp. 2569-2582, (2015); 
+Bennett T., Leyser O., Something on the side: axillary meristems and plant development, Plant Mol Biol, 60, pp. 843-854, (2006); 
+Beveridge C.A., Symons G.M., Turnbull C.G., Auxin inhibition of decapitation-induced branching is dependent on graft-transmissible signals regulated by genes Rms1 and Rms2, Plant Physiol, 123, pp. 689-698, (2000); 
+Blakeslee J.J., Bandyopadhyay A., Lee O.R., Et al., Interactions among PIN-FORMED and P-glycoprotein auxin transporters in Arabidopsis, Plant Cell, 19, pp. 131-147, (2007); 
+Brewer P.B., Dun E.A., Ferguson B.J., Et al., Strigolactone acts downstream of auxin to regulate bud outgrowth in pea and Arabidopsis, Plant Physiol, 150, pp. 482-493, (2009); 
+Brewer P.B., Dun E.A., Gui R., Et al., Strigolactone inhibition of branching independent of polar auxin transport, Plant Physiol, (2015); 
+Chatfield S.P., Stirnberg P., Forde B.G., Leyser O., The hormonal regulation of axillary bud growth in Arabidopsis, Plant J, 24, pp. 159-169, (2000); 
+Chen X., Zhou X., Xi L., Et al., Roles of DgBRC1 in regulation of lateral branching in chrysanthemum (Dendranthema × grandiflora cv. Jinba), PLoS One, 8, (2013); 
+Cline M.G., Apical dominance, Bot Rev, 57, pp. 318-358, (1991); 
+Crawford S., Shinohara N., Sieberer T., Et al., Strigolactones enhance competition between shoot branches by dampening auxin transport, Development, 137, pp. 2905-2913, (2010); 
+Domagalska M.A., Leyser O., Signal integration in the control of shoot branching, Nat Rev Mol Cell Biol, 12, pp. 211-221, (2011); 
+Dun E.A., de Saint Germain A., Rameau C., Beveridge C.A., Dynamics of strigolactone function and shoot branching responses in Pisum sativum, Mol Plant, 6, pp. 128-140, (2013); 
+Foo E., Bullier E., Goussot M., Et al., The branching gene RAMOSUS1 mediates interactions among two novel signals and auxin in pea, Plant Cell, 17, pp. 464-474, (2005); 
+Foo E., Morris S.E., Parmenter K., Et al., Feedback regulation of xylem cytokinin content is conserved in pea and Arabidopsis, Plant Physiol, 143, pp. 1418-1428, (2007); 
+Friml J., Vieten A., Sauer M., Et al., Efflux-dependent auxin gradients establish the apical-basal axis of Arabidopsis, Nature, 426, pp. 147-153, (2003); 
+Gomez-Roldan V., Fermas S., Brewer P.B., Et al., Strigolactone inhibition of shoot branching, Nature, 455, pp. 189-194, (2008); 
+Katekar G.F., Geissler A.E., Auxin transport inhibitors, Plant Physiol, 60, pp. 826-829, (1977); 
+Kebrom T.H., Mullet J.E., Photosynthetic leaf area modulates tiller bud outgrowth in sorghum, Plant Cell Environ n/a n/a, (2015); 
+Kebrom T.H., Brutnell T.P., Finlayson S.A., Suppression of sorghum axillary bud outgrowth by shade, phyB and defoliation signalling pathways, Plant, Cell Environ, 33, pp. 48-58, (2010); 
+Kushwah S., Laxmi A., The interaction between glucose and cytokinin signal transduction pathway in Arabidopsis thaliana, Plant Cell Environ, 37, pp. 235-253, (2014); 
+Liang J., Zhao L., Challis R., Leyser O., Strigolactone regulation of shoot branching in chrysanthemum (Dendranthema grandiflorum), J Exp Bot, 61, pp. 3069-3078, (2010); 
+Ljung K., Bhalerao R.P., Sandberg G., Sites and homeostatic control of auxin biosynthesis in Arabidopsis during vegetative growth, Plant J, 28, pp. 465-474, (2001); 
+Mashiguchi K., Sasaki E., Shimada Y., Et al., Feedback-regulation of strigolactone biosynthetic genes and strigolactone-regulated genes in Arabidopsis, Biosci Biotechnol Biochem, 73, pp. 2460-2465, (2009); 
+Mason M.G., Ross J.J., Babst B.A., Et al., Sugar demand, not auxin, is the initial regulator of apical dominance, Proc Natl Acad Sci, (2014); 
+Mishra B.S., Singh M., Aggrawal P., Laxmi A., Glucose and auxin signaling interaction in controlling Arabidopsis thaliana seedlings root growth and development, PLoS One, 4, (2009); 
+Morris S.E., Cox M.C.H., Ross J.J., Et al., Auxin dynamics after decapitation are not correlated with the initial growth of axillary buds, Plant Physiol, 138, pp. 1665-1672, (2005); 
+Ongaro V., Leyser O., Hormonal control of shoot branching, J Exp Bot, 59, pp. 67-74, (2008); 
+Petrasek J., Friml J., Auxin transport routes in plant development, Development, 136, pp. 2675-2688, (2009); 
+Petrasek J., Mravec J., Bouchard R., Et al., PIN proteins perform a rate-limiting function in cellular auxin efflux, Science, 312, pp. 914-917, (2006); 
+Rabot A., Henry C., Ben Baaziz K., Et al., Insight into the Role of Sugars in Bud Burst Under Light in the Rose, Plant Cell Physiol, 53, pp. 1068-1082, (2012); 
+Rameau C., Bertheloot J., Leduc N., Et al., Multiple pathways regulate shoot branching, Front Plant Sci, 5, pp. 1-15, (2015); 
+Sachs T., Thimann K.V., The role of auxins and cytokinins in the release of buds from dominance, Am J Bot, 54, pp. 136-144, (1967); 
+Shinohara N., Taylor C., Leyser O., Strigolactone can promote or inhibit shoot branching by triggering rapid depletion of the auxin efflux protein PIN1 from the plasma membrane, PLoS Biol, 11, (2013); 
+Tanaka M., Takei K., Kojima M., Et al., Auxin controls local cytokinin biosynthesis in the nodal stem in apical dominance, Plant J, 45, pp. 1028-1036, (2006); 
+Van Minnebruggen A., Roldan-Ruiz I., Van Dingenen J., Et al., Morphological and molecular characterization of branching in red clover (Trifolium pratense), Breeding strategies for sustainable forage and turf grass improvement SE—20, pp. 161-167, (2013); 
+Waldie T., McCulloch H., Leyser O., Strigolactones and the control of plant development: lessons from shoot branching, Plant J, 79, pp. 607-622, (2014); 
+Young N.F., Ferguson B.J., Antoniadi I., Et al., Conditional auxin response and differential cytokinin profiles in shoot branching mutants, Plant Physiol, 165, pp. 1723-1736, (2014)#FRF#

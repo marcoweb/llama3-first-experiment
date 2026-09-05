@@ -1,0 +1,43 @@
+#ITI#Development changes in calla lily plants due to salt stress#FTI#
+#IRE#Soil salinity is mainly caused by excessive use of fertilizers and the use of poor quality water, and adversely affected crop growth especially when grown in protected environments. Soil salinity causes salt stress in plants, which inhibits plant growth, leading to morphological, metabolic and physiological changes. Though it is a major problem occurs more frequently, there is less information on the behavior of calla lily (Zantedeschia aethiopica) under these conditions, and most studies are conducted with other species of the genus Zantesdeschia. Therefore, this study aimed to evaluate ecophysiological, biochemical and anatomical growth responses of calla lily plants to salt stress. Rhizomes were grown in trays containing coconut fiber as a substrate and treated with 0, 25, 50, 75 and 100 mM NaCl to induce stress. A decrease in plant height was observed, as well as in the number of tillers and leaves, main root length, fresh and dry matter of the shoot and root system. A reduction in photosynthetic rate, stomatal conductance and transpiration rate was observed at 60 days. However, after 90 days, the photosynthetic rate was unchanged, with increased stomatal conductance and transpiration rate for plants exposed to 75 mM NaCl. Salt stress caused a higher accumulation of carbohydrates in shoots and roots. Thus, high concentrations of NaCl affect the development of calla lily, indicating that this species is susceptible to salt stress. © 2017, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Floriculture; Ornamental; Salinity; Zantedeschia aethiopica#FPC#
+#IRF#Almeida E.F.A., Paiva P.D.O., Frazao J.E.M., Santos F.H.S., Resende F.A., Campos M.L., Produção de copo-de-leite em resposta à adubação com NPK e esterco bovino, Rev Bras Hort Ornam, 18, pp. 129-134, (2012); 
+Assis Junior J.O., Lacerda C.F., Silva F.B., Silva F.L.B., Bezerra M.A., Gheyi H.R., Produtividade do feijão-de-corda e acúmulo de sais no solo em função da fração de lixiviação e da salinidade da água de irrigação, Eng Agríc, 27, pp. 702-713, (2007); 
+Bradford M.M., A rapid and sensitive method for the determination of microgram quantities of protein utilizing the principle of protein-dye binding, Anal Biochm, 72, pp. 248-254, (1976); 
+Cai X., Niu G., Starman T., Hall C., Response of six garden roses (Rosa x hybrida L.) to salt stress, Sci Hortic, 168, pp. 27-32, (2014); 
+Castro E.M., Pereira F.J., Paiva R., Histologia vegetal: estrutura e função dos órgãos vegetativos, (2009); 
+Cavalcanti F.R., Oliveira J.T.A., Martins-Miranda A.S., Viegas R.A., Silveira J.A.G., Superoxide dismutase, catalase and peroxidase activities do not confer protection against toxidative damage in salt-stressed cowpea leaves, New Phytol, 163, pp. 563-571, (2004); 
+Chaves M.M., Flexas J., Pinheiro C., Photosynthesis under drought and salt stress: regulation mechanisms from whole plant to cell, Ann Bot, 103, pp. 551-560, (2009); 
+Recomendações para o uso de corretivos e fertilizantes em Minas Gerais: 5a aproximação, (1999); 
+Debez A., Rejeb K.B., Ghars M.A., Gandour M., Megdiche W., Hamed K.B., Amor N.B., Brown S.C., Savoure A., Abdelly C., Ecophysiological and genomic analysis of salt tolerance of Cakile maritima, Environ Exp Bot, 92, pp. 64-72, (2013); 
+Dias N.S., Blanco F.F., Efeito dos sais no solo e na planta, Manejo da salinidade na agricultura: estudos básicos e aplicados, pp. 129-140, (2010); 
+Feijao A.R., Silva J.C.B., Marques E.C., Prisco J.T., Gomes-Filho E., Efeito da nutrição de nitrato na tolerância de plantas de sorgo à salinidade, Rev Ciênc Agron, 42, pp. 675-683, (2011); 
+Fernandez-Garcia N., Olmos E., Garcia-De La Garma J., Lopez-Berenquer C., Rubio-Asensio J.S., Intrinsic water use efficiency controls the adaptation to high salinity in a semi-arid adapted plant, henna (Lawsonia inermis L.), J Plant Physiol, 171, pp. 64-75, (2014); 
+Ferreira D.F., Sisvar: a guide for its bootstrap procedures in multiple comparisons, Ciênc Agrotec, 38, pp. 109-112, (2014); 
+Fraire-Velazquez S., Balderas-Hernandez V.E., Abiotic stress in plants and metabolic responses, Abiotic stress-plant responses and applications in agriculture, pp. 25-48, (2013); 
+Furtini Neto A.E., Boldrin K.V.F., Mattson N.S., Nutrition and quality in ornamental plants, Ornam Hort, 21, pp. 139-150, (2015); 
+Galvan-ampudia C.S., Testerink C., Salt stress signals shape the plant root, Curr Opin Plant Biol, 14, pp. 296-302, (2011); 
+Grieve C.M., Grattan S.R., Maas E.V., Plant salt tolerance, ASCE manual and reports on engineering practice no 71 agricultural salinity assessment and management, pp. 405-459, (2012); 
+Kraus J.E., Arduin M., Manual básico de métodos em morfologia vegetal, (1997); 
+Lacerda C.F., Cambraia J., Cano M.A.O., Ruiz H.A., Plant growth and solute accumulation and distribution in two sorghum genotypes, under NaCl stress, Rev Bras Fisiol Veg, 13, pp. 270-284, (2001); 
+Maciel M.P., Soares T.M., Gheyi H.R., Rezende E.P.L., Oliveira G.X.S., Produção de girassol ornamental com uso de águas salobras em sistema hidropônico NFT, Rev Bras Eng Agric Ambient, 16, pp. 165-172, (2012); 
+Melo G.M., Cunha P.C., Pereira J.A.F., Willadino L., Ulisses C., Alterações anatômicas em folhas e raízes de Jatropha curcas L. cultivadas sob estresse salino, Rev Ciênc Agron, 42, pp. 670-674, (2011); 
+Miller G.L., Determination of reducing sugar by DNS method, Anal Chem, 31, pp. 426-428, (1959); 
+Munns R., Comparative physiology of salt and water stress, Plant Cell Environ, 25, pp. 239-250, (2002); 
+Munns R., Tester M., Mechanisms of salinity tolerance, Annu Rev Plant Biol, 59, pp. 651-681, (2008); 
+Navarro A., Elia A., Conversa G., Campi P., Mastrorilli M., Potted mycorrhizal carnation plants and saline stress: growth, quality and nutritional plant responses, Sci Hortic, 140, pp. 131-139, (2012); 
+Nawaz K., Hussain K., Majeed A., Khan F., Afghan S., Ali K., Fatality of salt stress to plants: morphological, physiological and biochemical aspects, Afr J Biotechnol, 9, pp. 5475-5480, (2010); 
+Paiva P.D.O., Almeida E.F.A., Produção de flores de corte, (2012); 
+Parida A.K., Das A.B., Salt tolerance and salinity effects on plants: a review, Ecotoxicol Environ Saf, 60, pp. 324-349, (2005); 
+Prisco T., Gomes Filho E., Fisiologia e bioquímica do estresse salino em plantas, Manejo da salinidade na agricultura: Estudos básicos e aplicados, pp. 147-163, (2010); 
+Rasool S., Hameed A., Azooz M.M., Rehman M., Siddigi T.O., Ahmad P., Salt stress: causes, types and responses of plants, Ecophysiology and responses of plants under salt stress, pp. 1-24, (2013); 
+Richards L.A., Diagnosis and improvement of saline and alkali soils, Soil Sci, 78, (1954); 
+Rivero R.M., Mestre T.C., Mittler R., Rubio F., Garcia-Sanchez F., Martinez V., The combined effect of salinity and heat reveals a specific physiological, biochemical and molecular response in tomato plants, Plant Cell Environ, 37, pp. 1059-1073, (2014); 
+Shabala S., Munns R., Salinity stress: physiological constraints and adaptative mechanisms, Plant stress physiology, pp. 59-93, (2012); 
+Silva E.C., Nogueira R.J.M.C., Araujo F.P., Melo N.F., Azevedo Neto A.D., Physiological responses to salt stress in young umbu plants, Environ Exp Bot, 63, pp. 147-157, (2008); 
+Tarchoune I., Degl'innocenti E., Kaddour R., Guidi L., Lachaal M., Navari-Izzo F., Ouerghi Z., Effects of NaCl or Na<sub>2</sub>SO<sub>4</sub> salinity on plant growth, ion content and photosynthetic activity in Ocimum basilicum L, Acta Physiol Plant, 34, pp. 607-615, (2012); 
+Travassos K.D., Soares F.A.L., Gheyi H.R., Dias N.S., Nobre R.G., Crescimento e produção de flores de girassol irrigado com água salobra, Rev Bras Agric Irrigada, 5, pp. 123-133, (2011); 
+Veatch-Blohm M.E., Morningstar L., Calla lily growth and development under saline irrigation, HortScience, 46, pp. 222-227, (2011); 
+Veatch-Blohm M.E., Malinowski M., Keefer D., Leaf water status, osmotic adjustment and carbon assimilation in colored calla lilies in response to saline irrigation, Sci Hortic, 144, pp. 65-73, (2012); 
+Yemm E.W., Willis A.J., The estimation of carbohydrates in plant extracts by anthrone, Biochem J, 57, pp. 508-514, (1954); 
+Yiotis C., Psaras G.K., Dianthus caryophyllus stems and Zantedeschia aethiopica petioles/pedicels show anatomical features indicating efficient photosynthesis, Flora, 206, pp. 360-364, (2011)#FRF#

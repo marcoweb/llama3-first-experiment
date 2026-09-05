@@ -1,0 +1,46 @@
+#ITI#Freezing tolerance and its relationship with soluble carbohydrates, proline and water content in 12 grapevine cultivars#FTI#
+#IRE#The objectives of this study were to compare freezing tolerance (FT) of 12 field-grown grapevine cultivars at four stages: Nov., Jan., Mar., and Apr., and to investigate the relationship between FT and soluble carbohydrates, proline and water content changes of buds during acclimation and deacclimation stages. After exposure to various freeze test temperatures bud LT50 values were estimated using electrolyte leakage and bud browning measurement. Bud FT of all cultivars studied increased with the overall trend of declining temperatures from Nov. through Jan., after which the buds began to deacclimate from Mar. and gradually lost FT in Apr.; overall LT50 means were −13.79, −21.74, −20.38, and −10.06, respectively. However, cultivars did not show alike acclimation and deacclimation rates and, for example, ‘Yaquti’, an early ripening cultivar, showed relatively higher FT in early autumn, but was one of the least hardy cultivars in later stages. In Jan. (full hardening), cultivars were classified as hardy (‘Red Sultana’, ‘Fakhri’, ‘Shahani’ and White Sultana), moderately hardy (‘Tabarzeh’, ‘Gaznei’, ‘Thompson Seedless’, Laal, ‘Sahebi’ and ‘Rishbaba’) and least hardy (‘Yaquti’ and ‘Ruby Seedless’). The pattern of soluble carbohydrates and proline changes were highly consistent with the LT50 profile. Bud water content, especially in early autumn, had a stronger correlation with FT, compared to the concentration of cytoplasmic osmoregulants. Likewise, soluble carbohydrates proved to be a superior indicator of FT, as compared to proline. Our results showed osmoregulants as well as bud water content are useful indices to screen FT in a range of grapevine germplasm resources. © 2015, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Acclimation; Bud browning; Electrolyte leakage; Frost damage; Osmoregulants#FPC#
+#IRF#Ahmedullah M., An analysis of winter injury to grapevines as a result of two severe winters in Washington, Fruit Var J, 39, pp. 29-34, (1985); 
+Alberdi M., Corcuera L.J., Cold acclimation in plants, Phytochem, 30, pp. 3177-3184, (1991); 
+Barka E.A., Audran J.C., Response of ‘Champenoise’ grapevine to low temperature: changes of shoot and bud proline concentrations in response to low temperatures and correlations with freezing tolerance, Hort Sci, 72, pp. 557-582, (1997); 
+Bates L.S., Waldren R.P., Teare I.D., Rapid determination of free proline for water stress studies, Plant Soil, 39, pp. 205-207, (1973); 
+Bourne T.F., Moore J.N., Cold hardiness in grape cultivar development, Fruit Var J, 45, pp. 26-28, (1991); 
+Dionne J., Castonguay Y., Nadeau P., Desjardins Y., Freezing tolerance and carbohydrate changes during cold acclimation of green-type annual bluegrass (Poa annua L.) ecotypes, Crop Sci, 41, pp. 443-451, (2001); 
+Fennell A., Freezing tolerance and injury in grapevines, J Crop Improv, 10, pp. 201-235, (2004); 
+Fernandez-Caballero C., Rosales R., Romero I., Escribano M.I., Merodio C., Unraveling the roles of CBF1, CBF4 and dehydrin 1 genes in the response of table grapes to high CO2 levels and low temperature, J Plant Physiol, 169, pp. 744-748, (2012); 
+Fiorino P., Mancuso S., Differential thermal analysis, supercooling and cell viability in organs of Olea europaea at subzero temperatures, Adv Hort Sci, 14, pp. 23-27, (2000); 
+Statistical yearbook, (2011); 
+Ghasemi A.A., Ershadi A., Fallahi E., Evaluation of cold hardiness in seven Iranian commercial pomegranate (Punica granatum L.) cultivars, HortScience, 47, pp. 1821-1825, (2012); 
+Goldsmith L.T., Freezing tolerance and dehydrin protein expression in ‘Frontenac’ and ‘Seyval blanc’ grapevine bark and xylem cane tissues during acclimation, midwinter, and deacclimation. MSc Dissertations, Iowa State University, (2009); 
+Griffith M., Brown G.M., Cell wall deposits in winter rye Secale cereale L. ‘Puma’ during cold acclimation, Bot Gaz, 143, pp. 486-490, (1982); 
+Hamman R.A., Dami E., Walsh T.M., Stushnoff C., Seasonal carbohydrate changes and cold hardiness of Chardonnay and Riesling grapevines, Am J Enol Vitic, 47, pp. 31-36, (1996); 
+Hubackova M., Dependence of Grapevine bud cold hardiness on fluctuations in winter temperatures, Amer J Enol Vitic, 47, pp. 100-102, (1996); 
+John C., Ferguson J.M., Tarara L.J., Mills G.G., Grove M.K., Dynamic thermal time model of cold hardiness for dormant grapevine buds, Ann Bot, 49, pp. 4-12, (2010); 
+Jones K.S., Paroschy J., McKersie B.D., Bowley S.R., Carbohydrate composition and freezing tolerance of canes and buds in Vitis vinifera, J Plant Physiol, 155, pp. 101-106, (1999); 
+Kalberer S.R., Arora R., Leyva-Estrada N., Krebs S., Cold hardiness of floral buds of deciduous azaleas: dehardening, rehardening, and endodormancy in late winter, J Amer Soc Hort Sci, 132, pp. 73-79, (2007); 
+Karimi R., Ershadi A., Role of exogenous abscisic acid in adapting of ‘Sultana’ grapevine to low temperature stress, Acta Physiol Plant, 37, (2015); 
+Koussa T., Zaoui D., Broquedis M., Relationship between the levels of abscisic acid in latent buds, in leaves and in internodes of Vitis vinifera L. cv. Merlot during the dormancy phase, J Int Sci Vigne Vin, 32, pp. 203-210, (1998); 
+Levitt J., Responses of plants to environmental stress. Volume I. Chilling, freezing, and high temperature stresses, (1980); 
+Linden L., Measuring cold hardiness in woody plants. Academic dissertation, University of Helsinki, (2002); 
+Morin X., Ameglio T., Ahas R., Kurz-Besson C., Lanta V., Lebourgeois F., Miglietta F., Chuine I., Variation in cold hardiness and carbohydrate concentration from dormancy induction to bud burst among provenances of three European oak species, Tree Physiol, 27, pp. 817-825, (2007); 
+Pogosyan K.S., Sklyarova I.A., Karapetyan Z.G., Relation between vine frost-resistance and tissue water content, Biol Zh Armenii, 28, pp. 23-28, (1975); 
+Rekika D., Cousineau J., Levasseur A., Richer C., Khanizadeh S., Fisher H., The use of a freezing technique to determine the bud hardiness of twenty grape genotypes (Vitis sp.), Acta Hort, 640, pp. 207-212, (2004); 
+Salzman R.A., Bressan R.A., Hasegawa P.M., Ashworth E.N., Bordelon B.P., Programmed accumulation of LEA-like proteins during desiccation and cold acclimation of overwintering grape buds, Plant Cell Environ, 19, pp. 713-720, (1996); 
+Steponkus P.L., Role of the plasma membrane in freezing injury and cold acclimation, Annu Rev Plant Physiol, 35, pp. 543-584, (1984); 
+Stergios B.G., Howell G.S.,  Evaluation of viability tests for cold stressed plants, J Amer Soc Hort Sci, 98, pp. 325-330, (1973); 
+Stergios B.G., Howell G.S., Effect of site on cold acclimation and deacclimation of Concord grapevines, Amer J Enol Vitict, 28, pp. 43-48, (1977); 
+Sutinen M.L., Palta J.P., Reich P.B., Seasonal differences in freezing stress resistance of needles of Pinus nigra and Pinus resinosa: evaluation of the electrolyte leakage method, Tree Physiol, 11, pp. 24l-254, (1992); 
+Tafazoli E., Hekmati J., Firoozeh P., Grapes, (1994); 
+Taylor C.B., Thomas F.M., Meyer G., Popp M., Effects of defoliation on the frost hardiness and the concentrations of soluble sugars and cyclitols in the bark tissue of pedunculate oak (Quercus rubra L.), Ann Sci For, 61, pp. 455-463, (2004); 
+Thomashow M.F., Plant cold acclimation: freezing tolerance genes and regulatory mechanisms, Annu Rev Plant Physiol Plant Mol Biol, 50, pp. 571-599, (1999); 
+Tillett R.L., Wheathley M.D., Et al., The Vitis vinifera C-repeat binding protein 4 (VvCBF4) transcriptional factor enhances freezing tolerance in wine grape, Plant Physiol J, 10, pp. 105-124, (2012); 
+Valle R.V.B., Mechanisms of frost adaptation and freeze damage in grapevine buds, (2002); 
+Verbruggen N., Hermans C., Proline accumulation in plants: a review, Amino Acids, 35, pp. 753-759, (2008); 
+Wample R.L., Bary A., Harvest date as a factor in carbohydrate storage and cold hardiness of Carbernet Sauvignon grapevines, J Amer Soc Hort Sci, 117, pp. 32-36, (1992); 
+Wang W., Vinocur B., Altman A., Plant responses to drought, salinity and extreme temperatures: towards genetic engineering for stress tolerance, Planta, 218, pp. 1-14, (2003); 
+Wolf T.K., Cook M.K., Seasonal deacclimation patterns of three grape cultivars at constant, warm temperature, Amer J Enol Vitic, 43, pp. 171-179, (1992); 
+Xiao H., Siddiqua M., Braybrook S., Nassuth A., Three grape CBF/DREB1 genes respond to low temperature, drought and abscisic acid, Plant Cell Environ, 29, pp. 1410-1421, (2006); 
+Xiao H., Tattersall E., Siddiqua M., Cramer G.R., Nassuth A., CBF4 is a unique member of the CBF transcription factor family of Vitis vinifera and Vitis riparia, Plant Cell Environ, 31, pp. 1-10, (2008); 
+Yemm E.W., Willis A.J., The estimation of carbohydrates in plant extracts by anthrone, Biochem J, 57, pp. 508-514, (1954); 
+Zhang J., Wu X., Niu R., Liu Y., Liu N., Xu W., Wang Y., Cold-resistance evaluation in 25 wild grape species, Vitis, 51, pp. 153-160, (2012)#FRF#

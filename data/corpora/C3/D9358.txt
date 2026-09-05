@@ -1,0 +1,30 @@
+#ITI#A novel TaSST gene from wheat contributes to enhanced resistance to salt stress in Arabidopsis thaliana and Oryza sativa#FTI#
+#IRE#In this research, through the analyzing of the Triticum aestivum salt-tolerant mutant gene expression profile, under salt stress. A brand new gene with unknown functions induced by salt was cloned. The cloned gene was named Triticum aestivum salt stress protein (TaSST). GenBank accession number of TaSST is ACH97119. Quantitative polymerase chain reaction (qPCR) results exhibited that the expression TaSST was induced by salt, abscisic acid (ABA), and polyethylene glycol (PEG). TaSST could improve salt tolerance of Arabidopsis-overexpressed TaSST. After salt stress, physiological indexes of transgenic Arabidopsis were better compared with WT (wild-type) plants. TaSST was mainly located in the cytomembrane. qPCR analyzed the expression levels of nine tolerance-related genes of Arabidopsis in TaSST-overexpressing Arabidopsis. Results showed that the expression levels of SOS3, SOS2, KIN2, and COR15a significantly increased, whereas the expression of the five other genes showed no obvious change. OsI_01272, the homologous gene of TaSST in rice, was interfered using RNA interference (RNAi) technique. RNAi plants became more sensitive to salt than control plants. Thus, we speculate that TaSST can improve plant salt tolerance. © 2016, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#qPCR; RNAi; Salt tolerance; Triticum aestivum#FPC#
+#IRF#An L., Lei H., Shen X., Li T., Identification and characterization of PpLFL, a homolog of FLORICAULA/LEAFY in peach (Prunus persica), Plant Mol Biol Rep, 30, pp. 1488-1495, (2012); 
+Arnon D.I., Copper enzymes in isolated chloroplasts. Polyphenoloxidase in Beta vulgaris, Plant Physiol, 24, (1949); 
+Aubert S., Hennion F., Bouchereau A., Gout E., Bligny R., Dorne A.J., Subcellular compartmentation of proline in the leaves of the subantarctic Kerguelen cabbage Pringlea antiscorbutica R. Br. In vivo13C-NMR study, Plant Cell Environ, 22, pp. 255-259, (1999); 
+Bates L.S., Waldren R.P., Teare I.D., Rapid determination of free proline for water-stress studies, Plant Soil, 39, pp. 205-207, (1973); 
+Chaves M.M., Pereira J.S., Maroco J., Rodrigues M.L., Ricardo C.P.P., Osorio M.L., Carvalho I., Faria T., Pinheiro C., How plants cope with water stress in the field? Photosynthesis and growth, Ann Bot, 89, pp. 907-916, (2002); 
+Chinnusamy V., Jagendorf A., Zhu J.K., Understanding and improving salt tolerance in plants, Crop Sci, 45, pp. 437-448, (2005); 
+Delauney A.J., Verma D.P.S., Proline biosynthesis and osmoregulation in plants, Plant J, 4, pp. 215-223, (1993); 
+Draper H.H., Hadley M., Malondialdehyde determination as index of lipid peroxidation, Methods Enzymol, 186, pp. 421-431, (1990); 
+Flowers T.J., Improving crop salt tolerance, J Exp Bot, 55, pp. 307-319, (2004); 
+Fujii H., Zhu J.K., An autophosphorylation site of the protein kinase SOS2 is important for salt tolerance in Arabidopsis, Mol Plant, 2, pp. 183-190, (2009); 
+Heath R.L., Packer L., Photoperoxidation in isolated chloroplasts: I. Kinetics and stoichiometry of fatty acid peroxidation, Arch Biochem Biophys, 125, pp. 189-198, (1968); 
+Heuer B., Influence of exogenous application of proline and glycinebetaine on growth of salt-stressed tomato plants, Plant Sci, 165, pp. 693-699, (2003); 
+Huang X., Wang G., Shen Y., Huang Z., The wheat gene TaST can increase the salt tolerance of transgenic Arabidopsis, Plant Cell Rep, 31, pp. 339-347, (2012); 
+Ishitani M., Xiong L., Stevenson B., Zhu J.K., Genetic analysis of osmotic and cold stress signal transduction in Arabidopsis: interactions and convergence of abscisic acid-dependent and abscisic acid-independent pathways, Plant Cell Online, 9, pp. 1935-1949, (1997); 
+Katiyar-Agarwal S., Zhu J., Kim K., Agarwal M., Fu X., Huang A., Zhu J.K., The plasma membrane Na<sup>+</sup>/H<sup>+</sup> antiporter SOS1 interacts with RCD1 and functions in oxidative stress tolerance in Arabidopsis, Proc Natl Acad, 103, pp. 18816-18821, (2006); 
+Kurkela S., Borg-Franck M., Structure and expression of kin2, one of two cold-and ABA-induced genes of Arabidopsis thaliana, Plant Mol Biol, 19, pp. 689-692, (1992); 
+Leung J., Giraudat J., Abscisic acid signal transduction, Annu Rev Plant Physiol Mol Biol, 49, pp. 199-222, (1998); 
+Liang W., Cui W., Ma X., Wang G., Huang Z., Function of wheat Ta-UnP gene in enhancing salt tolerance in transgenic Arabidopsis and rice, Biochem Biophys Res Commu, 450, pp. 794-801, (2014); 
+Munns R., Comparative physiology of salt and water stress, Plant Cell Environ, 25, pp. 239-250, (2002); 
+Scott T.A., Melvin E.H., Determination of dextran with anthrone, Anal Chem, 25, pp. 1656-1661, (1953); 
+Shannon M.C., Adaptation of plants to salinity, Adv Agron, 60, pp. 75-150, (1997); 
+Tester M., Davenport R., Na<sup>+</sup> tolerance and Na<sup>+</sup> transport in higher plants, Ann Bot, 91, pp. 503-527, (2003); 
+Xu Y., Zhou Y., Hong S., Et al., Functional characterization of a wheat NHX antiporter gene TaNHX2 that encodes a K<sup>+</sup>/H<sup>+</sup> exchanger, PLoS One, (2013); 
+Yang W., Liu X.D., Chi X.J., Wu C.A., Li Y.Z., Song L.L., Liu X.M., Wang Y.F., Wang F.W., Zhang C., Et al., Dwarf apple MbDREB1 enhances plant tolerance to low temperature, drought, and salt stress via both ABA-dependent and ABA-independent pathways, Planta, 233, pp. 219-229, (2011); 
+Zeevaart J.A.D., Creelman R.A., Metabolism and physiology of abscisic acid, Annu Rev Plant Physiol Mol Biol, 39, pp. 439-473, (1988); 
+Zhao Q., Zhao Y.J., Zhao B.C., Ge R.C., Li M., Shen Y.Z., Huang Z.J., Cloning and functional analysis of wheat V-H+-ATPase subunit genes, Plant Mol Biol, 69, pp. 33-46, (2009); 
+Zhu J.K., Plant salt tolerance, Trends Plant Sci, 6, pp. 66-71, (2001)#FRF#

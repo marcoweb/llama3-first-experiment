@@ -1,0 +1,53 @@
+#ITI#Estimation of specific yield using water table fluctuations and cropped area in a hardrock aquifer system of Rajasthan, India#FTI#
+#IRE#Assessment of specific yields is important for effective groundwater management in semi-arid hardrock aquifers, especially in India with its unsustainable groundwater usage rates. The Dharta watershed in the Udaipur district of Rajasthan is one such hardrock area in India where the groundwater extraction rate is a concern. In this study, we use groundwater balance analysis to estimate the specific yield (Sy) based on crop irrigation water use and changes in water table depths, during the irrigation season, to develop an understanding of the volume of groundwater recharge from pre and post monsoon water table depths and an understanding of the spatial and temporal changes in estimates of specific yield in the study area. The analysis used here estimates values at village scale (average area 3.65 km2) and is a technique compatible with the farmers monitoring of groundwater levels to facilitate local cooperative groundwater management. Five villages in the Dharta watershed in Rajasthan were selected and 50 wells per village were monitored for water table depth, at weekly intervals, over a two-year period. This resulted in a total of 250 wells in the study area and the monitoring was carried out by local farmer volunteers − called Bhujal Jankaars (BJs), a Hindi word meaning ‘groundwater informed.’ Crop area coverage (with a total of 40 crops) was examined for two years in the study area. Estimates of Sy in the five villages were between 1.4 and 8%, resulting in values comparable with previous studies. The watershed area-weighted average Sy was 3.8%. The method used in this study enabled estimates of recharge without needing a calibrated groundwater model in an area with sparse information on aquifer hydraulic characteristics and unreliable digital elevation maps. © 2018 Elsevier B.V.#FRE#
+#IPC#Groundwater; Hardrock aquifer system; India; Regional specific yield; Semi-arid region; Water balance method; Water table fluctuation method#FPC#
+#IRF#Agoramoorthy G., Chaudhary S., Chinnasamy P., Hsu M.J., Harvesting river water through small dams promote positive environmental impact, Environ. Monit. Assess., 188, 11, (2016); 
+Allen R.G., Pereira L.S., Raes D., Smith M., Et al., Crop Evapotranspiration-Guidelines for Computing Crop Water Requirements-FAO Irrigation and Drainage Paper 56, 300, (1998); 
+Asoka A., Gleeson T., Wada Y., Mishra V., Relative contribution of monsoon precipitation and pumping to changes in groundwater storage in India, Nat. Geosci., 10, 2, pp. 109-117, (2017); 
+Baretto C., Fastovsky D., Sheehan P., A model for integrating the public into scientific research, J. Geosci. Educ., 50, 1, pp. 71-75, (2003); 
+Brossard D., Lewenstein B., Bonney R., Scientific knowledge and attitude change: the impact of a citizen science project, Int. J. Sci. Educ., 27, 9, pp. 1099-1121, (2005); 
+Burke J., Moench, Groundwater and Society: Resources, Tensions and Opportunities. Themes in Groundwater Management for the Twenty-First Century, (2000); 
+Burness H.S., Brill T.C., The role of policy in common pool ground water use, Resour. Energy Econ., 23, pp. 19-40, (2001); 
+Buytaert W., Zulkafli Z., Grainger S., Acosta L., Alemie T.C., Bastiaensen J., De Bievre B., Bhusal J., Clark J., Dewulf A., Foggin M., Citizen science in hydrology and water resources: opportunities for knowledge generation, ecosystem service management, and sustainable development, Front. Earth Sci., 2, (2014); 
+Ground Water Resource Estimation Methodologye1997. Report of the Ground Water Resource Estimation Committee, (1997); 
+Groundwater Scenario: Udaipur District, Rajasthan, (2010); 
+Ministry of Water Resources, Govt. of India, 2011. Dynamic Ground Water Resources of India, (2011); 
+Master Plan for Artificial Recharge to Ground Water in India, (2013); 
+Ground Water Year Book, 2013-14, (2014); 
+Chinnasamy P., Depleting groundwater–an opportunity for flood storage? A case study from part of the Ganges River basin, India, Hydrol. Res., (2016); 
+Chinnasamy P., Agoramoorthy G., Groundwater storage and depletion trends in Tamil Nadu state, India, Water Resour. Manage., pp. 1-14, (2015); 
+Chinnasamy P., Agoramoorthy G., India's groundwater storage trends influenced by tube well intensification, Groundwater, (2016); 
+Chinnasamy P., Hubbart J.A., Agoramoorthy G., Using remote sensing data to improve groundwater supply estimations in gujarat, India’ Earth Interact., 17, 1, pp. 1-17, (2013); 
+Chinnasamy P., Maheshwari B., Prathapar S., Understanding groundwater storage changes and recharge in Rajasthan, India through remote sensing, Water, 7, 10, pp. 5547-5565, (2015); 
+Chinnasamy P., Misra G., Shah T., Maheshwari B., Prathapar S., Evaluating the effectiveness of water infrastructures for increasing groundwater recharge and agricultural production –a case study of Gujarat, India, Agric. Water Manage., 158, pp. 179-188, (2015); 
+Chinnasamy P., Muthuwatta L., Eriyagama N., Pavelic P., Modeling the potential for floodwater recharge to offset groundwater depletion: a case study from the Ramganga basin, India, Sustainable Water Resources Management, (2017); 
+Freeze R.A., Cherry J.A., Groundwater, (1979); 
+GEC-Groundwater Resource Estimation Committee, Ground Water Resource Estimation Methodology. Ministry of Water Resources Report, (2009); 
+GWD, Reappraisal of Ground Water Resources of Udaipur District on 31.03.2007, (2008); 
+Gehman C.L., Harry D.L., Sanford W.E., Stednick J.D., Beckman N.A., Estimating specific yield and storage change in an unconfined aquifer using temporal gravity surveys, Water Resour. Res., 45, 4, (2009); 
+Glover R.E., Transient Groundwater Hydraulics, (1978); 
+Groenfeldt D., Water Ethics: A Values Approach to Solving the Water Crisis, (2013); 
+Hand E., Citizen science: people power, Nature, 466, 7307, pp. 685-687, (2010); 
+Healy R., Cook P., Using groundwater levels to estimate recharge, Hydrol. J., 10, pp. 91-109, (2002); 
+Healy R.W., Cook P.G., Using ground water levels to estimate recharge, Hydrogeol. J., 10, 91, (2002); 
+Hoekstra A.Y., The Water Footprint of Modern Consumer Society, (2013); 
+Howe P.D., Thaker J., Leiserowitz A., Public perceptions of rainfall change in India, Clim. Change, 127, 2, pp. 211-225, (2014); 
+Howle J.F., Phillips S.P., Denlinger R.P., Metzger L.F., Determination of specific yield and water-table changes using temporal microgravity surveys collected during the second injection, storage, and recovery test at Lancaster, Antelope Valley, California, N ovember 1996 through April 1997, Water-Resources Investigations, Report, 03-4019, (2003); 
+Little K.E., Hayashi M., Liang S., Community-based groundwater monitoring network using a citizen-Science approach, Groundwater, 54, 3, pp. 317-324, (2016); 
+Machiwal D., Jha M.K., GIS-based water balance modelling for estimating regional specific yield and distributed recharge in data-scarce hardrock regions, J. Hydro-Environ. Res., 9, 4, pp. 554-568, (2014); 
+Machiwal D., Hydraulic and Geochemical Characterization and Groundwater Prospect of Hardrock Aquifer Systems in Udaipur, Rajasthan, (2009); 
+Maheshwari B., Varua M., Ward J., Et al., The role of transdisciplinary approach and community participation in village scale groundwater management: insights from Gujarat and Rajasthan, India, Water, 6, pp. 3386-3408, (2014); 
+Marechal J.C., Dewandel B., Ahmed S., Galeazzi L., Zaidi F.K., Combined estimation of specific yield and natural recharge in a semi-arid groundwater basin with irrigated agriculture, J. Hydrol., 329, (2006); 
+Martinez-Santos P., Martinez-Alfaro P.E., Estimating groundwater withdrawals in areas of intensive agricultural pumping in central Spain, Agric. Water Manage., 98, 1, pp. 172-181, (2010); 
+NABARD, Review of Methodologies for Estimation of Ground Water Resources in India, (2006); 
+Qureshi A.S., McCormick P.G., Sarwar A., Sharma B.R., Challenges and prospects of sustainable groundwater management in the Indus Basin, Pakistan, Water Resour. Manage., 24, pp. 1551-1569, (2010); 
+Rohde M.M., Edmunds W.M., Freyberg D., Sharma O.P., Sharma A., Estimating aquifer recharge in fractured hard rock: analysis of the methodological challenges and application to obtain a water balance (Jaisamand Lake Basin, India), Hydrol. J., 23, 7, pp. 1573-1586, (2015); 
+Shah T., Roy A.D., Qureshi A.S., Wang J., Sustaining Asia's groundwater boom: an overview of issues and evidence, Nat. Resour. Forum., 27, 2, pp. 130-141, (2003); 
+Shah T., India's master plan for groundwater recharge: an assessment and some suggestions for revision, Econ. Polit. Weekly, pp. 41-49, (2008); 
+Shah T., Taming the Anarchy: Groundwater Governance in South Asia, (2010); 
+Sharma B., Kumari R., Singh R., Schan R.C., Pandeyk S.N., Tewari R.K., Dhyan S.K., Estimation of groundwater recharge potential of Domagor-Pahuj watershed using water table fluctuation method, Nat. Environ. Pollut. Technol., 14, 1, (2015); 
+Siebert S., Burke J., Faures J.M., Frenken K., Hoogeveen J., Doll P., Portmann F.T., Groundwater use for irrigation – a global inventory, Hydrol. Earth Syst. Sci., 14, 10, pp. 1863-1880, (2010); 
+Tomson M.B., Dauchy J., Hutchins S., Curran C., Cook C.J., Ward C.H., Groundwater contamination by trace level organics from a rapid infiltration site, Water Res., 15, 9, pp. 1109-1116, (1981); 
+Touhami I., Andreu J.M., Chirino E., Sanchez J.R., Moutahir H., Pulido-Bosch A., Et al., Recharge estimation of a small karstic aquifer in a semiarid Mediterranean region (southeastern Spain) using a hydrological model, Hydrol. Processes, 27, 2, pp. 165-174, (2013); 
+Varua M.E., Ward J., Maheshwari B., Oza S., Purohit R., Chinnasamy P., Assisting community management of groundwater: irrigator attitudes in two watersheds in Rajasthan and Gujarat, India, J. Hydrol., 537, pp. 171-186, (2016); 
+World Bank, Deep Well and Prudence: Towards Pragmatic Action for Addressing Groundwater Overexploitation in India, (2010)#FRF#

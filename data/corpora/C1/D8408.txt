@@ -1,0 +1,38 @@
+#ITI#Effect of 1-MCP and low-temperature storage on postharvest conservation of camu–camu#FTI#
+#IRE#Camu–camu, a native fruit from the Amazon region, is a rich source of bioactive compounds. However, its intense metabolic activity and high-water content limit the fruit’s postharvest storage and marketing. The aim of this study, conducted in two parts, was to evaluate the effects of 1-MCP and storage temperature on the physiology and postharvest preservation of camu–camu fruit. In part 1 of the study, fruit harvested at maturity stage 3 were divided into groups: control, 1-methylcyclopropene (1-MCP; 900 nL L−1; 12 h) and ethylene (1000 µL L−1; 24 h) and were stored at 22 ± 1 °C and 85 ± 5% RH for 9 days. In part 2, fruit harvested at maturity stage 3 were stored at 5, 10, 15, 20, or 25 ± 1 °C and 85 ± 5% RH for 9 days. During storage, fruit were evaluated daily for decay, mass loss, respiratory activity, and ethylene production, and every 3 days they were evaluated for peel color, pulp firmness, soluble solids content, total titratable acidity, ascorbic acid, total chlorophyll, and total anthocyanins. Fruit treated with 1-MCP exhibited delayed ripening due to lower metabolic activity, as evidenced by delay to softening, reduced mass loss and no decay. Storage at 5 °C prevented ethylene production, mass loss, color changes, and maintained pulp firmness, while did not affect soluble solids content. The results indicated that storage of camu–camu fruit at 5 °C or at 25 °C following application of 900 nL L−1 1-MCP were effective strategies to delay ripening and maintain fruit quality up to 9 days. © 2018, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#1-Methylcyclopropene; Myrciaria dubia; Preservation; Ripening#FPC#
+#IRF#Akter M.S., Oh S., Eun J.B., Ahmed M., Nutritional compositions and health promoting phytochemicals of camu-camu (Myrciaria dubia) fruit: a review, Food Res Int, 44, pp. 1728-1732, (2011); 
+Alexander L., Grierson D., Ethylene biosynthesis and action in tomato: a model for climacteric fruit ripening, J Exp Bot, 53, pp. 2039-2055, (2002); 
+Alves R.E., Almeida H., Filgueiras C., Et al., Camu-Camu (Myrciaria dubia Mc Vaugh): a rich natural source of vitamin C, Proc Interamer Soc Trop Hort Fruit, 46, pp. 11-13, (2002); 
+Andrade J.S., Galeazzi M.A.M., Aragao C.G., Chavez Flores W.B., Valor nutricional do camu-camu (Myrciaria dubia (H.B.K.) McVaugh) cultivado em terra firme na Amazônia central, Rev Bras Frutic, 13, pp. 307-311, (1991); 
+Andrade J.S., Silveira J.S., Ferreira S.A.N., Brasil J.E.B., Effects of ripeing stage and environment conditions on stored postharvest camu-camu (Myrciaria dubia McVaugh) fruits, Acta horticulturae, pp. 423-429, (2010); 
+Blankenship S.M., Dole J.M., 1-Methylcyclopropene: a review, Postharvest Biol Technol, 28, (2003); 
+Campos R.P., Knoch B., Hiane P.A., Et al., 1-MCP em mangabas armazenadas em temperatura ambiente e a 11°C, Rev Bras Frutic, 2011, (2011); 
+Carrillo M.P., Hernandez M.S., Cardona J.E.C., Et al., Prolonging postharvest quality of camu-camu (Myrciaria dubia) as the first step in the commercial chain, Acta Horticulturae, (2011); 
+Carvalho C.R.L., Mantovani D.M.B., Carvalho P.R.N., Moraes R.M.M., Análises químicas de alimentos, (1990); 
+Cerqueira T.S., Jacomino A.P., Sasaki F.F., Amorim L., Controle do amadurecimento de goiabas “Kumagai” tratadas com 1-metilciclopropeno, Rev Bras Frutic, 31, (2009); 
+Cheng Y., Liu L., Yuan C., Guan J., Molecular characterization of ethylene-regulated anthocyanin biosynthesis in plums during fruit ripening, Plant Mol Biol Rep, 34, (2016); 
+Chitarra A.B., Chitarra M.I.F., Pós-colheita de frutas e hortaliças: fisiologia e manuseio, (2005); 
+Doll Hojo E.T., de Abreu C.M.P., Asmar S.A., Et al., Avaliação da qualidade de manga “Palmer” tratada com 1-metilciclopropeno e armazenada sob refrigeração e condição ambiente, Rev Bras Frutic, 31, (2009); 
+Dong L., Lurie S., Zhou H.-W., Effect of 1-methylcyclopropene on ripening of “Canino” apricots and “Royal Zee” plums, Postharvest Biol Technol, 24, (2002); 
+Fan X., Blankenship S.M., Mattheis J.P., 1-Methylcyclopropene inhibits apple ripening, J Am Soc Hortic Sci, 124, (1999); 
+Fioravanco J.C., Paiva M.C., Bizzani E., Ethephon na antecipação da colheita e qualidade da ameixa cv. Reubennel, Sci Agrar, 8, (2007); 
+Lee J., Durst R.W., Wrolstad R.E., Determination of total monomeric anthocyanin pigment content of fruit juices, beverages, natural colorants, and wines by the pH differential method: collaborative study, J AOAC Int, 88, (2005); 
+Lichtenthaler H.K., Chlorophylls and carotenoids: pigments of photosynthetic biomembranes, Methods Enzymol, 148, (1987); 
+Liu M., Song C.Z., Chi M., Et al., The effects of light and ethylene and their interaction on the regulation of proanthocyanidin and anthocyanin synthesis in the skins of Vitis vinifera berries, Plant Growth Regul, 79, pp. 377-390, (2016); 
+Maeda R.N., Andrade J.S., Aproveitamento do camu-camu (Myrciaria dubia) para produção de bebida alcoólica fermentada, Acta Amaz, 33, pp. 489-498, (2003); 
+Manganaris G.A., Vicente A.R., Crisosto C.H., Labavitch J.M., Effect of delayed storage and continuous ethylene exposure on flesh reddening of “Royal Diamond” plums, J Sci Food Agric, 88, (2008); 
+de Morais P.L.D., Lima L.C., dede Miranda O., Et al., Enzyme activities and pectin breakdown of sapodilla submitted to 1-methylcyclopropene. Pesqui, Agropecuária Bras, 43, pp. 15-20, (2008); 
+Myoda T., Fujimura S., Park B., Et al., Antioxidative and antimicrobial potential of residues of camu-camu juice production, J Food Agric Environ, 8, (2010); 
+Nath P., Bouzayen M., Mattoo A.K., Et al., Fruit ripening: physiology, signalling and genomics, (2014); 
+de Oliveira J., Silva I.G., da Silva P.P.M., Spoto M.H.F., Atmosfera modificada e refrigeração para conservação pós-colheita de camu-camu, Ciência Rural, 44, pp. 1126-1133, (2014); 
+Petroni K., Tonelli C., Recent advances on the regulation of anthocyanin synthesis in reproductive organs, Plant Sci, 181, pp. 219-229, (2011); 
+Pinto P.M., Jacomino A.P., Silva S.R., Wippich C.A., Ponto de colheita e maturação de frutos de camu-camu colhidos em diferentes estádios, Pesq Agropec Bras, 48, pp. 605-612, (2013); 
+Ribeiro S.I., Mota M.G.C., Correa M.L.P., Recomendações para o cultivo do camucamuzeiro no estado do Pará, (2002); 
+Rufino M., Alves S.M., de Brito R.E., Et al., Bioactive compounds and antioxidant capacities of 18 non-traditional tropical fruits from Brazil, Food Chem, 121, pp. 996-1002, (2010); 
+Severo J., Lima C.S.M., Coelho M.T., Et al., Atividade antioxidante e fitoquímicos em frutos de Physalis (Physalis peruviana, L.) durante o amadurecimento e o armazenamento, Rev Bras Agrociências, 16, pp. 77-82, (2010); 
+Wang B., Wang J., Feng X., Et al., Effects of 1-MCP and exogenous ethylene on fruit ripening and antioxidants in stored mango, Plant Growth Regul, 57, pp. 185-192, (2009); 
+Watkins C.B., The use of 1-methylcyclopropene (1-MCP) on fruits and vegetables, Biotechnol Adv, 24, pp. 389-409, (2006); 
+Whale S.K., Singh Z., Endogenous ethylene and color development in the skin of “pink lady” apple, J Amer Soc Hort Sci, 132, pp. 20-28, (2007); 
+Yuyama K., A cultura de camu-camu no Brasil, Rev Bras Frutic, 33, pp. 335-690, (2011); 
+Zambolim L., Costa H., Ventura J.A., Vale F.X.R., Controle de doenças em pós-colheita de frutas tropicais, Manejo integrado: fruteiras tropicais—doenças e pragas, pp. 443-512, (2002)#FRF#

@@ -1,0 +1,47 @@
+#ITI#Silicon mediated improvement in agronomic traits, physiological parameters and fiber content in Oryza sativa#FTI#
+#IRE#Silicon, a quasi-essential element that is often associated with rigidity and hardiness is an alleviator of biotic and abiotic stresses. Lodging affects the ability of plants especially cereal plants such as rice, Oryza sativa to grow upright, thus reducing yield and increasing harvesting costs. Bending or lodging resistance could be increased by strengthening the rice culm. Here, we tested stage and method of silicon application, each with three levels of treatments to find the right combination to enhance yield and lodging resistance in MR219, a popular rice variety in Malaysia. Application of silicon at the onset of reproductive stage via topdressing improved agronomic and physiological parameters. Plants applied with Si at the reproductive stage by means of topdressing showed a significantly higher leaf area. Number of tillers, weight per panicle and weight of 100 grains were significantly higher when silicon was applied as topdressing at the reproductive stage. Number of spikelets per panicle was significantly higher when silicon was supplied as topdressing or soil incorporation. Percentage of filled spikelets was significantly higher when silicon supplementation was done as topdressing at either reproductive or maturity stages. Mode of application which favoured the increase in soluble lignin and neutral detergent fiber was topdressing and soil incorporation. Meanwhile, cellulose and acid detergent lignin was highest when silicon was applied at the reproductive and maturity stages. Application of silicon at the reproductive stage by means of topdressing was effective in improving growth, yield and stem strength of the rice plant since the method has higher retention time and has residual effect. Foliar application was deemed unsuitable as it can only be applied in minimal amount while showing a temporary effect. © 2020, The Author(s).#FRE#
+#IPC#Plant nutrition; Rice; Silicon; Yield#FPC#
+#IRF#Arnon D.I., Stout P.R., The essentiality of certain elements in minute quantity for plants with special reference to copper, Plant Physiol, 14, pp. 371-375, (1939); 
+Brinkmann K., Blaschke L., Polle A., Comparison of different methods for lignin determination as a basis for calibration of near-infrared reflectance spectroscopy and implications of lignoproteins, J Chem Ecol, 28, pp. 2483-2501, (2002); 
+Chang S.J., Tzeng D.D.S., Li C.C., Effect of silicon nutrient on bacterial blight resistance of rice (Oryza sativa L.), Second silicon in agriculture conference, pp. 31-33, (2002); 
+Chaoming Z., Jianfei L., Liping C., Yield effects on the application of silicon fertilizer early hybrid rice, J Artic, 2, pp. 79-80, (1999); 
+Chapin F.S., Eviner V.T., Biogeochemistry of terrestrial net primary production, Treatise Geochem, 8, pp. 1-35, (2007); 
+Coombs J., Hall O.O., Long S.P., Scurlock J.M.O., Techniques in bioproductivity and photosynthesis, (1985); 
+Datnof L.E., Rodrigues F.A., The role of silicon in suppressing rice diseases, Apsnet Features, (2005); 
+Dorairaj D., Ismail M.R., Distribution of silicified microstructures, regulation of cinnamyl alcohol dehydrogenase and lodging resistance in silicon and paclobutrazol mediated oryza sativa, Front Physiol, 8, (2017); 
+Dorairaj D., Ismail M.R., Sinniah U.R., Tan K.B., Influence of silicon on growth, yield and lodging resistance of MR219, a lowland rice of Malaysia, J Plant Nutr, 40, 8, pp. 1111-1124, (2017); 
+Dyckmans J., Flessa H., Brinkmann K., Mai C., Polle A., Carbon and nitrogen dynamics in acid detergent fibre lignins of beech (Fagus sylvatica L.) during the growth phase, Plant Cell Environ., 25, pp. 469-478, (2002); 
+Epstein E., Silicon, Annu Rev Plant Physiol Plant Mol Biol, 50, pp. 641-664, (1999); 
+Epstein E., Bloom A.J., Mineral nutrition of plants: principles and perspectives, (2003); 
+Fageria N.K., Barbosa F.M.P., Moreira A., Guimaraes C.M., Foliar fertilization of crop plants, J Plant Nutr, 32, 6, pp. 1044-1064, (2009); 
+Gholami Y., Falah A., Effects of two different sources of silicon on dry matter production, yield and yield components of rice, Tarom Hashemi variety and 843 Lines, Int J Agric Crop Sci, 5, pp. 227-231, (2013); 
+Girma K., Martin K.L., Freeman K.W., Mosali J., Teal R.K., Raun W.R., Moges S.M., Arnall D.B., Determination of optimum rate and growth for foliar applied phosphorus in corn, Commun Soil Sci Plant Anal, 38, pp. 1137-1154, (2007); 
+Haynes R.J., Belyaeva O.N., Kingston G., Evaluation of industrial wastes as sources of fertilizer silicon using chemical extractions and plant uptake, J Plant Nutr Soil Sci, 176, pp. 238-248, (2013); 
+Hitaka H., Studies on the lodging of rice plants, Jpn Agric Res Q, 4, 3, pp. 1-6, (1969); 
+Huang Y.L., Morphological factors and control techniques of lodging in wheat, Jiangsu Agric Sci, 10, pp. 5-8, (1988); 
+Jones L., Ennos A.R., Turner S.R., Cloning and characterization of irregular xylem4 (irx4): a severely lignin-deficient mutant of Arabidopsis, Plant J, 26, pp. 205-216, (2001); 
+Kaack K., Schwarz K.U., Morphological and mechanical properties of Miscanthus in relation to harvesting, lodging, and growth conditions, Ind Crops Prod, 14, pp. 145-154, (2001); 
+Kashiwagi T., Sasaki H., Ishimaru K., Factors responsible for decreasing sturdiness of the lower part in lodging of rice (Oryza sativa L.), Plant Prod Sci, 2, pp. 166-172, (2005); 
+Kono M., Physiological aspects of lodging, Science of the rice plant, 2, pp. 971-982, (1995); 
+Kumleh S.A., Kavossi M., Evaluation of interaction of silica and phosphorous on the growth and grain yield of rice (Oryza sativa L.), Iran J Agric Sci, 35, 3, pp. 581-586, (2003); 
+Lau E., Goldoftas M., Baldwin V.D., Dayanandan P., Srinivasan J., Kaufman P.B., Structure and localization of silica in the leaf and internodal epidermal system of the marsh grass, Phragmites australis, Can J Bot, 56, pp. 1096-1107, (1978); 
+Lawlor D.W., Photosynthesis, (2001); 
+Li Q.Q., Creation, evaluation and utilization of winter wheat germplasm, pp. 203-219, (1998); 
+Ma J.F., Takashashi E., Soil, fertilizer, and plant silicon research in Japan, (2002); 
+Ma J.F., Yamaji N., Silicon uptake and accumulation in higher plants, Trends Plant Sci, 11, pp. 392-397, (2006); 
+Ma J., Nishimura K., Takahashi E., Effect of silicon on the growth of rice plant at different growth stages, Soil Sci Plant Nutr, 35, pp. 347-356, (1989); 
+Meena V.D., Dotaniya M.L., Vassanda C., Rajendiran S., Kundu A.S., Rao A.S., A case for silicon fertilization to improve crop yields in tropical soils, Proc Natl Acad Sci India B, 84, pp. 505-518, (2014); 
+Mitani N., Ma J.F., Uptake system of silicon in different plant species, J. Exp. Bot., 56, pp. 1255-1261, (2005); 
+Ning D.F., Song A., Fan F.L., Li Z.J., Liang Y.C., Effects of slag-based silicon fertilizer on rice growth and brown-spot resistance, PLoS One, 9, 7, (2014); 
+Romero-Aranda M.R., Jurado O., Cuartero J., Silicon alleviates the deleterious salt effect on tomato plant growth by improving plant water status, J Plant Physiol, 163, pp. 847-855, (2006); 
+Takahashi E., Ma J.F., Miyake Y., The possibility of silicon as an essential element for higher plants, Comments Agric Food Chem, 2, pp. 99-122, (1990); 
+Tamai K., Ma J.F., Reexamination of silicon effects on rice growth and production under field conditions using a low silicon mutant, Plant Soil, 307, pp. 21-27, (2008); 
+Tanaka K., Murata K., Yamazaki M., Onosato K., Miyao A., Hirochika H., Three distinct rice cellulose synthase catalytic subunit genes required for cellulose synthesis in the secondary wall, Plant Physiol, 133, pp. 73-83, (2003); 
+Taylor N.G., Scheible W.-R., Cutler S., Somerville C.R., Turner S.R., The irregular xylem3 locus of Arabidopsis encodes a cellulose synthase required for secondary cell wall synthesis, Plant Cell, 11, pp. 769-779, (1999); 
+Trenholm L.E., Datnoff L.E., Nagata R.T., Influence of silicon on drought and shade tolerance of St. Augustine grass, Hortic Technol, 14, 4, pp. 487-490, (2004); 
+Tubana B., Narayanaswamy C., Lofton J., Kanke Y., Dalen M., Datnoff L., Impact of silicon fertilization to sugarcane grown on alluvial soils in Louisiana, J Am Soc Sugar Cane Tech, 32, (2012); 
+Van Soest P.J., Robertson J.B., Lewis B.A., Methods for dietary fiber, neutral detergent fiber, and nonstarch polysaccharides in relation to animal nutrition, J Dairy Sci, 74, pp. 3583-3597, (1991); 
+Wang J., Zhu J.M., Lin Q.Q., Li X.J., Teng N.J., Li Z.H.S.H., Li B., Zhang A.M., The effect of the anatomical structure and chemical components of the culm on lodging resistance in wheat, Sci Bull, 51, 5, pp. 1-7, (2006); 
+Xie X.J., Shen S.H.H., Li Y.X., Zhao X.Y., Li B.B., Xu D.F., Effect of photosynthetic characteristic and dry matter accumulation of rice under high temperature at heading stage, Afr J Agric Res, 6, 7, pp. 1931-1940, (2011); 
+Yang J., Zhang J., Wang Z., Zhu Q., Liu L., Water-deficit induced senescence and its relationship to the remobilization of pre-stored carbon in wheat during grain filling, Agron J, 93, pp. 120-196, (2001); 
+Yoshida S., Physiological analysis of rice yield. In: Fundamentals of rice crop science, pp. 231-251, (1981)#FRF#

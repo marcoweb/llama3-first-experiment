@@ -1,0 +1,57 @@
+#ITI#The effect of natural and artificial fruit dehiscence on floss properties, seed germination and protein expression in Calotropis procera#FTI#
+#IRE#A method was established, based on artificial fruit dehiscence, to collect seeds and silk fibers of C.procera without any loss. The seeds and floss obtained by this method were compared with those collected naturally. Natural fruit dehiscence caused a marked decrease in seeds and fibers yielded from C. procera. The seeds and fibers obtained under artificial fruit dehiscence were approximately sixfold higher than those obtained under natural fruit dehiscence. Furthermore, the application of artificial fruit dehiscence treatment had further advantages, such as a decrease in fiber diameter, and an increase in fiber density and cellulose content. However, this treatment had a slight negative impact on seed biomass and fiber birefringence. Fiber length, lignin and ash content of fibers were not affected by artificial fruit dehiscence. Seed germinability and seedling biomass were slightly decreased following application of artificial fruit dehiscence in comparison with natural fruit dehiscence. A significant difference was observed between the two treatments in amylase activity, soluble sugars and protein content. Some variation in protein expression was also apparent. Artificial fruit dehiscence lowered the expression of the short chain dehydrogenase, elongation factor 1-alpha, and peptidyl-prolyl cis–trans isomerase in comparison with natural dehiscence. Conversely, the expression of chitinase was enhanced in response to the artificial fruit dehiscence. Two conserved protein regions (prrl and vvet) were also observed. © 2015, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Amylase; Birefringence; Cellulose; Fibers; Fruit dehiscence; Germination; Protein expression#FPC#
+#IRF#Abdul-Baki A.A., Metabolism of barley seed during early hours of germination, Plant Physiol, 44, pp. 733-738, (1969); 
+Agu C.V., Njoku O.U., Chilaka F.C., Okorie S.A., Agbiogwu D., Physico-chemical characterization of lignocellulosic fibre from Ampelocissus cavicaulis, IJBAS-IJENS, 12, pp. 68-77, (2012); 
+Ahirwar J.R., Effect of seed size and weight on seed germination of Alangium lamarckii, Akola, India, Res J Recent Sci, 1, pp. 320-322, (2012); 
+Albalasmeh A.A., Berhe A.A., Ghezzehei T.A., A new method for rapid determination of carbohydrate and total carbon concentrations using UV spectrophotometry, Carbohyd Polym, 97, pp. 253-261, (2013); 
+Barbosa M.O., de Almeida-Cortez J.S., da Silva S.I., de Olivera A.F.M., Seed oil content and fatty acid composition from different populations of Calotorpis procera (Aiton) W.T Aiton (Apocynaceae), J Am Oil Cem Soc, 91, pp. 1433-1441, (2014); 
+Bradford M.M., A dye binding assay for protein, Anal Biochem, 72, pp. 248-254, (1976); 
+Buysschaert G., Verstraete K., Savvides S.N., Vergauwen B., Structural and biochemical characterization of an atypical short-chain dehydrogenase/reductase reveals an unusual cofactor preference, FEBS J, 280, pp. 1358-1370, (2013); 
+Chow P.S., Landhausser S.M., A method for routine measurements of total sugar and starch content in woody plant tissues, Tree Physiol, 24, 10, pp. 1129-1136, (2004); 
+de Morais G.A., Takaki M., Determination of amylase activity in cotyledons of Phaseolus vulgaris L. cv. Carioca, Braz Arch Biol Techn, 41, pp. 7-25, (1998); 
+Desai B.B., Kotecha P.M., Salunkhe D.K., Seeds handbook: biology, production, processing and storage, (1997); 
+Ehrnrooth E.M.L., Change in pulp fiber density with acid-chlorite delignification, J Wood Chem and Techn, 4, pp. 91-109, (1984); 
+Erdman M.D., Erdman B.A., Calotropis procera as a source of plant hydrocarbons, Econ Bot, 35, pp. 467-472, (1981); 
+Ferrandiz C., Regulation of fruit dehiscence in Arabidopsis, J Exp Bot, 53, pp. 2031-2038, (2002); 
+Frieden C., ApoE: the role of conserved residues in defining function, Protein Sci, 24, pp. 138-144, (2015); 
+Galal T.M., Farahat E.A., El-midany M.M., Hassan L.M., Effect of temperature, salinity, light and time of dehiscence on seed germination and seedling morphology of Calotropis procera from urban habitats, Afr J Biotechn, 14, pp. 1275-1282, (2015); 
+Gamiely S., Smittle D.A., Mills H.A., Banna G.I., Onion weed size, weight, and elemental content affect germination and bulb yield, HortScience, 25, 5, pp. 522-523, (1990); 
+Gujjaiah S., Kumara C., Evaluation of changes in α-amylase, β-amylase and protease during germination of cereals, Int J Agri Sci Res (IJASR), 3, pp. 55-62, (2013); 
+Hai A., Kizilbash N.A., Alruwaili J., Proteomics technology as an investigative tool in plant, Global Adv Res J Biotechn, 2, 2, pp. 013-016, (2013); 
+Hameed A., Gul A., Gulzar T., Characterization of tomato germplasm through seed storage protein profiling by SDS-PAGE, Pak J Bot, 46, 3, pp. 827-832, (2014); 
+Hamza A.A., Ghander A.M., Sokkar T.Z.N., Mabrouk M.A., Ramadan W.A., On the determination of the refractive index of a fiber II. Graded index fiber, Pure Appl Opt, 4, pp. 161-177, (1995); 
+He L., Burris J.S., Respiration and carbohydrate metabolism during germination of sh2 and sh2 sweet corn seed, HortScience, 27, 12, pp. 1306-1308, (1992); 
+Hindi S.Z.,  Calotropis procera: the miracle shrub in the Arabian Peninsula, Int J Sci Eng Invest, 2, pp. 48-57, (2013); 
+Ibrahim A.H., Tolerance and avoidance responses to salinity and water stresses in Calotropis procera and Suaeda aegyptiaca, Turk J Agric For, 37, pp. 352-360, (2013); 
+Ibrahim A.H., Parental drought and defoliation effect on yield, grains biochemical aspects and drought performance of sorghum progeny, J Stress Physiol Biochem, 9, 1, pp. 258-272, (2013); 
+K'Opondo F.B.O., Influence of drying method and fruit position on the mother plant on seed quality of spider plant (Cleome gynandra L.). Morphotypes from western Kenya, Adv Appl Sci Res, 2, 3, pp. 74-83, (2011); 
+Kashem M.A., Sultana N., Samanta S.C., Kamal A.M.A., Starch sugars, amylase and invertase activity in the germinating seeds of modern wheat varieties, J Nat Sci Coun Sri Lanka, 23, pp. 55-61, (1995); 
+Kromina K.A., Ignatov A.N., Abdeeva I.A., Review: Role of peptidyl-prolylcis cis/trans-isomerases in pathologic processes, Biochem (Moscow) Suppl Ser A Membr Cell Biol, 2, pp. 243-251, (2008); 
+Laemmli U.K., Cleavage of structural proteins during the assembly of the head of bacteriophage T4, Nature, 227, 5259, pp. 680-685, (1970); 
+Liogier H.A., Descriptive flora of Puerto Rico and adjacent islands. Editorial de la Universidad de Puerto Rico, San Juan, PR, 4, (1995); 
+Maldini M., Natella F., Baima S., Morelli G., Scaccini C., Langridge J., Astarita G., Untargeted metabolomics reveals predominant alterations in lipid metabolism following light exposure in Broccoli sprouts, Int J Mol Sci, 16, pp. 13678-13691, (2015); 
+Naguib M.I., Effect of sevin on the carbohydrate and nitrogen metabolism during the germination of cotton seeds, Ind J Exp Biol, 2, pp. 149-152, (1964); 
+Nathan R., Katul G., Bohrer G., Kuparinen A., Soons M.B., Thompson S.E., Trakhtenbrot A., Horn H.S., Mechanistic models of seed dispersal by wind, Theor Ecol, 4, pp. 113-132, (2011); 
+Palapol Y., Kunyamee S., Thongkhumc M., Ketsac S., Fergusonf I.B., van Doorng W.G., Expression of expansin genes in the pulp and the dehiscence zone of ripening durian (Durio Zibethinus) fruit, J Plant Physiol, 182, pp. 33-39, (2015); 
+Payal C., Sharma R.A., An overview on giant milkweed (Calotropis procera (Ait.) Ait. f.), J Plant Sci, 3, pp. 19-23, (2015); 
+Pejic B.M., Kostic M.M., Skundric P.D., Petar D., Praskalo J.Z., The effects of hemicelluloses and lignin removal on water uptake behavior of hemp fibers, Bioresour Technol, 99, 15, pp. 7152-7159, (2008); 
+Perkins D.N., Pappin D.J., Creasy D.M., Cottrell J.S., Probability-based protein identification by searching sequence databases using mass spectrometry data, Electrophoresis, 20, pp. 3551-3567, (1999); 
+Raimi O.G., Olaitan S.N., Fajana O.O., Sanni J.O., Effect of germination time on fat and protein contents, and α-amylase activity of Guinea Corn (Sorghum vulgare), Pak J Food Sci, 22, 2, pp. 86-89, (2012); 
+Rajeswari J., Ramakrishna R.P., Storage protein degradation in germinating horse gram seeds, Indian J Plant Physiol, 7, pp. 314-320, (2002); 
+Riazi A., Matsuda K., Arslan A., Water stress-induced changes in concentrations of proline and other solutes in growing regions of young barley leaves, J Exp Bot, 36, pp. 1716-1725, (1985); 
+Schmid F.X., Frech C., Scholz C., Et al., Catalyzed and assisted protein folding of ribonuclease T1, Biol Chem, 377, pp. 417-424, (1996); 
+Seagull R.S., Oliveri V., Murphy K., Binder A., Kothari S., Cotton fiber growth and development 2. Changes in cell diameter and wall birefringence, J Cotton Sci, 4, pp. 97-104, (2000); 
+Sebastiani F.L., Farrell L.B., Vasquez M., Beachy R.N., Conserved amino acid sequences among plant proteins sorted to protein bodies and plant vacuoles. Can they play a role in protein sorting?, Eur J Biochem, 199, pp. 441-450, (1991); 
+Sharma S., Amritphale D., Light environment in pre- and post-dehiscent fruits affects seed germination in Calotropis procera, Environ Exp Bot, 62, pp. 45-53, (2008); 
+Sokkar T.Z.N., Ramadan W.A., Shams El-Din M.A., Wahba H.H., Aboleneen S.S., Bent induced refractive index profile variation and mode field distribution of step-index multimode optical fiber, Opt Laser Eng, 53, pp. 133-141, (2014); 
+Sriyook S., Siriatiwat S., Siriphanich J., Durian fruit dehiscence—water status and ethylene, HortScience, 29, 10, pp. 1195-1198, (1994); 
+Tian B., Xie B., Shi J., Wu J., Cai Y., Xu T., Xue S., Deng Q., Physicochemical changes of oat seeds during germination, Food Chem, 119, pp. 1195-1200, (2010); 
+Tuntawiroon N., Samootsakorn P., Theeraraj G., The environmental implications of the use of Calotropis gigantea as a textile fabric, Agr Ecosyst Environ, 11, pp. 203-212, (1984); 
+Ursin V.M., Irvine J.M., Hiatt W.R., Shewmaker C.K., Developmental analysis of elongation Factor- Iα expression in transgenic tobacco, Plant Cell, 3, pp. 583-591, (1991); 
+Varshney A.C., Bhoi K.L., Some possible industrial properties of Calotropis procera (Aak) floss fiber, Biol Waste, 22, pp. 157-161, (1987); 
+Varshney A.C., Bhoi K.L., Cloth from bast fibre of the Calotropis procera (Aak) plant, Biol Waste, 26, pp. 229-232, (1988); 
+Venkatesh G.M., Dweltz N.E., Birefringence of native, alkali-swollen, and crosslinked cotton fibers, J Appl Polym Sci, 20, pp. 273-277, (1976); 
+Ververis C., Georghiou K., Danielidis D., Hatzinikolaou D.G., Santas P., Santas R., Corleti V., Cellulose, hemicelluloses, lignin and ash content of some organic materials and their suitability for use as paper pulp supplements, Bioresour Technol, 98, pp. 296-301, (2007); 
+Wang Q., Zhang Y., Hou Y., Wang P., Zhou S., Ma X., Zhang N., Purification, characterization of a CkChn134 protein from Cynanchum komarovii seeds and synergistic effect with CkTLP against Verticillium dahlia, Protein Sci, 21, pp. 865-875, (2012); 
+Wender N.J., Polisetty C.R., Donohue K., Density-dependent processes influencing the evolutionary dynamics of dispersal: A functional analysis of seed dispersal in Arabidopsis thaliana (Brassicaceae), Am J Bot, 92, 6, pp. 960-971, (2005)#FRF#

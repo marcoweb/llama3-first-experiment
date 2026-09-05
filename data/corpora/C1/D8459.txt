@@ -1,0 +1,53 @@
+#ITI#Post-harvest banana peel splitting as a function of relative humidity storage conditions#FTI#
+#IRE#Peel splitting is a major physiological disorder affecting post-harvest banana quality. This phenomenon occurs only 3–6 days after ripening induction in specific cultivars such as cv. 925 when stored in saturating humidity conditions. In these conditions, Cavendish cultivars (Grande Naine, cv. GN) are not susceptible to splitting. Cvs. 925 and GN were thus investigated to detect possible determinants associated with splitting. Splitting intensity was tentatively found to be associated with an inverse water flux at high relative humidity (RH) through an osmotic peel to pulp water flux resulting from the higher sugar content in the pulp than in the peel. Rheological properties were measured, and although the peel resistance and elasticity in cv. 925 were surprisingly higher than in cv. GN, saturating humidity conditions (100 % RH) substantially reduced the peel resistance. However, the peel epicuticular wax in cv. 925 was clearly thinner than that in cv. GN, thus leading to limitation of peel hydration in cv. GN. Peel splitting in cv. 925 was also associated with a boost in respiration, an increase in oxidative stress markers (H2O2), resulting in an increase in cellular damage markers (MDA, PEL). Overall, our results suggest that peel splitting at high RH in cv. 925 is related to fast decrease peel water content and the induction of high oxidative stress damage. © 2016, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Banana; Humidity; Peel; ROS; Splitting; Wax#FPC#
+#IRF#Aebi H., Catalase in vitro, Methods Enzymol, 105, pp. 121-126, (1984); 
+Banks N.H., Some effects of TAL pro-long coating on ripening bananas, J Exp Bot, 35, pp. 127-137, (1984); 
+Banks N.H., Studies of the banana fruit surface in relation to the effects of TAL Pro-long coating on gaseous exchange, Sci Hortic, 24, pp. 279-286, (1984); 
+Bargel H., Neinhuis C., Tomato (Lycopersicon esculentum Mill.) fruit growth and ripening as related to the biomechanical properties of fruit skin and isolated cuticle, J Exp Bot, 56, pp. 1049-1060, (2005); 
+Bargel H., Koch K., Cerman Z., Neinhuis C., Evans Review No. 3: Structure–function relationships of the plant cuticle and cuticular waxes—a smart material?, Funct Plant Biol, 33, pp. 893-910, (2006); 
+Bugaud C., Chillet M., Beaute M.P., Dubois C., Physicochemical analysis of mountain bananas from the French West Indies, Sci Hortic, 108, pp. 167-172, (2006); 
+Bugaud C., Ocrisse G., Salmon F., Rinaldo D., Bruise susceptibility of banana peel in relation to genotype and post-climacteric storage conditions, Postharvest Biol Technol, 87, pp. 113-119, (2014); 
+Burdon J., Moore K., Wainwright H., The peel of plantain and cooking banana fruits, Ann Appl Biol, 123, pp. 391-402, (1993); 
+Burdon J., Dori S., Lomaniec E., Marinansky R., Pesis E., The post-harvest ripening of water stressed banana fruits, J Hortic Sci, 69, pp. 799-804, (1994); 
+Cheng G., Duan X., Yang B., Jiang Y., Lu W., Luo Y., Jiang W., Effect of hydroxyl radical on the scission of cellular wall polysaccharides in vitro of banana fruit at various ripening stages, Acta Physiol Plant, 30, pp. 257-263, (2008); 
+Chillet M., de Lapeyre de Bellaire J., Hubert O., Measurement of banana green life, Fruits, 63, pp. 125-127, (2008); 
+Dhindsa R.S., Plumb-Dhindsa P., Thorpe T.A., Leaf senescence: correlated with increased levels of membrane permeability and lipid peroxidation, and decreased levels of superoxide dismutase and catalase, J Exp Bot, 32, pp. 93-101, (1981); 
+Dumville J., Fry S., Solubilisation of tomato fruit pectins by ascorbate: a possible non-enzymic mechanism of fruit softening, Planta, 217, pp. 951-961, (2003); 
+Fernandes K., Carvalho V.D., Cal-Vidal J., Physical changes during ripening of silver bananas, J Food Sci, 44, pp. 1254-1255, (1979); 
+Fry S.C., Miller J.G., Dumville J.C., A proposed role for copper ions in cell wall loosening, Plant Soil, 247, pp. 57-67, (2002); 
+Ganry J., Meyer J., Recherche d’une loi d’action de la temperature sur la croissance des fruits du bananier, Fruits, 30, 6, pp. 375-392, (1975); 
+Gibert C., Chadoeuf J., Nicot P., Vercambre G., Genard M., Lescourret F., Modelling the effect of cuticular crack surface area and inoculum density on the probability of nectarine fruit infection by Monilinia laxa, Plant Pathol, 58, pp. 1021-1031, (2009); 
+Happi Emaga T., Andrianaivo R.H., Wathelet B., Tchango J.T., Paquot M., Effects of the stage of maturation and varieties on the chemical composition of banana and plantain peels, Food Chem, 103, pp. 590-600, (2007); 
+Huang H., Gao F., Huang X., Wang H., Li J., An overview of litchi fruit cracking, I International Symposium on Litchi and Longan, 558, pp. 205-208, (2000); 
+Jiang Y., Joyce D., Jiang W., Lu W., Effects of chilling temperatures on ethylene binding by banana fruit, Plant Growth Regul, 43, pp. 109-115, (2004); 
+Johnson B.E., Brun W., Stomatal density and responsiveness of banana fruit stomates, Plant Physiol, 41, pp. 99-101, (1966); 
+Kallarackal J., Milburn J., Baker D., Water relations of the banana. III. Effects of controlled water stress on water potential, transpiration, photosynthesis and leaf growth, Funct Plant Biol, 17, pp. 79-90, (1990); 
+Kampfenkel K., Vanmontagu M., Inze D., Extraction and determination of ascorbate and dehydroascorbate from plant tissue, Anal Biochem, 225, pp. 165-167, (1995); 
+Khadivi-Khub A., Physiological and genetic factors influencing fruit cracking, Acta Physiol Plant, 37, pp. 1-14, (2015); 
+Knoche M., Peschel S., Water on the surface aggravates microscopic cracking of the sweet cherry fruit cuticle, J Am Soc Hortic Sci, 131, pp. 192-200, (2006); 
+Knoche M., Peschel S., Hinz M., Bukovac M.J., Studies on water transport through the sweet cherry fruit surface: characterizing conductance of the cuticular membrane using pericarp segments, Planta, 212, pp. 127-135, (2000); 
+Konarska A., The structure of the fruit peel in two varieties of Malus domestica Borkh. (Rosaceae) before and after storage, Protoplasma, 250, pp. 701-714, (2013); 
+Korbel E., Et al., Impact of temperature and water activity on enzymatic and non-enzymatic reactions in reconstituted dried mango model system, Eur Food Res Technol, 237, pp. 39-46, (2013); 
+Lara I., Belge B., Goulao L.F., The fruit cuticle as a modulator of postharvest quality, Postharvest Biol Technol, 87, pp. 103-112, (2014); 
+Lechaudel M., Lopez-Lauri F., Vidal V., Sallanon H., Joas J., Response of the physiological parameters of mango fruit (transpiration, water relations and antioxidant system) to its light and temperature environment, J Plant Physiol, 170, pp. 567-576, (2013); 
+Loesecke H.O.W., Chemical changes during ripening Bananas—chemistry, physiology and technology, New York, (1950); 
+Marshall D.A., Spiers J.M., Curry K.J., Water uptake threshold of Rabbiteye (Vaccinium ashei) blueberries and its influence on fruit splitting, Hortscience, 44, pp. 2035-2037, (2009); 
+Martin L.B., Rose J.K., There’s more than one way to skin a fruit: formation and functions of fruit cuticles, J Exp Bot, 65, pp. 4639-4651, (2014); 
+Matas A.J., Cobb E.D., Paolillo D.J., Niklas K.J., Crack resistance in cherry tomato fruit correlates with cuticular membrane thickness, Hortscience, 39, pp. 1354-1358, (2004); 
+Opara L.U., Studman C.J., Banks N.H., Sunlight affects the incidence of internal ring cracking and other physical attributes of ‘Gala’apples, J Tree Fruit Prod, 2, pp. 45-52, (1997); 
+Opara L., Hodson A., Studman C., Stem-end splitting and internal ring-cracking of ‘Gala’apples as influenced by orchard management practices, J Hortic Sci Biotechnol, 75, pp. 465-469, (2000); 
+Paull R.E., Ethylene, storage and ripening temperatures affect Dwarf Brazilian banana finger drop, Postharvest Biol Technol, 8, pp. 65-74, (1996); 
+Peet M., Fruit cracking in tomato, Horttechnology, 2, pp. 216-223, (1992); 
+Peet M.M., Willits D.H., Role of excess water in tomato fruit cracking, Hortscience, 30, pp. 65-68, (1995); 
+Peschel S., Franke R., Schreiber L., Knoche M., Composition of the cuticle of developing sweet cherry fruit, Phytochemistry, 68, pp. 1017-1025, (2007); 
+Petracek P.D., Bukovac M.J., Rheological properties of enzymatically isolated tomato fruit cuticle, Plant Physiol, 109, pp. 675-679, (1995); 
+Schweikert C., Liszkay A., Schopfer P., Scission of polysaccharides by peroxidase-generated hydroxyl radicals, Phytochemistry, 53, pp. 565-570, (2000); 
+Sekse L., Fruit cracking in sweet cherries (Prunus avium L.). Some physiological aspects—a mini review, Sci Hortic, 63, pp. 135-141, (1995); 
+Ullah H., Ahmad S., Anwar R., Thompson A., Effect of high humidity and water on storage life and quality of bananas, Int J Agric Biol, 8, pp. 828-831, (2006); 
+Vandenhout H., Ortiz R., Vuylsteke D., Swennen R., Bai K., Effect of ploidy on stomatal and other quantitative traits in plantain and banana hybrids, Euphytica, 83, pp. 117-122, (1995); 
+Velikova V., Yordanov I., Edreva A., Oxidative stress and some antioxidant systems in acid rain-treated bean plants: protective role of exogenous polyamines, Plant Sci, 151, pp. 59-66, (2000); 
+Vicente A.R., Martinez G.A., Chaves A.R., Civello P.M., Effect of heat treatment on strawberry fruit damage and oxidative metabolism during storage, Postharvest Biol Technol, 40, pp. 116-122, (2006); 
+Wade N.L., Kavanagh E.E., Hockley D.G., Brady C.J., Relationship between softening and the polyuronides in ripening banana fruit, J Sci Food Agric, 60, pp. 61-68, (1992); 
+Williams M.H., Vesk M., Mullins M.G., Characteristics of the surface of banana peel in cultivars susceptible and resistant to maturity bronzing, Can J Bot, 67, pp. 2154-2160, (1989); 
+Zhou Q., Ma C., Cheng S., Wei B., Liu X., Ji S., Changes in antioxidative metabolism accompanying pitting development in stored blueberry fruit, Postharvest Biol Technol, 88, pp. 88-95, (2014)#FRF#

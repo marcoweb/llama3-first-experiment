@@ -1,0 +1,57 @@
+#ITI#Surface irrigation simulation-optimization model based on meta-heuristic algorithms#FTI#
+#IRE#Simulation-optimization models are valuable tools for determining the optimal performance of systems. The main objective of this research was to develop and validate EDOSIM (Evaluation, Design, and Optimization of Surface Irrigation Model) as a simulation-optimization model for surface irrigation systems. For simulation, which consisted of the design or evaluation of basin, border and furrow irrigation, the Volume Balance model was used. For optimization, twenty meta-heuristic algorithms were applied. In this model, based on irrigation, the volume of infiltrated water to soil was calculated without having advance and recession data. The hydraulic objective function was used to minimize the linear combination of seven performance indicators. Regarding the optimization of the objective function, the functional, multi-dimensional, static, constraint, continuous, single-objective, and meta-heuristic optimizations were applied. Data obtained from fifteen experimental fields were used for the validation of simulation, algorithms parameters setting, and validation of optimization. Comparison of the simulation results of the EDOSIM model with those of the Hydrodynamic model of SIRMOD software showed the good performance of EDOSIM model and the proposed method for estimating the volume of infiltration with RMSE = 0.068, R2 = 0.988, CRM = 0.005 and NRMSE = 4.2%. The Shuffled Complex Evolution (SCE) algorithm was found to be the best algorithm for the optimization of fields; in all fields, the objective function was decreased (improved). Comparison of the objective function of the EDOSIM model with eight solvers of Optimization and Global Optimization Toolboxes of MATLAB software also revealed the superiority of the EDOSIM model for optimization. © 2018 Elsevier B.V.#FRE#
+#IPC#EDOSIM model; Optimization; SCE algorithm; Simulation; Volume balance#FPC#
+#IRF#Abbasi F., Jolaini M., Moayrei M., Rezaee H.T., Shooshtari M.M., Development of a mathematical model to evaluate and design surface irriga­tion systems. [Technical Report No. 122.], (1999); 
+Shooshtari M.M., Feyen J., Evaluation of various surface irrigation numerical simulation models, J. Irrig. Drain. Eng., (2003); 
+Adamala S., Raghuwanshi N.S., Mishra A., Development of surface irrigation systems design and evaluation software (SIDES), Comput. Electron. Agric., 100, pp. 100-109, (2014); 
+Anwar A.A., Ahmad W., Bhatti M.T., Haq Z.U., The potential of precision surface irrigation in the Indus Basin Irrigation System, Irrig. Sci., pp. 1-18, (2016); 
+Bautista E., Clemmens A.J., Strelkoff T.S., Schlegel J., Modern analysis of surface irrigation systems with WinSRFR, Agric. Water Manage., 96, 7, pp. 1146-1154, (2009); 
+Bautista E., Clemmens A.J., Strelkoff T.S., Niblack M., Analysis of surface irrigation systems with WinSRFR-Example application, Agric. Water Manage., 96, 7, pp. 1162-1169, (2009); 
+Bautista E., Schlegel J.L., Clemmens A.J., The SRFR 5 modeling system for surface irrigation, J. Irrig. Drain. Eng., (2015); 
+Blum C., Roli A., Metaheuristics in combinatorial optimization: overview and conceptual comparison, ACM Comput. Surv. (CSUR), 35, 3, pp. 268-308, (2003); 
+Bozorg Haddad O., Mirmomeni M., Zarezadeh Mehrizi M., Marino M.A., Finding the shortest path with honey-bee mating optimization algorithm in project management problems with constrained/unconstrained resources, Comput. Optim. Appl., 47, 1, pp. 97-128, (2010); 
+Burguete J., Lacasta A., Garcia-Navarro P., SURCOS: a software tool to simulate irrigation and fertigation in isolated furrows and furrow networks, Comput. Electron. Agric., 103, pp. 91-103, (2014); 
+Canone D., Previati M., Bevilacqua I., Salvai L., Ferraris S., Field measurements based model for surface irrigation efficiency assessment, Agric. Water Manage., 156, pp. 30-42, (2015); 
+Chen B., Ouyang Z., Sun Z., Wu L., Li F., Evaluation on the potential of improving border irrigation performance through border dimensions optimization: a case study on the irrigation districts along the lower Yellow River, Irrig. Sci., 31, 4, pp. 715-728, (2013); 
+Dokoohaki H., Gheysari M., Mousavi S.F., Zand-Parsa S., Miguez F.E., Archontoulis S.V., Hoogenboom G., Coupling and testing a new soil water module in DSSAT CERES-maize model for maize production under semi-arid condition, Agric. Water Manage., 163, pp. 90-99, (2016); 
+Duan Q.Y., Gupta V.K., Sorooshian S., Shuffled complex evolution approach for effective and efficient global minimization, J. Optim. Theory Appl., 76, 3, pp. 501-521, (1993); 
+Eberhart R.C., Shi Y., Comparing inertia weights and constriction factors in particle swarm optimization, Proc. IEEE Evol. Comput., 1, pp. 84-88, (2000); 
+Ebrahimian H., Liaghat A., Field evaluation of various mathematical models for furrow and border irrigation systems, Soil Water Res., 6, 2, pp. 91-101, (2011); 
+Elliott R.L., Walker W.R., Field evaluation of furrow infiltration and advandce functions, ASAE, 25, 2, pp. 396-400, (1982); 
+Engelbrecht A.P., Computational Intelligence: An Introduction, (2007); 
+Fernandez-Gomez R., Mateos L., Giraldez J.V., Furrow irrigation erosion and management, Irrig. Sci., 23, 3, pp. 123-131, (2004); 
+Getreuer P., Writing Fast MATLAB Code. 2009, (2006); 
+Gillies M.H., Smith R.J., SISCO: surface irrigation simulation, calibration and optimization, Irrig. Sci., 33, 5, pp. 339-355, (2015); 
+Gonzalez C., Cervera L., Moret-Fernandez D., Basin irrigation design with longitudinal slope, Agric. Water Manage., 98, 10, pp. 1516-1522, (2011); 
+Hart W.E., Skogerboe G.V., Peri G., Irrigation performance: an evaluation, J. Irrig. Drain. Div.–ASCE, 105, 3, pp. 275-288, (1979); 
+Haupt R.L., Haupt S.E., Practical Genetic Algorithms, (2004); 
+Holland J.H., Adoption in Natural and Artificial Systems, (1975); 
+Jahanpour M., Sandoval-Solis S., Afshar A., A web-based application for optimization of single reservoir operation, J. AWWA, 106, (2014); 
+Keeney R.L., Decision analysis: an overview, Oper. Res., 30, 5, pp. 803-838, (1982); 
+Koech R.K., Smith R.J., Gillies M.H., A real-time optimisation system for automation of furrow irrigation, Irrig. Sci., 32, 4, pp. 319-327, (2014); 
+Lewis M.R., Milne W.E., Analysis of border irrigation, Agric. Eng., 19, pp. 272-279, (1938); 
+Mailhol J.C., Ruelle P., Popova Z., Simulation of furrow irrigation practices (SOFIP): a field-scale modelling of water management and crop yield for furrow irrigation, Irrig. Sci., 24, 1, pp. 37-48, (2005); 
+MathWorks I., Global Optimization Toolbox User's Guide (R2015a), (2015); 
+MathWorks I., Optimization Toolbox User's Guide (R2015a), (2015); 
+MathWorks I., Creating Graphical User Interfaces (R2015a), (2015); 
+Mathews P.G., Design of Experiments with MINITAB, (2005); 
+Mishra A., Singh R., Raghuwanshi N.S., Development and application of an integrated optimization-simulation model for major irrigation projects, J. Irrig. Drain. Eng., (2005); 
+Montesinos P., Camacho E., Alvarez S., Seasonal furrow irrigation model with genetic algorithms (OPTIMEC), Agric. Water Manage., 52, 1, pp. 1-16, (2001); 
+Montgomery D.C., Design and Analysis of Experiments, (2008); 
+Moravejalahkami B., Mostafazadeh-Fard B., Heidarpour M., Abbasi F., Comparison of multilevel calibration and volume balance method for estimating furrow infiltration, J. Irrig. Drain. Eng., (2012); 
+Morris M.R., Hussain A., Gillies M.H., O'Halloran N.J., Inflow rate and border irrigation performance, Agric. Water Manage., 155, pp. 76-86, (2015); 
+NRCS, National Engineering Handbook: Part 623—IRRIGATION. Chapter 4 Surface Irrigation, (2004); 
+Nie W.B., Fei L.J., Ma X.Y., Applied closed-end furrow irrigation optimized design based on field and simulated advance data, J. Agric. Sci. Technol., 16, 2, pp. 395-408, (2014); 
+Orouji H., Haddad O.B., Fallah-Mehdipour E., Marino M.A., Extraction of decision alternatives in project management: application of hybrid PSO-SFLA, J. Manage. Eng., 30, 1, pp. 50-59, (2013); 
+Pham D.T., Castellani M., The bees algorithm: modelling foraging behaviour to solve continuous optimization problems, Proc. Inst. Mech. Eng. Part C: J. Mech. Eng. Sci., 223, 12, pp. 2919-2938, (2009); 
+Pulvento C., Riccardi M., Lavini A., D'andria R., Ragab R., SALTMED model to simulate yield and dry matter for quinoa crop and soil moisture content under different irrigation strategies in south Italy, Irrig. Drain., 62, 2, pp. 229-238, (2013); 
+Ramezani F., Lotfi S., Social-based algorithm (SBA), Appl. Soft Comput., 1, 5, pp. 2837-2856, (2013); 
+Talbi E.G., Metaheuristics: From Design to Implementation, 74, (2009); 
+Valipour M., Montazar A.A., An evaluation of SWDC and WinSRFR models to optimize of infiltration parameters in furrow irrigation, Am. J. Sci. Res., 69, pp. 128-142, (2012); 
+Valipour M., Montazar A.A., Optimize of all effective infiltration parameters in furrow irrigation using visual basic and genetic algorithm programming, Aust. J. Basic Appl. Sci., 6, 6, pp. 132-137, (2012); 
+Walker W.R., Skogerboe G.V., Surface Irrigation. Theory and Practice, (1987); 
+Walker W.R., SIRMOD III: Surface Irrigation Simulation, Evaluation and Design. Guide and Technical Documentation, (2003); 
+Wu X., Zheng Y., Wu B., Tian Y., Han F., Zheng C., Optimizing conjunctive use of surface water and groundwater for irrigation to address human-nature water conflicts: a surrogate modeling approach, Agric. Water Manage., 163, pp. 380-392, (2016); 
+Yang X.S., Engineering Optimization: an Introduction with Metaheuristic Applications, (2010); 
+Yang X.S., Nature-inspired Metaheuristic Algorithms, (2010); 
+Zhang Q., Li H., MOEA/D: A multiobjective evolutionary algorithm based on decomposition, IEEE Trans. Evol. Comput., 11, 6, pp. 712-731, (2007)#FRF#

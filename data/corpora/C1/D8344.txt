@@ -1,0 +1,33 @@
+#ITI#Intensifying a semi-arid dryland crop rotation by replacing fallow with pea#FTI#
+#IRE#Increasing dryland cropping system intensity in the semi-arid central Great Plains by reducing frequency of fallow can add diversity to cropping systems and decrease erosion potential. However elimination of the periodic fallow phase has been shown to reduce yields of subsequent crops in this region. The objective of this experiment was to determine how productivity of a 4-yr WCMF rotation [wheat (W, Triticum aestivum L.); corn (C, Zea mays L.); proso millet (M, Panicum miliaceum L.); fallow (F)] was affected when the fallow phase was replaced with pea (P, Pisum sativum L.). The effect of this intensification of the WCMF rotation on the available soil water content at planting, the water use, and the yield of each crop, and on total system productivity and net income was quantified by analyzing data over a 20-yr period from a long-term crop rotation experiment at Akron, CO. Large year-to-year variations were found for available soil water at planting, water use, and yield for all four crops. Pea water use resulted in significant reductions in available soil water at planting, water use, and yield for wheat and corn, but had little effect on those quantities in the millet crop. Total production on a seed mass basis was not different between the WCMF and WCMP rotations, but system net income for the WCMP rotation was 32% lower than for WCMF. Intensification of the WCMF rotation by replacing the fallow phase with pea production could be recommended as an alternative production method if pea seed costs and nitrogen fertilizer applied to the subsequent wheat crop can be reduced. © 2017#FRE#
+#IPC#Corn; Dryland cropping system; Pea; Proso millet; Water use; Wheat#FPC#
+#IRF#Aiken R.M., O'Brien D.M., Olson B.L., Murray L., Replacing fallow with continuous cropping reduces crop water productivity of semiarid wheat, Agron. J., 105, pp. 199-207, (2013); 
+Anderson R.L., Rotation design: A critical factor for sustainable crop production in a semiarid climate: A Review, Organic Farming, Pest Control and Remediation of Soil Pollutants, pp. 109-121, (2010); 
+Anderson R.L., Bowman R.A., Nielsen D.C., Vigil M.F., Aiken R.M., Benjamin J.G., Alternative crop rotations for the central Great Plains, J. Prod. Agric., 12, pp. 95-99, (1999); 
+Allen B.L., Pikul J.L., Waddell J.T., Cochran V.L., Long-term lentil green-manure replacement for fallow in the semiarid northern Great Plains, Agron. J., 103, pp. 1292-1298, (2011); 
+Bowman R.A., Halvorson A.D., Crop rotation and tillage effects on phosphorus distribution in the central Great Plains, Soil Sci. Soc. Am. J., 61, pp. 1418-1422, (1997); 
+Farahani H.J., Peterson G.A., Westfall D.G., Dryland cropping intensification: a fundamental solution to efficient use of precipitation, Adv. Agron., 64, pp. 197-223, (1998); 
+Gan Y., Hamel C., O'Donovan J.T., Cutforth H., Zentner R.P., Campbell C.A., Niu Y., Poppy L., Diversifying crop rotations with pulses enhances system productivity, Scientific Reports, 5, (2015); 
+Greb B.W., Reducing Drought Effects on Croplands in the West-central Great Plains, USDA Agric. Inf. Bull. No. 420. U.S. Gov. Print. Office, Washington, DC., (1979); 
+Hayer F., Bonnin E., Carrouee B., Gaillard G., Nemecek T., Schneider A., Vivier C., Designing sustainable crop rotations using Life Cycle Assesment of crop combinations, Proc. 9th European IFSA Symposium, 4-7 July 2009, Vienna, (2009); 
+Karlen D.L., Varvel G.E., Bullock D.G., Cruse R.H., Crop rotations for the 21<sup>st</sup> century, Adv. Agron., 53, pp. 1-45, (1994); 
+Kirkegaard J.A., Christen O., Krupinsky J., Layzell D., Break crop benefits in temperate wheat production, Field Crops Res., 107, pp. 185-195, (2008); 
+Kirkegaard J.A., Ryan M.H., Magnitude and mechanisms of persistent crop sequence effects on wheat, Field Crops Res., 164, pp. 154-165, (2014); 
+Lyon D.J., Baltensperger D.D., Blumenthal J.M., Burgener P.A., Harveson R.M., Eliminating summer fallow reduces winter wheat yields, but not necessarily system profitability, Crop Sci., 44, pp. 855-860, (2004); 
+McIntosh M., Analysis of combined experiments, Agron. J., 75, pp. 153-155, (1983); 
+Miller P.R., Bekkerman A., Jones C.A., Burgess M.H., Holmes J.A., Engel R.E., Pea in rotation with wheat reduced uncertainty of economic returns in southwest Montana, Agron. J., 107, pp. 541-550, (2015); 
+Miller P.R., Engel R.E., Holmes J.A., Cropping sequence effect of pea and pea management on spring wheat in the northern Great Plains, J. Agron., 98, pp. 1610-1619, (2006); 
+Nielsen D.C., Calderon F.J., Fallow effects on soil, Soil Management: Building a Stable Base for Agriculture, pp. 287-300, (2011); 
+Nielsen D.C., Lyon D.J., Higgins R.K., Hergert G.W., Holman J.D., Vigil M.F., Cover crop effect on subsequent wheat yield in the Central Great Plains, Agron. J., 108, pp. 243-256, (2016); 
+Nielsen D.C., Unger P.W., Miller P.R., Efficient water use in dryland cropping systems in the Great Plains, Agron. J., 97, pp. 364-372, (2005); 
+Nielsen D.C., Vigil M.F., Precipitation storage efficiency during fallow in wheat-fallow systems, Agron. J., 102, pp. 537-543, (2010); 
+Nielsen D.C., Vigil M.F., Anderson R.L., Bowman R.A., Benjamin J.G., Halvorson A.D., Cropping system influence on planting water content and yield of winter wheat, Agron. J., 94, pp. 962-967, (2002); 
+Nielsen D.C., Vigil M.F., Benjamin J.G., The variable response of dryland corn yield to soil water content at planting, Agric. Water Manage., 96, pp. 330-336, (2008); 
+Nielsen D.C., Vigil M.F., Benjamin J.G., Evaluating decision rules for dryland rotation crop selection, Field Crops Res., 120, pp. 254-261, (2011); 
+Nielsen D.C., Vigil M.F., Hansen N.C., Evaluating potential dryland cropping systems adapted to climate change in the central Great Plains, Agron. J., 108, pp. 2391-2405, (2016); 
+Raes D., Frequency analysis of rainfall data, (2004); 
+Ratliff L.F., Ritchie J.T., Cassel D.K., A survey of field-measured limits of soil water availability and related laboratory-measured properties, Soil Sci. Soc. Am. J., 47, pp. 770-775, (1983); 
+Ritchie J.T., Soil water availability, Plant Soil, 58, pp. 327-338, (1981); 
+Unger P.W., Vigil M.F., Cover crop effects on soil water relationships, J. Soil Water Conserv., 53, pp. 200-207, (1998); 
+Vigil M.F., Nielsen D.C., Winter wheat yield depression from legume green fallow, Agron. J., 90, pp. 727-734, (1998); 
+Zentner R.P., Campbell C.A., Biederbeck V.O., Selles F., Lemke R., Jefferson P.G., Gan Y., Long-term assessment of management of an annual legume green manure crop for fallow replacement in the Brown soil zone, Can. J. Plant Sci., 84, pp. 11-22, (2004)#FRF#

@@ -1,0 +1,48 @@
+#ITI#Benefits of irrigation against heat stress in agriculture: Evidence from wheat crop in India#FTI#
+#IRE#Applying the fixed effects regression technique to the highly spatially disaggregated district-level data from 1966–67 to 2011–12 this paper has assessed the impact of heat stress on wheat production in India and concurrently evaluated the role of irrigation towards offsetting its harmful impact. It has brought out three key highlights. One, heat stress negatively impacts crop yield, and the impact has increased over time. Two, irrigation, besides its contribution towards improving crop yield, also moderates the harmful impact of heat stress, but over time its effectiveness has declined. Three, the measure of heat stress built on multiple aspects of excess temperature (i.e., intensity, persistence, and frequency) explains variation in crop yield better than does a single aspect of it. Given the increasing scarcity of irrigation water and rising temperature, these findings suggest the need for exploring technological and policy options for improving irrigation water-use efficiency and breeding of crops for heat tolerance and low water footprints. © 2021 Elsevier B.V.#FRE#
+#IPC#Adaptation; Heat-stress; India; Irrigation; Yield loss#FPC#
+#IRF#Alexander L.V., Zhang X., Peterson T.C., Caesar J., Gleason B., Klein Tank A.M.G., Haylock M., Collins D., Trewin B., Rahimzadeh F., Tagipour A., Rupa Kumar K., Revadekar J., Griffiths G., Vincent L., Stephenson D.B., Burn J., Aguilar E., Brunet M., Taylor M., New M., Zhai P., Rusticucci M., Vazquez-Aguirre J.L., Global observed changes in daily climate extremes of temperature and precipitation, J. Geophys. Res., 111, (2006); 
+Amare M., Jensen N.D., Shiferaw B., Cisse J.D., Rainfall shocks and agricultural productivity: implication for rural household consumption, Agric. Syst., 166, pp. 79-89, (2018); 
+Barlow K.M., Christy B.P., OLeary G.J., Riffkin P.A., Nuttall J.G., Simulating the impact of extreme heat and frost events on wheat crop production: a review, Field Crops Res., 171, pp. 109-119, (2015); 
+Birthal P.S., Negi D.S., Khan M.T., Agarwal S., Is Indian agriculture becoming resilient to droughts?, Food Policy, 56, pp. 1-12, (2015); 
+Bonfils C., Lobell D.B., Empirical evidence for a recent slowdown in irrigation-induced cooling, Proc. Natl. Acad. Sci. USA, 104, 34, pp. 13582-13587, (2007); 
+Chakraborty D., Sehgal V.K., Dhakar R., Ray M., Das D.K., Spatio-temporal trend in heat waves over India and its impact assessment on wheat crop, Theor. Appl. Climatol., 138, pp. 1925-1937, (2019); 
+Challinor A.J., Watson J., Lobell D.B., Howden S.M., Smith D.R., Chhetri N., A meta-analysis of crop yield under climate change and adaptation, Nat. Clim. Change, 4, pp. 287-291, (2014); 
+Chaudhury S.K., Gore J.M., Ray K.C.S., Impact of heat waves over India, Curr. Sci., 79, pp. 153-155, (2000); 
+Chung U., Gbegbelegbea S., Shiferaw B., Robertson R., Yun J.I., Tesfaye K., Hoogenboom G., Sondera K., Modeling the effect of a heat wave on maize production in the USA and its implications on food security in the developing world, Weather Clim. Extrem., 5-6, pp. 67-77, (2014); 
+Dell M., Jones B.F., Olken B.A., Temperature shocks and economic growth: evidence from the last half century, Am. Econ. J. Macroecon., 4, 3, pp. 66-95, (2012); 
+Dercon S., Risk, crop choice, and savings: evidence from Tanzania, Econ. Dev. Cult. Change, 44, 3, pp. 485-513, (1996); 
+Deryng D., Conway D., Ramankutty N., Price J., Warren R., Global crop yield response to extreme heat stress under multiple climate change futures, Environ. Res. Lett., 9, 3, (2014); 
+Easterling W., Aggarwal P., Batima P., Brander K., Erda L., Howden M., Kirilenko A., Morton J., Soussana J.-F., Schmidhuber S., Tubiello F., Food, fibre and forest products, Climate Change 2007: Impacts, Adaptation and Vulnerability: Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, pp. 273-313, (2007); 
+Fischer E.M., Schar C., Consistent geographical patterns of changes in high-impact European heat waves, Nat. Geosci., 3, pp. 398-403, (2010); 
+GoI-Government of India, Agricultural Statistics at a Glance, (2020); 
+Gourdji S.M., Sibley A.M., Lobell D.B., Global crop exposure to critical high temperatures in the reproductive period: historical trends and future projections, Environ. Res. Lett., 8, 2, pp. 1-10, (2013); 
+Gupta R., Gopal R., Jat M.L., Jat R.K., Sidhu H.S., Minhas P.S., Malik R.K., Wheat productivity in Indo-Gangetic plains of India during 2010: terminal heat effects and mitigation strategies, PACA Newsl., 14, pp. 1-11, (2010); 
+Hawkins E., Fricker T.E., Challinor A.J., Ferro C.A., Ho C.K., Osborne T.M., Increasing influence of heat stress on French maize yields from the 1960s to the 2030s, Glob. Change Biol., 19, 3, pp. 937-947, (2013); 
+Iglesias A., Garrote L., Adaptation strategies for agricultural water management under climate change in Europe, Agric. Water Manag., 155, pp. 113-124, (2015); 
+IPCC, Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation, (2012); 
+Kaur V., Behl R., Grain yield in wheat as affected by short periods of high temperature, drought and their interaction during pre-and post-anthesis stages, Cereal Res. Commun., 38, 4, pp. 514-520, (2010); 
+Kurukulasuriya P., Mendelsohn R., Hassan R., Benhin J., Deressa T., Diop M., Eid H.M., Fosu K.Y., Gbetibouo G., Jain S., Mahamadou A., Mano R., Kabubo-Mariara J., El-Marsafawy S., Molua E., Ouda S., Ouedraogo M., Sene I., Maddison D., Seo S.N., Dinar A., Will African agriculture survive climate change?, World Bank Econ. Rev., 20, 3, pp. 367-388, (2006); 
+Kurukulasuriya P., Kala N., Mendelsohn R., Adaptation and climate change impacts: a structural Ricardian model of irrigation and farm income in Africa, Clim. Change Econ., 2, 2, pp. 149-174, (2011); 
+Lipiec J., Doussan C., Nosalewicz A., Kondracka K., Effect of drought and heat stresses on plant growth and yield: a review, Int. Agrophys., 27, 4, pp. 463-477, (2013); 
+Lobell D.B., Banziger M., Magorokosho C., Vivek B., Nonlinear heat effects on African maize as evidenced by historical yield trials, Nat. Clim. Change, 1, 4, pp. 42-45, (2011); 
+Lobell D.B., Sibley A., Ortiz-Monasterio J.I., Extreme heat effects on wheat senescence in India, Nat. Clim. Change, 2, 3, pp. 186-189, (2012); 
+Lybbert T.J., Bell A., Stochastic benefit streams, learning, and technology diffusion: why drought tolerance is not the new Bt, AgBioForum, 13, 1, pp. 13-24, (2010); 
+Massetti E., Mendelsohn R., How do Heat-Waves, Cold Waves, Droughts, Hail and Tornadoes Affect US Agriculture?, (2015); 
+Mendelsohn R., Seo S.N., Changing Farm Types and Irrigation as an Adaptation to Climate Change in Latin American Agriculture, (2007); 
+Panda D.K., Agha Kouchak A., Ambast S.K., Increasing heat waves and warm spells in India observed from a multi-aspect framework, J. Geophys. Res. Atmos., 122, pp. 3837-3858, (2017); 
+Panda D.K., Mishra A., Kumar A., Mandal K.G., Thakur A.K., Srivastava R.C., Spatiotemporal patterns in the mean and extreme temperature indices of India, 1971–2005, Int. J. Climatol., 34, 13, pp. 3585-3606, (2014); 
+Perkins S.E., Alexander L.V., On the measurement of heat waves, J. Clim., 26, pp. 4500-4517, (2013); 
+Rafferty J.P., (2021); 
+Rosenzweig C., Iglesias A., Yang X.B., Epstein P.R., Chivian E., Climate change and extreme weather events: implications for food production, plant diseases, and pests, Glob. Change Hum. Health, 2, 2, pp. 90-104, (2001); 
+Schlenker W., Roberts M.J., Nonlinear temperature effects indicate severe damages to US crop yields under climate change, Proc. Natl. Acad. Sci. USA, 106, 37, pp. 15594-15598, (2009); 
+Srivastava A.K., Rajeevan M., Kshirsagar S.R., Development of a high resolution daily gridded temperature data set (1969–2005) for the Indian region, Atmos. Sci. Lett., 10, pp. 249-254, (2009); 
+Tack J., Barkley A., Hendricks N., Irrigation offsets wheat yield reductions from warming temperatures, Environ. Res. Lett., 12, 11, (2017); 
+Taraz V., Can farmers adapt to higher temperatures? evidence from India, World Dev., 112, pp. 205-219, (2018); 
+Trnka M., Rotter R.P., Ruiz-Ramos M., Kersebaum K.C., Olesen J.E., Zalud Z., Semenov M.A., Adverse weather conditions for European wheat production will become more frequent with climate change, Nat. Clim. Change, 4, pp. 637-643, (2014); 
+van der Velde M., Wriedt G., Bouraoui F., Estimating irrigation use and effects on maize yield during the 2003 heat wave in France, Agric. Ecosyst. Environ., 135, 1-2, pp. 90-97, (2009); 
+Vanschoenwinkel J., van Passel S., Climate response of rainfed versus irrigated farms: the bias of farm heterogeneity in irrigation, Clim. Change, 147, 1-2, pp. 225-234, (2018); 
+Yu T., Babcock B.A., Are U.S. corn and soybeans becoming more drought tolerant?, Am. J. Agric. Econ., 92, 5, pp. 1310-1323, (2010); 
+World Bank, Turn Down the Heat: Climate Extremes, Regional Impacts, and the Case for Resilience, (2013); 
+Zampieri M., Ceglar A., Dentener F., Toreti A., Wheat yield loss attributable to heat-waves, drought, and water excess at the global, national and subnational scales, Environ. Res. Lett., 12, 6, (2017); 
+Zaveri E., Lobell D.B., The role of irrigation in changing wheat yields and heat sensitivity in India, Nat. Commun., 10, 1, pp. 1-7, (2019)#FRF#

@@ -1,0 +1,44 @@
+#ITI#Soil moisture sensor calibration, actual evapotranspiration, and crop coefficients for drip irrigated greenhouse chile peppers#FTI#
+#IRE#Limited water supplies in arid regions put constraints on agriculture. In arid New Mexico, greenhouse chile pepper production has the potential for water and nutrient savings. The objectives of this study were to (1) compare two capacitance sensors – (Hydra probes and 5TM) and one TDR CS616 sensor, (2) compute actual evapotranspiration (ETa) for drip-irrigated chile peppers for three water treatments, and (3) develop new crop coefficients (Kc) for the three growing seasons in a greenhouse study. Three water treatments were (1) control where water was applied near the surface using two drip emitters, (2) partial root zone drying vertical (PRDv) where subsurface irrigation was applied at 20 cm depth from soil surface, and (3) partial root zone drying compartment (PRDc) where roots were divided into two compartments and irrigation were switched between compartments after 15 days. Sensor-generated volumetric water contents (θ) were correlated with the gravimetrically determined θ, and the new calibration coefficients improved the precision of θ estimates. From 2011 onward, irrigation amounts were adjusted to minimize deep percolation, and about 30% less water was applied in 2014 as compared to the 2011 growing season but no significant differences were observed in transpiration rate and leaf temperature. The ratio of intercellular to ambient CO2 concentrations (Ci/Ca) was significantly correlated to transpiration rate and vapor pressure deficit in 2014 (P < 0.05). ETa obtained from water balance and reference ET (ETr) from Penman-Monteith developed the Kc for drip-irrigated greenhouse chile peppers for three growing seasons. The maximum values of Kc were about 1.4 during 2013 and 1.2 during 2014. The 2011 growing season was shorter and the maximum Kc were closer to one. Crop coefficients for greenhouse grown chile peppers varied with growing seasons and irrigation treatment. Irrigation scheduling can be done based on the soil moisture or Kc for the known growing season. This study demonstrated the water saving potential of PRD. © 2016 Elsevier B.V.#FRE#
+#IPC#Chile peppers; Crop coefficient; Deep percolation; Evapotranspiration; Greenhouse#FPC#
+#IRF#Allen R.G., Pereira L.S., Raes D., Smith M., Crop Evapotranspiration Guidelines for Computing Crop Water Requirements Irrig. Drain Paper 56, (1998); 
+Baumhardt R.L., Lascano R.J., Evett S.R., Soil material temperature, and salinity effects on calibration of multisensory capacitance probes, Soil Sci. Soc. Am. J., 64, pp. 1940-1946, (2000); 
+Bellingham K., The Stevens Hydra Probe Inorganic Soil Calibrations, (2007); 
+Bosch D.D., Comparison of capacitance-based soil water probes in coastal plain soils, Vadose Zone J., 3, pp. 1380-1389, (2004); 
+Bosland P.W., Votava E.J., Peppers: Vegetable and Spice Capsicums, (2012); 
+Burrough P.A., Matching spatial databases and quantitative models in land resource assessment, Soil Use Manage., 5, pp. 3-8, (1989); 
+Campbell Scientific Inc, CS616 and CS625 Water Content Reflectometers, Revision 8/06. Campbell Scientific, (2014); 
+Cepuder P., Shukla M.K., Groundwater nitrate in Austria: a case study in Tullnerfeld, Nutr. Cycl. Agroecosys., 64, 3, pp. 301-315, (2002); 
+Chandler D.G., Seyfried M., Murdock M., McNamara J.P., Field calibration of water content reflectometers, Soil Sci. Soc. Am. J., 68, pp. 1501-1507, (2004); 
+Chandler D.G., Field calibration of water content reflectometers, Soil Sci. Soc. Am. J., 68, pp. 1501-1507, (2004); 
+Deb S.K., Shukla M.K., Sharma P., Mexal J., Coupled liquid water, water vapor, and heat transport simulations in an unsaturated zone of a sandy loam field, Soil Sci., 176, 8, pp. 387-398, (2011); 
+Deb S.K., Shukla M.K., Mexal J.G., Simulating deep percolation in flood-irrigated mature orchards with RZWQM2, Trans. ASABE., 55, 6, pp. 2089-2100, (2012); 
+Deb S.K., Shukla M.K., Sharma P., Mexal J.G., Soil water depletion in irrigated mature pecans under contrasting soil textures for arid Southern New Mexico, Irrig. Sci., 31, pp. 69-85, (2013); 
+Du T., Kang S., Zhang J., Davies W.J., Deficit irrigation and sustainable water-resource strategies in agriculture for China's food security, J. Exp. Bot., 66, 8, pp. 2253-2269, (2015); 
+Ertek A., Sensoy S., Gedik I., Kusigmaukyumuk C., Irrigation scheduling for green pepper (Capsicum annuum L.) grown in field conditions by using class-a pan evaporation values, Am.-Eurasian J. Agric. Environ. Sci., 2, 4, pp. 349-358, (2007); 
+Evett S.R., Parkin G.W., Advances in soil water content sensing: the continuing maturation of technology and theory, Vadose Zone J., 4, pp. 986-999, (2005); 
+Holtslag A.A.M., van Ulden A.P., A simple scheme for daytime estimates of the surface fluxes from routine weather data, J. Clim. Appl. Meteorol., 22, pp. 517-529, (1983); 
+Jackson C.R., Hillslope infiltration and lateral downslope unsaturated flow, Water Resour. Res., 28, 9, pp. 2533-2539, (1992); 
+Kang S., Liang Z., Pan Y., Shi P., Zhang J., Alternate furrow irrigation for maize production in an arid area, Agric. Water Manage., 45, 3, pp. 267-274, (2000); 
+Kang S., Zhang L., Hu X., Li Z., Jerie P., An improved water use efficiency for hot pepper grown under controlled alternate drip irrigation on partial roots, Sci. Hortic., 89, pp. 257-267, (2001); 
+Norman R., Climate Guide, Las Cruces. Agriculture Exp. Station Res. Rep. 749, (2000); 
+Ochoa C.G., Fernald A.G., Guldan S.J., Shukla M.K., Deep percolation and its effects on shallow groundwater level rise following flood irrigation, Trans. ASABE, 50, 1, pp. 73-81, (2007); 
+Orgaz F., Fernandez M.D., Bonachela S., Gallardo M., Fereres E., Evapotranspiration of horticultural crops in an unheated plastic greenhouse, Agric. Water Manage., 73, pp. 81-96, (2005); 
+Qi R., Kang S., Du T., Tong L., Hao X., Chen R., Chen J., Li F., Effect of convection on the Penman-Monteith model estimates of transpiration of hot pepper grown in solar greenhouse, Sci. Hort., 160, pp. 163-171, (2013); 
+Rudiger C., Western A.W., Walker J.P., Smith A.B., Kalma J.D., Willgoose G.R., Towards a general equation for frequency domain reflectometers, J. Hydr., 383, pp. 319-329, (2010); 
+Sammis T., Sharma P., Shukla M.K., Wang J., Miller D., A water balance trickle irrigation scheduling model, Agric. Water Manage., 113, pp. 30-37, (2012); 
+Sentelhas P.C., Gillespie T.J., Santos E.A., Evaluation of FAO Penman-Monteith and alternative methods for estimating reference evapotranspiration with missing data in Southern Ontario, Canada, Agric. Water Manage., 97, pp. 635-644, (2010); 
+Serrarens D., MacIntyre J.L., Hopmans J.W., Bassoi L.H., Soil moisture calibration of TDR multilevel probes, Sci. Agric., 57, pp. 349-354, (2000); 
+Seyfried M.S., Murdock M.D., Measurement of soil water content with a 50-MHz soil dielectric sensor, Soil Sci. Soc. Am. J., 68, pp. 394-403, (2004); 
+Seyfried M.S., Grant L.E., Du E., Humes K., Dielectric loss and calibration of the Hydra Probe soil water sensor, Vadose Zone J., 4, pp. 1070-1079, (2005); 
+Sharma P., Shukla M.K., Sammis T.W., Steiner R.L., Mexal J.G., Nitrate-nitrogen leaching from three specialty crops of New Mexico under furrow irrigation system, Agric. Water Manage., 109, pp. 71-80, (2012); 
+Sharma H., Shukla M.K., Bosland P., Steiner R.L., Physiological responses of greenhouse-grown drip irrigated chile pepper under partial root zone drying, HortScience, 50, 8, pp. 1224-1229, (2015); 
+Shukla M.K., Soil Physics an Introduction, (2014); 
+Stangl R., Buchan G.D., Loiskandl W., Field use and calibration of a TDR-based probe for monitoring water content in a high-clay landslide soil in Australia, Geoderma, 150, pp. 23-31, (2009); 
+Stenger R., Barkle G., Burgess C., Laboratory calibrations of water content reflectometers and their in-situ verification, Aust. J. Soil Res., 43, 5, pp. 607-615, (2005); 
+Stevens Water Monitoring Inc, Comprehensive Stevens Hydra Probe Users Manual, (2007); 
+Topp G.L., Davis J.L., Annan A.P., Electromagnetic determination of soil water content: measurements in coaxial transmission lines, Water Resour. Res., 16, pp. 574-582, (1980); 
+U.S. Geological Survey (USGS), National Water Summary – Hydrologic Events and Ground-water Quality. USGS Water Supply Paper 2325, (1988); 
+Udawatta R.P., Anderson S.H., Motavalli P.P., Garrett H.E., Calibration of a water content reflectometer and soil water dynamics for an agroforestry practice, Agrofor. Syst., 82, pp. 61-75, (2011); 
+Wierenga P.J., Yield and Quality of Trickle Irrigated Chile, (1983); 
+Xu C.Y., Singh V.P., Cross comparison of empirical equations for calculating potential evapotranspiration with data from Switzerland, Water Resour. Manage., 16, pp. 197-219, (2002)#FRF#

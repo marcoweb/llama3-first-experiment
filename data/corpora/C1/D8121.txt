@@ -1,0 +1,34 @@
+#ITI#Quantifying the aggregation-dispersion boundary condition in terms of saturated hydraulic conductivity reduction and the threshold electrolyte concentration#FTI#
+#IRE#Marginal quality saline sodic water will be important for agricultural production in water limited environments, and has been demonstrated as suitable for irrigation on a soil-specific basis. Suitability is usually demonstrated as the threshold electrolyte concentration (CTH), defined as a 10–20% reduction in saturated hydraulic conductivity. Others have suggested that the aggregate-dispersion boundary may be used as this threshold, which is also known as the threshold turbidity concentration (CTU). Using a saturated hydraulic conductivity approach, this work sought to quantify the extent of reduction at the CTU and compare this to traditional CTH approaches to define the practicality of the thresholds. The CTU was determined as the point where dispersed clay was detected, and subsequently compared to the CTH with the difference between these compared within the measured domain. The reduction in saturated hydraulic conductivity from a Ca dominant stable condition was determined at each threshold value. It was found that saturated hydraulic conductivity at the CTU reduced by between 44 and 78% for the five Vertisol soils investigated, demonstrating that the CTU varied between soils and was substantially more than the 10–20% reduction in hydraulic conductivity at the CTH. Discussion on application of these thresholds to practical irrigation is provided, and suggests that irrigation water quality application can be optimised on a soil-specific basis. Results reinforce that management guidelines should not be based on the CTU, or at the aggregation-dispersion boundary. © 2018 Elsevier B.V.#FRE#
+#IPC#Dispersion; Salinity; Sodicity; Soil structure#FPC#
+#IRF#ANZECC, Australian and New Zealand Guidelines for Fresh and Marine Water Quality, pp. 1-103, (2000); 
+Ali A., Bennett J.M., Marchuk A., Watson C., Laboratory evaluation of soil amendments to limit structural degradation under a sequential irrigation with coal seam gas and rain water, Soil Sci. Soc. Am. J., 82, 1, pp. 214-222, (2018); 
+Bennett J., Raine S., The soil specific nature of threshold electrolyte concentration analysis, Paper Presented at the Proceedings of the 5th Joint Australian and New Zealand Soil Science Conference: Soil Solutions for Diverse Landscapes, (2012); 
+Bennett J.M., Warren B., Role of livestock effluent suspended particulate in sealing effluent ponds, J. Environ. Manage., 154, pp. 102-109, (2015); 
+Bennett J., Marchuk A., Marchuk S., An alternative index to the exchangeable sodium percentage for an explanation of dispersion occurring in soils, Soil Res., 54, pp. 949-957, (2016); 
+Bennett J.M., Marchuk A., Raine S., Dalzell S., Macfarlane D., Managing land application of coal seam water: a field study of land amendment irrigation using saline-sodic and alkaline water on a Red Vertisol, J. Environ. Manage., 184, pp. 178-185, (2016); 
+Bennett J., Marchuk A., Marchuk S., Raine S., Towards predicting the soil-specific threshold electrolyte concentration of soil as a reduction in saturated hydraulic conductivity: the role of clay net negative charge, Geodarma, (2018); 
+Brown G., Brindley G., Crystal Structures of Clay Minerals and Their X-ray Identification, (1980); 
+de Menezes H., de Almeida B., de Almeida C., Bennett J., da Silva E., Freire M., Use of threshold electrolyte concentration analysis to determine salinity and sodicity limit of irrigation water, Rev. Bras. Eng. Agric. Ambient., 18, pp. S53-S58, (2014); 
+DNR, Water Facts: irrigation water quality, salinity and soil structure stability, Resources, (1997); 
+Ezlit Y., Bennett J., Raine S., Smith R., Modification of the McNeal clay swelling model improves prediction of saturated hydraulic conductivity as a function of applied water quality, Soil Sci. Soc. Am. J., 77, pp. 2149-2156, (2013); 
+IUSS Working Group, World Reference Base for Soil Resources 2014 International Soil Classification System for Naming Soils and Creating Legends for Soil Maps, (2014); 
+Jackson M., Soil Chemical Analysis: Advanced Course, (2005); 
+Marchuk A., Rengasamy P., Threshold electrolyte concentration and dispersive potential in relation to CROSS in dispersive soils, Soil Res., 50, 6, pp. 473-481, (2012); 
+McNeal B., Coleman N., Effect of solution composition on soil hydraulic conductivity, Soil Sci. Soc. Am. J., 30, pp. 308-312, (1966); 
+Moore D., Reynolds R., X-ray Diffraction and the Identification and Analysis of Clay Minerals, (1989); 
+Qadir M., Oster J., Crop and irrigation management strategies for saline-sodic soils and waters aimed at environmentally sustainable agriculture, Sci. Total Environ., 323, pp. 1-19, (2004); 
+Qadir M., Wichelns D., Raschid S., Minhas P., Drechsel P., Bahri A., McCornick P., Abaidoo R., Attia F., El-Guindy S., Agricultural Use of Marginal-quality Water: Opportunities and Challenges, (2007); 
+Quirk J., Aylmore L., Domains and quasi-crystalline regions in clay systems, Soil Sci. Soc. Am. J., 35, pp. 652-654, (1971); 
+Quirk J., Murray R., Towards a model for soil structural behavior, Soil Res., 29, pp. 829-867, (1991); 
+Quirk J., Schofield R., The effect of electrolyte concentration on soil permeability, J. Soil Sci., 6, pp. 163-178, (1955); 
+Quirk J., The significance of the threshold and turbidity concentrations in relation to sodicity and microstructure, Soil Res., 39, pp. 1185-1217, (2001); 
+Raine S., Meyer W., Rassam D., Hutson J., Cook F., Soil–water and solute movement under precision irrigation: knowledge gaps for managing sustainable root zones, Irrig. Sci., 26, pp. 91-100, (2007); 
+Raven M., XPLOT version 3.2 user manual. Manipulation of X-ray powder diffraction data, (1990); 
+Rengasamy P., Marchuk A., Cation ratio of soil structural stability (CROSS), Soil Res., 49, pp. 280-285, (2011); 
+Rengasamy P., Tavakkoli E., McDonald G.K., Exchangeable cations and clay dispersion: net dispersive charge, a new concept for dispersive soil, Eur. J. Soil Sci., 67, pp. 659-665, (2016); 
+SYSTAT Software Inc, TableCurve 3D, Version 4.0 ed., (2002); 
+Sumner M., Sodic soils-new perspectives, Soil Res., 31, pp. 683-750, (1993); 
+(2015); 
+Tisdall J.M., Oades J.M., Organic matter and water-stable aggregates in soils, Eur. J. Soil Sci., 33, pp. 141-163, (1982); 
+Zhu Y., Marchuk A., McLean Bennett J., Rapid method for assessment of soil structural stability by turbidimeter, Soil Sci. Soc. Am. J., 80, pp. 1629-1637, (2016)#FRF#

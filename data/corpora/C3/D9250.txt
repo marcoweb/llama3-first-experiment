@@ -1,0 +1,52 @@
+#ITI#Identification, evolution and expression analyses of Ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit gene family in wheat (Triticum aestivum L.)#FTI#
+#IRE#Ribulose-1,5-bisphosphate carboxylase/oxygenase (Rubisco) serves as a plentiful leaf protein which functions in both eukaryote and prokaryote photosynthesis. The small subunits of Rubisco (RBCS) exist as a multigene family which regulates the catalytic efficiency of holoenzyme. Here, 20 RBCS family genes were identified in Triticum aestivum genome, and were clustered into 4 clades according to phylogenetic analysis. On the basis of the identified 9 and 8 RBCSs in Triticum urartu and Aegilops tauschii, homology analysis revealed some TaRBCS genes were orthologous to TuRBCSs and AetRBCSs, and the number of in-paralog pairs between RBCSs in wheat were much more than that in T. urartu or A. tauschii. Gene structure, protein motif and cis-acting element analysis exhibited that TaRBCSs in each clade shared some identity. The in silico expression of RBCS genes showed that RBCSs mainly expressed in leaf, flower and caryopsis. Quantitative real-time PCR analysis showed that TaRBCSs were remarkably responsive to drought, salt, ABA and darkness stresses. The work comprehensively studies the RBCS family genes in wheat, and lays the foundation for subsequent functional research of TaRBCSs. © 2018, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Abiotic stress; Gene expression; Phylogenetic analysis; RBCS; Wheat#FPC#
+#IRF#Andersson I., Catalysis and regulation in Rubisco, J Exp Bot, 59, pp. 1555-1568, (2008); 
+Bolser D.M., Kerhornou A., Walts B., Kersey P., Triticeae resources in ensembl plants, Plant Cell Physiol, 56, (2015); 
+Bolser D., Staines D.M., Pritchard E., Kersey P., Ensembl Plants: integrating tools for visualizing, mining, and analyzing plant genomics data, Methods Mol Biol, 1374, pp. 115-140, (2016); 
+Bota J., Medrano H., Flexas J., Is photosynthesis limited by decreased Rubisco activity and RuBP content under progressive water stress?, New Phytol, 162, pp. 671-681, (2004); 
+Brenchley R., Et al., Analysis of the bread wheat genome using whole-genome shotgun sequencing, Nature, 491, pp. 705-710, (2012); 
+Cai Z., Liu G., Zhang J., Li Y., Development of an activity-directed selection system enabled significant improvement of the carboxylation efficiency of Rubisco, Protein Cell, 5, pp. 552-562, (2014); 
+Castresana C., Garcia-Luque I., Alonso E., Malik V.S., Cashmore A.R., Both positive and negative regulatory elements mediate expression of a photoregulated CAB gene from Nicotiana plumbaginifolia, EMBO J, 7, pp. 1929-1936, (1988); 
+Chen Z.J., Ha M., Soltis D., Polyploidy: genome obesity and its consequences, New Phytol, 174, pp. 717-720, (2007); 
+Curmi P.M., Cascio D., Sweet R.M., Eisenberg D., Schreuder H., Crystal structure of the unactivated form of ribulose-1,5-bisphosphate carboxylase/oxygenase from tobacco refined at 2.0-A resolution, J Biol Chem, 267, pp. 16980-16989, (1992); 
+Dash S., Van Hemert J., Hong L., Wise R.P., Dickerson J.A., PLEXdb: gene expression resources for plants and plant pathogens, Nucleic Acids Res, 40, pp. D1194-D1201, (2012); 
+Dias M.C., Bruggemann W., Differential inhibition of photosynthesis under drought stress in Flaveria species with different degrees of development of the C4 syndrome, Photosynthetica, 45, pp. 75-84, (2007); 
+Eversole K., Feuillet C., Mayer K.F., Rogers J., Slicing the wheat genome. Introduction, Science, 345, pp. 285-287, (2014); 
+Finn R.D., Clements J., Eddy S.R., HMMER web server: interactive sequence similarity searching, Nucleic Acids Res, 39, pp. W29-W37, (2011); 
+Finn R.D., Et al., Pfam: the protein families database, Nucleic Acids Res, 42, pp. D222-D230, (2014); 
+Flachmann R., Bohnert H.J., Replacement of a conserved arginine in the assembly domain of Ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit interferes with holoenzyme formation, J Biol Chem, 267, pp. 10576-11058, (1992); 
+Fluhr R., Moses P., Morelli G., Coruzzi G., Chua N.-H., Expression dynamics of the pea rbcS multigene family and organ distribution of the transcripts, EMBO J, 5, pp. 2063-2071, (1986); 
+Genkov T., Spreitzer R.J., Highly conserved small subunit residues influence rubisco large subunit catalysis, J Biol Chem, 284, pp. 30105-30112, (2009); 
+Gill B.S., Et al., A workshop report on wheat genome sequencing: international genome research on wheat consortium, Genetics, 168, pp. 1087-1096, (2004); 
+Gimenez M.J., Piston F., Atienza S.G., Identification of suitable reference genes for normalization of qPCR data in comparative transcriptomics analyses in the Triticeae, Planta, 233, pp. 163-173, (2011); 
+Gutteridgel S., Gatenby A.A., Rubisco synthesis, assembly, mechanism, and regulation, Plant Cell, 7, pp. 809-819, (1995); 
+Hauser T., Bhat J.Y., Milicic G., Wendler P., Hartl F.U., Bracher A., Structure and mechanism of the Rubisco-assembly chaperone Raf1, Nat Struct Mol Biol, 22, pp. 720-728, (2015); 
+Hudson G.S., Evans J.R., von Caemmerer S., Arvidsson Y.B., Andrews T.J., Reduction of ribulose-1,5-bisphosphate carboxylase/oxygenase content by antisense RNA reduces photosynthesis in transgenic tobacco plants, Plant Physiol, 98, pp. 294-302, (1992); 
+Ishikawa C., Hatanaka T., Misoo S., Miyake C., Fukayama H., Functional incorporation of sorghum small subunit increases the catalytic turnover rate of Rubisco in transgenic rice, Plant Physiol, 156, pp. 1603-1611, (2011); 
+Keegstra K., Olsen L.J., Chloroplastic precursors and their transport across the envelope membranes, Annu Rev Plant Phys, 40, pp. 471-501, (1989); 
+Krebbers E., Seurinck J., Herdies L., Cashmore A.R., Timko M.P., Four genes in two diverged subfamilies encode the ribulose-1,5-bisphosphate carboxylase small subunit polypeptides of Arabidopsis thaliana, Plant Mol Biol, 11, pp. 745-759, (1988); 
+Larkin M.A., Et al., Clustal W and Clustal X version 2.0, Bioinformatics, 23, pp. 2947-2948, (2007); 
+Lawlor D.W., Cornic G., Photosynthetic carbon assimilation and associated metabolism in relation to water deficits in higher plants, Plant, Cell Environ, 25, pp. 275-294, (2002); 
+Lescot M., Et al., PlantCARE, a database of plant cis-acting regulatory elements and a portal to tools for in silico analysis of promoter sequences, Nucleic Acids Res, 30, pp. 325-327, (2002); 
+Livak K.J., Schmittgen T.D., Analysis of relative gene expression data using real-time quantitative PCR and the 2(-Delta Delta C(T)) Method, Methods, 25, pp. 402-408, (2001); 
+Marcussen T., Et al., Ancient hybridizations among the ancestral genomes of bread wheat, Science, 345, (2014); 
+Paritosh K., Pental D., Burma P.K., Structural and transcriptional characterization of rbcS genes of cotton (Gossypium hirsutum), Plant Mol Biol Rep, 31, pp. 1176-1183, (2013); 
+Patel M., Berry J.O., Rubisco gene expression in C4 plants, J Exp Bot, 59, pp. 1625-1634, (2008); 
+Pinheiro C., Chaves M.M., Photosynthesis and drought: can we make metabolic connections from available data?, J Exp Bot, 62, pp. 869-882, (2011); 
+Rodermel S.R., Abbott M.S., Bogorad L., Nuclear-organelle interactions: nuclear antisense gene inhibits ribulose bisphosphate carboxylase enzyme levels in transformed tobacco plants, Cell, 55, pp. 673-681, (1988); 
+Rodermel S., Haley J., Jiang C.-Z., Tsai C.-H., Bogorad L., A mechanism for intergenomic integration: abundance of ribulose bisphosphate carboxylase small-subunit protein influences the translation of the large-subunit mRNA, P Natl Acad Sci USA, 93, pp. 3881-3885, (1996); 
+Spreitzer R.J., Role of the small subunit in ribulose-1,5-bisphosphate carboxylase/oxygenase, Arch Biochem Biophys, 414, pp. 141-149, (2003); 
+Spreitzer R.J., Salvucci M.E., Rubisco: structure, regulatory interactions, and possibilities for a better enzyme, Annu Rev Plant Biol, 53, pp. 449-475, (2002); 
+Spreitzer R.J., Esquivel M.G., Du Y.-C., McLaughlin P.D., Alanine-scanning mutagenesis of the small-subunit βA–βB loop of chloroplast Ribulose-1,5-bisphosphate carboxylase/oxygenase: substitution at Arg-71 affects thermal stability and CO<sub>2</sub>/O<sub>2</sub> specificity, Biochemistry, 40, pp. 5615-5621, (2001); 
+Su N., Wu Q., Shen Z., Xia K., Cui J., Effects of light quality on the chloroplastic ultrastructure and photosynthetic characteristics of cucumber seedlings, Plant Growth Regul, 73, pp. 227-235, (2014); 
+Sugita M., Manzara T., Pichersky E., Cashmore A., Gruissem W., Genomic organization, sequence analysis and expression of all five genes encoding the small subunit of ribulose-l,5-bisphosphate carboxylase/oxygenase from tomato, Mol Genet Genom, 209, pp. 247-256, (1987); 
+Suzuki Y., Nakabayashi K., Yoshizawa R., Mae T., Makino A., Differences in expression of the RBCS multigene family and Rubisco protein content in various rice plant tissues at different growth stages, Plant Cell Physiol, 50, pp. 1851-1855, (2009); 
+Tamura K., Peterson D., Peterson N., Stecher G., Nei M., Kumar S., MEGA5: molecular evolutionary genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods, Mol Biol Evol, 28, pp. 2731-2739, (2011); 
+van Lun M., Hub J.S., van der Spoel D., Andersson I., CO<sub>2</sub> and O<sub>2</sub> distribution in Rubisco suggests the small subunit functions as a CO<sub>2</sub> reservoir, J Am Chem Soc, 136, pp. 3165-3171, (2014); 
+Vandesompele J., Preter K.D., Pattyn F., Poppe B., Roy N.V., Paepe A.D., Speleman F., Accurate normalization of real-time quantitative RT-PCR data by geometric averaging of multiple internal control genes, Genome Biol, 3, (2002); 
+Vassileva V., Demirevska K., Simova-Stoilova L., Petrova T., Tsenov N., Feller U., Long-term field drought affects leaf protein pattern and chloroplast ultrastructure of winter wheat in a cultivar-specific manner, J Agron Crop Sci, 198, pp. 104-117, (2012); 
+Wendel J.F., Genome evolution in polyploids, Plant Mol Biol, 42, pp. 225-249, (2000); 
+Whitmore A.P., Whalley W.R., Physical effects of soil drying on roots and crop growth, J Exp Bot, 60, pp. 2845-2857, (2009); 
+Wostrikoff K., Stern D., Rubisco large-subunit translation is autoregulated in response to its assembly state in tobacco chloroplasts, Proc Natl Acad Sci USA, 104, pp. 6466-6471, (2007); 
+Zhang L., Zhang L., Sun J., Zhang Z., Ren H., Sui X., Rubisco gene expression and photosynthetic characteristics of cucumber seedlings in response to water deficit, Sci Hortic, 161, pp. 81-87, (2013)#FRF#

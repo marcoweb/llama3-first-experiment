@@ -1,0 +1,56 @@
+#ITI#Assessing the costs of Managed Aquifer Recharge options to support agricultural development#FTI#
+#IRE#Managed aquifer recharge (MAR) can play an important role in agricultural water management and productivity where suitable aquifers exist. Yet while the benefits and costs of surface water storage have been extensively reported, the benefits and costs of MAR have been under reported and poorly conceptualised to date. In this study of ten potential MAR schemes in wet-dry tropical climates of northern Australia the estimated levelized costs ranged from US$0.04 to $0.36/m3 for MAR schemes of 0.6–5 Mm3/y capacity. The type of MAR scheme had the largest influence on cost, resulting in the following order of increasing cost for 1 Mm3/y schemes: recharge release, infiltration basin, recharge weir, aquifer storage transfer and recovery (ASTR), aquifer storage and recovery (ASR), seawater intrusion barrier. Infiltration type schemes were typically lower cost than well-injection. Scheme scale, end use and experience with similar schemes were also key influences on cost. A five-fold increase in scale reduced the levelized cost of ASR by 60%. Conceptualisation allows comparison across dissimilar schemes and revealed significant costs (20–100% of operating) associated with approvals and monitoring required for risk-based scheme development and operation. MAR can facilitate conjunctive use of surface and groundwater for improved agricultural water management. Dams typically provide considerably larger storages which results in lower levelized costs, with estimates of $0.03 to $0.18/m3 for options (annual yield 55–1248 Mm3) in the same study area. MAR is more favoured in areas of low relief, offers the benefit of reducing evaporative losses and is well suited to mosaic irrigation with incremental development and relatively low capital expenditure which may be attractive for agricultural irrigation. © 2022 The Authors#FRE#
+#IPC#Capital cost; Levelized cost; Managed Aquifer Recharge; Northern Australia; Operating cost; Water banking#FPC#
+#IRF#(2014); 
+Alexandratos N., Bruinsma J., (2012); 
+Ash A., Gleeson T., Hall M., Higgins A., Hopwood G., MacLeod N., Paini D., Poulton P., Prestwidge D., Webster T., Wilson P., Irrigated agricultural development in northern Australia: value-chain challenges and opportunities, Agric. Syst., 1, (2017); 
+Biswas A., Preface, Impacts of large dams: A global assessment. Water Resource Development and Management, (2012); 
+Charles S., Petheram C., Berthet A., Browning G., Hodgson G., Wheeler M., Yang A., Gallant S., Vaze J., Wang B., Marshall A., Hendon H., Kuleshov Y., Dowdy A., Reid P., Read A., Feikema P., Hapuarachchi P., Smith T., Gregory P., Shi L.; 
+Cooley H., Phurisamban R., The Cost of Alternative Water Supply and Efficiency Options in California, (2016); 
+(1992); 
+Dillon P., Future management of aquifer recharge, Hydrogeol. J., 13, pp. 313-316, (2005); 
+Dillon P., Arshad M., Managed aquifer recharge in integrated water resource managment, Integrated Groundwater Management: Concepts, Approaches and Challenges, pp. 435-454, (2016); 
+Dillon P., Stuyfzand P., Grischek T., Lluria M., Pyne R.D.G., Jain R.C., Bear J., Schwarz J., Wang W., Fernandez E., Stefan C., Pettenati M., van der Gun J., Sprenger C., Massmann G., Scanlon B.R., Bonilla Valverde J.P., Palma Nova A., Ansems N., Posavec K., Ha K., Martin R., Sapiano M., Sixty years of global progress in managed aquifer recharge, Hydrogeol. J., 27, pp. 1-30, (2019); 
+Dillon P., Toze S., Page D., Vanderzalm J., Bekele E., Sidhu J., Rinck-Pfeiffer S., Managed aquifer recharge: rediscovering nature as a leading edge technology, Water Sci. Technol., 62, 10, pp. 2338-2345, (2010); 
+Dillon P., Vanderzalm J., Page D., Barry K., Gonzalez D., Muthukaruppan M., Hudson M., Analysis of ASR clogging investigations at three Australian ASR sites in a Bayesian context, Water, 8, 10, (2016); 
+Doll P., Hoffmann-Dobrev H., Portmann F.T., Siebert S., Eicker A., Rodell M., Strassberg G., Scanlon B.R., Impact of water withdrawals from groundwater and surface water on continental water storage variations, J. Geodyn., 59-60, pp. 143-156, (2012); 
+Donn M., Reed D., Vanderzalm J., Page D., Assessment of E.coli attenuation during infiltration of treated wastewater: a pathway to future managed aquifer recharge, Water, 12, 1, (2020); 
+Evans R.S., Dillon P., Linking groundwater and surface water: conjunctive water managment, chapter 17, Advances in groundwater governance, pp. 329-352, (2018); 
+Evans R., Lennon L., Hoxley G., Krake R., Yin Foo D., Schelfhout C., Simons J., The role of managed aquifer recharge in developing northern Australia agriculture, Water e-J., 2, 3, pp. 1-10, (2017); 
+Gonzalez D., Dillon P., Page D., Vanderzalm J., The potential for water banking in Australia's Murray-darling basin to increase drought resilience, Water, 12, 10, (2020); 
+Gupta M., Westwood T., Legg P., (2020); 
+Kelly S., Cunningham R., Plant R., Maras K., Water Scarcity Risk for Australian Farms and Implications for the Finanicial Sector, (2019); 
+Khan S., Mushtaq S., Hanjra M., Schaeffer J., Estimating potential costs and gains from an aquifer storage and recovery program in Australia, Agric. Water Manag., 95, pp. 477-488, (2008); 
+Knapton A., Berry Springs Groundwater Flow Model Development, (2010); 
+Knapton A., Page D., Vanderzalm J., Gonzalez D., Barry K., Taylor A., Horner N., Chilcott C., Petherem C., Managed aquifer recharge as a strategic storage and urban water management tool in Darwin, Northern Territory, Australia, Water, 11, 9, (2019); 
+Maliva R.G., Economics of managed aquifer recharge, Water, 6, 5, pp. 1257-1279, (2014); 
+(2013); 
+Martin R., Clogging Issues Associated with Managed Aquifer Recharge Methods, (2013); 
+(2019); 
+Molden D., Oweis T., Steduto P., Bindraban P., Hanjra M.A., Kijne J., Improving agricultural water productivity: between optimism and caution, Agric. Water Manag., 97, 4, pp. 528-535, (2010); 
+Morgan L.K., Werner A.D., A national inventory of seawater intrusion vulnerability for Australia, J. Hydrol.: Reg. Stud., 4, pp. 686-698, (2015); 
+(2009); 
+(2010); 
+Olum S., Gellynck X., Juvinal J., Ongeng D., De Steur H., Farmers’ adoption of agricultural innovations: a systematic review on willingness to pay studies, Outlook Agric., 49, 3, pp. 187-203, (2020); 
+Page D., Bekele E., Vanderzalm J., Sidhu J., Managed Aquifer Recharge (MAR) in sustainable urban water management, Water, 10, 3, (2018); 
+Page D., Dillon P., Vanderzalm J., Toze S., Sidhu J., Barry K., Levett K., Kremer S., Regel R., Risk Assessment of aquifer storage transfer and recovery with urban stormwater for producing water of a potable quality, J. Environ. Qual., 39, 6, pp. 2029-2039, (2010); 
+Page D., Vanderzalm J., Miotlinski K., Barry K., Dillon P., Lawrie K., Brodie R.S., Determining treatment requirements for turbid river water to avoid clogging of aquifer storage and recovery wells in siliceous alluvium, Water Res., 66, pp. 99-110, (2014); 
+Parsons S., Dillon P., Irvine E., Holland G., Kaufman C., (2012); 
+Perrone D., Rhode M.M., Benefits and economic costs of managed aquifer recharge in California. San Francisco Estuary & Watershed, Science, 14, 2, article 4, (2016); 
+Petheram C., Bruce C., Chilcott C., Watson I., Water resource assessment for the Fitzroy catchment. A report to the Australian Government from the CSIRO Northern Water Resource Assessment, part of the National Water Infrastructure Development Fund: Water Resource Assessments, (2018); 
+Petheram C., McMahon T.A., Peel M.C., Flow characteristics of rivers in northern Australia: implications for development, J. Hydrol., 357, 1-2, pp. 93-111, (2008); 
+Petheram C., Rogers L., Read A., Gallant J., Moon A., Yang A., Gonzalez D., Seo L., Marvanek S., Hughes J., Ponce Reyes R., Wilson P., Wang B., Ticehurst C., Barber M., Assessment of surface water storage options in the Fitzroy, Darwin and Mitchell catchments. A technical report to the Australian Government from the CSIRO Northern Australia Water Resource Assessment, part of the National Water Infrastructure Development Fund: Water Resource Assessments, (2017); 
+Pollino C., Barber E., Buckworth R., Cadiegues M., Deng A., Ebner B., Kenyon R., Liedloff A., Merrin L., Moeseneder C., Morgan D., Nielsen D., O'Sullivan J., Ponce Reyes R., Robson B., Stratford D., Stewart-Koster B., Turschwell M., Synthesis of knowledge to support the assessment of impacts of water resource development to ecological assets in northern Australia: asset descriptions. A technical report to the Australian Government from the CSIRO Northern Australia Water Resource Assessment, part of the National Water Infrastructure Development Fund: Water Resource Assessments, (2018); 
+(2020); 
+Pyne R.D.G., Aquifer Storage Recovery: A Guide to Groundwater Recharge through Wells, (2005); 
+Ross A., Economic costs and benefits of managed aquifer recharge, Managing Aquifer Recharge: A Showcase for Resilience and Sustainability, (2021); 
+Ross A., Hasnain S., Factors affecting the cost of managed aquifer recharge (MAR) schemes, Sustain. Water Resour. Manag., 4, pp. 179-190, (2018); 
+Scanlon B., Reedy R., Faunt C., Pool D., Uhlman K., Enhancing drought resilience with conjunctive use and managed aquifer recharge in California and Arizona, Environ. Res. Lett., 11, (2016); 
+Vanderzalm J., Naumann B., Higginson S., Page D., Jones A., Moscovis V., Hamilton S., Gonzalez D., Dandy G., Barry K., Dillon P., Prommer H., Donn M., Australian exemplars of sustainable and economic managed aquifer recharge, AWA J. Water, 5, 4, (2020); 
+Vanderzalm J., Page D., Barry K., Gonzalez D., Evaluating treatment requirements for recycled water to manage well clogging during aquifer storage and recovery: a case study in the werribee formation, Australia, Water, 12, 9, (2020); 
+Vanderzalm J., Page D., Gonzalez D., Barry K., Dillon P., Taylor A., Dawes W., Cui T., Knapton K., Assessment of Managed Aquifer Recharge (MAR) Opportunities in the Fitzroy, Darwin and Mitchell Catchments. A Technical Report to the Australian Government from the CSIRO Northern Australia Water Resource Assessment, part of the National Water Infrastructure Development Fund: Water Resource Assessments, (2018); 
+Ward J.D., Simmons C.T., Dillon P.J., Pavelic P., Integrated assessment of lateral flow, density effects and dispersion in aquifer storage and recovery, J. Hydrol., 370, pp. 83-99, (2009); 
+(2020); 
+(2020); 
+Zheng Y., Ross A., Villholth K.G., Dillon P., Managing Aquifer Recharge: A showcase for resilience and sustainability, United National Educational, Scientific and Cultural Organization, Paris, (2021); 
+Zuurbier K.G., Increasing Freshwater Recovery upon Aquifer Storage: A Field and Modelling Study of Dedicated Aquifer Storage and Recovery Configurations in Brackish-Saline Aquifers (Ph.D. Thesis), (2016)#FRF#

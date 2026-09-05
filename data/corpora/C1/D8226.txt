@@ -1,0 +1,27 @@
+#ITI#Measured and simulated soil wetting patterns under porous clay pipe sub-surface irrigation#FTI#
+#IRE#Sub-surface irrigation with porous clay pipe can be an efficient, water saving method of irrigation for many less developed arid and semi-arid regions. Maximizing the efficiency of clay pipe irrigation requires guidelines and criteria for system design and operation. In this study, experimental and simulated (with HYDRUS (2D/3D)) soil wetting patterns were investigated for sub-surface pipe systems operating at different water pressures. Predictions of the soil water content made with HYDRUS were found to be in good agreement (R2 = 0.98) with the observed data. Additional simulations with HYDRUS were used to study the effects of various design parameters on soil wetting. Increasing the system pressure increased the size of the wetted zone. The installation depth affects the recommended lateral spacing as well as the amount of evaporative water loss. For a given water application, the potential rate of surface evaporation affected the shape of the wetted region only minimally. Soil texture, due to its connection to soil hydraulic conductivity and water retention, has a larger impact on the wetting geometry. In general, greater horizontal spreading occurs in fine texture soils, or in the case of layered soils, in the finer textured layers. © 2008 Elsevier B.V.#FRE#
+#IPC#Hydraulic conductivity; HYDRUS; Micro-irrigation; Porous clay pipe; Soil wetting; Sub-surface irrigation#FPC#
+#IRF#Abu-Zreig, Atoum F.M., Hydraulic characteristics of clay pitchers produced in Jordan, Can. Biosyst. Eng., 46, 1, pp. 15-20, (2004); 
+Ashrafi S., Gupta A., Singh M.B., Izumi N., Loof R., Simulation of infiltration from porous clay pipe in subsurface irrigation, Hydrol. Sci. J., 47, 2, pp. 253-268, (2002); 
+Assouline S., The effects of microdrip and conventional drip irrigation on water distribution and uptake, Soil Sci. Soc. Am. J., 66, pp. 1630-1636, (2002); 
+Bainbridge D.A., Buried clay pot irrigation: a little known but very efficient traditional method of irritation, Agric. Water Manage., 48, 2, pp. 79-88, (2001); 
+Batchelor C., Christopher L., Murata M., Simple microirrigation techniques for improving irrigation efficiency on vegetable gardens, Agric. Water Manage., 32, pp. 37-48, (1996); 
+Bresler E., Analysis of trickle irrigation with application to design problems, Irrig. Sci., 1, pp. 3-17, (1978); 
+Camp C.R., Subsurface drip irrigation: a review, Trans. ASAE, 41, pp. 1353-1367, (1998); 
+Carsel R.F., Parrish R.S., Developing joint probability distributions of soil water retention characteristics, Water Resour. Res., 24, pp. 755-769, (1988); 
+Celia M.A., Bouloutas E.T., Zarba R.L., A general mass conservative numerical solution for the unsaturated flow equation, Water Resour. Res., 26, pp. 1483-1496, (1990); 
+Cote C.M., Bristow K.L., Charlesworth P.B., Cook F.J., Thorburn P.J., Analysis of soil wetting and solute transport in subsurface trickle irrigation, Irrig. Sci., 22, pp. 143-156, (2003); 
+Gardenas A., Hopmans J.W., Hanson B.R., Simunek J., Two-dimensional modeling of nitrate leaching for various fertigation scenarios under micro-irrigation, Agric. Water Manage., 74, pp. 219-242, (2005); 
+Hegazi S.M., Subsurface irrigation method using porous clay pipe, Progress Report, (1998); 
+Lazarovitch N., Warrick A.W., Furman A., Simunek J., Subsurface water distributions from drip irrigation described by moment analysis, Vadose Zone J., 6, pp. 116-123, (2007); 
+Miller E.E., Miller R.D., Physical theory of capillary flow phenomena, J. Appl. Phys., 27, pp. 324-332, (1956); 
+Qiaosheng S., Zuoxin L., Zhenying W., Haijun L., Simulation of the soil wetting shape under porous pipe sub-irrigation using dimensional analysis, Irrig. Drain., 56, pp. 389-398, (2007); 
+Schaap M.G., Leiji F.J., van Genuchten M.T., ROSETTA: a computer program for estimating soil hydraulic properties with hierarchical pedotransfer functions, J. Hydrol., 251, pp. 163-176, (2001); 
+Simunek J., Sejna M., van Genuchten M.T., The HYDRUS software package for simulating two- and three-dimensional movement of water, heat, and multiple solutes in variably-saturated media, Technical Manual, PC Progress, (2006); 
+Singh D.K., Rajput T.B.S., Singh D.K., Sikarwar H.S., Sahoo R.N., Ahmad T., Simulation of soil wetting pattern with subsurface drip irrigation from line source, Agric. Water Manage., 83, pp. 130-134, (2006); 
+Siyal A.A., van Genuchten M.T., Skaggs T.H., Performance; 
+Skaggs T.H., Trout T.J., Simunek J., Shouse P.J., Comparison of HYDRUS-2D simulations of drip irrigation with experimental observations, J. Irrig. Drain. Eng., 30, pp. 304-310, (2004); 
+van Genuchten M.Th., A closed-form equation for predicting the hydraulic conductivity of unsaturated soils, Soil Sci. Am. J., 44, pp. 892-898, (1980); 
+Wang F.-X., Kang Y., Liu S.P., Effects of drip irrigation frequency on soil wetting pattern and potato growth in North China Plain, Agric. Water Manage., 79, pp. 248-264, (2006); 
+Willmott C.J., Some comments on the evaluation of model performance, Bull. Am. Meteorol. Soc., 63, 11, pp. 1309-1313, (1982); 
+Zur B., Wetted soil volume as a design objective in trickle irrigation, Irrig. Sci., 16, pp. 101-105, (1996)#FRF#

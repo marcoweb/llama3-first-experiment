@@ -1,0 +1,47 @@
+#ITI#Hydraulic regulation strategies for whole-plant water balance of two maize inbred lines differing in drought resistance under short-term osmotic stress#FTI#
+#IRE#The conservation of water in agriculture requires an understanding of the mechanisms of plant–water relations. This study aimed to reveal hydraulic regulation strategies of maize (Zea mays L.) for maintaining the plant water balance during drought. The water relations of two maize inbred lines (Tian4 and 478) that differ in their resistance to drought in the field were investigated under well-watered conditions and osmotic stress induced with 10 % PEG 6000. The leaf transpiration rate and leaf water potential of 478 varied diurnally, but remained constant in Tian4, which is more drought resistant. Tian4 plants showed morphological, anatomical and physiological advantages that protected them from foliar water loss. The strategies of leaf hydraulics to regulate leaf water balance during the day and during short-term osmotic stress also differed between Tian4 and 478. The leaf hydraulic conductivity of Tian4 and 478 increased temporarily, but their root hydraulic conductivities were reduced under osmotic stress. However, the root hydraulic conductivity of Tian4 subsequently recovered. Lower and rapidly reduced leaf transpiration and the ability of root hydraulics to recover from short-term osmotic stress can help explain the strategies for plant water balance of drought-tolerant maize. © 2016, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Hydraulic conductivity; Maize; Osmotic stress; Whole-plant water balance#FPC#
+#IRF#Aroca R., Amodeo G., Fernandez-Illescas S., Herman E.M., Chaumont F., Chrispeels M.J., The role of aquaporins and membrane damage in chilling and hydrogen peroxide induced changes in the hydraulic conductance of maize roots, Plant Physiol, 137, pp. 343-357, (2005); 
+Blum A., Drought resistance, water-use efficiency, and yield potential—are they compatible, dissonant, or mutually exclusive?, Crop Pasture Sci, 56, pp. 1159-1168, (2005); 
+Brodribb T.J., Holbrook N.M., Edwards E.J., Gutierrez M.V., Relations between stomatal closure, leaf turgor and xylem vulnerability in eight tropical dry forest trees, Plant Cell Environ, 26, pp. 443-450, (2003); 
+Canny M.J., Embolisms and refilling in the maize leaf lamina, and the role of the protoxylem lacuna, Am J Bot, 88, pp. 47-51, (2001); 
+Chaves M.M., Oliveira M.M., Mechanisms underlying plant resilience to water deficits: prospects for water-saving agriculture, J Exp Bot, 55, pp. 2365-2384, (2004); 
+Cochard H., Xylem embolism and drought-induced stomatal closure in maize, Planta, 215, pp. 466-471, (2002); 
+Cochard H., Venisse J.S., Barigah T.S., Brunel N., Herbette S., Guilliot A., Tyree M.T., Sakr S., Putative role of aquaporins in variable hydraulic conductance of leaves in response to light, Plant Physiol, 143, pp. 122-133, (2007); 
+Deng X.P., Shan L., Zhang H., Turner N.C., Improving agricultural water use efficiency in arid and semiarid areas of China, Agric Water Manag, 80, pp. 23-40, (2006); 
+Fennell A., Markhart A.H., Rapid acclimation of root hydraulic conductivity to low temperature, J Exp Bot, 49, pp. 879-884, (1998); 
+Grzesiak S., Hura T., Grzesiak M.T., Pienkowski S., The impact of limited soil moisture and waterlogging stress conditions on morphological and anatomical root traits in maize (Zea mays L.) hybrids of different drought tolerance, Acta Physiol Plant, 21, pp. 305-315, (1999); 
+Hachez C., Heinen R.B., Draye X., Chaumont F., The expression pattern of plasma membrane aquaporins in maize leaf highlights their role in hydraulic regulation, Plant Mol Biol, 68, pp. 337-353, (2008); 
+Heinen R.B., Ye Q., Chaumont F., Role of aquaporins in leaf physiology, J Exp Bot, 60, pp. 2971-2985, (2009); 
+Kaldenhoff R., Ribas-Carbo M., Flexas J., Lovisolo C., Heckwolf M., Uehlein N., Aquaporins and plant water balance, Plant Cell Environ, 31, pp. 658-666, (2008); 
+Kim Y.X., Steudle E., Light and turgor affect the water permeability (aquaporins) of parenchyma cells in the midrib of leaves of Zea mays, J Exp Bot, 58, pp. 4119-4129, (2007); 
+Lee J., Holbrook N.M., Zwieniecki M.A., Ion induced changes in the structure of bordered pit membranes, Front Plant Sci, 3, (2012); 
+Li D.H., Mao L.H., Yang J.S., Liu J.G., Zhang Y.H., Breeding process and utilization of excellent maize inbred line 478, J Laiyang Agric Coll, 22, pp. 159-164, (2005); 
+Li Y.Y., Sperry J.S., Shao M.A., Hydraulic conductance and vulnerability to cavitation in corn (Zea mays L.) hybrids of differing drought resistance, Environ Exp Bot, 66, pp. 341-346, (2009); 
+Martinez-Ballesta M.C., Aparicio F., Pallas V., Martinez V., Carvajal M., Influence of saline stress on root hydraulic conductance and PIP expression in Arabidopsis, J Plant Physiol, 160, pp. 689-697, (2003); 
+Maurel C., Chrispeels M.J., Aquaporins. A molecular entry into plant water relations, Plant Physiol, 125, pp. 135-138, (2001); 
+Maurel C., Simonneau T., Sutka M., The significance of roots as hydraulic rheostats, J Exp Bot, 61, pp. 3191-3198, (2010); 
+McCully M.E., Huang C.X., Ling L.E.C., Daily embolism and refilling of xylem vessels in the roots of field-grown maize, New Phytol, 138, pp. 327-342, (1998); 
+North G.B., Martre P., Nobel P.S., Aquaporins account for variations in hydraulic conductance for metabolically active root regions of Agave deserti in wet, dry, and rewetted soil, Plant Cell Environ, 27, pp. 219-228, (2004); 
+Oertli J.J., The response of plant cells to different forms of moisture stress, J Plant Physiol, 121, pp. 295-300, (1985); 
+Rosenzweig C., Parry M.L., Potential impact of climate change on world food supply, Nature, 367, pp. 133-138, (1994); 
+Sack L., Holbrook N.M., Leaf hydraulics, Annu Rev Plant Biol, 57, pp. 361-381, (2006); 
+Salleo S., Lo Gullo M.A., Raimondo F., Nardini A., Vulnerability to cavitation of leaf minor veins: any impact on leaf gas exchange?, Plant Cell Environ, 24, pp. 851-859, (2001); 
+Scoffoni C., McKown A.D., Rawls M., Sack L., Dynamics of leaf hydraulic conductance with water status: quantification and analysis of species differences under steady state, J Exp Bot, 63, pp. 643-658, (2012); 
+Shan L., Xu M., Water-saving agriculture and its physio-ecological bases, Chin J Appl Ecol, 2, pp. 70-76, (1991); 
+Sperry J.S., Hydraulics of vascular water transport, Mechanical integration of plant cells and plants, pp. 303-327, (2011); 
+Sperry J.S., Hacke U.G., Oren R., Comstock J.P., Water deficits and hydraulic limits to leaf water supply, Plant Cell Environ, 25, pp. 251-263, (2002); 
+Sperry J.S., Stiller V., Hacke U.G., Xylem hydraulics and the soil-plant-atmosphere continuum: opportunities and unresolved issues, Agron J, 95, pp. 1362-1370, (2003); 
+Steudle E., Peterson C.A., How does water get through roots?, J Exp Bot, 49, pp. 775-788, (1998); 
+Stiller V., Lafitte H.R., Sperry J.S., Hydraulic properties of rice and the response of gas exchange to water stress, Plant Physiol, 132, pp. 1698-1706, (2003); 
+Stiller V., Sperry J.S., Lafitte R., Embolized conduits of rice (Oryza sativa, Poaceae) refill despite negative xylem pressure, Am J Bot, 92, pp. 1970-1974, (2005); 
+Tournaire-Roux C., Sutka M., Javot H., Gout E., Gerbeau P., Luu D.T., Bligny R., Maurel C., Cytosolic pH regulates root water transport during anoxic stress through gating of aquaporins, Nature, 425, pp. 393-397, (2003); 
+Tsuda M., Tyree M.T., Plant hydraulic conductance measured by the high pressure flow meter in crop plants, J Exp Bot, 51, pp. 823-828, (2000); 
+Tyree M.T., Sperry J.S., Vulnerability of xylem to cavitation and embolism, Annu Rev Plant Biol, 40, pp. 19-36, (1989); 
+Tyree M.T., Patino S., Bennink J., Alexander J., Dynamic measurements of roots hydraulic conductance using a high-pressure flowmeter in the laboratory and field, J Exp Bot, 46, pp. 83-94, (1995); 
+Tyree M.T., Nardini A., Salleo S., Sack L., El Omari B., The dependence of leaf hydraulic conductance on irradiance during HPFM measurements: any role for stomatal response?, J Exp Bot, 56, pp. 737-744, (2005); 
+Vandeleur R.K., Mayo G., Shelden M.C., Gilliham M., Kaiser B.N., Tyerman S.D., The role of plasma membrane intrinsic protein aquaporins in water transport through roots: diurnal and drought stress responses reveal different strategies between isohydric and anisohydric cultivars of grapevine, Plant Physiol, 149, pp. 445-460, (2009); 
+Zhang S.Q., Zhou X.P., Mu Z.X., Shan L., Liu X.F., Effects of different irrigation patterns on root growth and water use efficiency of maize, Trans CSAE, 25, pp. 1-6, (2009); 
+Zhang Y.J., Meinzer F.C., Qi J.H., Goldstein G., Cao K.F., Midday stomatal conductance is more related to stem rather than leaf water status in subtropical deciduous and evergreen broadleaf trees, Plant Cell Environ, 36, pp. 149-158, (2013); 
+Zhao W., Sun Y., Kjelgren R., Liu X., Response of stomatal density and bound gas exchange in leaves of maize to soil water deficit, Acta Physiol Plant, 37, pp. 1-9, (2014); 
+Zwieniecki M.A., Melcher P.J., Holbrook N.M., Hydrogel control of xylem hydraulic resistance in plants, Science, 291, pp. 1059-1062, (2001)#FRF#

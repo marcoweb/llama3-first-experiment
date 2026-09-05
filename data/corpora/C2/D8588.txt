@@ -1,0 +1,40 @@
+#ITI#How salinity stress influences the thermal time requirements of seed germination in Silybum marianum and Calendula officinalis#FTI#
+#IRE#Salinity is a major problem of many agricultural lands that is usually associated with drought stress in arid and semi-arid regions. In this study we examine the role of salinity stress on temperature requirements of two herbaceous species and how it could be modeled to quantify alterations. We applied four non-linear regression models (segmented, beta, beta modified, and dent-like) to describe the germination rate–temperature relationships of Silybum marinum L. and Calendua officinalis L. over six constant temperatures exposed to different levels of salinity stress. Our results revealed that salinity could affect the cardinal temperatures in both plants and, as a result, it is not possible to suggest one model for all levels of salinity stress. The best model to fit data to predict cardinal temperatures of Silybum marianum and Calendula officinalis at the no-salinity condition were dent-like (AICc = 4.03) and beta (AICc = − 2.30), respectively. Knowing the thermal time constant (fo) value helps us predict the minimum number of hours required for completion of germination at the optimal temperature. All models in this study were estimated higher fo due to higher salinity stress in both Silybum marianum and Calendula officinalis seeds. The highest estimated fo for Silybum marianum (91.5 ± 59.6) and Calendula officinalis (178.9 ± 26.5) was obtained from the results of germination rate prediction using a dent-like model at 200 mM salinity. © 2018, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Germination rate; Regression models; Thermal time#FPC#
+#IRF#Ahmed Z.M., Khan A.M., Tolerance and recovery responses of playa halophytes to light, salinity and temperature stresses during seed germination, Flora Morphol Distrib Funct Ecol Plants, 205, pp. 764-771, (2010); 
+Alvarado V., Bradford K.J., A hydrothermal time model explains the cardinal temperatures for seed germination, Plant Cell Environ, 25, pp. 1061-1069, (2002); 
+Bakhshandeh E., Jamali M., Afshoon E., Gholamhossieni M., Using hydrothermal time concept to describe sesame (Sesamum indicum L.) seed germination response to temperature and water potential, Acta Physiol Plant, 39, pp. 1-9, (2017); 
+Barbour E.K., Sagherian V., Talhouk S., Et al., Evaluation of homeopathy in broiler chickens exposed to live viral vaccines and administered Calendula officinalis extract, Med Sci Monit, 10, pp. BR281-BR285, (2004); 
+Baskin C.C., Baskin J.M., Seeds: ecology, biogeography, and, evolution of dormancy and germination, (1998); 
+Bewley J.D., Black M., Seeds, (1994); 
+Bewley J.D., Bradford K., Hilhorst H., Seeds: physiology of development, germination and dormancy, (2012); 
+Black M., Bewley J.D., Seed technology and its biological basis, (2000); 
+Bradford K.J., Applications of hydrothermal time to quantifying and modeling seed germination and dormancy, Weed Sci, 50, pp. 248-260, (2002); 
+Bradford K.J., Threshold models applied to seed germination ecology, New Phytol, 165, pp. 338-341, (2005); 
+Chen K., Arora R., Priming memory invokes seed stress-tolerance, Environ Exp Bot, 94, pp. 33-45, (2013); 
+Cline N.L., Roundy B.A., Hardegree S., Christensen W., Using Germination Prediction to Inform Seeding Potential: II. Comparison of Germination Predictions for Cheatgrass and Potential Revegetation Species in the Great Basin, (2017); 
+Corbineau F., Gay-Mathieu C., Vinel D., Come D., Decrease in sunflower (Helianthus annuus) seed viability caused by high temperature as related to energy metabolism, membrane damage and lipid composition, Physiol Plant, 116, pp. 489-496, (2002); 
+Fenner M.W., Seed ecology, (2012); 
+Finch-Savage W.E., Bassel G.W., Seed vigour and crop establishment: Extending performance beyond adaptation, J Exp Bot, 67, pp. 567-591, (2016); 
+Gomes-Filho E., Lima C.R.F.M., Costa J.H., Et al., Cowpea ribonuclease: properties and effect of NaCl-salinity on its activation during seed germination and seedling establishment, Plant Cell Rep, 27, pp. 147-157, (2008); 
+Gupta B., Huang B., Gupta B., Huang B., Mechanism of salinity tolerance in plants: physiological, biochemical, and molecular characterization, Int J Genom, 2014, pp. 1-18, (2014); 
+Hardegree S.P., Predicting germination response to temperature. I. Cardinal-temperature models and subpopulation-specific regression, Ann Bot, 97, pp. 1115-1125, (2006); 
+Harvey S., Murphy K., Finney-Brown T., Reviews of articles on medicinal herbs, Aust J Herb Med, 25, (2013); 
+Jakab G., Ton J., Flors V., Et al., Enhancing Arabidopsis salt and drought stress tolerance by chemical priming for its abscisic acid responses, Plant Physiol, 139, pp. 267-274, (2005); 
+Jisha K.C., Vijayakumari K., Puthur J.T., Seed priming for abiotic stress tolerance: an overview, Acta Physiol Plant, 35, pp. 1381-1396, (2013); 
+Kamkar B., Jami Al-Alahmadi M., Mahdavi-Damghani A., Villalobos F.J., Quantification of the cardinal temperatures and thermal time requirement of opium poppy (Papaver somniferum L.) seeds to germinate using non-linear regression models, Ind Crops Prod, 35, pp. 192-198, (2012); 
+Kaya M.D., Okcu G., Atak M., Et al., Seed treatments to overcome salt and drought stress during germination in sunflower (Helianthus annuus L.), Eur J Agron, 24, pp. 291-295, (2006); 
+Khajeh-Hosseini M., Powell A.A., Bingham I.J., The interaction between salinity stress and seed vigour during germination of soyabean seeds, Seed Sci Technol, 31, pp. 715-725, (2003); 
+Khan M.A., Weber D.J., Ecophysiology of high salinity tolerant plants, (2006); 
+Krichen K., Vilagrosa A., Chaieb M., Environmental factors that limit Stipa tenacissima L. germination and establishment in Mediterranean arid ecosystems in a climate variability context, Acta Physiol Plant, 39, (2017); 
+Mwale S.S., Azam-Ali S.N., Clark J.A., Et al., Effect of temperature on the germination of sunflower (Helianthus annuus L.), Seed Sci Technol, 22, pp. 565-571, (1994); 
+Neumann P., Salinity resistance and plant growth revisited, Plant Cell Environ, 20, pp. 1193-1198, (1997); 
+Parihar P., Singh S., Singh R., Et al., Effect of salinity stress on plants and its tolerance strategies: a review, Environ Sci Pollut Res, 22, pp. 4056-4075, (2015); 
+Parmoon G., Moosavi S.A., Akbari H., Ebadi A., Quantifying cardinal temperatures and thermal time required for germination of Silybum marianum seed, Crop J doi, (2015); 
+Piper E.L., Boote K.J., Jones J.W., Grimm S.S., Comparison of two phenology models for predicting flowering and maturity date of soybean, Crop Sci, 36, pp. 1606-1614, (1996); 
+Preethi K.C., Kuttan R., Wound healing activity of flower extract of Calendula offlcinalis, J Basic Clin Physiol Pharmacol, 20, pp. 73-80, (2009); 
+Shafii B., Price W.J., Estimation of cardinal temperatures in germination data analysis, J Agric Biol Environ Stat, 6, pp. 356-366, (2001); 
+Soltani A., Robertson M.J., Torabi B., Et al., Modelling seedling emergence in chickpea as influenced by temperature and sowing depth, Agric For Meteorol, 138, pp. 156-167, (2006); 
+Suchy P., Strakova E., Kummer V., Et al., Hepatoprotective effects of milk thistle (Silybum marianum) seed cakes during the chicken broiler fattening, Acta Vet Brno, 77, pp. 31-38, (2008); 
+Yan W., Hunt L.A., An equation for modelling the temperature response of plants using only the cardinal temperatures, Ann Bot, 84, pp. 607-614, (1999); 
+Yin X., Kropff M.J., McLaren G., Visperas R.M., A nonlinear model for crop development as a function of temperature, Agric For Meteorol, 77, pp. 1-16, (1995)#FRF#

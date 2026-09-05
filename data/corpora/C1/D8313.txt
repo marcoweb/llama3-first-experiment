@@ -1,0 +1,45 @@
+#ITI#Satellite remote sensing of crop water use across the Missouri River Basin for 1986–2018 period#FTI#
+#IRE#Understanding historical crop water use (CWU) dynamics is important to improve land and water management. In this study, well-validated (coefficient of determination = 0.91, percent bias = 4%, and percent root mean square error = 11.8%) Landsat-based actual evapotranspiration (ETa) time-series estimations were used to (1) assess summer season CWU (CWU-Su) dynamics, (2) investigate CWU-Su trends over the study period (1986–2018; 33 years) at the regional- and pixel-scales, and (3) attribute CWU-Su driving factors across Missouri River Basin. Spatial variability of the ETa estimations along with the observed bimodal probability density distribution of ETa highlighted a strong relation between land cover and water uses across the basin. The bimodal distribution of ETa also indicated the presence of two major landcovers in the basin. The drier foothill regions in northwestern Missouri River Basin, dominated by grassland/shrubland, showed lower ETa (< 500 mm/year), whereas cropland dominated regions in lower semi-humid basin and forested subbasins exhibited higher ETa (> 600 mm/year). The CWU-Su anomalies revealed the vulnerability of the basin to year-to-year weather conditions. The CWU-Su trend analysis revealed a significant positive trend (p < 0.1) at the regional-scale affecting 30% of basin's cropland pixels. The cropland pixels under positive CWU-Su trend were found to be clustered in the eastern and central Missouri River Basin as a result of the combined effect of increased crop production area, increased crop yields, crop practice shifts to higher biomass crops, and increased irrigated land. The effect of improved irrigation and water management practices on reducing CWU-Su was observed in western Missouri River Basin, which had a stable major crop throughout the study period. Overall, the study highlights the usefulness of Landsat imagery and remote sensing-based ETa modeling approaches in generating historical time-series ETa maps over a wide range of elevation, vegetation, and climate. © 2022 Elsevier B.V.#FRE#
+#IPC#Energy balance; Evapotranspiration; Landsat; Remote sensing; SSEBop#FPC#
+#IRF#Abatzoglou J.T., Development of gridded surface meteorological data for ecological applications and modelling, Int. J. Climatol., 33, pp. 121-131, (2013); 
+Allen R.G., Pereira L.S., Howell T.A., Jensen M.E., Evapotranspiration information reporting: I. Factors governing measurement accuracy, Agric. Water Manag., 98, pp. 899-920, (2011); 
+Arguez A., Durre I., Applequist S., Vose R.S., Squires M.F., Yin X., Heim R.R., Owen T.W., NOAA's 1981–2010 US climate normals: an overview, Bull. Am. Meteorol. Soc., 93, 11, pp. 1687-1697, (2012); 
+Barnhart T.B., Molotch N.P., Livneh B., Harpold A.A., Knowles J.F., Schneider D., Snowmelt rate dictates streamflow, Geophys. Res. Lett., 43, pp. 8006-8016, (2016); 
+Bawa A., Quantifying the impacts of land use, management and climate change on water resources in Missouri River Basin, Electron. Theses Diss., (2021); 
+Bawa A., Senay G.B., Kumar S., Regional crop water use assessment using Landsat-derived evapotranspiration, Hydrol. Process., 35, 1, (2021); 
+Deines J.M., Schipanski M.E., Golden B., Zipper S.C., Nozari S., Rottler C., Guerrero B., Sharda V., Transitions from irrigated to dryland agriculture in the Ogallala Aquifer: Land use suitability and regional economic impacts, Agric. Water Manag., 233, (2020); 
+Dieter C.A., Maupin M.A., Caldwell R.R., Harris M.A., Ivahnenko T.I., Lovelace J.K., Barber N.L., Linsey K.S., (2018); 
+Douglas E.M., Vogel R.M., Kroll C.N., Trends in floods and low flows in the United States: impact of spatial correlation, J. Hydrol., 240, 1-2, pp. 90-105, (2000); 
+Farr T.G., Kobrick M., Shuttle Radar Topography Mission produces a wealth of data, Eos, Trans. Am. Geophys. Union, 81, pp. 583-585, (2000); 
+Gleick P.H., Waggoner P.E., Climate change and US water resources, Vulnerability of Water Systems, pp. 223-240, (1990); 
+Hay C.H., Todey D.P., Precipitation and evapotranspiration patterns in the northwestern Corn Belt and impacts on agricultural water management, pp. 7-10, (2011); 
+Homer C.H., Fry J.A., Barnes C.A., (2012); 
+Hutson S.S., Barber N.L., Kenney J.F., Linsey K.S., Lumia D.S., Maupin M.A.; 
+Jensen M.E., Allen R.G., Task Committee on Revision of Manual 70: Evaporation, Evapotranspiration, and Irrigation Water Requirements, 744, (2016); 
+Kendall M., Rank Correlation Methods, 6, (1975); 
+Lurtz M.R., Morrison R.R., Gates T.K., Senay G.B., Bhaskar A.S., Ketchum D.G., Relationships between riparian evapotranspiration and groundwater depth along a semiarid irrigated river valley, Hydrol. Process., 34, pp. 1714-1727, (2020); 
+Mann H.B., Nonparametric tests against trend, Économ.: J. Econom. Soc., 13, pp. 245-259, (1945); 
+Mehta V.M., Rosenberg N.J., Mendoza K., Simulated impacts of three decadal climate variability phenomena on water yields in the Missouri River Basin, JAWRA J. Am. Water Resour. Assoc., 47, pp. 126-135, (2011); 
+Mehta V.M., Mendoza K., Daggupati P., Srinivasan R., Rosenberg N.J., Deb D., High-resolution simulations of decadal climate variability impacts on water yield in the Missouri River basin with the Soil and Water Assessment Tool (SWAT), J. Hydrometeorol., 17, 9, pp. 2455-2476, (2016); 
+Oyler J.W., Ballantyne A., Jencso K., Sweet M., Running S.W., Creating a topoclimatic daily air temperature dataset for the conterminous United States using homogenized station data and remotely sensed land skin temperature, Int. J. Climatol., 35, pp. 2258-2279, (2015); 
+Qiao L., Pan Z., Herrmann R.B., Hong Y., Hydrological variability and uncertainty of lower Missouri River Basin under changing climate, JAWRA J. Am. Water Resour. Assoc., 50, pp. 246-260, (2014); 
+Rocha J., Perdig~ao A., Melo R., Henriques C., (2012); 
+Scanlon B.R., Faunt C.C., Longuevergne L., Reedy R.C., Alley W.M., McGuire V.L., McMahon P.B., Groundwater depletion and sustainability of irrigation in the US High Plains and Central Valley, Proc. Natl. Acad. Sci., 109, 24, pp. 9320-9325, (2012); 
+Schauer M., Senay G.B., Characterizing crop water use dynamics in the Central Valley of California using Landsat-derived evapotranspiration, Remote Sens., 11, 15, (2019); 
+Senay G.B., Satellite psychrometric formulation of the Operational Simplified Surface Energy Balance (SSEBop) model for quantifying and mapping evapotranspiration, Appl. Eng. Agric., 34, pp. 555-566, (2018); 
+Senay G.B., Bohms S., Singh R.K., Gowda P.H., Velpuri N.M., Alemu H., Verdin J.P., Operational evapotranspiration mapping using remote sensing and weather datasets: A new parameterization for the SSEB approach, JAWRA J. Am. Water Resour. Assoc., 49, pp. 577-591, (2013); 
+Senay G.B., Schauer M., Friedrichs M., Velpuri N.M., Singh R.K., Satellite-based water use dynamics using historical Landsat data (1984–2014) in the southwestern United States, Remote Sens. Environ., 202, pp. 98-112, (2017); 
+Singh R.K., Senay G.B., Comparison of four different energy balance models for estimating evapotranspiration in the midwestern United States, Water, 8, (2016); 
+Taylor J.L., Acevedo W., Auch R.F., Drummond M.A., (2015); 
+USDA N.A.S.S., Crop survey reports, United States Department of Agriculture-National Agricultural Statistics Service, Quick Stats, (2021); 
+USDA N.A.S.S., Census of agriculture, (2017); 
+(2012); 
+(2018); 
+Velpuri N.M., Senay G.B., Schauer M., Garcia C.A., Singh R.K., Friedrichs M., Kagone S., Haynes J., Conlon T., Evaluation of hydrologic impact of an irrigation curtailment program using Landsat satellite data, Hydrol. Process., 34, pp. 1697-1713, (2020); 
+Velpuri N.M., Senay G.B., Singh R.K., Bohms S., Verdin J.P., A comprehensive evaluation of two MODIS evapotranspiration products over the conterminous United States: Using point and gridded FLUXNET and water balance ET, Remote Sens. Environ., 139, pp. 35-49, (2013); 
+Wang F., Shao W., Yu H., Kan G., He X., Zhang D., Ren M., Wang G., Re-evaluation of the power of the mann-kendall test for detecting monotonic trends in hydrometeorological time series, Front. Earth Sci., 8, (2020); 
+Wiersma J.J., Ransom J.K., (2005); 
+Wise E.K., Woodhouse C.A., McCabe G.J., Pederson G.T., St-Jacques J.-M., Hydroclimatology of the Missouri River Basin, J. Hydrometeorol., 19, pp. 161-182, (2018); 
+Yang Y., Anderson M., Gao F., Hain C., Noormets A., Sun G., Wynne R., Thomas V., Sun L., Investigating impacts of drought and disturbance on evapotranspiration over a forested landscape in North Carolina, USA using high spatiotemporal resolution remotely sensed data, Remote Sens. Environ., 238, (2020); 
+Zhang K., Kimball J.S., Nemani R.R., Running S.W., A continuous satellite-derived global record of land surface evapotranspiration from 1983 to 2006, Water Resour. Res., 46, (2010); 
+Zhu Z., Wang S., Woodcock C.E., Improvement and expansion of the Fmask algorithm: Cloud, cloud shadow, and snow detection for Landsats 4–7, 8, and Sentinel 2 images, Remote Sens. Environ., 159, pp. 269-277, (2015)#FRF#

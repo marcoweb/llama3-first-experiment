@@ -1,0 +1,50 @@
+#ITI#Morphophysiological and nutritional characteristics of Crambe abyssinica Hochst under hydric restriction in different phenological stages#FTI#
+#IRE#Crambe is an oilseed whose oil is used mainly for biodiesel production, but crambe is still a developing agricultural crop. Therefore, the goal of the present study was to evaluate the growth and the physiological and nutritional parameters of Crambe abyssinica Hochst (crambe) cultivated under hydric restriction for 20 days. The experiment occurred in the greenhouse and consisted of comparing control and hydric restriction treatments for 20 days during the vegetative and flowering stages. The hydric restriction effect was evaluated by assessing plant height, the number of leaves, dry biomass and leaf area. The dry biomass and leaf area values were used to calculate physiological indexes such as the specific leaf area (SLA), leaf area ratio (LAR), liquid assimilation rate (LRA) and relative growth rate of the crop (RGR). The macro- and micronutrient leaf compositions were also analysed. The means were compared with those of the control according to the Dunnett test. A reduction leaf area and LAR as well as in the concentration of the minerals N, Ca, K, Mg and Zn was observed at the vegetative stage, whereas at flowering, the hydric restriction treatment reduced the SLA, LRA and Mg but increased the minerals K and Na. Thus, we conclude that there was an effect of hydric restriction on the morphological, physiological and nutritional characteristics of crambe plants on at least one of the phenological stages studied. © 2018, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Flowering; Nutrients; Physiological rates; Vegetative stages#FPC#
+#IRF#Atteya A.M., Alteration of water relations and yield of corn genotypes in response to drought stress, Bulg J Plant Phys, 29, pp. 63-76, (2003); 
+Benincasa M.M.P., Análise de crescimento de plantas—noções básicas, (2003); 
+Boutra T., Akhkha A., Abdulkhaliq A., Al-Shoaibi Alhejeli A.M., Effect of water stress on growth and water use efficiency (WUE) of some wheat cultivars (Triticum durum) grown in Saudi Arabia, J Taibah Univ Sci, 3, pp. 39-48, (2010); 
+Cakir R., Effect of water stress at different development stages on vegetative and reproductive growth of corn, Field Crops Res, 89, pp. 1-16, (2004); 
+Carlsson A.S., Oil crop platforms for industrial uses, (2007); 
+Champolivier L., Merrien A., Effects of water stress applied at different growth stages to Brassica napus L. var. oleifera on yield, yield components and seed quality, Eur J Agric, 5, pp. 153-160, (1996); 
+Chapman S.C., Edmeades G.O., Selection improves drought tolerance in tropical maize populations II. Direct and correlated responses among secondary traits, Crop Sci, 39, pp. 1315-1321, (1999); 
+Cha-Um S., Kirdmanee C., Proline accumulation, photosynthetic abilities and growth characters of sugarcane (Saccharum officinarum L.) plantlets in response to iso-growth salt and water-deficit stress, Agric Sci China, 8, 1, pp. 51-58, (2009); 
+Chaves M.M., Maroco J.P., Pereira J.S., Understanding plant responses to drought—from genes to the whole plant, Funct Plant Biol, 30, pp. 239-264, (2003); 
+Colodetti T.V., Martins L.D., Rodrigues W.N., Brinate S.V.B., Tomaz M.A., Crambe: aspectos gerais da produção agrícola, Encicl Biosf, 8, 14, pp. 258-269, (2012); 
+Dias L.B., Água nas plantas, (2008); 
+Donadon J.R., Bessa J.F.V., Resende O., Castro C.F.S., Alves R.M.V., Silveira E.V., Storage of crambe seeds in different containers and environments: Part II—Chemical quality, Rev Bras Eng Agric, 19, 3, pp. 231-237, (2015); 
+Efeoglu B., Ekmekci Y., Cicek N., Physiological responses of three maize cultivars to drought stress and recovery, S Afr J Bot, 75, 1, pp. 34-42, (2009); 
+Embrapa,Sistema Brasileiro de Classificação de Solos, (2006); 
+Farooq M., Wahid A., Kobayashi N., Fujita D., Basra S.M.A., Plant drought stress: effects, mechanisms and management, Agron Sustain Dev, 29, pp. 185-212, (2009); 
+Ferrari T.B., Ferreira G., Zucareli V., Boaro C.S.F., Effect of plant growth regulators on indices of growth analysis for sweet passion fruit seedlings (Passiflora alata Curtis), Biotemas, 21, 3, pp. 45-52, (2008); 
+Fontana F., Lazzeri L., Malaguti L., Galletti S., Agronomic characterization of some Crambe abyssinica genotypes in locality of the Po Valley, Eur J Agron, 9, pp. 117-126, (1998); 
+Ghannoum O., Conroy J.P., Driscoll S.P., Paul M.J., Foyer C.H., Lawlor D.W., Nonstomatal limitations are responsible for drought-induced photosynthetic inhibition in four C<sub>4</sub> species, New Phytol, 159, pp. 599-608, (2003); 
+Métodos físico-químicos para análise de alimentos, (2008); 
+Kumar M., Sharma M.P., Selection of potential oils for biodiesel production, Renew Sustain Energy Rev, 56, pp. 1129-1138, (2016); 
+Lalas S., Gortzi O., Athanasiadis V., Dourtoglou E., Dourtoglou V., Full characterisation of Crambe abyssinica Hochst. seed oil, J Am Oil Chem Soc, 89, pp. 2253-2258, (2012); 
+Leao D.A.S., Freire A.L.O., Miranda J.R.P., Macro and micronutrientes contente of sorghum under water stress and phosphate fertilization, Pesq Agropecu Trop, 41, 1, pp. 74-79, (2011); 
+Leegood R.C., Primary photosynthate production: physiology and metabolism, Photoassimilate distribution in plants and crops, (1996); 
+Lessman K.J., Anderson W.P., Crambe, New sources of fat and oils, (1981); 
+Malavolta E., Vitti G.C., Oliveira S.A., Avaliação do estado nutricional das plantas: princípios e aplicações, (1997); 
+Marschner H., Mineral nutrition of higher plants, (1995); 
+Neumann P.M., Coping mechanisms for crop plants in drouht-prone environments, Ann Bot, 101, 7, pp. 901-907, (2008); 
+Osakabe Y., Osakabe K., Shinozaki K., Tran L.S.P., Response of plants to water stress, Front Plant Sci, 5, 86, pp. 1-8, (2014); 
+Paiva R., Oliveira L.M., Fisiologia e Produção Vegetal, (2006); 
+Pimentel C., A relação da planta com a água, (2004); 
+Portes T.A., Castro Junior L.G., Análise de crescimento de plantas: um programa computacional auxiliar, Rev Bras Fisiol Veg, 3, 1, pp. 53-56, (1991); 
+Reichardt K., Timm L.C., Solo, planta e atmosfera: conceitos, processos e aplicações, (2004); 
+Richards R.A., Thurling N., Variation between and within species of rapeseed (Brassica campestris and B. napus) in response of drought stress. I. Sensitivity at different stages of development, Aust J Agric Res, 29, 3, pp. 469-477, (1978); 
+Rodrigues J.D., Influência de diferentes níveis de cálcio, sobre o desenvolvimento de plantas de estilosantes (Stylosanthes guyanensis (Aubl). SW. cv. Cook, em cultivo hidropônico. Thesis, UNESP, (1990); 
+Rosa H.A., Wazilewski W.T., Secco D., Chaves L.I., Veloso G., Souza S.N.M., Silva M.J., Santos R.F., Biodiesel produced from crambe oil in Brazil-A study of performance and emissions in a diesel cycle engine generator, Renew Sustain Energy Rev, 38, pp. 651-655, (2014); 
+Silva M.B.R., Fernandes P.D., Neto J.D., Nery A.R., Rodrigues L.N., Viegas R.A., Growth and production of physic nut irrigated with wastewater, under water stress conditions, Rev Bras Eng Agric Ambient, 15, 6, pp. 621-629, (2011); 
+Singh V., Pallaghy C.K., Singh D., Phosphorus nutrition and tolerance of cotton to water stress I. seed cotton yield and leaf morphology, Field Crops Resist, 96, pp. 191-198, (2006); 
+Souza A.D.V., Favaro S.P., Itavo L.C., Roscoe R., Chemical characterization of seed and presscakes of physic nut, radish and crambe, Pesq Agropecu Bras, 44, pp. 1328-1335, (2009); 
+Taiz L., Zeiger E., Fisiologia vegetal, (2013); 
+Tedeschi A., Riccardi M., Menenti M., Melon crops (Cucumis melo L.cv. Tendral) grown in a Mediterranean environment under saline-sodic conditions: Part II. Growth analysis, Agric Water Manag, 68, pp. 1339-1348, (2011); 
+Tedesco M.J., Gianello C., Bissani C.A., Bohnen H., Volkweiss S.J., Análise de solo, plantas e outros animais, (1995); 
+Vargas R.M.B., Meurer E.J., Anghinoni I., Mecanismos de suprimento de fósforo, potássio, cálcio e magnésio às raízes de milho em solos do Rio Grande do Sul, Rev Bras Cien Solo, 7, 2, pp. 142-148, (1983); 
+Viana O.H., Mercante E., Felipetto H., Kusminski D., Bleil H.G., Characterization of the spectral–temporal pattern of the crambe crop using hyperspectral sensors, J Agric Sci, 9, 11, pp. 220-233, (2017); 
+Wahid A., Rasul E., Photosynthesis in leaf, stem, flower and fruit, Handbook of photosynthesis, (2005); 
+Wang M., Zheng Q., Shen Q., Guo S., The critical role of potassium in plant stress response, Int J Mol Sci, 14, 4, pp. 7370-7390, (2013); 
+Yan W., Zhong Y., Zheng S., Shangguan Z., Linking plant leaf nutrients/stoichiometry to water use efficiency on the Loess Plateau in China, Ecol Eng, 87, pp. 124-131, (2016); 
+Zain N.A.M., Ismail M.R., Puteh A., Mahmood M., Islam M.R., Impact of cyclic water stress on growth, physiological responses and yield of rice (Oryza sativa L.) grown in tropical environment, Ciên Rur, 44, 12, pp. 2136-2141, (2014)#FRF#

@@ -1,0 +1,39 @@
+#ITI#Branch bending affected floral bud development and nutrient accumulation in shoot terminals of ‘Fuji’ and ‘Gala’ apples#FTI#
+#IRE#Branch bending has been practiced for decades in China to induce flower buds in ‘Fuji’ apple. However, the optimum bending angle is yet to be elucidated. The main objectives of this study were to compare the effect of branch bending angles (70°, 90° and 110°) on the flowering and nutrient accumulation of 1-year-old shoots of ‘Fuji’ and ‘Gala’ apples and to determine the optimum branch bending angle for each cultivar. In both cultivars, the production of spurs and terminal flower buds, and the total sugar concentration and the carbon-to-nitrogen (C/N) ratio in the shoot terminals increased, whereas the N concentration decreased with increasing bending angles. The nutrient concentration was significantly higher in spurs than in medium and long shoots. The distinction between the changing patterns of C and N concentrations in the bent shoots during the growing season in our study suggested the competition of these two nutrients caused by vegetative and reproductive growth at different growing times. In ‘Fuji’ apple, the proportion of flowering buds appeared to increase more rapidly with the increase of bending angle from 70° to 110° than that in ‘Gala’ apple, and particularly a higher proportion of spurs was observed on ‘Fuji’ branches bent at a larger angle. The increase in the total sugar concentration and the C/N ratio in the shoot terminals of the bent branches might be involved in inducing floral buds after bending. The optimum bending angle was about 90° for ‘Gala’ apple and 110° for ‘Fuji’ apple, respectively. Bending could help farmers to reduce the severity of biennial fruiting in ‘Fuji’ apple. © 2017, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Flower buds; Total sugar and nitrogen concentration; Vegetative and reproductive growth#FPC#
+#IRF#Akihiro H., Yuka M., Takashi M., Shoot growth and fruit production of ‘Masui Dauphine’ fig trees having high limb position with downward shoots, J Jpn Soc Hortic Sci, 82, 3, pp. 215-221, (2013); 
+Bi Y., Liu Y., Zhang P., Sun S.K., Zhu X.Q., Sao H., Measurement of total sugar concentration by anthrone reagent in soybean whey waste water, Acta Soybean Sin, 83, pp. 24-25, (2006); 
+Brown C.S., Young E., Pharr D.M., Rootstock and scion effect on carbon partitioning in apple leaves, J Am Soc Hortic Sci, 110, pp. 701-705, (1985); 
+Cheng L., Fuchigami L.H., Growth of young apple trees in relation to reserve nitrogen and carbohydrates, Tree Physiol, 22, pp. 1297-1303, (2002); 
+Cheng L., Richard R., Accumulation of macro- and micronutrients and nitrogen demand-supply relationship of ‘Gala’/‘Malling 26’ apple trees grown in sand culture, J Am Soc Hortic Sci, 113, pp. 693-699, (2009); 
+Childers N.F., Morris J.R., Sibbett G.S., Modern fruit science, (1995); 
+Costes E., Lauri P.E., Regnard J.L., Analyzing fruit tree architecture: implications for tree management and fruit production, Horticultural review, pp. 1-61, (2006); 
+Elfving D.C., Forshey C.G., Growth and fruiting responses of vigorous apple branches to pruning and branch orientation treatments, J Am Soc Hortic Sci, 101, pp. 290-293, (1976); 
+Forshey C.G., Elfving D.C., Stebbins R.L., Training and pruning apple and pear trees, (1992); 
+Goldschmidt-Reischel E., Regulating trees of apple and pear by pruning and bending, Swed J Agric Res, 27, pp. 45-52, (1997); 
+Hampson C.R., Quamme H.A., Kappel F., Brownlee R.T., Varying density with constant rectangularity I: effects on apple tree growth and light interception in three training systems over 10 years, Hortscience, 39, pp. 501-506, (2004); 
+Han H.H., Catherine C., Cochard H., Trottier C., Lauri P.E., Effects of shoot bending on lateral fate and hydraulics: invariant and changing traits across five apple genotypes, J Exp Bot, 58, pp. 3537-3547, (2007); 
+Ito A., Yaegaki H., Hayama H., Yamaguchi I., Kusaba S., Yoshioka H., Bending shoots stimulates flowering and influences hormone levels in lateral buds of Japanese pear, Hortscience, 34, pp. 1224-1228, (1999); 
+Ito A., Yoshioka H., Hayama H., Kashimura Y., Reorientation of shoots to the horizontal position influences the sugar metabolism of lateral buds and shoot internodes in Japanese pear [Pyrus pyrifolia (Burm.) Nak], J Hortic Sci Biotechnol, 79, pp. 416-422, (2004); 
+Janick J., Cummins J.N., Brown S.B., Hemmat M., Apple, Fruit breeding, vol I, tree and tropical fruits, (1996); 
+Jonkers H., Tree size controls by pruning and bending, (1976); 
+Kato I., Ito H., Physiological factors associated with the growth of apple shoots, Tohoki J Agric Res, 13, pp. 1-21, (1962); 
+Lauri P.E., Laurens F., Architectural types in apple (Malus × domestica Borkh.), Crops: growth, quality and biotechnology, pp. 1300-1314, (2005); 
+Lauri P.E., Lespinasse J.M., Genotype of apple trees affects growth and fruiting responses to shoot bending at various times of year, J Am Soc Hortic Sci, 126, pp. 169-174, (2001); 
+Lawes G.S., Spence C.B., Tustin D.S., Max S.M., Tree quality and canopy management effects on the growth and floral precocity of young ‘Doyenne du Comice’ pear trees, N Z J Crop Hortic Sci, 25, pp. 177-184, (1997); 
+Lord W.J., Damon R.A., Growth and fruiting responses of ‘Redspur Delicious’ apple trees to pruning treatments, J Am Soc Sci, 108, pp. 867-871, (1983); 
+Luckwill L.C., The control of growth and fruitfulness of apple trees, Physiology of tree crops, pp. 237-254, (1970); 
+Meilan R., Floral induction in woody angiosperms, New For, 14, pp. 179-202, (1997); 
+Mika J.D., Effects of bending of apple trees on accumulation and translocation of <sup>14</sup>C-labelled assimilates, Biol Plant, 11, pp. 175-182, (1969); 
+Moing A., Lafargue B., Lespinasse J.M., Gaudillere J.P., Carbon and nitrogen reserves in prune tree shoots effect of training system, Sci Hortic, 57, pp. 99-110, (1994); 
+Naor A., Flaishman M., Stern R., Moshe A., Erez A., Temperature effects on dormancy completion of vegetative buds in apple, J Am Soc Hortic Sci, 128, pp. 636-641, (2003); 
+Neilsen D., Neilsen G.H., Efficient uses of nitrogen and water in high-density apple orchards, Horttechnology, 12, 1, pp. 19-25, (2002); 
+Robbie F.A., Atkinson C.J., Knight J.N., Moore K.G., Branch orientation as a factor determining fruit set in apple trees, J Hortic Sci, 68, pp. 317-325, (1993); 
+Robinson T.L., Achieving a balance between vegetative growth and cropping, Compact Fruit Tree, 36, pp. 33-36, (2003); 
+Robinson T.L., Hoying S.A., Descriptions of orchard planting systems, Compact Fruit Tree, 36, pp. 50-64, (2003); 
+Rom C.R., Spur pruning ‘Delicious’ apple for improved spur quality and yield, Acta Hortic, 322, pp. 55-67, (1992); 
+Seok K.J., Hyun S.C., Light penetration, growth, and fruit productivity in ‘Fuji’ apple trees trained to four growing systems, Sci Hortic, 125, pp. 672-678, (2010); 
+Stopar M., Apple fruitlet thinning and photosynthate supply, J Hortic Sci Biotechnol, 73, pp. 461-466, (1998); 
+Titus J.S., The effect of nitrogen fertilization on the biennial bearing of the ‘Gold Delicious’ apple, Trans Ill State Hortic Soc, 93, pp. 50-54, (1960); 
+Tustin D.S., Hirst P.M., Warrington I.J., Influence of orientation and position of fruiting laterals on canopy light penetration, yield, and fruit quality of ‘Granny Smith’ apple, J Am Soc Hortic Sci, 113, pp. 693-699, (1988); 
+Wareing P., Growth and its co-ordination in trees, Physiology of tree crops, pp. 1-21, (1970)#FRF#

@@ -1,0 +1,43 @@
+#ITI#Exogenous spermidine alleviates fruit granulation in a Citrus cultivar (Huangguogan) through the antioxidant pathway#FTI#
+#IRE#The role of exogenous spermidine (Spd) in alleviating fruit granulation in the grafted seedlings of a Citrus cultivar (Huangguogan) was investigated. Granulation resulted in increased electrical conductivity, cell membrane permeability, and total pectin, soluble pectin, cellulose, and lignin contents. However, it decreased the activities of superoxide dismutase, peroxidase, and catalase, as well as the (Spd + Spm):Put ratio. The application of exogenous Spd onto Huangguogan seedlings significantly increased proline and ascorbate contents, but decreased the H2O2 and O2         −· levels, which suggested that exogenous Spd provided some protection from oxidative damage. In addition, exogenous Spd decreased cell membrane permeability and MDA content, and increased the (Spd + Spm):Put ratio. The activities of antioxidant enzymes, such as catalase, peroxidase, and superoxide dismutase, were increased in Spd-treated seedlings affected by fruit granulation, resulting in a decrease in oxidative stress levels. The protective effects of Spd were reflected by a decrease in superoxide levels through osmoregulation, increased proline and ascorbate contents, and increased antioxidant activities. Our observations reveal the importance of exogenous Spd in alleviating citrus fruit granulation. © 2017, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Antioxidant enzymes; Ascorbate; Granulation; Huangguogan; Proline; Spermidine#FPC#
+#IRF#Ahamd P., Sarwat M., Sharma S., Reactive oxygen species, antioxidants and signaling in plants, J Plant Biol, 51, pp. 167-173, (2008); 
+Alcazar R., Cuevas J.C., Planas J., Et al., Integration of polyamines in the cold acclimation response, Plant Sci, 180, pp. 31-38, (2011); 
+Alet A.I., Sanchez D.H., Cuevas J.C., Et al., Putrescine accumulation in Arabidopsis thaliana transgenic lines enhances tolerance to dehydration and freezing stress, Plant Signal Behav, 6, pp. 278-286, (2011); 
+Bates L.S., Waldren R.P., Teari D., Rapid determination of free proline for water stress studies, Plant Soil, 39, pp. 205-207, (1973); 
+Belle N.A., Dalmolin G.D., Fonini G., Et al., Polyamines reduces lipid peroxidation induced by different proxidant agents, Brain Res, 1008, 2, pp. 245-251, (2004); 
+Bouchereau A., Aziz A., Larher F., Et al., Polyamines and environmental challenges: recent development, Plant Sci, 140, pp. 103-125, (1999); 
+Chen F., Wang F., Wu F., Et al., Modulation of exogenous glutathione in antioxidant defense system against Cd stress in the two barley genotypes differing in Cd tolerance, Plant Physiol Biochem, 48, pp. 663-672, (2010); 
+De Tullio M.C., How does ascorbic acid prevent scurvy? A survey of the nonantioxidant functions of vitamin C, Vitamin C: its function and biochemistry in animals and plants, pp. 176-190, (2004); 
+Du J., Shu S., Shao Q., Et al., Mitigative effects of spermidine on photosynthesis and carbon-nitrogen balance of cucumber seedlings under Ca(NO<sub>3</sub>)<sub>2</sub> stress, J Plant Res, 129, pp. 79-91, (2016); 
+Duan J.J., Li J., Guo S.R., Et al., Exogenous spermidine affects polyamine metabolism in salinity-stressed Cucumis staves roots and enhances short-term salinity tolerance, J Plant Physiol, 165, pp. 1620-1635, (2008); 
+Fariduddin Q., Varshney P., Yusuf M., Et al., Polyamines: potent modulators of plant responses to stress, J Plant Interact, 8, pp. 1-16, (2013); 
+Galston A.W., Sawhney R.K., Polyamines in plant physiology, Plant Physiol, 94, 2, pp. 406-410, (1990); 
+Groppa M.D., Benavides M.P., Polyamines and abiotic stress: recent advances, Amino Acids, 34, pp. 35-45, (2008); 
+Garg V., Manchanda G., ROS generation in plants: boon or bane?, Plant Biosyst, 143, pp. 81-96, (2009); 
+Gupta K., Dey A., Gupta B., Plant polyamines in abiotic stress responses, Acta Physiol Plant, 35, pp. 2015-2036, (2013); 
+Hasanuzzaman M., Hossain M.A., Fujita M., Nitric oxide modulates antioxidant defense and the methylglyoxal detoxification system and reduces salinity-induced damage of wheat seedlings, Plant Biotechnol Rep, 5, pp. 353-365, (2011); 
+Heath R.L., Packer L., Photoperoxidation in isolated chloroplast. I. Kinetics and stoichiometry of fatty acid peroxidation, Arch Biochem Biophys, 125, pp. 189-198, (1968); 
+Hu X.H., Zhang Y., Shi Y., Et al., Effect of exogenous spermidine on polyamine content and metabolism in tomato exposed to salinity–alkalinity mixed stress, Plant Physiol Biochem, 57, pp. 200-209, (2012); 
+Huang C., He W., Guo J., Et al., Increased sensitivity to salt stress in ascorbate deficient Arabidopsis mutant, J Exp Bot, 56, pp. 3041-3049, (2005); 
+Kamrun N., Mirza H., Md. Mahabub A., Masayuki F., Exogenous spermidine alleviates low temperature injury in mung bean (Vigna radiata L.) seedlings by modulating ascorbate-glutathione and glyoxalase pathway, Int J Mol Sci, 16, pp. 30117-30132, (2015); 
+Kasukabe Y., He L., Nada K., Et al., Overexpression of Spermidine synthase enhances tolerance to multiple environmental stresses and up-regulates the expression of various stress-regulated genes in transgenic Arabidopsis thaliana, Plant Cell Physiol, 45, pp. 712-722, (2004); 
+Kotzabasis K., Polyamines in the photosynthetic apparatus. Photosystem II highly resolved subcomplexes are enriched in spermine, Photosynth Res, 38, pp. 83-88, (1993); 
+Kusano T., Berberich T., Tateda C., Et al., Polyamines: essential factors for growth and survival, Planta, 228, pp. 367-381, (2008); 
+Li B., He L.Z., Guo S.R., Et al., Proteomics reveal cucumber Spd-responses under normal condition and salt stress, Plant Physiol Biochem, 67, pp. 7-14, (2013); 
+Mohamed H.A., Manosh K.B., Zhang Z.W., Et al., Exploitation of SSR, SRAP and CAPS-SNP markers for genetic diversity of Citrus germplasm collection, Sci Hortic, 128, pp. 220-227, (2011); 
+Orozco-Cardenas M.L., Narvaez-Vasquez J., Ryan C.A., Hydrogen peroxide acts as a second messenger for induction of defense genes in tomato plants in response to wounding, systemin, and methyl jasmonate, Plant Cell, 13, pp. 179-191, (2001); 
+Ritenour M.A., Albrigo L.G., Burns J.K., Et al., Granulation in Florida citrus, Proc Fla State Hortic Soc, 117, pp. 358-361, (2004); 
+Roychoudhury A., Basu S., Sengupta D.N., Amelioration of salinity stress by exogenously applied spermidine or spermine in three varieties of indica rice differing in their level of salt tolerance, J Plant Physiol, 168, pp. 317-328, (2011); 
+She W.Q., Zhao X.L., Pan D.M., Effect of Pollination and biochemistry in pericarp of Guanximiyou pummelo at the stage of granulation, J Fujian Agric For Univ (Nat Sci Ed), 37, pp. 355-359, (2008); 
+Shu S., Guo S., Sun J., Et al., Effects of salt stress on the structure and function of the photosynthetic apparatus in Cucumis sativus and its protection by exogenous putrescine, Physiol Plant, 146, pp. 285-296, (2012); 
+Singh R., 65-year research on citrus granulation, Indian J Hortic, 58, pp. 112-144, (2001); 
+Smirnoff N., Ascorbate, tocopherol and carotenoids: metabolism, pathway engineering and functions, Antioxidants and reactive oxygen species in plants, (2005); 
+Tassoni A., Franceschetti M., Bagni N., Polyamines and salt stress response and tolerance in Arabidopsis thaliana flowers, Plant Physiol Biochem, 46, pp. 607-613, (2008); 
+Wang X.Y., Wang P., Qi Y.P., Et al., Effects of granulation on organic acid metabolism and its relation to mineral elements in Citrus grandis juice sacs, Food Chem, 145, pp. 984-990, (2014); 
+Xiong B., Wang Z.H., Shi D.D., Et al., Relationship between granulation and materials of cell wall, polyamine in Huangguogan fruit, Acta Agric Boreali- Sin, 29, S1, pp. 239-242, (2014); 
+Xiong B., Wang Z.H., Gao J.F., Et al., Effects of exogenous spermidine on activities of antioxidant enzymes in ‘Huangguogan’ orange fruits, Food Sci, 36, 10, pp. 245-248, (2015); 
+Yadav S.K., Cold stress tolerance mechanisms in plants, Agron Sustain Dev, 30, pp. 515-527, (2010); 
+Zapata P.J., Serrano M., Amoros A., Et al., Polyamines and ethylene changes during germination of different plant species under salinity, Plant Sci, 167, pp. 781-788, (2004); 
+Zhang Y., Hu X.H., Shi Y., Et al., Beneficial role of exogenous spermidine on nitrogen metabolism in tomato seedlings exposed to saline-alkaline stress, J Am Soc Hortic Sci, 138, pp. 28-49, (2013); 
+Zheng Y.Y., Recent situation and prospect of juice sac granulation for Guanxi honey pomelo fruits, Fujian J Agric Sci, 21, 1, pp. 63-65, (2006)#FRF#

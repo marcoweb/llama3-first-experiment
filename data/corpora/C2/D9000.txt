@@ -1,0 +1,36 @@
+#ITI#Analysis of elements and bacosides in in vitro shoot culture of Bacopa monnieri#FTI#
+#IRE#The experiments on Bacopa monnieri from Scrophulariaceae family were performed in in vitro shoot cultures conditions in media enriched with Mg ions and serine or anthranilic acid (L1 vitamin). As there is limited literature data available on the content of elements in shoots from B. monnieri in vitro cultures, analyses of magnesium, zinc, potassium, calcium, copper, sodium and iron in plant shoots constituted the aim of the present study. The next aim of the work, for the first time, consists of evaluation of the content and concentration of magnesium and other metals in in vitro shoot cultures of B. monnieri and their influence on bacoside levels, as well as establishment of interactions between the listed analytes. The highest accumulation of magnesium was determined in the plant tissues cultured in media doped with 0.1 g/L serine and 0.5 g/L Mg (2104 µg/g dry weight), and 0.5 mg/g of anthranilic acid and 1.0 g/L Mg (2163 µg/g). The highest concentration of bacosides in the obtained in vitro shoot cultures of B. monnieri (37.3 mg/g dry weight) was found in cultures of the following media composition: MS1 with addition of 0.25 g/L serine and 0.1 g/L Mg, and MS1 with addition of 0.5 g/L serine and 0.5 g/L magnesium. Considering the observed shortage of plant reserves in the natural environment and its curative properties, it seems to be of utmost importance to obtain, as a result of the presented experiment, in vitro shoot cultures of B. monnieri characterized by optimal and reproducible composition of the physiologically active elements and metabolites. © 2016, The Author(s).#FRE#
+#IPC#Bacopa monnieri; Bacosides; In vitro culture; Magnesium ions#FPC#
+#IRF#Ahire M.L., Walunj P.R., Kishor P.B.K., Nikam T.D., Effect of sodium chloride-induced stress on growth, proline, glycine betaine accumulation antioxidative defence and bacoside A content in in vitro regenerated shoots of Bacopa monnieri (L.) Pennell, Acta Physiol Plant, 35, pp. 1943-1953, (2013); 
+Allen L.H., Calcium bioavailability and absorption: a review, Am J Clin Nutr, 4, pp. 783-808, (1982); 
+Biswas S.K., Das I., Chowdhury A., Karmakar U.K., Hossain H., Evaluation of antinociceptive and antioxidant activities of whole plant extract of Bacopa monniera, Res J Med Plant, 6, pp. 607-614, (2012); 
+Childs C.W., Calcium(I1) and magnesium(I1) binding by l-Serine orthophosphate in aqueous solutions, Can J Chem, 49, pp. 2359-2364, (1971); 
+De Baaij J.H.F., Hoenderop J.G.J., Bindels R.J.M., Magnesium in man: implications for health and disease, Physiol Rev, 95, pp. 1-46, (2015); 
+Gemperline P., Practical guide to chemometrics, (2006); 
+Gohil K.J., Patel J.A., A review on Bacopa monnieri: current research and future prospects, Int J Green Pharm, 4, pp. 1-9, (2010); 
+Gunesa A., Alpaslana M., Inala A., Critical nutrient concentrations and antagonistic and synergistic relationships among the nutrients of NFT-grown young tomato plants, J Plant Nutr, 21, pp. 2035-2047, (1998); 
+Hill A.G., Curran C., Infrared and ultraviolet absorption spectra of some salts and metal chelates of anthranilic acid, J Phys Chem, 64, pp. 1519-1522, (1960); 
+Hopinks W.G., Huner N.P.A., Introduction to plant physiology, (2004); 
+Jarosz M., The Polish population nutrition standards—amendment, (2012); 
+Jyoti A., Sharma D., Neuroprotective role of Bacopa monnieri extract against aluminium induced oxidative stress in the hippocampus of rat brain, Neurotoxicol, 27, pp. 451-457, (2006); 
+Kamkaew N., Norman Scholfield C., Ingkaninan K., Taepavarapruk N., Chootip K., Bacopa monnieri increases cerebral blood flow in rat independent of blood pressure, Phytother Res, 27, pp. 135-138, (2013); 
+Kopcewicz J., Lewak S., Fizjologia Roślin, (2002); 
+Kramer R., Chemometric techniques for quantitative analysis, (1996); 
+Kumar R., Mehrota N.K., Nautiyal B.D., Kumar P., Singh P.K., Effect of copper on growth, yield and concentration of Fe, Mn, Zn and Cu in wheat plants (Triticum aestivum L.), J Environ Biol, 30, pp. 485-488, (2009); 
+Livingstone C., Zinc: physiology, deficiency, and parenteral nutrition, Nutr Clin Pract, 30, pp. 371-382, (2015); 
+Lojewski M., Muszynska B., Smalec A., Reczynski W., Opoka W., Sulkowska-Ziaja K., Development of optimal medium content for bioelements accumulation in Bacopa monnieri (L.) in vitro culture, Appl Biochem Biotechnol, 174, pp. 1535-1540, (2014); 
+Massart M.B.G., Vandeginste L.M.C., Buydens S., De Jong P.J., Lewi J., Handbook of chemometrics and qualimetrics: part A, (1998); 
+Mazerski J., Podstawy chemometrii, (2000); 
+Murashige T., Skoog F., A revised medium for rapid growth and bioassays with tobacco tissue cultures, Physiol Plant, 15, pp. 473-497, (1962); 
+Otto M., Chemometrics-statistics computer application in analytical chemistry, (1999); 
+Praveen N., Naik P.M., Manohar S.H., Nayeem A., Murthy H.N., In vitro regeneration of brahmi shoots using semisolid and liquid cultures and quantitative analysis of bacoside A, Acta Physiol Plant, 31, pp. 723-728, (2009); 
+Ravikumar S., Nazar S., Nuralshiefa A., Abideen S., Antibacterial activity of traditional therapeutic coastal medicinal plants against some pathogens, J Environ Biol, 26, pp. 383-386, (2005); 
+Shah M., Behara Y.R., Jagadeesh B., Phytochemical screening and in vitro antioxidant activity of aqueous and hydroalcoholic extract of Bacopa monnieri Linn, Int J Pharm Sci Res, 3, pp. 3418-3424, (2012); 
+Singh H.K., Brain enhancing ingredients from? Ayurvedic medicine: quintessential example of Bacopa monnieri, a narrative review, Nutrients, 5, pp. 478-497, (2013); 
+Srivastava P., Raut H.N., Puntambekar H.M., Desai A.C., Stability studies of crude plant material of Bacopa monnieri and quantitative determination of Bacopaside I and Bacoside A by HPLC, Phytochem Anal, 23, pp. 502-507, (2012); 
+Sumathi T., Shobana C., Christinal J., Anusha C., Protective effect of Bacopa monnieri on methyl mercury-induced oxidative stress in cerebellum of rats, Cell Mol Neurobiol, 32, pp. 979-987, (2012); 
+Szopa A., Ekiert H., Muszynska B., Accumulation of hydroxybenzoic acid and other biologically active phenolic acids in shoot and callus cultures elements often lacking in human diets–iron, zinc, copper, calcium, magnesium, selenium and iodine, New Phytol, 182, pp. 49-84, (2013); 
+Taiz L., Zeiger E., Plant physiology, (2005); 
+Vangalapati M.A., Bammidi S.R., Volluri S.S., Chippada S.C., Avanigadda S., Review on pharmacological studies of Bacopa monniera, JCBPS, 1, pp. 250-259, (2011); 
+Wasnik U., Evaluation of anticonvulsant activity on leaves of alcoholic extract of Bacopa monnieri Linn, Intl J Pharm Sci Rev Res, 17, pp. 1-5, (2012); 
+White P.J., Broadley M.R., Biofortification of crops with seven mineral elements often lacking inhuman diets–iron, zinc, copper, calcium, magnesium, selenium and iodine, New Phytolog, 182, pp. 49-84, (2009)#FRF#

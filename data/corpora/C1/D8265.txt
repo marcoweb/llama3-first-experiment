@@ -1,0 +1,58 @@
+#ITI#Improvement of water saving and economic productivity based on quotation with sugar content of sugar beet using linear move sprinkler irrigation#FTI#
+#IRE#This study was aimed to improve water saving and economic productivity based on quotation with sugar percentage of sugar beet (Beta vulgaris L.) using linear move sprinkler system (LMSS). The experiments were carried out in Western Central Anatolia Region of Turkey during the growing seasons of 2012–2014 for 3 years. The irrigation treatments were applied as I1: full irrigation, I2: I1 × 0.80, I3: I1 × 0.60, I4:I1 × 0.40 and I5: I1 × 0.20 using 4 replications and systematically arranged due to the feature of LMSS. The I1 was based on deficit soil moisture in the soil depth of 90 cm according to the field capacity for each 7 days. Different regulated deficit irrigation levels were, thus, created for each irrigation cycle based on I1. The seasonal yield-response factor (Ky) was 0.50. The main reason of the lower of the Ky could be because of frequent irrigation and climatic characteristics. Full irrigation (842 mm) resulted in the highest sugar beet yield (77.8 t ha−1) but did not provide the highest net margin. The main reason for this was that the sugar content of sugar beet decreased with increasing irrigation water, and the sugar beet sales price was determined according to the sugar content. This also enabled the lower amount of irrigation water (687 mm) of 20% lower than full irrigation (842 mm). Irrigation water, yield, sugar content and net margin were, thus, 687 mm, 73.5 t ha−1, 16.5% and 1221 US $ ha−1, respectively. Sugar beet could be irrigated using LMSS in high profitability in irrigation interval of 7–10 days and applying water of 45–65 mm for each irrigation cycle. An appropriate net margin (1074 US $ ha−1) could be obtained using irrigation water less than 40% of full irrigation in case of limited water because net income was still more than about 40% of total cost. The quotation of the sugar beet sales price according to the sugar content and the increase in the sugar content in the lower irrigation showed that significant water savings can be practiced in irrigation water without much loss of income. © 2021#FRE#
+#IPC#Linear move sprinkler; Net margin; Quotation; Sugar beet; Sugar content; Water saving#FPC#
+#IRF#Abd El-All A.E.A., Makhlouf B.S.I., Response of sugar beet to continuous deficit irrigation and foliar application of some micronutrients under sandy soil conditions, J. Soil Sci. Agric. Eng., Mansoura Univ., 8, 12, pp. 749-760, (2017); 
+Anonymous, Sugar Sector Report, (2020); 
+(2021); 
+Barker R., Dawe D., Inocencio A., Economics of water productivity in managing water for agriculture, Water Productivity in Agriculture: Limits and Opportunities for Improvement, pp. 19-35, (2003); 
+Barzegari M., Sepaskhah A.R., Hamid S., Irrigation and nitrogen managements affect nitrogen leaching and root yield of sugar beet, Nutr. Cycl. Agroecosyst., 108, pp. 211-230, (2017); 
+Cantore V., Lechkar O., Karabulut E., Sellami M.H., Albrizio R., Boari F., Stellacci A.M., Todorovic M., Combined effect of deficit irrigation and strobilurin application on yield, fruit quality and water use efficiency of “cherry” tomato (Solanum lycopersicum L.), Agric. Water Manag., 167, pp. 53-61, (2016); 
+Cetin O., Kara A., Assesment of water productivity using different drip irrigation systems for cotton, Agric. Water Manag, 223, (2019); 
+DMI, Statistics on Meteorological Data, (2020); 
+Du T., Kang S., Zhang J., Davies W., Deficit irrigation and sustainable water-resource strategies in agriculture for China's food security, J. Exp. Bot., 3, pp. 2253-2269, (2015); 
+Fang Q., Zhang X., Shao L., Chen S., Sun H., Assessing the performance of different irrigation systems on winter wheat under limited water supply, Agric. Water Manag., 196, pp. 133-143, (2018); 
+Fereres E., Villalobos F.J., Orgaz F., Minguez M.I., van Halsema G., Perry C.J., Commentary: on the water footprint as an indicator of water use in food production, Irrig. Sci., 35, pp. 83-85, (2017); 
+Fernandez J.E., Alcon F., Diaz-Espejo A., Hernandez-Santana V., Cuevas M.V., Water use indicators and economic analysis for on-farm irrigation decision: a case study of a super high density olive tree orchard, Agric. Water Manag., 237, (2020); 
+Geerts S., Raes D., Deficit irrigation as an on-farm strategy to maximize crop water productivity in dry areas, Agric. Water Manag., 96, pp. 1275-1284, (2009); 
+Giuliani M.M., Gatta G., Nardella E., Tarantino E., Water saving strategies assessment on processing tomato cultivated in Mediterranean region, Ital. J. Agron., 11, (2016); 
+Gungor H., Irrigation Water Requirement and Crop Consumptive Water Use of Sugar Beet in Eskisehir Conditions, (1984); 
+Haghverdi A., Yonts C.D., Reichert D.L., Irmak S., Impact of irrigation, surface residue cover and plant population on sugar beet growth and yield, irrigation water use efficiency and soil water dynamics, Agric. Water Manag., 180, pp. 1-12, (2017); 
+Hassanli A.M., Ahmadirad S., Beecham S., Evaluation of the influence of irrigation methods and water quality on sugar beet yield and water use efficiency, Agric. Water Manag., 97, pp. 357-362, (2010); 
+James L.G., Principles of Farm Irrigation System Design, (1993); 
+Jensen M.E., Burman R.D., Allen R.G., Evapotranspiration and Irrigation Water Requirements, (1990); 
+Keller J., Bliesner R.D., Sprinkle and Trickle Irrigation, (1990); 
+Kijne J., Barker R., Molden D., Improving water productivity in agriculture: editors’ overview, Water Productivity in Agriculture: Limits and Opportunities for Improvement, Comprehensive Assessment of Water Management in Agriculture, (2003); 
+Kiymaz S., Ertek A., Water use and yield of sugar beet (Beta vulgaris L.) under drip irrigation at different water regimes, Agric. Water Manag., 158, pp. 225-234, (2015); 
+Kiziloglu F.M., Sahin U., Angin I., Anapali O., The effect of deficit irrigation on water–yield relationship of sugar beet (Beta vulgaris L.) under cool season and semi-arid climatic conditions, Int. Sugar J., 108, pp. 90-94, (2006); 
+Klocke N.L., Hunter C., Mahbub Alam M., Application of a Lineer Move Sprinkler System for Limited Irrigation Research, (2003); 
+Levidow L., Zaccaria D., Maia R., Vivas E., Todorovic M., Scardigno A., Improving water-efficient irrigation: prospects and difficulties of innovative practices, Agric. Water Manag., 146, pp. 84-94, (2014); 
+Li H., Wu Y., Huang X., Sloan M., Skitmore M., Spatial-temporal evolution and classification of marginalization of cultivated land in the process of urbanization, Habitat. Int., 61, pp. 1-8, (2017); 
+Li Y., Fan H., Su J., Fei C., Wang K., Tian X., Ma F., Regulated deficit irrigation at special development stages increases sugar beet yield, Agron. J., 111, pp. 1293-1303, (2019); 
+Maralian H., Tobeh A., Seif-Emiri S., Didar-Talesh Mikail R., Aghabarati A., Effects of sowing date and limited irrigation on root yield and quality of sugar beet (Beta vulgaris, L.), Asian J. Plant Sci., 7, 3, pp. 298-303, (2008); 
+Mehrandish M., Moeini M.J., Armin M., Sugar beet (Beta vulgaris L.) response to potassium application under full and deficit irrigation, Eur. J. Exp. Biol., 2, 6, pp. 2113-2119, (2012); 
+Memon S.A., Sheikh I.K., Talpur M.A., Mangrio M.A., Impact of deficit irrigation strategies on winter wheat in semi-arid climate of sindh, Agric. Water Manag., 243, (2021); 
+Olson K.D., Economics of Farm Management in a Global Setting, (2011); 
+Oweis T.Y., Hachum A.Y., (2003); 
+Ozbay S., Yildirim M., Root yield and quality of sugar beet under drip and sprinkler irrigation with foliar application of micronutrients, COMU J. Agric. Fac., 6, 1, pp. 105-114, (2018); 
+Pejic B., Cupina B., Dimitrijevic M., Petrovic S., Milic S., Krstic D., Jacimovic G., Response of sugar beet to soil water deficit, Rom. Agric. Res., 28, pp. 151-155, (2011); 
+Pereria L.S., Cordery I., Iacovides I., Improved indicators of water use performance and productivity for sustainable water conservation and saving, Agric. Water Manag., 108, pp. 39-51, (2012); 
+Perry C., Accounting for water use: terminology and implications for saving water and increasing production, Agric. Water Manag., 98, pp. 1840-1846, (2011); 
+Sadeghi S.H., Peters T.R., Amini M.Z., Malone S.L., Loescher H.W., Novel approach to evaluate the dynamic variation of wind drift and evaporation losses under moving irrigation systems, Biosyst. Eng., 135, pp. 44-53, (2015); 
+Sahin U., Ors S., Kiziloglu F.M., Kuslu Y., Evaluation of water use and yield responses of drip-irrigated sugar beet with different irrigation techniques, Chil. J. Agric. Res., 74, 3, pp. 302-310, (2014); 
+Sepaskhah S., Tavakoli A.S., Mousavi S.A., Principles and Applications of Water Deficits, (2006); 
+Sharma B., Molden D., Cook S., Water use efficiency in agriculture: measurement, current situation and trends, Managing Water and Fertilizer for Sustainable Agricultural Intensification, pp. 39-64, (2015); 
+Shrestha N., Geerts S., Raes D., Horemans S., Soentjens S., Maupas F., Clouet P., Yield response of sugar beets to water stress under Western European conditions, Agric. Water Manag., 97, pp. 346-350, (2010); 
+Steduto P., Hsiao T.C., Fereres E., Raes D., Crop Yield Response to Water, (2012); 
+Stewart J.I., Cuenca R.H., Pruitt W.O., Hagan R.M., Tosso J., Determination and Utilization of Water Production Functions for Principal California Crops, (1977); 
+Suheri S., Topak R., Yavuz D., Effects of different irrigation schedules on yield and water use efficiency of sugar beet, Selcuk. Univ. J. Agric. Fac., 21, 43, pp. 37-45, (2007); 
+Tari A.F., Ozbahce A., Ata G., Bilgic C., Effects of different irrigation schedules on sugar beet quality, J. Res. Inst. Field Crops, 25, pp. 55-60, (2016); 
+Tarkalson D.D., King B.A., Effect of deficit irrigation timing on sugar beet, Agron. J., 109, pp. 2119-2127, (2017); 
+Tavakoli A.R., Liaghat A., Oweis T., Alizadeh A., The role of limited irrigation and advanced management on improving water productivity of rainfed wheat at semi-cold region of upper Karkheh River Basin, Iran, Int. J. Agric. Crop Sci., 4, 14, pp. 939-948, (2012); 
+Tognetti R., Palladino M., Minnocci A., Delfine S., Alvino A., The response of sugar beet to drip and low-pressure sprinkler irrigation in southern Italy, Agric. Water Manag., 60, pp. 135-155, (2003); 
+Topak R., Suheri S., Acar B., Effect of different drip irrigation regimes on sugar beet (Beta vulgaris L.) yield, quality and water use efficiency in Middle Anatolian, Turkey, Irrig. Sci., 2, pp. 79-89, (2011); 
+Ucan K., Gencoglan C., The effect of water deficit on yield and yield components of sugar beet, Turk. J. Agric., 28, pp. 163-172, (2004); 
+Ulgen N., Yurtsever N., Guide of Fertilizer and Fertilizing in Turkey. 3, (1988); 
+Utset A., Velicia H., del Rio B., Morillo R., Centeno J.A., Martinez J.C., Calibrating and validating an agrohydrological model to simulate sugar beet water use under Mediterranean conditions, Agric. Water Manag., 94, pp. 11-21, (2007); 
+Wang Y., Zhang Y., Zhou S., Wang Z., Meta-analysis of no-tillage effect on 650 wheat and maize water use efficiency in China, Sci. Total Environ., 651-635, pp. 1372-1382, (2018); 
+Yurtsever N., Applied Statistical Methods, (2011); 
+Zarski J., Kusmierek-Tomaszewska R., Dudek S., Impact of irrigation and fertigation on the yield and quality of sugar beet (Beta vulgaris L.) in a Moderate Climate, Agron, 10, 166, pp. 1-15, (2020)#FRF#

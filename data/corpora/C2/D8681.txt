@@ -1,0 +1,52 @@
+#ITI#Transcript analysis of citrus miRNA397 and its target LAC7 reveals a possible role in response to boron toxicity#FTI#
+#IRE#Boron (B) toxicity reduces crop productivity and is a serious abiotic stress presenting in many parts of the world. MicroRNAs (miRNAs) play important roles in nutrient toxicity. In this study, we found that the B concentrations in roots and leaves of trifoliate orange (Poncirus trifoliata) were increased by 1.4- and 1.2-fold, respectively, after 10 days of excess B treatment (DAEBT). After 20 DAEBT, the B concentrations in roots and leaves increased by 2.8- and 2.0-fold, respectively. Transcript analysis showed that the miR397 relative transcript level decreased following the excess B treatment. Laccase7 (LAC7) was shown to be the target of miR397, and its transcription increased after the excess B treatment. In addition, the activity of laccase increased significantly following this treatment. Because LAC7 plays a role in lignin biosynthesis, we also measured the lignin concentrations in roots and leaves and found that they were increased following the excess B treatment. Our work demonstrates that decreased miR397 transcription plays a possible role in enhancing tolerance to B toxicity stress via negatively regulating LAC7 transcription and increasing the lignin concentration. © 2015, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Boron toxicity; LAC7; Lignin; miR397; Trifoliate orange#FPC#
+#IRF#Ali M.B., Singh N., Shohael A.M., Hahn E.J., Paek K.-Y., Phenolics metabolism and lignin synthesis in root suspension cultures of Panax ginseng in response to copper stress, Plant Sci, 171, pp. 147-154, (2006); 
+An J., Liu Y., Yang C., Zhou G., Wei Q., Peng S., Isolation and expression analysis of CiNIP5, a citrus boron transport gene involved in tolerance to boron deficiency, Sci Hortic, 142, pp. 149-154, (2012); 
+Blevins D.G., Lukaszewski K.M., Boron in plant structure and function, Annu Rev Plant Biol, 49, pp. 481-500, (1998); 
+Boerjan W., Ralph J., Baucher M., Lignin biosynthesis, Annu Rev Plant Biol, 54, pp. 519-546, (2003); 
+Brown P., Et al., Boron in plant biology, Plant Biol, 4, pp. 205-223, (2002); 
+Canon P., Aquea F., Rodriguez-Hoces de la Guardia A., Arce-Johnson P., Functional characterization of Citrus macrophylla BOR1 as a boron transporter, Physiol Plant, 149, pp. 329-339, (2013); 
+Chen C., Et al., Real-time quantification of microRNAs by stem–loop RT–PCR, Nucleic Acids Res, 33, (2005); 
+Dai X., Zhao P.X., psRNATarget: a plant small RNA target analysis server, Nucleic Acids Res, 39, pp. W155-W159, (2011); 
+Dean J.F.D., LaFayette P.R., Rugh C., Tristram A.H., Hoopes J.T., Eriksson K.-E.L., Merkle S.A., Lewis N.G., Sarkanen S., Laccases associated with lignifying vascular tissues, Am. Chem, 96-108, (1998); 
+Dong C., Pei H., Over-expression of miR397 improves plant tolerance to cold stress in Arabidopsis thaliana, J Plant Biol, 57, pp. 209-217, (2014); 
+Dugas D.V., Bartel B., MicroRNA regulation of gene expression in plants, Curr Opin Plant Biol, 7, pp. 512-520, (2004); 
+Fujii H., Chiou T.-J., Lin S.-I., Aung K., Zhu J.-K., A miRNA Involved in phosphate-starvation response in Arabidopsis, Curr Biol, 15, pp. 2038-2043, (2005); 
+Fukushima R.S., Hatfield R.D., Extraction and isolation of lignin for utilization as a standard to determine lignin concentration using the acetyl bromide spectrophotometric method, J Agric Food Chem, 49, pp. 3133-3139, (2001); 
+Gavnholt B., Larsen K., Molecular biology of plant laccases in relation to lignin formation, Physiol Plant, 116, pp. 273-280, (2002); 
+Ghanati F., Morita A., Yokota H., Induction of suberin and increase of lignin content by excess boron in tobacco cells, Soil Sci Plant Nutr, 48, pp. 357-364, (2002); 
+Ghanati F., Morita A., Yokota H., Deposition of suberin in roots of soybean induced by excess boron, Plant Sci, 168, pp. 397-405, (2005); 
+Hausman J., Evers D., Thiellement H., Jouve L., Compared responses of poplar cuttings and in vitro raised shoots to short-term chilling treatments, Plant Cell Rep, 19, pp. 954-960, (2000); 
+Hu Y., Li W.C., Xu Y., Li G., Liao Y., Fu F., Differential expression of candidate genes for lignin biosynthesis under drought stress in maize leaves, J Appl Genet, 50, pp. 213-223, (2009); 
+Kou S., Wu X., Liu Z., Liu Y., Xu Q., Guo W., Selection and validation of suitable reference genes for miRNA expression normalization by quantitative RT-PCR in citrus somatic embryogenic and adult tissues, Plant Cell Rep, 31, pp. 2151-2163, (2012); 
+Liu Y., Liu Q., Tao N., Deng X., Efficient isolation of RNA from fruit peel and pulp of ripening navel orange (Citrus sinensis Osbeck), J Huazhong Agric Univ, 25, pp. 300-304, (2006); 
+Livak K.J., Schmittgen T.D., Analysis of relative gene expression data using real-time quantitative PCR and the 2<sup>−ΔΔCT</sup> method, Methods, 25, pp. 402-408, (2001); 
+Lu S., Et al., Ptr-miR397a is a negative regulator of laccase genes affecting lignin content in Populus trichocarpa, Proc Natl Acad Sci USA, 110, pp. 10848-10853, (2013); 
+Lu Y., Et al., Identification of boron-deficiency-responsive microRNAs in Citrus sinensis roots by Illumina sequencing, BMC Plant Biol, 14, (2014); 
+Mallory A.C., Vaucheret H., Functions of microRNAs and related small RNAs in plants, Nat Genet, 38, pp. S31-S36, (2006); 
+Mayer A.M., Staples R.C., Laccase: new functions for an old enzyme, Phytochemistry, 60, pp. 551-565, (2002); 
+McCaig B.C., Meagher R.B., Dean J.F., Gene structure and molecular analysis of the laccase-like multicopper oxidase (LMCO) gene family in Arabidopsis thaliana, Planta, 221, pp. 619-636, (2005); 
+Moura J.C.M.S., Bonine C.A.V., Abiotic and biotic stresses and changes in the lignin content and composition in plants, J Integr Plant Biol, 52, pp. 360-376, (2010); 
+Nable R.O., Banuelos G.S., Paull J.G., Boron toxicity, Plant Soil, 193, pp. 181-198, (1997); 
+Ozhuner E., Et al., Boron stress responsive MicroRNAs and their targets in barley, PLoS One, 8, (2013); 
+Papa G., Et al., Exploring the effect of different plant lignin content and composition on ionic liquid pretreatment efficiency and enzymatic saccharification of Eucalyptus globulus L. mutants, Bioresour Technol, 117, pp. 352-359, (2012); 
+Pei L., Jin Z., Li K., Yin H., Wang J., Yang A., Identification and comparative analysis of low phosphate tolerance-associated microRNAs in two maize genotypes, Plant Physiol Biochem, 70, pp. 221-234, (2013); 
+Reid R.J., Hayes J.E., Post A., Stangoulis J.C.R., Graham R.D., A critical analysis of the causes of boron toxicity in plants, Plant Cell Environ, 27, pp. 1405-1414, (2004); 
+Sheng O., Song S., Peng S., Deng X., The effects of low boron on growth, gas exchange, boron concentration and distribution of ‘Newhall’ navel orange (Citrus sinensis Osb.) plants grafted on two rootstocks, Sci Hortic, 121, pp. 278-283, (2009); 
+Sheng O., Zhou G., Wei Q., Peng S., Deng X., Effects of excess boron on growth, gas exchange, and boron status of four orange scion–rootstock combinations, J Plant Nutr Soil Sci, 173, pp. 469-476, (2010); 
+Shorrocks V.M., The occurrence and correction of boron deficiency, Plant Soil, 193, pp. 121-148, (1997); 
+Sterjiades R., Dean J.F., Eriksson K.E., Laccase from sycamore maple (Acer pseudoplatanus) polymerizes monolignols, Plant Physiol, 99, pp. 1162-1168, (1992); 
+Takano J., Et al.,  Arabidopsis boron transporter for xylem loading, Nature, 420, pp. 337-340, (2002); 
+Takano J., Wada M., Ludewig U., Schaaf G., von Wiren N., Fujiwara T., The Arabidopsis major intrinsic protein NIP5; 1 is essential for efficient boron uptake and plant development under boron limitation, Plant Cell, 18, pp. 1498-1509, (2006); 
+Tanaka M., Wallace I.S., Takano J., Roberts D.M., Fujiwara T., NIP6; 1 is a boric acid channel for preferential transport of boron to growing shoot tissues in Arabidopsis, Plant Cell, 20, pp. 2860-2875, (2008); 
+Turlapati P.V., Kim K.-W., Davin L.B., Lewis N.G., The laccase multigene family in Arabidopsis thaliana: towards addressing the mystery of their gene function (s), Planta, 233, pp. 439-470, (2011); 
+van de Mortel J.E., Et al., Large expression differences in genes for iron and zinc homeostasis, stress response, and lignin biosynthesis distinguish roots of Arabidopsis thaliana and the related metal hyperaccumulator Thlaspi caerulescens, Plant Physiol, 142, pp. 1127-1147, (2006); 
+Wang G., Romheld V., Li C., Bangerth F., Involvement of auxin and CKs in boron deficiency induced changes in apical dominance of pea plants (Pisum sativum L.), J Plant Physiol, 163, pp. 591-600, (2006); 
+Wang J., Zhu M., Wei Z., Cotton laccase gene overexpression in transgenic populus alba var.pyramidalis and its effects on the lignin biosynthesis in transgenic plants, J Mol Cell Biol, 41, pp. 11-18, (2008); 
+Wang C., Et al., MiR397b regulates both lignin content and seed number in Arabidopsis via modulating a laccase involved in lignin biosynthesis, Plant Biotechnol J, 12, pp. 1132-1142, (2014); 
+Warington K., The effect of boric acid and borax on the broad bean and certain other plants, Ann Bot, 37, pp. 629-672, (1923); 
+Yamasaki S., Noguchi N., Mimaki K., Continuous UV-B irradiation induces morphological changes and the accumulation of polyphenolic compounds on the surface of cucumber cotyledons, J Radiat Res, 48, pp. 443-454, (2007); 
+Yau S.K., Ryan J., Boron toxicity tolerance in crops: a viable alternative to soil amelioration, Crop Sci, 48, pp. 854-865, (2008); 
+Zhang S., Yang Q., Ma R., Erwinia carotovora ssp. carotovora infection induced “defense lignin” accumulation and lignin biosynthetic gene expression in Chinese cabbage (Brassica rapa L. ssp. pekinensis), J Integr Plant Biol, 49, pp. 993-1002, (2007); 
+Zhou G., Peng S., Liu Y., Wei Q., Han J., Islam M.Z., The physiological and nutritional responses of seven different citrus rootstock seedlings to boron deficiency, Trees, 28, pp. 295-307, (2014)#FRF#

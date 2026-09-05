@@ -1,0 +1,43 @@
+#ITI#Optimum allocation of salt discharge areas in land consolidation for irrigation districts by SahysMod#FTI#
+#IRE#Soil salinization seriously threats the sustainability of agriculture in irrigation districts in arid and semi-arid regions. Unreasonable land consolidation aimed to increase cultivated land by developing uncultivated land makes soil salinization more serious in irrigation districts in the northwest of China. The uncultivated land serves as the salt discharge area, which is necessary for cultivated land with reasonable area, excavation depth, and spatial allocation. Therefore, this study aims to optimize the allocation of salt discharge areas based on soil water and salt movements simulated by SahysMod, choosing Yinchuan North Irrigation District as a case study in the northwest of China. Results showed that SahysMod was an effective tool to simulate soil water and salt movements between cultivated land and salt discharge areas. The parameters of optimum allocations, including excavation depths of salt discharge areas and area ratios of cultivated land to salt discharge areas, indicated the negative and positive effects of power functions on soil salinity of cultivated land, respectively. In this case study, an excavation depth of 0.3 m, the area ratio of 1.5, and salt discharge areas located in the southwest and northeast were more conducive and cost effective in terms of removing soil salinity of cultivated land. Moreover, the average soil salinity of cultivated land by optimum allocation was reduced to 1.2 dS/m compared with 2.7 dS/m by original allocation in 2027. It proved that the reasonable allocation of salt discharge areas was very important to address soil salinization of cultivated land and ensure its sustainable utilization, which provided a theoretical basis and technical guide for the allocation of salt discharge areas in land consolidation in the arid irrigation districts. © 2021 Elsevier B.V.#FRE#
+#IPC#Irrigation district; Land consolidation; Optimum allocation; SahysMod; Soil water and salt movement#FPC#
+#IRF#Allen R.G., Pereira L.S., Raes D., Smith M., (1998); 
+Ansari S., Abedi-Koupai J., Mostafazadeh-Fard B., Shayannejad M., Mosaddeghi M.R., Assessment of solute transport and distribution under dry drainage condition using a physical model, Irrig. Drain., 68, pp. 797-807, (2019); 
+Bagarello V., Iovino M., Palazzolo E., Panno M., Reynolds W.D., Field and laboratory approaches for determining sodicity effects on saturated soil hydraulic conductivity, Geoderma, 130, pp. 1-13, (2006); 
+Dehghanipour A.H., Zahabiyoun B., Schoups G., Babazadeh H., A WEAP-MODFLOW surface water-groundwater model for the irrigated Miyandoab plain, Urmia lake basin, Iran: multi-objective calibration and quantification of historical drought impacts, Agric. Water Manag., 223, (2019); 
+Dong S.D., Wan S.Q., Kang Y.H., Li X.B., Prospects of using drip irrigation for ecological conservation and reclaiming highly saline soils at the edge of Yinchuan Plain, Agric. Water Manag., 239, (2020); 
+El Bastawesy M., Ali R.R., Al Harbi K., Faid A., Impact of the geomorphology and soil management on the development of waterlogging in closed drainage basins of Egypt and Saudi Arabia, Environ. Earth Sci., 68, pp. 1271-1283, (2013); 
+Growing J.W., Wyseure G., pp. 626-634, (1992); 
+Hassani A., Azapagic A., Shokri N., pp. 33017-33027, (2020); 
+Hassan F., Ghaibeh A.S., Evaporation and salt movement in soils in the presence of water table, Soil Sci. Soc. Am. J., 41, pp. 470-478, (1977); 
+Hassanli M., Ebrahimian H., Mohammadi E., Rahimi A., Shokouhi A., Simulating maize yields when irrigating with saline water, using the AquaCrop, SALTMED, and SWAP models, Agric. Water Manag., 176, pp. 91-99, (2016); 
+Heuperman A.F., Kapoor A.S., (2002); 
+Huang Y.J., Li Z., Zhuo Z.Q., Xin A., Huang Y.F., Soil water and salt dynamics under different irrigation and drainage management scenarios based on SahysMod model, Trans. CSAE, 36, pp. 129-140, (2020); 
+Inam A., Adamowski J., Prasher S., Albano R., Parameter estimation and uncertainty analysis of the Spatial Agro Hydro Salinity Model (SahysMod) in the semi-arid climate of Rechna Doab, Pakistan, Environ. Modell. Softw., 94, pp. 186-211, (2017); 
+Khouri N., Potential of dry drainage for controlling soil salinity, Can. J. Civ. Eng., 25, pp. 195-205, (1998); 
+Konukcu F., Gowing J.W., Rose D.A., Dry drainage: a sustainable solution to waterlogging and salinity problems in irrigation areas?, Agric. Water Manag., 83, pp. 1-12, (2006); 
+Levy G.J., Goldstein D., Mamedov A., Saturated hydraulic conductivity of semiarid soils: combined effects of salinity, sodicity, and rate of wetting, Soil Sci. Soc. Am. J., 69, pp. 653-662, (2005); 
+Li P.Y., Qian H., Wu J.H., Conjunctive use of groundwater and surface water to reduce soil salinization in the Yinchuan Plain, North-West China, Int. J. Water Resour. Dev., 34, pp. 337-353, (2018); 
+Liang H., Qi Z.M., Hu K.L., Li B.G., Prasher S.O., Modelling subsurface drainage and nitrogen losses from artificially drained cropland using coupled DRAINMOD and WHCNS models, Agric. Water Manag., 195, pp. 201-210, (2018); 
+Lu R.K., Analysis Methods of Soil Agricultural Chemistry, pp. 147-150, (2000); 
+(2010); 
+(2005); 
+Puertes C., Lidon A., Echeverria C., Bautista I., Gonzalez-Sanchis M., del Campo A.D., Frances F., Explaining the hydrological behaviour of facultative phreatophytes using a multi-variable and multi-objective modelling approach, J. Hydrol., 575, pp. 395-407, (2019); 
+(2005); 
+Singh A., Panda S.N., Integrated salt and water balance modeling for the management of waterlogging and salinization, I: validation of SahysMod, J. Irrig. Drain. Eng., 138, pp. 955-963, (2012); 
+Singh A., Alternative management options for irrigation-induced salinization and waterlogging under different climatic conditions, Ecol. Indic., 90, pp. 184-192, (2018); 
+Singh A., Managing the environmental problems of irrigated agriculture through the appraisal of groundwater recharge, Ecol. Indic., 92, pp. 388-393, (2018); 
+Singh A., Environmental problems of salinization and poor drainage in irrigated areas: Management through the mathematical models, J. Clean. Prod., 206, pp. 572-579, (2019); 
+Soltani M., Rahimikhoob A., Sotoodehnia A., Mendicino G., Akram M., Senatore A., Numerical evaluation of the effects of increasing ratio of cropped to uncropped width on dry drainage efficiency in salty soils, Irrig. Drain., 67, pp. 91-100, (2018); 
+Soothar R.K., Zhang W.Y., Zhang Y.Q., Tankari M., Mirjat U., Wang Y.S., Evaluating the performance of SALTMED model under alternate irrigation using saline and fresh water strategies to winter wheat in the North China Plain, Environ. Sci. Pollut. Res., 26, pp. 34499-34509, (2019); 
+Sotoodehnia A., Doosti A., Liyaghat A., pp. 2035-2044, (2012); 
+Sun Z.J., Amelioration Models for Saline-alkali Wasteland in Yinchuan Plain, (2011); 
+(1997); 
+Visconti F., De Paz J.M., Rubio J.L., What information does the electrical conductivity of soil water extracts of 1 to 5 ratio (w/v) provide for soil salinity assessment of agricultural irrigated lands?, Geoderma, 154, pp. 387-397, (2010); 
+Wang C.S., Wu J.W., Zeng W.Z., Zhu Y., Huang J.S., Five-year experimental study on effectiveness and sustainability of a dry drainage system for controlling soil salinity, Water, 11, (2019); 
+Wu D., Cui Y., Wang Y., Chen M., Luo Y., Zhang L., Reuse of return flows and its scale effect in irrigation systems based on modified SWAT model, Agric. Water Manag., 213, pp. 280-288, (2019); 
+Wu J., Zhao L., Huang J., Yang J., Vincent B., Bouarfa S., Vida L.A., On the effectiveness of dry drainage in soil salinity control, Sci. China Ser. E-Technol. Sci., 52, pp. 3328-3334, (2009); 
+Yao R.J., Yang J.S., Zhang T.J., Hong L.Z., Wang M., Yu S.P., Wang X.P., Studies on soil water and salt balances and scenarios simulation using SaltMod in a coastal reclaimed farming area of eastern China, Agric. Water Manag., 131, pp. 115-123, (2014); 
+Yao R.J., Yang J., Wu D., Xie W., Wang X., Zhang X., Scenario simulation of field soil water and salt balances using SahysMod for salinity management in a coastal rainfed farmland, Irrig. Drain., 66, pp. 872-883, (2017); 
+Zhang F.R., Theory and Practice of Rural Land Consolidation, (2012); 
+Zhu Y., Shi L.S., Yang J.Z., Wu J.W., Mao D.Q., Coupling methodology and application of a fully integrated model for contaminant transport in the subsurface system, J. Hydrol., 501, pp. 56-72, (2013)#FRF#

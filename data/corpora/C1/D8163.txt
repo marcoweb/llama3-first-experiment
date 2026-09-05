@@ -1,0 +1,45 @@
+#ITI#Effects of antecedent soil moisture on runoff and soil erosion in alley cropping systems#FTI#
+#IRE#Alley cropping systems may prevent soil and water erosion. The objective of this paper was to assess the effects of antecedent soil moisture on runoff and soil loss in alley cropping systems. Five land use treatments with three replications were included in this study. The treatments were mono peanut cropping (P), younger trees (T1), older trees (T2), peanut (Arachis hypogaea) intercropped with younger trees (T1P), and peanut intercropped with older trees (T2P). The trees used were deciduous Choerospondias axillaris. Runoff and soil loss from the experimental plots were monitored and related to rainfall and antecedent soil water potential. Results showed that T1 and T2 produced the highest runoff and lowest soil loss while P produced the greatest soil loss. Soil loss was 25.3% less in T1P and 32.0% in T2P than in P. Runoff was 62.6% less in T1P than in T1 and 56.1% less in T2P than in T2. Regardless of land use, soil loss was more closely correlated to runoff than to rainfall (R > 0.95 versus R < 0.40). Runoff and soil loss varied with season and antecedent soil moisture. The largest amounts of runoff and soil loss were recorded in the soil water surplus phase (rainy season). In spite of less rainfall in the soil water deficit phase, soil loss was greater than that in the soil water recovery phase. The runoff coefficient was exponentially correlated to the inverse of antecedent soil water potential in the rainy season, while the runoff coefficient was negatively and linearly correlated to antecedent soil water potential in the dry season. These results suggest that saturation excess runoff may be dominant in the rainy season and infiltration excess runoff may become dominant in the dry season. © 2007 Elsevier B.V. All rights reserved.#FRE#
+#IPC#Alley cropping system; Antecedent soil moisture; Runoff; Soil loss; Ultisol#FPC#
+#IRF#Aru A., The soils of Sardinia and their state of conservation, Geoökodynamik, 6, pp. 71-84, (1985); 
+Assouline S., Rainfall-induced soil surface sealing: a critical review of observations, conceptual models, and solutions, Vadose Zone J., 3, pp. 570-591, (2004); 
+Bardossy A., Lehmann W., Spatial distribution of soil moisture in a small catchment. Part 1: geostatistical analysis, J. Hydrol., 206, pp. 1-15, (1998); 
+Baver L.D., Gardner W.H., Gardner W.R., Soil Physics. fourth ed., (1972); 
+Bochet E., Poesen J., Rubio J.L., Runoff and soil loss under individual plants of a semi-arid Mediterranean shrubland: influence of plant morphology and rainfall intensity, Earth Surf. Proc. Land, 31, pp. 536-549, (2006); 
+Bochet E., Rubio J.L., Poesen J., Relative efficiency of three representative matorral species in reducing water erosion at the microscale in a semi-arid climate (Valencia, Spain), Geomorphology, 23, pp. 139-150, (1998); 
+Boix-Fayos C., Calvo-Cases A., Imeson A.C., Soriano-Soto M.D., Tiemessen I.R., Spatial and short-term temporal variations in runoff, soil aggregation and other soil properties along a Mediterranean climatological gradient, Catena, 33, pp. 123-138, (1998); 
+Bradford J.M., Ferris J.E., Remley P.A., Interrill soil erosion processes: I. Effect of surface sealing on infiltration, runoff and soil splash detatchment, Soil. Sci. Soc. Am. J., 51, pp. 1566-1571, (1987); 
+Casenave A., Valentin C., A runoff capability classification system based on surface features criteria in semiarid areas of West Africa, J. Hydrol., 130, pp. 231-249, (1992); 
+Castillo V.M., Gomez-Plaza A., Martinez-Mena M., The role of antecedent soil water content in the runoff response of semiarid catchments: a simulation approach, J. Hydrol., 284, pp. 114-130, (2003); 
+Castro N.M.D.R., Auzed A.V., Chvallier P., Leprun J.C., Land use change effects on runoff and erosion from plot to catchment scale on the basaltic plateau of Southern Brazil, Hydrol. Process, 13, pp. 1621-1628, (1999); 
+Cerda A., Seasonal changes of the infiltration rates in a Mediterranean scrubland on limestone, J. Hydrol., 198, pp. 209-225, (1997); 
+Elwell H.A., Stocking M.A., Vegetative cover to estimate soil erosion hazard in Rhodesia, Geoderma, 15, pp. 61-70, (1976); 
+Fitzjohn C., Ternan J.L., Williams A.G., Soil moisture variability in a semi-arid gully catchment: implications for runoff and erosion control, Catena, 32, pp. 55-70, (1998); 
+Francis C.F., Thornes J.B., Runoff hydrographs from three Mediterranean vegetation cover types, Vegetation and Erosion, pp. 363-384, (1990); 
+Garcia-Ruiz J.M., Lasanta T., Ortigosa L., Ruiz-Flano P., Mart C., Gonzalez C., Sediment yield under different land uses in the Spanish Pyrenees, Mt. Res. Dev., 15, pp. 229-240, (1995); 
+Ghosh S.P., Kumar B.M., Kabeerathumma S., Nair G.M., Productivity, soil fertility and soil erosion under cassava-based agroforestry systems, Agroforest. Syst., 8, pp. 67-82, (1989); 
+Govers G., Rill erosion on arable land in central Belgium: rates, controls and predictability, Catena, 18, pp. 133-155, (1991); 
+Grayson R.B., Western A.W., Chiew H.S., Bloschl G., Preferred states in spatial soil moisture patterns: local and nonlocal controls, Water Resour. Res., 33, pp. 2897-2908, (1997); 
+Hartanto H., Prabhu R., Widayat A.S.E., Asdak C., Factors affecting runoff and soil erosion: plot-level soil loss monitoring for assessing sustainability of forest management, Forest Ecol. Manage., 180, pp. 361-374, (2003); 
+Kang B.T., Reynolds L., Atta-Krah A.N., Alley farming, Adv. Agron., 43, pp. 315-359, (1990); 
+Kang B.T., Wilson G.F., The development of alley cropping as a promising agroforestry technology, Agroforestry: A Decade of Development, ICRAF, pp. 227-243, (1987); 
+Khan A.A.H., Ong C.K., Design and calibration of tipping bucket system for field runoff and sediment quantification, J. Soil Water Conserv., 52, pp. 437-443, (1997); 
+Le Bissonnais Y., Aggregate stability and assessment of soil crustability and erodibility: I. Theory and methodology, Eur. J. Soil Sci., 47, pp. 425-437, (1996); 
+Le Bissonnais Y., Renaux B., Delouche H., Interactions between soil properties and moisture content in crust formation runoff and interrill erosion from tilled loess soils, Catena, 25, pp. 33-46, (1995); 
+Liu X.G., Xie X.H., Wen F.H., Xie X.F., Economical forest-in hilly area of south Jiangxi province, Terr. Nat. Resour. Study, 2, pp. 64-67, (1995); 
+Livesley S.J., Gregory P.J., Buresh R.J., Competition in tree row agroforestry systems. 3. Soil water distribution and dynamics, Plant Soil, 264, pp. 129-139, (2004); 
+Mainguet M., Desertification: Natural Background and Human Mismanagement. Springer, (1994); 
+McDowell R.W., Sharpley A.N., The effect of antecedent moisture conditions on sediment and phosphorus loss during overland flow: Mahantango Creek catchment, Pennsylvania, USA, Hydrol. Process, 16, pp. 3037-3050, (2002); 
+Meyles E., Williams A., Ternan L., Dowd J., Runoff generation in relation to soil moisture patterns in a small Dartmoor catchment, Southwest England, Hydrol. Process, 17, pp. 251-264, (2003); 
+Narain P., Singh R.K., Sindhwal N.S., Hoshie P., Agroforestry for soil and water conservation in western Himalayan valley region of India: I. Runoff, Soil and nutrient loss, Agroforest. Syst., 39, pp. 175-189, (1998); 
+Poesen J., Vandaele K., van Wesemael B., Gully erosion: importance and model implications, Modelling Soil Erosion by Water. Global Change Series, I55, pp. 285-311, (1998); 
+Seeger M., Errea M.P., Begueria S., Catchment soil moisture and rainfall characteristics as determinant factors for discharge/suspended sediment hysterestic loops in a small headwater catchment in the Spanish Pyrenees, J. Hydrol., 288, pp. 299-311, (2004); 
+Shainberg I., Chemical and mineralogical components of crusting, Soil Crusting: Chemical and Physical Processes, pp. 33-53, (1992); 
+Singer M.J., le Bissonnais Y.L., Importance of surface sealing in the erosion of some soils from a Mediterranean climate, Geomorphology, 24, pp. 79-85, (1998); 
+Singer M.J., Shainberg I., Mineral soil surface crusts and wind and water erosion, Earth Surf. Proc. Land, 29, pp. 1065-1075, (2004); 
+Soil Survey Staff, Keys to Soil Taxonomy. eighth ed., (1998); 
+Van Noordwijk M., Lusiana B., WaNuLCAS, a model of water, nutrient and light capture in agroforestry systems, Agroforest. Syst., 43, pp. 217-242, (1999); 
+Yu D.F., Yao X.L., A preliminary study on the range of available water in red soil. Chinese Acedemy ecological station of red soil. In Research on red soil ecosystem, (1993); 
+Zhai J.S., Zhou J., Wang M.Z., Zhang B., Competition of water, fertilizer and light between Choerospondias axillaries trees and peanut in the red soil of low hilly land: III. The water use conditions of Choerospondias axillaries trees and peanut, J. Chin. Eco-Agric., 13, pp. 91-94, (2005); 
+Mechanism and control of red soil degradation in China, 138, pp. 7-16, (1999); 
+Zhang B., Horn R., Mechanisms of aggregate stabilization of Ultisols from subtropical China, Geoderma, 99, pp. 123-145, (2001)#FRF#

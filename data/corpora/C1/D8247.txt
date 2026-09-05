@@ -1,0 +1,49 @@
+#ITI#Neural computing modelling of the crop water stress index#FTI#
+#IRE#In this study, two artificial neural network models viz. supervised Feed-Forward Back Propagation (FF-BP) and unsupervised Kohonen Self-Organizing Map (K-SOM) have been developed to predict the Crop Water Stress Index (CWSI) using air temperature, relative humidity, and canopy temperature. Field experiments were conducted on Indian mustard to observe the crop canopy temperature under different levels of irrigation treatment during the 2017 and 2018 cropping seasons. The empirical CWSI was computed using well-watered and non-transpiring baseline canopy temperatures. The K-SOM and FF-BP CWSI predictions were compared with the empirical CWSI estimates and both performed satisfactorily. Of the two, however, the K-SOM was better with R2 (coefficient of determination) of 0.97 and 0.96 for model development and validation, respectively; corresponding values for FF-BP were 0.86 and 0.75. The results of the study suggest that neural network modelling offers significant potential for reliable prediction of the CWSI, which can be utilized in irrigation scheduling and crop stress management. © 2020 Elsevier B.V.#FRE#
+#IPC#Artificial neural networks; Crop water stress index; Indian mustard; Self-organizing map; Taylor diagram#FPC#
+#IRF#Adeloye A.J., Rustum R., Self-organising map rainfall-runoff multivariate modelling for runoff reconstruction in inadequately gauged basins, Nord. Hydrol., 43, 5, pp. 603-617, (2012); 
+Adeloye A.J., Rustum R., Kariyama I.D., Kohonen self‐organizing map estimator for the reference crop evapotranspiration, Water Resour. Res., 47, 8, (2011); 
+Adeloye A.J., Rustum R., Kariyama I.D., Neural computing modeling of the reference crop evapotranspiration, Environ. Model. Softw., 29, 1, pp. 61-73, (2012); 
+Alghory A., Yazar A., Evaluation of crop water stress index and leaf water potential for deficit irrigation management of sprinkler-irrigated wheat, Irrig. Sci., 37, 1, pp. 61-77, (2019); 
+Anda A., Soos G., Menyhart L., Kucserka T., Simon B., Yield features of two soybean varieties under different water supplies and field conditions, Field Crops Res., 245, (2020); 
+ASCE Task Committee on Application of Artificial Neural Networks in Hydrology, Artificial neural networks in hydrology. II: Hydrologic applications, J. Hydrol. Eng., 5, 2, pp. 124-137, (2000); 
+Bellvert J., Marsal J., Girona J., Gonzalez-Dugo V., Fereres E., Ustin S.L., Zarco-Tejada P.J., Airborne thermal imagery to detect the seasonal evolution of crop water status in peach, nectarine and Saturn peach orchards, Remote Sens., 8, 1, (2016); 
+Berbel J., Gutierrez-Martin C., Exposito A., Impacts of irrigation efficiency improvement on water use, water consumption and response to water price at field level, Agric. Water Manag., 203, pp. 423-429, (2018); 
+Bowden G.J., Dandy G.C., Maier H.R., Input determination for neural network models in water resources applications. Part 1—background and methodology, J. Hydrol., 301, 1-4, pp. 75-92, (2005); 
+Chen I.T., Chang L.C., Chang F.J., Exploring the spatio-temporal interrelation between groundwater and surface water by using the self-organizing maps, J. Hydrol., 556, pp. 131-142, (2018); 
+Clark S., Sarlin P., Sharma A., Sisson S.A., Increasing dependence on foreign water resources? An assessment of trends in global virtual water flows using a self-organizing time map, Ecol. Inform., 26, pp. 192-202, (2015); 
+Dold C., Heitman J., Giese G., Howard A., Havlin J., Sauer T., Upscaling evapotranspiration with parsimonious models in a North Carolina vineyard, Agronomy, 9, 3, (2019); 
+Emekli Y., Bastug R., Buyuktas D., Emekli N.Y., Evaluation of a crop water stress index for irrigation scheduling of bermudagrass, Agric. Water Manag., 90, 3, pp. 205-212, (2007); 
+Fuchs M., Infrared measurement of canopy temperature and detection of plant water stress, Theor. Appl. Climatol., 42, 4, pp. 253-261, (1990); 
+Gerhards M., Schlerf M., Mallick K., Udelhoven T., Challenges and future perspectives of multi-hyperspectral thermal infrared remote sensing for crop water-stress detection: a review, Remote Sens., 11, 10, (2019); 
+Gontia N.K., Tiwari K.N., Development of crop water stress index of wheat crop for scheduling irrigation using infrared thermometry, Agric. Water Manag., 95, 10, pp. 1144-1152, (2008); 
+Gonzalez-Dugo V., Zarco-Tejada P.J., Fereres E., Applicability and limitations of using the crop water stress index as an indicator of water deficits in citrus orchards, Agric. For. Meteorol., 198, pp. 94-104, (2014); 
+Idso S.B., Jackson R.D., Pinter P.J., Reginato R.J., Hatfield J.L., Normalizing the stress-degree-day parameter for environmental variability, Agric. Meteorol., 24, pp. 45-55, (1981); 
+Ihuoma S.O., Madramootoo C.A., Recent advances in crop water stress detection, Comput. Electron. Agric., 141, pp. 267-275, (2017); 
+Jackson R.D., Idso S.B., Reginato R.J., Pinter P.J., Canopy temperature as a crop water stress indicator, Water Resour. Res., 17, 4, pp. 1133-1138, (1981); 
+Jain A., Kumar A.M., Hybrid neural network models for hydrologic time series forecasting, Appl. Soft Comput., 7, 2, pp. 585-592, (2007); 
+Jones H.G., Use of infrared thermometry for estimation of stomatal conductance as a possible aid to irrigation scheduling, Agric. For. Meteorol., 95, 3, pp. 139-149, (1999); 
+King B.A., Shellie K.C., Evaluation of neural network modeling to predict non-water-stressed leaf temperature in wine grape for calculation of crop water stress index, Agric. Water Manag., 167, pp. 38-52, (2016); 
+Kohonen T., Oja E., Simula O., Visa A., Kangas J., Engineering applications of the self-organizing map, Proc. IEEE, 84, 10, pp. 1358-1384, (1996); 
+Kumar N., Poddar A., Shankar V., Optimizing irrigation through environmental canopy sensing–A proposed automated approach, AIP Conference Proceedings (Vol. 2134, No. 1, P. 060003), AIP Publishing LLC, (2019); 
+Kumar N., Poddar A., Shankar V., Ojha C.S.P., Adeloye A.J., Crop water stress index for scheduling irrigation of Indian mustard (Brassica Juncea) based on water use efficiency considerations, J. Agron. Crop. Sci., 206, 1, pp. 148-159, (2020); 
+Mendez-Barroso L.A., Garatuza-Payan J., Vivoni E.R., Quantifying water stress on wheat using remote sensing in the Yaqui Valley, Sonora, Mexico, Agric. Water Manag., 95, 6, pp. 725-736, (2008); 
+Mwale F.D., Adeloye A.J., Rustum R., Infilling of missing rainfall and streamflow data in the Shire River basin, Malawi–A self-organizing map approach, Phys. Chem. Earth Parts A/B/C, 50, pp. 34-43, (2012); 
+Ohana-Levi N., Bahat I., Peeters A., Shtein A., Netzer Y., Cohen Y., Ben-Gal A., A weighted multivariate spatial clustering model to determine irrigation management zones, Comput. Electron. Agric., 162, pp. 719-731, (2019); 
+Osroosh Y., Peters R.T., Campbell C.S., Zhang Q., Comparison of irrigation automation algorithms for drip-irrigated apple trees, Comput. Electron. Agric., 128, pp. 87-99, (2016); 
+Park S., Estimating Plant Water Stress and Evapotranspiration Using Very-high-resolution (VHR) UAV Imagery Doctoral Dissertation, (2018); 
+Penn B.S., Using self-organizing maps to visualize high-dimensional data, Comput. Geosci., 31, 5, pp. 531-544, (2005); 
+Poddar A., Gupta P., Kumar N., Shankar V., Ojha C.S.P., Evaluation of reference evapotranspiration methods and sensitivity analysis of climatic parameters for sub-humid sub-tropical locations in western Himalayas (India), ISH J. Hydraul. Eng., pp. 1-11, (2018); 
+Pou A., Diago M.P., Medrano H., Baluja J., Tardaguila J., Validation of thermal indices for water status identification in grapevine, Agric. Water Manag., 134, pp. 60-72, (2014); 
+Pramanik M., Garg N.K., Tripathi S.K., Singh R., Ranjan R., A new approach of canopy temperature based irrigation scheduling of wheat in humid subtropical climate of India, Proc. Natl. Acad. Sci. India Sect. B, 87, 4, pp. 1261-1269, (2017); 
+Ramachandran A., Rustum R., Adeloye A.J., Anaerobic digestion process modeling using Kohonen self-organising maps, Heliyon, 5, 4, (2019); 
+Riese F.M., Keller S., Introducing a framework of self-organizing maps for regression of soil moisture with hyperspectral data, IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium, pp. 6151-6154, (2018); 
+Rustum R., Modelling Activated Sludge Wastewater Treatment Plants Using Artificial Intelligence Techniques (fuzzy Logic and Neural Networks), (2009); 
+Rustum R., Adeloye A.J., Replacing outliers and missing values from activated sludge data using Kohonen self-organizing map, J. Environ. Eng., 133, 9, pp. 909-916, (2007); 
+Shankar V., Ojha C.S.P., Govindaraju R.S., Prasad K.H., Adebayo A.J., Madramoottoo C.A., Singh K.K., Optimal use of irrigation water, Sustainable Water Resources Management, pp. 737-795, (2017); 
+Stefanovic P., Kurasova O., Visual analysis of self-organizing maps, Nonlinear Anal. Model. Control, 16, 4, pp. 488-504, (2011); 
+Taylor K.E., Summarizing multiple aspects of model performance in a single diagram, J. Geophys. Res., 106, D7, pp. 7183-7192, (2001); 
+Vatanen T., Osmala M., Raiko T., Lagus K., Sysi-Aho M., Oresic M., Lahdesmaki H., Self-organization and missing values in SOM and GTM, Neurocomputing, 147, pp. 60-70, (2015); 
+Vesanto J., Himberg J., Alhoniemi E., Parhankangas J., SOM Toolbox for Matlab 5, (2000); 
+Yuan G., Luo Y., Sun X., Tang D., Evaluation of a crop water stress index for detecting water stress in winter wheat in the North China Plain, Agric. Water Manag., 64, 1, pp. 29-40, (2004); 
+Zhang Q., Pierce F.J., Agricultural Automation: Fundamentals and Practices, (2016)#FRF#

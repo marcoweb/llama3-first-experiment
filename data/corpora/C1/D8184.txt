@@ -1,0 +1,50 @@
+#ITI#Olive mill wastewater irrigation of maize: Impacts on soil and groundwater#FTI#
+#IRE#The environmental impact of irrigating a maize field with weathered olive mill wastewater (OMW) for 5 years was assessed. The use of the weathered OMW added the following concentrations of nutrients to the field: 11.8. t/ha/yr carbon, 1033. kg/ha/yr total nitrogen, 23.8. kg/ha/yr phosphorous and 4161. kg/ha/yr potassium. The maize field received 6 times more nitrogen, 50 times more potassium and 2 times less phosphorous than the recommended fertilization rates. The presence of carbon increased microbial activity for organic nitrogen breakdown and the decomposition rate of organic nitrogen. No significant increase was observed of heavy metal accumulation in the soil. Electrical conductivity in the soil remained below the salinization threshold. No direct exposure values were exceeded. No impact on groundwater quality was observed. Irrigation of crops like maize with weathered OMW could be part of a viable decentralized solution for olive mill wastewater use in areas with low organic matter and high irrigation demand. © 2011 Elsevier B.V.#FRE#
+#IPC#Environmental impacts; Marginal water; Non-conventional fertilization; Water scarcity#FPC#
+#IRF#Abdullah M.A., Khalid M.H., Implementation of olive mill by products in Agriculture, World J. Agric. Sci., 3, pp. 380-385, (2007); 
+Amrhein C., Suarez D.L., Procedure for determining sodium-calcium selectivity in calcareous and gypsiferous soils, Soil Sci. Soc. Am. J., 54, pp. 999-1007, (1990); 
+Antolin M.C., Pacual I., Garcia C., Polo A., Sanchez-Diaz M., Growth, yield and solute content of barely in soils treated with sewage sludge under semiarid Mediterranean conditions, Field Crops Res., 94, pp. 224-237, (2005); 
+Azbar N., Bayram A., Filibeli A., Muezzinoglu A., Sengul F., Ozer A., A review of waste management options in olive oil production, Crit. Rev. Environ. Sci. Technol., 34, pp. 209-247, (2004); 
+Box J.D., Investigation of the Folin-Ciocalteau phenol reagent for the determination of the polyphenolic substances in natural waters, Water Res., 17, pp. 249-261, (1983); 
+Bouyoucos G.J., Hydrometer method improved for making particle and size analysis of soils, Agron. J., 54, pp. 464-465, (1962); 
+Bower C.A., Reitemeier R.F., Fireman M., Exchangeable cation analysis of saline and alkali soils, Soil Sci., 73, pp. 251-261, (1952); 
+Cabrera F., Lopez R., Martinez-Bordiu A., Dupuy de Lome E., Murillo J.M., Land treatment of olive mill wastewater, Int. Biodeter. Biodegr., 38, pp. 215-225, (1996); 
+Chu H., Lin X.G., Takeshi F., Morimoto S., Soil microbial biomass, dehydrogenase activity, bacterial community structure in response to long-term fertilizer management, Soil Biol. Biochem., 39, pp. 2971-2976, (2007); 
+(2006); 
+(1986); 
+Dikinya O., Areola O., Comparative analysis of heavy metal concentration in secondary treated wastewater irrigated soils cultivated by different crops, Int. J. Environ. Sci. Technol., 7, pp. 337-346, (2010); 
+FAO, World Reference Base for Soil Resources, 2nd edition, (2006); 
+EPA Soil Screening Guidance, (1996); 
+EPA Soil Screening Guidance, (1996); 
+Helaleh M.I.H., Tanaka K., Fujii S.I., Korenaga T., GC/MS Determination of phenolic compounds in soil samples using soxhlet extraction and derivatization techniques, Anal. Sci., 17, pp. 1225-1227, (2001); 
+Kapellakis I.E., Tsagarakis K.P., Avramaki C., Crowther J., Hytiris N., Potential for olive mill wastewater reuse: the case of Messara basin in Crete, Proc. of IWA-Regional Symposium on Water Recycling in Mediterranean Region, pp. 515-524, (2002); 
+Kapellakis I.E., Tsagarakis K.P., Avramaki C., Angelakis A.N., Olive mill wastewater management in river basins: a case study in Greece, Agr. Water Manage., 82, pp. 354-370, (2006); 
+Katsantonis N., Eygenidis G., Nutrition and fertilization of maize, Agr. Livestock-Farming, 2, pp. 22-26, (1995); 
+Law-Ogbomo K., Kolawole E., Law-Ogbomo J.E., The performance of Zea mays as influenced by NPK fertilizer application, Not. Sci. Biol., 1, pp. 59-62, (2009); 
+Lopez-Pineiro A., Murillo S., Barreto C., Munoz A., Rato J.M., Albarrn A., Garcia A., Changes in organic matter and residual effect of amendment with two-phase olive-mill waste on degraded agricultural soils, Sci. Total Environ., 378, pp. 84-89, (2007); 
+Mantzavinos D., Kalogerakis N., Treatment of olive mill effluents. Part I. Organic matter degradation by chemical and biological processes - an overview, Environ. Int., 31, 2, pp. 289-295, (2005); 
+Mekki A., Abdelhafidh D., Sayadi S., Changes in microbial and soil properties following amendment with treated and untreated olive mill wastewater, Microbiol. Res., 161, pp. 93-101, (2006); 
+Mekki A., Abdelhafidh D., Sayadi S., Polyphenols dynamics and phytotoxicity in a soil amended by olive mill wastewaters, J. Environ. Manage., 84, pp. 134-140, (2007); 
+Mechri B.A.F., Brahamb M., Ben Elhadjc S., Hammamia M., Change in soil properties and the soil microbial community following land spreading of olive mill wastewater affects olive trees key physiological parameters and the abundance of arbuscular mycorrhizal fungi, Soil Biol. Biochem., 40, pp. 152-161, (2008); 
+El-Mowelhi N.M., Abo Soliman S.M.S., Barbary S.M., El-Shahawy M.I., Agronomic aspects and environmental impact of reusing marginal water in irrigation: a case study from Egypt, Water Sci. Technol., 53, pp. 229-237, (2006); 
+Niaounakis M., Halvadakis C.P., Olive processing waste management, Literature Review and Patent Survey, 2nd edition, (2004); 
+Nikolaidis N.P., Cheeda P., Lackovic J.A., Guillard K., Simpson B., Pedersen T., Nitrogen mobility in biosolid-amended glaciated soils, Water Environ. Fed. Res., 71, pp. 368-376, (1999); 
+Qadir M., Sharma B.R., Bruggeman A., Choukr-Allah R., Karajeh F., Non-conventional water resources and opportunities for water augmentation to achieve food security in water scarce countries, Agr. Water Manage., 87, pp. 2-22, (2007); 
+Olsen S.R., Cole C.V., Watanabe F.S., Dean L.A., Estimation of Available Phosphorus in Soils by Extraction with Sodium Bicarbonate, (1954); 
+Paredes M.J., Moreno E., Ramos-Cormenzana A., Martinez J., Characteristics of soil after pollution with waste waters from olive oil extraction plants, Chemosphere, 16, pp. 1557-1564, (1987); 
+Paredes C., Cegarra J., Bernat M.P., Roig A., Influence of olive mill wastewater in composting and impact of the compost on a Swiss chard crop and soil properties, Environ. Int., 31, pp. 305-312, (2005); 
+Perez J.D., Gallardo-Lara F., Effects of the application of wastewater from olive processing on soil nitrogen transformation, Commun. Soil Sci. Plant Anal., 18, pp. 1031-1039, (1987); 
+Piotrowska A., Iamarino G., Antionietta Rao M., Gianfreda L., Short-term effects of olive mill waste water (OMW) on chemical and biochemical properties of a semiarid Mediterranean soil, Soil Biol. Biochem., 38, pp. 600-610, (2006); 
+Randall P.J., Abaidoo R.C., Hocking P.J., Sanginga N., Mineral nutrient up-take and removal by cowpea, soybean and maize cultivars in west Africa, and implications fro carbon cycle effects on soil acidification, Exp. Agric., 42, pp. 475-494, (2006); 
+Saadi I., Laor M., Ravin M., Medina S., Land spreading of olive mill wastewater: effects on soil microbial activity and potential phytotoxicity, Chemosphere, 66, pp. 75-83, (2007); 
+Sierra J., Marti E., Montserrat R., Cruanas R., Garau M.A., Characterisation and evolution of a soil affected by olive oil mill wastewater disposal, Sci. Total Environ., 279, pp. 207-214, (2001); 
+Sugiyama M., Ae N., Effect of potassium uptake by crop species on solubilisation of silicate in a soil, Plant Nutrition-Food Security and Sustainability of Agro-ecosystems, pp. 570-571, (2001); 
+Stamati F.E., Nikolaidis N.P., Venieri D., Psillakis E., Kalogerakis N., Effect of de-vegetation on biochemical quality and soluble organic matter of calcaric Mediterranean soils: implications for water quality, (2010); 
+Tamoutsidis E., Lazaridou M., Papadopoulos I., Spanos T., Papathanasiou F., Tamoutsidou M., Mitlianga P., Vasiliou G., The effect of treated urban wastewater on soil properties, plant tissue composition and biomass productivity in berseem clover and corn, J. Food Agric. Environ., 7, pp. 782-786, (2009); 
+Thomas G.W., Soil pH and soil acidity, Methods of Soil Analysis. Part 3. Chemical Methods. Soil Science Society of America Book Series No. 5, pp. 475-490, (1996); 
+Thomas G.W., Exchangeable cations, Methods of Soil Analysis. Part 2. Agron. Monogr. 9., pp. 159-165, (1982); 
+Tisdale S., Nelson W.L., Beaton J.D., Halvin J., Soil Fertility and Fertilizers, (1993); 
+Tsagaraki E., Lazarides H.N., Petrotos K.B., Olive mill wastewater treatment, Utilization of By-products and Treatment of Waste in the Food Industry, pp. 133-157, (2007); 
+Wittling C.S., Houot S., Barriuso E., Soil enzymatic response to addition of municipal solid-waste compost, Biol. Fert. Soils, 20, pp. 226-236, (1995); 
+Walkley A., A critical examination of a rapid method for determining organic carbon in soils: effect of variations in digestion conditions and of inorganic soil constituents, Soil Sci., 63, pp. 251-263, (1946); 
+Zenjari B., Neimeddine A., Impact of spreading olive mill wastewater on soil characteristics: laboratory experiments, Agronomie, 21, pp. 749-755, (2001)#FRF#

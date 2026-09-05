@@ -1,0 +1,46 @@
+#ITI#Phytotoxicity and weed management potential of leaf extracts of Callistemon viminalis against the weeds of rice#FTI#
+#IRE#We explored the phytotoxicity of Callistemon viminalis leaf extracts (LE; 0.5, 1, 2 and 4%) towards germination and early growth of rice (Oryza sativa L.) and its associated weeds [Echinochloa crus-galli (L.) Beauv., Cyperus rotundus L., Leptochloa chinensis (L.) Nees. and Commelina benghalensis L.], under laboratory and greenhouse conditions. In a laboratory assay, leaf extracts (4%) inhibited germination (40–52%), root length (36–85%), shoot length (37–64%), dry weight (27–67%) and chlorophyll content (20–42%) in all the weeds. Under greenhouse conditions, 2% leaf extracts (LE) + Butachlor (well-known herbicide; H; 50% E.C.; 2:1, v/v) severely affected the emergence and biomass of all the weeds. However, there was no effect on the growth and yield attributes of rice. Moreover, upon 2% LE + H treatment, the plant height and number of grains per plant increased significantly and the effect was comparable to the recommended dose of Butachlor. The results suggested the presence of water-soluble allelochemicals (mainly phenolics) in the leaf extracts that could be responsible for the observed inhibitory effect. Based on the study, it could be concluded that C. viminalis leaf extracts hold good potential for possible weed management, and further research could be done to develop it as an alternative to synthetic herbicides in sustainable agriculture under field conditions. © 2016, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Grain yield; Natural herbicide; Phenolics; Seedling growth#FPC#
+#IRF#Amoo S.O., Ojo A.U., Van Staden J., Allelopathic potential of Tetrapleura tetraptera leaf extracts on early seedling growth of five agricultural crops, S Afr J Bot, 74, pp. 149-152, (2008); 
+Arnon D.I., Copper enzymes in isolated chloroplasts: polyphenoloxidase in Beta vulgaris, Plant Physiol, 24, pp. 1-15, (1949); 
+Batish D.R., Singh H.P., Kohli R.K., Dawra G.P., Potential of allelopathy and allelochemicals for weed management, Handbook of sustainable weed management, pp. 209-256, (2006); 
+Batish D.R., Singh H.P., Rana N., Kohli R.K., Assessment of allelopathic interference of Chenopodium album through its leachates, debris extracts, rhizosphere and amended soil, Arch Agron Soil Sci, 52, pp. 705-715, (2006); 
+Batish D.R., Lavanya K., Singh H.P., Kohli R.K., Root mediated allelopathic interference of nettle-leaved goosefoot (Chenopodium murale) on wheat (Triticum aestivum), J Agron Crop Sci, 193, pp. 37-44, (2007); 
+Batish D.R., Lavanya K., Singh H.P., Kohli R.K., Phenolic allelochemicals released by Chenopodium murale affect the growth, nodulation and macromolecule content in chickpea and pea, Plant Growth Regul, 51, pp. 119-128, (2007); 
+Cheema Z.A., Farid M.S., Khaliq A., Efficacy of concentrated sorgaab in combination with low rates of atrazine for weed control in maize, J Anim Plant Sci, 13, pp. 48-51, (2003); 
+Chon S.U., Choi S.K., Jung S., Jang H.G., Pyo B.S., Kim S.M., Effects of alfalfa leaf extracts and phenolic allelochemicals on early seedling growth and root morphology of alfalfa and barnyard grass, Crop Prot, 21, pp. 1077-1082, (2002); 
+Dayan F.E., Duke S.O., Natural compounds as next generation herbicides, Plant Physiol, 166, pp. 1090-1105, (2014); 
+Dayan F.E., Cantrell C.L., Duke S.O., Natural products in crop protection, Bioorg Med Chem, 17, pp. 4022-4034, (2009); 
+Dayan F.E., Owens D.K., Duke S.O., Rationale for a natural products approach to herbicide discovery, Pest Manag Sci, 68, pp. 519-528, (2012); 
+de Oliveira C.M., das Gracas Cardoso M., da Silva Figueiredo A.C., de Carvalho M.L.M., de Miranda C.A.S.F., Albuquerque L.R.M., Nelson D.L., Gomes M.S., Silva L.F., Santiago J.A., Teixeira M.L., Brandao R.M., Chemical composition and allelopathic activity of the essential oil from Callistemon viminalis (Myrtaceae) blossoms on Lettuce (Lactuca sativa L.) seedlings, Am J Plant Sci, 5, pp. 3551-3557, (2014); 
+Duke S.O., Dayan F.E., Discovery of new herbicide modes of action with natural phytotoxins, Am Chem Soc Symp Ser, 1204, pp. 79-92, (2015); 
+Farooq M.F., Jabran K., Cheema Z.A., Wahid A., Siddique K.H.M., The role of allelopathy in agricultural pest management, Pest Manag Sci, 67, pp. 493-506, (2011); 
+Gray R.A., Tseng C.K., Rusay RJ (1980) 1-Hydroxy-2- (alkylketo)-4,4,6,6-tetramethyl cyclohexen-3,5-dione herbicides, US Patent 4, 227; 
+Haig T., Allelochemicals in plants, Allelopathy in sustainable agriculture and forestry, pp. 63-104, (2008); 
+Han C.M., Pan K.W., Wu N., Wang J.C., Li W., Allelopathic effect of ginger on seed germination and seedling growth of soybean and chive, Sci Hortic, 116, pp. 330-336, (2008); 
+Heap I., Herbicide resistant weeds, Integrated pest management, pp. 281-301, (2014); 
+The international survey of herbicide resistant weeds, (2016); 
+Hiscox J.D., Israelstam G.F., A method for extraction of chlorophyll from leaf tissue without maceration, Can J Bot, 57, pp. 1332-1334, (1979); 
+Iqbal J., Cheema Z.A., Mushtaq M.N., Allelopathic crop water extracts reduce the herbicide dose for weed control in cotton (Gossypium hirsutum), Int J Agric Biol, 11, pp. 360-366, (2009); 
+Jabran K., Cheema Z.A., Farooq M., Hussain M., Lower doses of pendimethalin mixed with allelopathic crop water extracts for weed management in canola (Brassica napus), Int J Agric Biol, 12, pp. 335-340, (2010); 
+Jamil M., CheemaZA M.M.N., Farooq M., Cheema M.A., Alternative control of wild oat and canary grass in wheat fields by allelopathic plant water extracts, Agron Sustain Dev, 29, pp. 475-482, (2009); 
+Khambay B.P., Beddie D.G., Hooper A.M., Simmonds M.S., Green P.W., New insecticidal tetradecahydroxanthenediones from Callistemon viminalis, J Nat Prod, 62, pp. 1666-1667, (1999); 
+Li Z.H., Wang Q., Ruan X., Pan C.D., Jiang D.A., Phenolics and plant allelopathy, Molecules, 15, pp. 8933-8952, (2010); 
+Macias F.A., Castellano D., Molinillo J.M.G., Search for a standard phytotoxic bioassay for allelochemicals. Selection of target species, J Agric Food Chem, 48, pp. 2512-2521, (2000); 
+Meksawat S., Pornprom T., Allelopathic effect of itchgrass (Rottboellia cochinchinensis) on seed germination and plant growth, Weed Biol Manag, 10, pp. 16-24, (2010); 
+Mutlu S., Atici O., Allelopathic effect of Nepeta meyeri Benth. extracts on seed germination and seedling growth of some crop plants, Acta Physiol Plant, 31, pp. 89-93, (2009); 
+Ndomo A.F., Tapondjou L.A., Ngamo L.T., Hance T., Insecticidal activities of essential oil of Callistemon viminalis applied as fumigant and powder against two bruchids, J Appl Entomol, 134, pp. 333-341, (2010); 
+Oerke E.C., Crop losses to pests, J Agric Sci, 144, pp. 31-43, (2006); 
+Owens D.K., Nanayakkara N.P., Dayan F.E., In planta mechanism of action of leptospermone: impact of its physico–chemical properties on uptake, translocation, and metabolism, J Chem Ecol, 39, pp. 262-270, (2013); 
+Oyedeji O.O., Lawal O.A., Shode F.O., Oyedeji A.O., Chemical composition and antibacterial activity of the essential oils of Callistemon citrinus and Callistemon viminalis from South Africa, Molecules, 14, pp. 1990-1998, (2009); 
+Rani D., Kohli R.K., Fresh matter is not an appropriate relation unit for chlorophyll content: experience from experiments on effects of herbicides and allelopathic substances, Photosynthetica, 25, pp. 655-658, (1991); 
+Rice E.L., Biological control of weeds and plant diseases: advances in applied allolopathy, (1995); 
+Salem M.Z., Ali H.M., El-Shanhorey N.A., Abdel-Megeed A., Evaluation of extracts and essential oil from Callistemon viminalis leaves: antibacterial and antioxidant activities, total phenolic and flavonoid contents, Asian Pac J Trop Med, 6, pp. 785-791, (2013); 
+Singh H.P., Batish D.R., Kohli R.K., Allelopathic interactions and allelochemicals: new possibilities for sustainable weed management, Crit Rev Plant Sci, 22, pp. 239-311, (2003); 
+Sodaeizadeh H., Rafieiolhossaini M., Havlik J., Van Damme P., Allelopathic activity of different plant parts of Peganum harmala L. and identification of their growth inhibitors substances, Plant Growth Regul, 59, pp. 227-236, (2009); 
+Soltys D., Krasuska U., Bogatek R., Gniazdowska A., Allelochemicals as bioherbicides—present and perspectives, Herbicides—current research and case studies in use, pp. 517-542, (2013); 
+Stokstad E., The war against weeds down under, Science, 341, pp. 734-736, (2013); 
+Swain T., Hillis W.E., The phenolic constituents of Prunus domestica. I. The quantitative analysis of phenolic constituents, J Sci Food Agric, 10, pp. 63-68, (1959); 
+Tharayil N., Bhowmik P.C., Xing B., Bioavailability of allelochemicals as affected by companion compounds in soil matrices, J Agric Food Chem, 56, pp. 3706-3713, (2008); 
+Turk M.A., Tawaha A.M., Allelopathic effect of black mustard (Brassica nigra L.) on germination and growth of wild oat (Avena fatua L.), Crop Prot, 22, pp. 673-677, (2003); 
+Weir T.L., Park S.W., Vivanco J.M., Biochemical and physiological mechanisms mediated by allelochemicals, Curr Opin Plant Biol, 7, pp. 472-479, (2004)#FRF#

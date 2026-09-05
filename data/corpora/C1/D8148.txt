@@ -1,0 +1,51 @@
+#ITI#Determining water quality requirements of coal seam gas produced water for sustainable irrigation#FTI#
+#IRE#Coal seam gas production in Australia generates large volumes of produced water that is generally high in total dissolved solids and has a high sodium absorption ratio (SAR) which may affect soil structure, hydraulic conductivity, and crop production if used untreated for irrigation. By coupling major ion soil chemistry and unsaturated flow and plant water uptake, this study incorporates effects of salt concentrations on soil hydraulic properties and on root water uptake for soils irrigated with produced water featuring different water qualities. Simulations provided detailed results regarding chemical indicators of soil and plant health, i.e. SAR, EC and sodium concentrations. Results from a base scenario indicated that the use of untreated produced water for irrigation would cause SAR and EC values to significantly exceed the soil quality guide values in Australia and New Zealand (ANZECC). The simulations provided further useful insights in the type of coupled processes that might occur, and what the potential impacts could be on soil hydrology and crop growth. Calculations showed that the use of untreated produced water resulted in a decrease in soil hydraulic conductivity due to clay swelling causing water stagnation, additional plant-water stress and a reduction in plant transpiration. In case the produced water was mixed with surface water in a 1:3 ratio prior to irrigation, the calculated soil SAR values were much lower and generally acceptable for sandy to sandy-loam soil. The use of reverse osmosis treated produced water yielded an acceptable salinity profile not exceeding guide values for SAR and EC; the plant water stress was limited as there was no additional salinity stress associated with the low level of salts. Results further illustrated that accounting for coupled geochemical, hydrological and plant water uptake processes resulted in more accurate water balance calculations compared to an approach where such interactions were not implemented. Coupling unsaturated flow modelling with major ion chemistry solute transport using HYDRUS provides quantitative evidence to determine suitable water quality requirements for sustainable irrigation using coal seam gas produced water. © 2017 Commonwealth Scientific and Industrial Research Organisation#FRE#
+#IPC#Coupled processes; HYDRUS; Major ion chemistry; Salinity risk; Soil management#FPC#
+#IRF#Appelo T., Postma D., Geochemistry, Groundwater, and Pollution, (2004); 
+ANZECC, Australian and New Zealand Guidelines for Fresh and Marine Water Quality. Volume 1: The Guidelines, (2000); 
+Beletse Y.G., Annandale J.G., Steyn J.M., Hll I., Aken M.E., Can crops be irrigated with sodium bicarbonate rich CBM deep aquifer water? Theoretical and field evaluation, Ecol. Eng., 33, pp. 26-36, (2008); 
+Bennett S., Key Spatiotemporal Factors Determining Uncertainty of Deep Drainage in a Semi-arid Area, (2012); 
+Biggs A., Witheyman S.L., Williams K.M., Cupples N., de Voil C.A., Power R.E., Stone B.J., Assessing the Salinity Impacts of Coal Seam Gas Water on Landscapes and Surface Streams. Final Report of Activity 3 of the Healthy HeadWaters Coal Seam Gas Water Feasibility Study, (2012); 
+BOM, Bureau of Meteorology, Recent Evapotranspiration, (2014); 
+Bright D.A., Addison J., Derivation of Matrix Standards for Salt Under the British Columbia Contaminated Sites Regulation, (2002); 
+Bright D.A., Addison J., Derivation of Matrix Standards for Salt Under the British Columbia Contaminated Sites Regulation. Addendum A: Technical Options Analysis for a Soil Chloride Standard for Drinking Water Protection (Aesthetic), (2002); 
+Burkhardt A., Gawde A., Cantrell C.L., Baxter H.L., Joyce B.L., Stewart C.L., Zheljazkov V.D., Effects of produced water on soil characteristics, plant biomass, and secondary metabolites, J. Environ. Qual., 44, pp. 1938-1947, (2015); 
+Crosbie R., Morrow D., Cresswell R., Leaney F., Lamontagne S., Lefournour M., New Insights to the Chemical and Isotopic Composition of Rainfall Across Australia. Water for a Healthy Country Flagship Report Series ISSN: 1835-095X, (2012); 
+DERM, Guideline: Approval of Coal Seam Gas Water for Beneficial Use, (2010); 
+DEHP, General Beneficial Use Approval—Irrigation of Associated Water (Including Coal Seam Gas Water), (2014); 
+DNRM, Forecasting Coal Seam Gas Water Production in Queensland's Surat and Southern Bowen Basins. Report Prepared by Klohn Crippen Berger: Healthy HeadWaters Coal Seam Gas Water Feasibility Study, (2012); 
+DNRM, Assessment of Alternative Use Options for Coal Seam Gas Water Proposed for Central Condamine Alluvium Recharge Schemes. Healthy HeadWaters Coal Seam Gas Water Feasibility Study, (2013); 
+Feddes R.A., Kowalik P.J., Zaradny H., Simulation of Field Water Use and Crop Yield, (1978); 
+Horizon, Irrigated Pasture Systems Comparative Project. Stage 3 Final Report, (2006); 
+Jacques D., Smith C., Simunek J., Smiles D., Inverse optimization of hydraulic, solute transport, and cation exchange parameters using HP1 and UCODE to simulate cation exchange, J. Contam. Hydrol., 142-143, pp. 109-125, (2012); 
+Jacques D., Simunek J., Mallants D., van Genuchten M.T., The HPx reactive transport models: summary of recent developments and applications, 4th International Conference “Hydrus Software Applications to Subsurface Flow and Contaminant Transport Problems”, pp. 7-16, (2013); 
+Jacques D., Perko J., Seetharam S., Mallants D., Govaerts D., Modelling long-term evolution of cementitious materials used in waste disposal, IAEA-TECDOC-1701 Behaviours of Cementitious Materials in Long Term Storage and Disposal, (2013); 
+Johnston C.R., Vance G.F., Ganjegunte G.K., Irrigation with coalbed natural gas co-produced water, Agric. Water Manag., 95, pp. 1243-1252, (2008); 
+Lenhard R.J., Brooks R.H., Effects of clay–solution interactions on water retention, Am. Soc. Civil Eng. J. Irrig. Drain. Eng., 112, pp. 28-38, (1986); 
+Leskiw L.A., Sedor R.B., Welsh C.M., Zeleke T.B., Soil and vegetation recovery after a well blowout and salt water release in northeastern British Columbia, Can. J. Soil Sci., 92, pp. 179-190, (2012); 
+Maas E.V., Crop salt tolerance, Agricultural Salinity Assessment and Management. ASCE Manuals and Reports on Engineering Practice, No. 71, (1990); 
+Mace J.E., Amrhein C., Leaching and reclamation of a soil irrigated with moderate SAR waters, Soil Sci. Soc. Am. J., 65, pp. 199-204, (2001); 
+McNeal B.L., Prediction of the effect of mixed-salt solutions on soil hydraulic conductivity, Soil Sci. Soc. Am. Proc., 32, pp. 190-193, (1968); 
+McNeal B.L., Soil salts and their effects on water movement, Drainage for Agriculture, Agronomy No. 17, (1974); 
+Minasny B., McBratney A., The neuro-m method for fitting neural network parametric pedotransfer functions, Soil Sci. Soc. Am. J., 66, pp. 352-361, (2002); 
+Moore T.A., Coalbed methane: a review, Int. J. Coal Geol., 101, pp. 36-81, (2012); 
+Mualem Y., A new model for predicting the hydraulic conductivity of unsaturated porous media, Water Resourc. Res., 12, pp. 513-522, (1976); 
+Nghiem L.D., Ren T., Aziz N., Porter I., Regmi G., Treatment of coal seam gas co-produced water for beneficial use in Australia: a review of best practices, Desalin. Water Treat., 32, pp. 316-323, (2011); 
+Parsons W., Chapter 12 in Australia Pacific LNG Project Environmental Impact Statement, Adaptive Associated Water Management, 2, (2010); 
+QWC, Underground Water Impact Report for the Surat Cumulative Management Area, (2012); 
+Ringrose-Voase A.J., Water Balance and Deep Drainage Under Irrigated Cotton. ‘WaterPak’, pp. 17-28, (2004); 
+RPS, Onshore co-produced water: extent and management, Waterlines Report Series No. 54, (2011); 
+Santos, Sustainability Report 2009: The Energy for Sustainability, (2009); 
+Santos, Upstream-Fairview Project Area Environmental Management Plan; Appendix B Fairview Project Area Coal Seam Gas Water Management Plan, (2010); 
+Silburn D.M., Montgomery J., Deep drainage under irrigated cotton in Australia: a review, WATER-PAK a Guide for Irrigation Management in Cotton, pp. 29-40, (2004); 
+Simunek J., Suarez D.L., Two-dimensional transport model for variably saturated porous media with major ion chemistry, Water Resour. Res., 30, pp. 1115-1133, (1994); 
+Simunek J., Suarez D.L., Sodic soil reclamation using multicomponent transport modelling, ASCE J. Irrig. Drain. Eng., 123, pp. 367-376, (1997); 
+Simunek J., van Genuchten M.T., Sejna M., Development and applications of the HYDRUS and STANMOD software packages and related codes, Vadose Zone J. (Special Issue “Vadose Zone Modeling”), 7, pp. 587-600, (2008); 
+Simunek J., Sejna M., Saito H., Sakai M., van Genuchten M.T., The HYDRUS-1D Software Package for Simulating the Movement of Water, Heat, and Multiple Solutes in Variably Saturated Media, Version 4.17, HYDRUS Software Series 3, (2013); 
+Simunek J., Jacques D., van Genuchten M.T., Mallants D., Multicomponent geochemical transport modelling using Hydrus-1D and HP1, J. Am. Water Resour. Assoc., 42, pp. 1537-1547, (2006); 
+Simunek J., van Genuchten M.T., Sejna M., Recent developments and applications of the HYDRUS computer software packages, Vadose Zone J., 15, 7, (2016); 
+Stearns M., Tindall J., Cronin G., Friedel M., Bergquist E., Effects of coal-bed methane discharge waters on the vegetation and soil ecosystem in Powder River Basin, Wyoming, Water Air Soil Pollut., 168, pp. 33-57, (2005); 
+Vance G.F., King L.A., Ganjegunte G.K., Soil and plant responses from land application of saline-sodic waters: implications of management, J. Environ. Qual., 37, pp. S139-S148, (2008); 
+van Genuchten M.T., A closed-form equation for predicting the hydraulic conductivity of unsaturated soils, Soil Sci. Soc. Am. J., 44, pp. 892-898, (1980); 
+Wesseling J.G., Elbers J.A., Kabat P., van den Broek B.J., SWATRE: Instructions for Input, Internal Note, (1991); 
+White N., Zelazny L.W., Charge properties in soil colloids, Soil Physical Chemistry, (1986)#FRF#

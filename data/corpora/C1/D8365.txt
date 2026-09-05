@@ -1,0 +1,43 @@
+#ITI#Time of day impact on mapping agricultural subsurface drainage systems with UAV thermal infrared imagery#FTI#
+#IRE#Due to economic and environmental considerations, there exists a need for effective, efficient, and nondestructive methods for locating buried agricultural drainage pipes. Previous research indicates that thermal infrared (TIR) imagery obtained with an unmanned aerial vehicle (UAV) has potential for mapping agricultural subsurface drainage systems, thereby warranting further investigation to determine the best time of day to conduct these UAV TIR surveys. Accordingly, a set of sunrise to sunset UAV TIR surveys were carried out at four different farm field sites in Ohio, U.S.A. Late morning through late afternoon UAV TIR surveys were generally found to work well for determining drainage system patterns. During late morning through late afternoon, the apparent radiant temperature of the soil surface over the drain lines was higher than between the drain lines (i.e., emitted TIR radiation from the soil surface over a drain line was greater than between the drain lines). Conversely, near sunrise or sunset, the UAV surveys often showed the apparent radiant temperature of the soil surface over the drain lines to be lower than between the drain lines (i.e., less emitted TIR radiation over the drain lines than between drain lines). Some excellent UAV TIR drainage mapping results were obtained near sunrise/sunset due to TIR drain line responses that were more easily distinguished from those of farm field operations. However, difficulties were occasionally encountered processing this sunrise/sunset TIR imagery, likely due to the impact on image quality from high relative humidity during these times of the day. Consequently, strictly on a consistency of success basis alone, late morning through late afternoon are the best times for locating drainage pipes with UAV TIR surveys; however, in certain cases, UAV TIR surveys at sunrise/sunset can provide exceptional drainage pattern recognition. These results provide valuable guidance for those considering UAV TIR drainage mapping surveys. © 2021#FRE#
+#IPC#Agricultural subsurface drainage systems; Thermal Infrared (TIR) imagery, drainage pipe mapping; Unmanned Aerial Vehicles (UAVs)#FPC#
+#IRF#Abdel-Hadi M., Abdel-Hafez M.A., Karbs H.H., Subsurface drainage mapping by airborne infrared imagery techniques, Proc. Okla. Acad. Sci., 50, pp. 10-18, (1970); 
+Ackerman S.A., Knox J.A., Chapter 4 – Water in the atmosphere, Meteorology – Understanding the Atmosphere, pp. 96-141, (2015); 
+Ahrens C.D., Chapter 7 – Humidity, Meteorology Today – An Introduction to Weather, Climate, and the Environment, pp. 149-165, (1988); 
+Aitken P., Burdick R., Ray T., Chapter 1 – Regulations, Part 107 Drone Certificate Study Guide, pp. 8-30, (2017); 
+Allred B., Wishart D., Martinez L., Schomberg H., Mirsky S., Meyers G., Elliott J., Charyton C., Delineation of agricultural drainage pipe patterns using ground penetrating radar integrated with a Real-Time Kinematic Global Navigation Satellite System, Agriculture, 8, (2018); 
+Allred B., Eash N., Freeland R., Martinez L., Wishart D., Effective and efficient agricultural drainage pipe mapping with UAS thermal infrared imagery: a case study, Agric. Water Manag., 197, pp. 132-137, (2018); 
+Allred B., Martinez L., Fessehazion M.K., Rouse G., Williamson T.N., Wishart D., Koganti T., Freeland R., Eash N., Batschelet A., Featheringill R., Overall results and key findings on the use of UAV visible-color, multispectral, and thermal infrared imagery to map agricultural drainage pipes, Agric. Water Manag., 232, pp. 1-19, (2020); 
+Allred B.J., A GPR agricultural drainage pipe detection case study: Effects of antenna orientation relative to drainage pipe directional trend, J. Environ. Eng. Geophys., 18, pp. 55-69, (2013); 
+Allred B.J., Redman D., Location of agricultural drainage pipes and assessment of agricultural drainage pipe conditions using ground penetrating radar, J. Environ. Eng. Geophys., 15, pp. 119-134, (2010); 
+Allred B.J., Fausey N.R., Peters L., Chen C., Daniels J.J., Youn H., Detection of buried agricultural drainage pipe with geophysical methods, Appl. Eng. Agric., 20, pp. 307-318, (2004); 
+Allred B.J., Daniels J.J., Fausey N.R., Chen C., Peters L., Youn H., Important considerations for locating buried agricultural drainage pipe using ground penetrating radar, Appl. Eng. Agric., 21, pp. 71-87, (2005); 
+(2018); 
+Chow T.L., Rees H.W., Identification of subsurface drain locations with ground-penetrating radar, Can. J. Soil Sci., 69, pp. 223-234, (1989); 
+Dai A., Sesser C., Diurnal and semidiurnal variations in global surface wind and divergence fields, J. Geophys. Res., 104, pp. 31109-31125, (1999); 
+Freeland R., Allred B., Eash N., Martinez L., Wishart D., Agricultural drainage tile surveying using an unmanned aircraft vehicle paired with Real-Time Kinematic positioning - a case study, Comput. Electron. Agric., 165, (2019); 
+He Y., Monahan A., McFarlane N., Diurnal variations in land surface wind speed probability distributions under clear-sky and low-cloud conditions, Geophys. Res. Lett., 40, pp. 3308-3314, (2013); 
+Hillel H., Chapter 12 – Soil temperature and heat flow, Fundamentals of Soil Physics, pp. 287-317, (1980); 
+Jackson R.D., Reginato R.J., Kimball B.A., Nakayama F.S., Diurnal soil-water evaporation: comparison of measured and calculated soil-water fluxes, Soil Sci. Soc. Am. Proc., 38, pp. 861-866, (1974); 
+Jenson J.R., Chapter 7 – Thermal Infrared Remote Sensing, Remote Sensing of the Environment, pp. 243-286, (2007); 
+Koganti T., Van De Vijver E., Allred B.J., Greve M.H., Ringgaard J., Iversen B.V., Mapping of agricultural subsurface drainage systems using a frequency-domain ground penetrating radar and evaluating its performance using a single-frequency multi-receiver electromagnetic induction instrument, Sens. (Basel, Switz.), 20, 1-26, (2020); 
+Kratt C.B., Woo D.K., Johnson K.N., Haagsma M., Kumar P., Selker J., Tyler S., Field trials to detect drainage pipe networks using thermal and RGB data from unmanned aircraft, Agric. Water Manag., 229, 1-6, (2020); 
+Kuenzer C., Dech S., Chapter 1 -Theoretical background of thermal infrared remote sensing, Thermal Infrared Remote Sensing: Sensors, Methods, Applications, Volume 17 of Remote Sensing and Digital Image Processing, pp. 1-26, (2013); 
+Mengistu A.C., van Rensburg L.D., Mavimbela S.W., Shallow groundwater effects on evaporation and soil temperature in two windblown sands (Eutric Cambisol and Chromic Luvisol) in South Africa, Geoderma Reg., 15, (2018); 
+Mira M., Valor E., Boluda R., Caselles V., Coll C., Influence of the soil moisture effect on the thermal infrared emissivity, Tethys, 4, pp. 3-9, (2007); 
+Naz B.S., Ale S., Bowling L.C., Detecting subsurface drainage systems and Estimating drain spacing in intensively managed agricultural landscapes, Agric. Water Manag., 96, pp. 627-637, (2009); 
+(2020); 
+Pavelis G.A., Economic survey of farm drainage, Farm Drainage in the United States: History, Status, and Prospects, Miscellaneous Publication Number 1455. U.S. Dept. of Agriculture, pp. 110-136, (1987); 
+(2019); 
+Schwab G.O., Frevert R.K., Edminster T.W., Barnes K.K., Chapter 14 – Subsurface drainage design, Soil and Water Conservation Engineering, pp. 314-347, (1981); 
+senseFly S.A., (2020); 
+Sims J.T., Simard R.R., Joern B.C., Phosphorus loss in agricultural drainage: historical perspective and current research, J. Environ. Qual., 27, pp. 277-293, (1998); 
+Smedema L.K., Vlotman W.F., Rycroft D.W., Chapter 7 – Design of pipe drainage systems, Modern Land Drainage: Planning, Design and Management of Agricultural Drainage Systems, pp. 137-167, (2004); 
+(2018); 
+Tlapakova L., Zaloudik J., Kolejka J., Thematic survey of subsurface drainage systems in the Czech Republic, J. Maps., 13, pp. 55-65, (2017); 
+(2020); 
+Verma A.K., Cooke R.A., pp. 457-466, (1996); 
+Williamson T.N., Dobrowolski E.G., Meyer S.M., Frey J.W., Allred B.J., Delineation of tile-drain networks using thermal and multispectral imagery – implications for water quantity and quality differences from paired edge-of-field sites, J. Soil Water Conserv, 74, pp. 1-11, (2019); 
+Woo D.K., Song H., Kumar P., Mapping subsurface tile drainage systems with thermal images, Agric. Water Manag., 218, pp. 94-101, (2019); 
+Zhang Y., Chen Y., Fu X., Luo C., The research on the effect of atmospheric transmittance for the measuring accuracy of infrared thermal imagery, Infrared Phys. Tech., 77, pp. 375-381, (2016); 
+Zucker L.A., Brown L.C., Agricultural Drainage: Water Quality Impacts and Subsurface Drainage Studies in the Midwest, Ohio State University Extension Bulletin 871, (1998)#FRF#

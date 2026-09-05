@@ -1,0 +1,47 @@
+#ITI#Analysis of variability in Pistacia vera L. fruit genotypes based on morphological attributes and biometric techniques#FTI#
+#IRE#In this study, numerous properties of pistachio tree (Pistacia vera L.) varieties such as WAHIDI, UZUN, RED ALEPPO, OUHADI, AYIMI, KIRMIZI, MOMTEZ, ACHOURY, KERMAN, EL-GUETAR, MATEUR, and NOURI were determined. Physical and mechanical properties of pistachio fruit [(length/width) fruit ratio, fruit form, color of pedicel scar, form of pedicel scar, relief of pedicel scar, percentage of empty fruits, number of knotted flowers/fruit cluster, fruit drop rate, number of fruits/cluster, and percentage of mature fruits] were evaluated. Principal component analysis was applied in the aim to identify the importance of studied parameters and their corresponding correlations. On the basis of obtained results, the most influential fruit character of first principal component (contribution rate = 35%) was relief of pedicel scar, and the most dominant fruit attribute of second principal component (contribution rate = 22%) was form of pedicel scar. Circle of correlation confirmed first that fruit maturity is associated with pistachio size development. Second, to have a high fruit yield, the relief of pedicel scar must be low. Furthermore, Bayesian Networks method was showed in the aim to reveal the relationships between different parameters. Finally, the dendrogram of selected pistachio varieties demonstrates that a high similitude existed between varieties with a similarity value of 0.64. In fact, the dendrogram of pistachio fruit revealed that all studied accessions were divided into three main clusters. Hierarchical clustering revealed that a strong connection existed between physiological and yield traits. These results illustrate a possible use of desired features at least in various infra-specific investigations in P. vera L. to highlight hidden relationships between varieties. © 2020, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Bayesian networks; Dendrogram; Pistachio; Principal component analysis#FPC#
+#IRF#Abdi H., Lynne J.W., Principal component analysis, WIREs Comp Stat, 2, pp. 433-459, (2010); 
+Afzadi M.A., Tabatabaei B.E.S., Mohammadi S.A., Tajabadipur A., Comparison of genetic diversity in species and cultivars of pistachio (Pistacia sp. L.) based on amplified fragment length polymorphism (AFLP) markers, Iran J Biotech, 5, pp. 147-152, (2007); 
+Aliakbarkhani S.T., Akbari M., Hassankhah A., Talaie A., Moghadam M.F., Phenotypic and genotypic variation in Iranian Pistachios, J Genet Eng Biotechnol, 13, pp. 235-241, (2015); 
+Altuntas E., Yildiz M., Effect of moisture content on some physical properties of Faba bean grain, J Food Eng, 78, pp. 174-183, (2007); 
+Aparicio R., Luna G., Characterisation of monovarietal virgin olive oils, Eur J Lipid Sci Technol, 104, pp. 614-627, (2002); 
+Benson L., Plant taxonomy, (1962); 
+Benson M., Bayesian networks handbook, (2015); 
+Chadha T.R., Textbook of temperate fruits, (2001); 
+Ennouri K., Ayed R.B., Ercisli S., Fathi B.E.N., Triki M.A., Evaluation of variability in tunisian Olea europaea L. accessions using morphological characters and computational approaches, Not Bot Horti Agrobot Cluj Napoca, 45, 1, pp. 262-269, (2017); 
+Ennouri K., Ayed R.B., Ercisli S., Smaoui S., Gouiaa M., Triki M.A., Variability assessment in Phoenix dactylifera L. accessions based on morphological parameters and analytical methods, Acta Physiol Plant, 40, 1, (2018); 
+Ennouri K., Ayed R.B., Hassen H.B., Mazzarello M., Ottaviani E., Experimental design and Bayesian networks for enhancement of delta-endotoxin production by Bacillus thuringiensis, Acta Microbiol Immunol Hung, 62, 4, pp. 379-392, (2015); 
+Agriculture Organization Corporate Statistical Database, (2018); 
+Ferguson L., Haviland D., Pistachio production manual, (2016); 
+Fuzy A., Kovacs R., Cseresnyes I., Paradi I., Szili-Kovacs T., Kelemen B., Et al., Selection of plant physiological parameters to detect stress effects in pot experiments using principal component analysis, Acta Physiol Plant, 41, 5, (2019); 
+Hu Y., Gansner E.R., Kobourov S., Visualizing graphs and clusters as maps, IEEE Comput Graph, 30, 6, pp. 54-66, (2010); 
+Isfendiyaroglu M., Ozeker E., Inflorescence features of a new exceptional monoecious Pistacia atlantica Desf. (Anacardiaceae) population in the barbaros plain of İzmir/Turkey, Int J Plant Prod, 3, pp. 93-97, (2009); 
+Jaccard P., Nouvelles recherches sur la distribution florale, Bull Soc Vaud Sci Nat, 44, pp. 223-270, (1908); 
+Kafkas S., Perl-Treves R., Morphological and molecular phylogeny of Pistacia species in Turkey, Theor Appl Genet, 102, pp. 908-915, (2001); 
+Kallsen C., Parfitt D., Maranto J., Holtz B., New pistachio varieties show promise for California cultivation, Calif Agric, 63, pp. 18-23, (2009); 
+Kallsen C., Sibbett G.S., Fanucchi C., Planning and designing the orchard, Pistachio production, pp. 36-40, (1995); 
+Karimi H.R., Zamani Z., Ebadi A., Fatahi M.R., Morphological diversity of Pistacia species in Iran, Genet Resour Crop Evol, 56, pp. 561-571, (2009); 
+Kashaninejad M., Mortazavi A., Safekordi A., Tabil L.G., Some physical properties of pistachio (Pistacia vera L.) nut and its kernel, J Food Eng, 72, 1, pp. 30-38, (2005); 
+Kashaninejad M., Tabil L.G., Pistachio (Pistacia vera L.), Postharvest biology and technology of tropical and subtropical fruits, pp. 218-247, (2011); 
+Kaska N., First International Symposium on Pistachio Nut, 20–24 October, 1994, (1994); 
+Krueger B., Ferguson L., Pistachio rootstocks, Pistachio production, pp. 41-42, (1995); 
+Liu H.F., Wu B.H., Fan P.G., Li S.H., Li L.S., Sugar and acid concentrations in 98 grape cultivars analyzed by principal component analysis, J Sci Food Agr, 86, pp. 1526-1536, (2006); 
+Manly F.J., Multivariate statistical methods: a primer, (1986); 
+Mlika M., Contribution à l’étude Du Pistachier En Tunisie: Choix Des variétés mâles Et Femelles à Floraison Synchrone - Anatomie Des Fleurs, (1980); 
+Nakhaeinejad M., Daneshvar V., Practical application of HACCP in pistachio processing industry-case study: pistachio processing equipment of Momtazan industrial company, 5th international symposium on Pistachios and almonds, pp. 797-806, (2009); 
+Nowicka P., Wojdylo A., Laskowski P., Principal component analysis (PCA) of physicochemical compounds’ content in different cultivars of peach fruits, including qualification and quantification of sugars and organic acids by HPLC, Eur Food Res Technol, 245, pp. 929-938, (2019); 
+Opgen-Rhein R., Strimmer K., From correlation to causation networks: a simple approximate learning algorithm and its application to high-dimensional plant gene expression data, BMC Syst Biol, 1, pp. 1-37, (2007); 
+Parfitt D.E., Pistachio, The Brooks and Olmo register of fruit and nut varieties, pp. 581-582, (1997); 
+Parfitt D.E., Badenes M.L., Phylogeny of the genus Pistacia as determined from analysis of the chloroplast genome, Proc Natl Acad Sci USA, 94, pp. 7987-7992, (1997); 
+Pearl J., Causality: models, reasoning, and inference, (2000); 
+Perez D.D.J., Gonzalez A., Sahagun J., Vazquez L.M., Rivera A., Franco O., Dominguez A., The identification of outstanding potato cultivars using multivariate methods, Cienc Investig Agrar, 36, pp. 391-400, (2009); 
+Rahimi Y., Bihamta M.R., Taleei A., Alipour H., Ingvarsson P.K., Applying an artificial neural network approach for drought tolerance screening among Iranian wheat landraces and cultivars grown under well-watered and rain-fed conditions, Acta Physiol Plant, 41, 9, (2019); 
+Regattieri A., Gamberi M., Manzini R., Traceability of food products: general framework and experimental evidence, J Food Eng, 81, 2, pp. 347-356, (2007); 
+Rohlf F.J., Ntsys-Pc. Numerical Taxonomy and Multivariate Analysis System. Version 2.1, (1999); 
+Shen T., Xiong Q., Zhong L., Shi X., Cao C., He H., Chen X., Analysis of main metabolisms during nitrogen deficiency and compensation in rice, Acta Physiol Plant, 41, 5, (2019); 
+Smaoui S., Ennouri K., Chakchouk-Mtibaa A., Karray-Rebai I., Hmidi M., Bouchaala K., Mellouli L., Relationships between textural modifications, lipid and protein oxidation and sensory attributes of refrigerated turkey meat sausage treated with bacteriocin BacTN635, Food Bioprocess Technol, 10, 9, pp. 1655-1667, (2017); 
+Ultsch A., Loetsch J., Machine-learned cluster identification in high-dimensional data, J Biomed Inform, 66, pp. 95-104, (2017); 
+Vaknin Y., Effects of immaturity on productivity and nut quality in pistachio (Pistacia vera L.), J Hortic Sci Biotechnol, 81, pp. 593-598, (2006); 
+Ward J.H., Hierarchical grouping to optimize an objective function, J Am Stat Assoc, 58, pp. 236-245, (1963); 
+Zohary M., A monographical study of the genus Pistacia, Palest J Bot Jerus Ser, 5, pp. 187-228, (1952)#FRF#

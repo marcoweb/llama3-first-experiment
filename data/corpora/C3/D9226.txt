@@ -1,0 +1,25 @@
+#ITI#High-affinity ammonium transport by Arabidopsis thaliana AMT1;4#FTI#
+#IRE#In plants high affinity transport proteins mediate the essential transport of ammonium across membranes. In Arabidopsis thaliana six of these AMmonium Transporters (AMTs) are encoded by the genome. All of them show a unique expression pattern. While most AMTs are highly expressed in the root, AtAMT1;4 expression is limited to the pollen grains and the pollen tube. Here, we addressed the transport characteristics of AtAMT1;4 in the heterologous Xenopus laevis oocytes system. The transport saturated and showed high affinity for ammonium with a Km value lower than 10 µM. Based on our electrophysiological analysis, we classified AtAMT1;4 as a high affinity ammonium transporter. © 2021, The Author(s).#FRE#
+#IPC#Ammonium transport; AMT; Electrophysiology; High affinity; MEP#FPC#
+#IRF#Ariz I., Et al., Nitrogen isotope signature evidences ammonium deprotonation as a common transport mechanism for the AMT-Mep-Rh protein superfamily, Sci Adv, 4, (2018); 
+Bock K.W., Et al., Integrating membrane transport with male gametophyte development and function through transcriptomics, Plant Physiol, 140, pp. 1151-1168, (2006); 
+Duan F., Giehl R.F.H., Geldner N., Salt D.E., von Wiren N., Root zone–specific localization of AMTs determines ammonium transport pathways and nitrogen allocation to shoots, PLOS Biol, 16, (2018); 
+Ganz P., Et al., A pore-occluding phenylalanine gate prevents ion slippage through plant ammonium transporters, Sci Rep, 9, (2019); 
+Ganz P., Et al., A twin histidine motif is the core structure for high-affinity substrate selection in plant ammonium transporters, J Biol Chem, (2020); 
+Giehl R.F.H., Et al., A Critical Role of AMT2;1 in Root-to-shoot translocation of ammonium in Arabidopsis, Mol Plant, 10, pp. 1449-1460, (2017); 
+Javelle A., Et al., Substrate binding, deprotonation, and selectivity at the periplasmic entrance of the Escherichia coli ammonia channel AmtB, Proc Natl Acad Sci USA, 105, pp. 5040-5045, (2008); 
+Khademi S., Et al., Mechanism of ammonia transport by Amt/MEP/Rh: structure of AmtB at 1.35 A, Science, 305, pp. 1587-1594, (2004); 
+Lamoureux G., Javelle A., Baday S., Wang S., Berneche S., Transport mechanisms in the ammonium transporter family, Transfus Clin Biol, 17, pp. 168-175, (2010); 
+Lee Y.-H., Tegeder M., Selective expression of a novel high-affinity transport system for acidic and neutral amino acids in the tapetum cells of Arabidopsis flowers, Plant J, 40, pp. 60-74, (2004); 
+Loque D., Et al., Additive contribution of AMT1;1 and AMT1;3 to high-affinity ammonium uptake across the plasma membrane of nitrogen-deficient Arabidopsis roots, Plant J, 48, pp. 522-534, (2006); 
+Mayer M., Ludewig U., Role of AMT1;1 in NH4+ acquisition in Arabidopsis thaliana, Plant Biol (Stuttg), 8, pp. 522-528, (2006); 
+Neuhauser B., Dynowski M., Mayer M., Ludewig U., Regulation of NH4+ transport by essential cross talk between AMT monomers through the carboxyl tails, Plant Physiol, 143, pp. 1651-1659, (2007); 
+Neuhauser B., Dynowski M., Ludewig U., Channel-like NH3 flux by ammonium transporter AtAMT2, FEBS Lett, 583, pp. 2833-2838, (2009); 
+Nygaard T.P., Rovira C., Peters G.H., Jensen M.O., Ammonium recruitment and ammonia transport by E. coli ammonia channel AmtB, Biophys J, 91, pp. 4401-4412, (2006); 
+Straub D., Ludewig U., Neuhauser B., A nitrogen-dependent switch in the high affinity ammonium transport in Medicago truncatula, Plant Mol Biol, 86, pp. 485-494, (2014); 
+Ullmann R.T., Andrade S.L.A., Ullmann G.M., Thermodynamics of transport through the ammonium transporter Amt-1 investigated with free energy calculations, J Phys Chem B, 116, pp. 9690-9703, (2012); 
+Wood C.C., Poree F., Dreyer I., Koehler G.J., Udvardi M.K., Mechanisms of ammonium transport, accumulation, and retention in ooyctes and yeast cells expressing Arabidopsis AtAMT1;1, FEBS Lett, 580, pp. 3931-3936, (2006); 
+Wu X., Et al., Ammonium and nitrate regulate NH4+ uptake activity of Arabidopsis ammonium transporter AtAMT1;3 via phosphorylation at multiple C-terminal sites, J Exp Bot, 70, pp. 4919-4930, (2019); 
+Yuan L., Et al., The organization of high-affinity ammonium uptake in Arabidopsis roots depends on the spatial arrangement and biochemical properties of AMT1-type transporters, Plant Cell, 19, pp. 2636-2652, (2007); 
+Yuan L., Et al., AtAMT1;4, a pollen-specific high-affinity ammonium transporter of the plasma membrane in Arabidopsis, Plant Cell Physiol, 50, pp. 13-25, (2009); 
+Zheng L., Et al., The mechanism of ammonia transport based on the crystal structure of AmtB of Escherichia coli, Proc Natl Acad Sci USA, 101, pp. 17090-17095, (2004)#FRF#

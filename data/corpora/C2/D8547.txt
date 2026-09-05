@@ -1,0 +1,38 @@
+#ITI#Bromoacetic acid inhibits pyruvate orthophosphate dikinase and reduces photosynthetic activity in maize#FTI#
+#IRE#Pyruvate orthophosphate dikinase (PPDK) catalyzes the conversion of pyruvate to phosphoenolpyruvate, and its activity is essential to maintain photosynthetic CO2 assimilation in C4 plants. Thus, it has been described as a promising target for the development of selective herbicides for C4 weeds. We evaluated whether bromoacetic acid, a known PPDK inhibitor of Clostridium symbiosum, can also inhibit the PPDK of a C4 plant, maize, in in vitro experiments. We also evaluated the effects of foliar application of 0.5–10 mM bromoacetic acid on the leaf pyruvate content and gas exchange of maize plants. Bromoacetic acid reduced maize PPDK activity in vitro in a dose-dependent manner; the degree of inhibition ranged from 13.6 to 73.6% with 0.5–10 mM bromoacetic acid. The foliar application of bromoacetic acid increased the leaf pyruvate content, suggesting that this compound may also inhibit PPDK activity in vivo. As a consequence, impairments to the gas exchange parameters of maize plants were noted, with a marked reduction in the photosynthetic rate and an increase in the intercellular CO2 concentration. Despite the abrupt decrease in stomatal conductance and transpiration, the plants showed large dehydration and reduction of leaf fresh weight after 48 h of application to bromoacetic acid. Our data allow us to affirm that bromoacetic acid has a potent herbicidal effect on a C4 plant, maize; the most likely mechanism of action is the inhibition of PPDK. © 2021, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Gas exchange; Herbicide site of action; Photosynthesis; Pyruvate content; Zea mays#FPC#
+#IRF#Balabanova D.A., Paunov M., Goltsev V., Et al., Photosynthetic performance of the imidazolinone resistant sunflower exposed to single and combined treatment by the herbicide Imazamox and an amino acid extract, Front Plant Sci, (2016); 
+Bergmeyer H.-U., Bernt E., Hess B., Lactic dehydrogenase, Bergmeyer H-UBT-M of EA, pp. 736-743, (1965); 
+Buchanan B.B., Gruissem W., Jones R.L., Biochemistry and molecular biology of plants, (2015); 
+Chastain C.J., Failing C.J., Manandhar L., Et al., Functional evolution of C4 pyruvate, orthophosphate dikinase, J Exp Bot, 62, pp. 3083-3091, (2011); 
+Chen Y.B., Lu T.C., Wang H.X., Et al., Posttranslational modification of maize chloroplast pyruvate orthophosphate dikinase reveals the precise regulatory mechanism of its enzymatic activity, Plant Physiol, 165, pp. 534-549, (2014); 
+Colturato C.P., Constantin R.P., Maeda A.S., Et al., Metabolic effects of silibinin in the rat liver, Chem Biol Interact, 195, pp. 119-132, (2012); 
+Dayan F.E., Duke S.O., Discovery for new herbicide sites of action by quantification of plant primary metabolite and enzyme pools, Engineering, (2020); 
+Doyle J.R., Burnell J.N., Haines D.S., Et al., A rapid screening method to detect specific inhibitors of pyruvate orthophosphate dikinase as leads for C4 plant-selective herbicides, J Biomol Screen, 10, pp. 67-75, (2005); 
+Duke S.O., Why have no new herbicide modes of action appeared in recent years?, Pest Manag Sci, 68, pp. 505-512, (2011); 
+Ermakova M., Danila F.R., Furbank R.T., von Caemmerer S., On the road to C4 rice: advances and perspectives, Plant J, 101, pp. 940-950, (2020); 
+Farquhar G.D., Sharkey T.D., Stomatal conductance and photosynthesis, Annu Rev Plant Physiol, 33, pp. 317-345, (1982); 
+Gordon A.R., Richardson T.L., Pinckney J.L., Ecotoxicology of bromoacetic acid on estuarine phytoplankton, Environ Pollut, 206, pp. 369-375, (2015); 
+Haines D.S., Burnell J.N., Doyle J.R., Et al., Translation of in vitro inhibition by marine natural products of the C4 acid cycle enzyme pyruvate Pi dikinase to in vivo C4 plant tissue death, J Agric Food Chem, 53, pp. 3856-3862, (2005); 
+Heap I., The international survey of herbicide resistant weeds, (2020); 
+Ling F., Su Q., Jiang H., Et al., Effects of strigolactone on photosynthetic and physiological characteristics in salt-stressed rice seedlings, Sci Rep, 10, (2020); 
+Marchiosi R., de Souza B.G., Bohm P.A.F., Et al., Photosynthetic response of soybean to l-DOPA and aqueous extracts of velvet bean, Plant Growth Regul, 80, pp. 171-182, (2016); 
+Maroco J.P., Ku M.S.B., Lea P.J., Et al., Oxygen requirement and inhibition of C4 photosynthesis: an analysis of C4 plants deficient in the C3 and C4 cycles, Plant Physiol, 116, pp. 823-832, (1998); 
+May R.M., The world’s worst weeds, Nature, 290, pp. 85-86, (1981); 
+Medina S., Vicente R., Nieto-Taladriz M.T., Et al., The plant-transpiration response to vapor pressure deficit (VPD) in durum wheat is associated with differential yield performance and specific expression of genes involved in primary metabolism and water transport, Front Plant Sci, (2019); 
+Minges A., Groth G., Small-molecule inhibition of pyruvate phosphate dikinase targeting the nucleotide binding site, PLoS ONE, (2017); 
+Motti C.A., Bourne D.G., Burnell J.N., Et al., Screening marine fungi for inhibitors of the C4 plant enzyme pyruvate phosphate dikinase: unguinol as a potential novel herbicide candidate, Appl Environ Microbiol, 73, pp. 1921-1927, (2007); 
+Muellner M.G., Attene-ramos M.S., Hudson M.E., Et al., Human cell toxicogenomic analysis of bromoacetic acid: a regulated drinking water disinfection by-product, Environ Mol Mutagen, 51, pp. 205-214, (2010); 
+Nguyen G.T.T., Erlenkamp G., Jack O., Et al., Chalcone-based selective inhibitors of a C4 plant key enzyme as novel potential herbicides, Sci Rep, (2016); 
+Parizotto A.V., Marchiosi R., Bubna G.A., Et al., Benzoxazolin-2-(3H)-one reduces photosynthetic activity and chlorophyll fluorescence in soybean, Photosynthetica, 55, pp. 386-390, (2017); 
+Parvez S., Frost K., Sundararajan M., Evaluation of drinking water disinfectant byproducts compliance data as an indirect measure for short-term exposure in humans, Int J Environ Res Public Health, 14, (2017); 
+Pribil M., Leister D., Photosynthesis, Encyclopedia of applied plant sciences, pp. 90-95, (2017); 
+Sage R.F., Zhu X.G., Exploiting the engine of C4 photosynthesis, J Exp Bot, 62, pp. 2989-3000, (2011); 
+Tremmel D.C., Patterson D.T., Responses of soybean and five weeds to CO<sub>2</sub> enrichment under two temperature regimes, Can J Plant Sci, 73, pp. 1249-1260, (1993); 
+Vadez V., Kholova J., Medina S., Et al., Transpiration efficiency: new insights into an old story, J Exp Bot, 65, pp. 6141-6153, (2014); 
+von Caemmerer S., Furbank R.T., Strategies for improving C4 photosynthesis, Curr Opin Plant Biol, 31, pp. 125-134, (2016); 
+Westhoff P., Gowik U., Evolution of C4 phosphoenolpyruvate carboxylase. Genes and proteins: a case study with the genus Flaveria, Ann Bot, 93, pp. 13-23, (2004); 
+Wu C., Dunaway-Mariano D., Mariano P.S., Design, synthesis, and evaluation of inhibitors of pyruvate phosphate dikinase, J Org Chem, 78, pp. 1910-1922, (2013); 
+Yip D.Y., Developing a better understanding of the relationship between transpiration and water uptake in plants, J Sci Educ Technol, 12, pp. 13-19, (2003); 
+Yoshida H., Wood H.G., Crystalline pyruvate, phosphate dikinase from Bacteroides symbiosus. Modification of essential histidyl residues and bromopyruvate inactivation, J Biol Chem, 253, pp. 7650-7655, (1978); 
+Zhou Y.H., Yu J.Q., Allelochemicals and photosynthesis, Allelopathy: a physiological Process with ecological implications, pp. 127-139, (2006)#FRF#

@@ -1,0 +1,42 @@
+#ITI#An improved method of DNA purification from secondary metabolites rich medicinal plants using certain chaotropic agents#FTI#
+#IRE#The presented work describes good quality DNA isolation method from mature leaves of some medicinally important plant species, viz. Asparagus racemosus, Withania somnifera, Abrus precatorius, Commiphora wightii and Carissa carandas. These plants hold immense medicinal values due to presence of certain secondary metabolites like polyphenols, terpenes, flavonoids, alkaloids, gums, resins, etc. Although these metabolites are accountable for important medicinal properties and authorize these plants to precedence over others, the same compounds disappoint the researcher while isolating high quality DNA. To overcome this problem, we propose a simple method in which DNA is adroitly bounded to diatomaceous earth in a solution of different chaotropic agent and alienated from intrusive compounds. Presented method affirms that secondary products, along with polysaccharides and proteins, can be perceptibly reduced by using silica matrix along with chaotropic agents. The described method is fast, simple and highly reliable for the isolation of DNA from obstinate plant species. © 2016, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Chaotropic agents; CTAB; Diatomaceous earth; DNA isolation; Medicinal plants#FPC#
+#IRF#Ahmad S.M., Ganai M.M., Qazi P.H., Verma V., Basir S.F., Qazi G.N., Rapid DNA isolation protocol for angiospermic plants, Bulg J Plant Physiol, 30, pp. 25-33, (2004); 
+Ahmed I., Islam M., Arshad W., Mannan A., Ahmad W., Mirza B., High-quality plant DNA extraction for PCR: an easy approach, J Appl Genet, 50, pp. 105-107, (2009); 
+Alok S., Jain S.K., Verma A., Kumar M., Mahor A., Sabharwal M., Plant profile, phytochemistry and pharmacology of Asparagus racemosus (Shatavari): a review, Asian Pacific J Trop Dis, 3, pp. 242-251, (2013); 
+Amani J., Kazemi R., Abbasi A.R., Salmanian A.H., A simple and rapid leaf genomic DNA extraction method for polymerase chain reaction analysis, Iran J Biotech, 9, pp. 69-71, (2011); 
+Angeles J.G.C., Laurena A.C., Tecson-Mendoza E.M., Extraction of genomic DNA from the lipid-, polysaccharide-, and polyphenol-rich coconut (Cocos nucifera L.), Plant Mol Biol Rep, 23, pp. 297-298, (2005); 
+Bi V.I., Harvengt L., Chandelier A., Mergeai G., Jardin P.D., Improved RAPD amplification of recalcitrant plant DNA by the use of activated charcoal during DNA extraction, Plant Breed, 115, pp. 205-206, (1996); 
+Boom R.C., Sol J.A., Salimans C.J., Jansen M.M., Wertheim-van Dillen C.L., Van der Noordaa M.E., Rapid and simple method for purification of nucleic acids, J Clin Microbiol, 28, pp. 495-503, (1990); 
+Bozarth A., Maier U.G., Zauner S., Diatoms in biotechnology: modern tools and applications, Appl Microbiol Biotechnol, 82, pp. 195-201, (2009); 
+Choi Y.H., Hussain R.A., Pezzuto J.M., Kingborn A.D., Morton J.F., Abrusosides AD, four novel sweet-tasting triterpene glycosides from the leaves of Abrus precatorius, J Nat Products, 52, pp. 1118-1127, (1989); 
+Dellaporta S.L., Wood J., Hicks J.B., A plant DNA minipreparation: version II, Plant Mol Biol Report, 1, pp. 19-21, (1983); 
+Devmurari V., Shivanand P., Goyani M.B., Vaghani S., Jivani N.P., Carissa Congesta: phytochemical constituents, traditional use and pharmacological properties, Pharmacogn Rev, 3, pp. 375-377, (2009); 
+Echevarria-Zomeno S., Abril N., Ruiz-Laguna J., Jorrin-Novo J., Maldonado-Alconada A.M., Simple, rapid and reliable methods to obtain high quality RNA and genomic DNA from Quercus ilex L. leaves suitable for molecular biology studies, Acta Physiol Plant, 34, pp. 793-805, (2012); 
+Flieger J., Effect of mobile phase composition on the retention of selected alkaloids in reversed-phase liquid chromatography with chaotropic salts, J Chromatogr A, 1175, pp. 207-216, (2007); 
+Garaniya N., Bapodra A., Ethno botanical and Phytophrmacological potential of Abrus precatorius L.: a review, Asian Pac J Trop Biomed, 4, pp. 27-34, (2014); 
+Gilmore S., Weston P.H., Thomson J.A., A simple, rapid, inexpensive and widely applicable technique for purifying plant DNA, Aust Syst Bot, 6, pp. 139-148, (1993); 
+Guillemaut P., Marechal-Drouard L., Isolation of plant DNA: a fast, inexpensive, and reliable method, Plant Mol Biol Report, 10, pp. 60-65, (1992); 
+Haque I., Bandopadhyay R., Mukhopadhyay K., An optimized protocol for fast genomic DNA isolation from high secondary metabolites and gum containing plants, Asian J Plant Sci, 7, pp. 304-308, (2008); 
+Hatefi Y., Hanstein W.G., Solubilization of particulate proteins and nonelectrolytes by chaotropic agents, Proc Natl Acad Sci USA, 62, pp. 1129-1136, (1969); 
+Hernandez P., de la Rosa R., Rallo L., Martin A., Dorado G., First evidence of a retrotransposon-like element in olive (Olea europaea): implications in plant variety identification by SCAR-marker development, Theor Appl Genet, 102, pp. 1082-1087, (2001); 
+Katterman F.R., Shattuck V.I., An effective method of DNA isolation from the mature leaves of Gossypium species that contain large amounts of phenolics terpenoids and tannins, Prep Biochem, 13, pp. 347-359, (1983); 
+Khare C.P., Indian medicinal plants: an illustrated dictionary, (2008); 
+Purification of plasmid DNA (miniprep) with high yields using diatomaceous earth, (1996); 
+Kim T.H., Hwang M.S., Song J., Oh M., Moon Y., Chung I.K., Lee C., A simple method for extraction of high molecular weight DNA from Porphyra tenera (Rhodophyta) using diatomaceous earth, Algae, 21, pp. 261-266, (2006); 
+Kulloli R.N., Kumar S., Commiphora wightii (Arnott) Bhandari: a threatened plant of conservation concern, J Med Plants Res, 7, 28, pp. 2043-2052, (2013); 
+Kumar S., Shankar V., Medicinal plants of the Indian desert: Commiphora wightii (Arnott) Bhand, J Arid Env, 5, pp. 1-11, (1982); 
+Loomis W.D., Overcoming problems of phenolics and quinones in the isolation of plant enzymes and organelles, Method Enzymol, 31, pp. 528-544, (1974); 
+Maliyakal E.J., An efficient method for isolation of RNA and DNA from plants containing polyphenolics, Nuc Acids Res, 20, (1992); 
+Martellossi C., Taylor E.J., Lee D., Graziosi G., Donini P., DNA extraction and analysis from processed coffee beans, J Agri Food Chem, 53, pp. 8432-8436, (2005); 
+Mirjalili H.M., Fakhr-Tabatabaei S.M., Bonfill M., Alizadeh H., Cusido R.M., Ghassempour A., Palazon J., Morphology and withanolide production of Withania coagulans hairy root cultures, Eng Life Sci, 9, pp. 197-204, (2009); 
+Murray M., Thompson W., Rapid isolation of high molecular weight plant DNA, Nucleic Acids Res, 8, pp. 4321-4325, (1980); 
+Negi J.S., Singh P., Joshi G.P., Rawat M.S., Bisht V.K., Chemical constituents of Asparagus, Pharmacogn Rev, 4, pp. 215-220, (2010); 
+Peterson D.G., Boehm K.S., Stack S.M., Isolation of milligram quantities of nuclear DNA from tomato (Lycopersicon esculentum), a plant containing high levels of polyphenolic compounds, Plant Mol Biol Rep, 15, pp. 148-153, (1997); 
+Porebski S., Bailey L.G., Baum B.R., Modification of a CTAB DNA extraction protocol for plants containing high polysaccharide and polyphenol components, Plant Mol Biol Rep, 15, pp. 8-15, (1997); 
+Saghai-Maroof M.A., Soliman K.M., Jorgensen R.A., Allard R.W., Ribosomal DNA sepacer-length polymorphism in barley: mendelian inheritance, chromosomal location, and population dynamics, Proc Natl Acad Sci USA, 81, pp. 8014-8019, (1984); 
+Salvi G., De Los R.P., Vendruscolo M., Effective interactions between chaotropic agents and proteins, Proteins, 61, pp. 492-499, (2005); 
+Siddiqui B.S., Ghani U., Ali S.T., Usmani S.B., Begum S., Triterpenoidal constituents of the leaves of Carissa carandas, Nat Product Res, 17, pp. 153-158, (2003); 
+Taylor L.S., York P., Williams A.C., Edwards H.G.M., Mehta V., Jackson G.S., Badcoe I.G., Clarke A.R., Sucrose reduces the efficiency of protein denaturation by a chaotropic agent, Biochim Biophys Acta, 1253, 1, pp. 39-46, (1995); 
+Vogelstein B., Gillespie D., Preparative and analytical purification of DNA from agarose, Proc Natl Acad Sci USA, 76, pp. 615-619, (1979); 
+Weishing K., Nybom H., Wolff K., Meyer W., DNA isolation and purification, DNA fingerprinting in plants and Fungi, pp. 44-59, (1995)#FRF#

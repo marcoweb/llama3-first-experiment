@@ -1,0 +1,26 @@
+#ITI#Determination of maize water requirement using remote sensing data and SEBAL algorithm#FTI#
+#IRE#Efficient agricultural water demand management in arid and semi-arid regions is key in continuing crop production in a changing climate. As such, there's a need for further investigation on various crops to identify the optimum water requirements to avoid water wasting in regions that are already facing water shortage. The focus of this work is to determine water requirement maize farming Mazandaran Province in Northern Iran, located on the southern side of the Caspian Sea, using Landsat satellite data. In order to use SEBAL algorithm, the images were atmospheric calibrated. Evapotranspiration maps with RMSE values equals to 0.73, 1.38 and 0.74 mm/day were produced and compared to Reference Book (RB), National Water Document (NWD) and FAO56 values. Furthermore, by computing reference evapotranspiration, crop coefficient curve was evaluated. In order to prepare maize water requirement maps, ET0 in 58 weather stations throughout the province were computed and interpolated. By using the daily ET0 maps and resulted Kc values, maize water requirement maps for the cultivated area of the province were 345.16–383.99 mm. The maize water requirement in the observation station of Sari compared to RB and NWD values showed −%20 and +%41 differences and RMSE was 76 and 156 mm, respectively. © 2018 Elsevier B.V.#FRE#
+#IPC#Crop coefficient; Evapotranspiration; GIS; Interpolation; Landsat#FPC#
+#IRF#Allen R.G., Pereira L.S., Raes D., Smith M., Crop evapotranspiration, Irrigation and Drainage Paper No.56, (1990); 
+Allen R.G., Tasumi M., Trezza R., Waters R., Bastiaanssen W.G.M., Surface Energy Balance Algorithms for Land, Advance Training and Users Manual–Idaho Implementation, Version 1, (2002); 
+Allen R.G., Tasumi M., Trezza R., Kjaersgaard J.H.; 
+Anon, National Water Document, (1999); 
+Anon, Mazandaran Agriculture Statistics, (2015); 
+Anon, Landsat 8 (L8) Data Users Handbook, (2016); 
+Bala A., Rawat K.S., Misra A.K., Srivastava A., Assessment and validation of evapotranspiration using SEBAL algorithm and Lysimeter data of IARI agricultural farm, India, J. Geocarto Int., 31, 7, (2016); 
+Bastiaanssen W.G.M., SEBAL based sensible and latent heat flux in the irrigated Gediz Basin, Turkey, J. Hydrol., 229, pp. 87-100, (2000); 
+Bastiaanssen W.G.M., Menenti M., Feddes R.A., Holtslag A.A.M., A remote sensing surface energy balance algorithm for land (SEBAL), 1. Formulation, J. Hydrol., 212-213, pp. 198-212, (1998); 
+Erfanian M., Alizadeh A., Mohammadian A., An investigation on the possible differences between present crops water requirements and National Documents of Irrigation, Iran. J. Irrig. Drain., 4, Winter (3), pp. 478-492, (2011); 
+Farhadi Bansouleh B., Karimi A.R., Hesadi H., Evaluation of SEBAL and SEBS algorithms in the estimation of maize evapotranspiration, Int. J. Plant Soil Sci., 6, 6, pp. 350-358, (2015); 
+Farshi A.A., Shariati M.R., Jarollahi R., Ghaemi M.R., Shahabifar M., Tavallaei M.M., Reference Book: An Estimate of Water Requirement of Main Field Crops and Orchards in Iran, 1, (1997); 
+Fooladmand, Estimation of irrigation requirements of important field crops in Fars province at different levels of probability (in Persian), Water Resour. Eng. J., 4, 9, pp. 65-74, (2012); 
+Gholami M.A., Mirlatifi S.M., Mohammadi K., Alimohammadi A., Estimating crop coefficient and actual evapotranspiration of wheat by remote sensing (a case study, Gorganrood command area, Golestan, Iran), Iran. J. Irrig. Drain., 4, 2, pp. 222-231, (2010); 
+Matheron G., La Theorie des Variables Regionalisees et ses Applications, (1965); 
+Omidvar J., Noori S., Davary K., Farid hosseini A., Estimation of actual evapotranspiration based on satellite images using two algorithms Sebal and Metric (in Persian), Irrig. Water Eng. J., 3, 12, (2013); 
+Qamarnia H., Rezvani S.V., An estimation of evapotranspiration using SEBAL method and its comparison with Penman-Montieth: a case study of Bilevar plain, western Iran, Int. Bull. Water Resour. Dev., 3, (2015); 
+Ramos J.G., Cratchley C.R., Kay J.A., Casterad M.A., Martinez-cob A., Dominguez R., Evaluation of satellite evapotranspiration estimates using ground-meteorological data available for the Flumen District into the Ebro valley of N.E. Spain, Agric. Water Manag., 96, pp. 638-652, (2009); 
+Rawat K.S., Bala A., Singh S.K., Pal R.K., Quantification of wheat crop evapotranspiration and mapping: a case study from Bhiwani District of Haryana, India, Agric. Water Manag. J., 187, pp. 200-209, (2017); 
+Simaie E., Homaee M., Norouzi A.A., Evaluating SEBAL model to estimate evapotranspiration using MODIS and TM sensors data, Water Soil Resour. Conserv. J., 2, 4, (2013); 
+Soheylifar Z., Mirlatifi S.M., Naseri A.A., Assari M., Estimating actual evapotranspiration of sugarcane by remote sensing. (A case study: Mirza Kochakkhan sugarcane agro-industry company farms), Water Soil Sci. J., 23, 1, (2013); 
+Tasumi M., Trezza R., Allen R.G., Wright J.L., U.S. Validation tests on the SEBAL model for evapotranspiration via satellite, ICID Workshop on Remote Sensing of ET for Large Regions, 17 Sept., (2003); 
+Webster R., Oliver M.A., Geostatistics for Environmental Scientists, (2001)#FRF#

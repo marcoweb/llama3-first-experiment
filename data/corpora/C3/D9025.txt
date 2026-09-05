@@ -1,0 +1,47 @@
+#ITI#Validation of QTLs in Bangladeshi rice landrace Horkuch responsible for salt tolerance in seedling stage and maturation#FTI#
+#IRE#The upsurge in global temperatures and the increasing threat of salinity are adversely affecting rice productivity in the southern coastal lands of Bangladesh. A Bangladeshi rice landrace Horkuch, adapted to these saline conditions, has long been cultivated by farmers in this region. To understand the trend and heritability of its tolerance traits, a reciprocal population of Horkuch with the high-yielding sensitive rice IR29 was generated for mapping of quantitative trait loci (QTLs) at both seedling and reproductive stages in an F2:3 strategy using double-digest restriction associated DNA. We found 29 QTLs and some QTL clusters containing survival and yield-related QTLs showing pleiotropic effects over some phenotypes. We advanced the generation up to F5 to obtain homozygosity and our current work is aimed at confirming these mapped QTLs at F5 by salt stress physiological tests at both stages as well as DNA markers linked to these QTLs. We confirmed SES QTL (survival of seedling under stress) associated with SSR marker RM25789 and two QTL clusters at chromosome 10 and 11 associated with RM26964 and RM27027, respectively. One cluster harbored yield-related filled grain number, filled grain weight, total grain number, harvest index, ionic balance and transpiration-related total sodium, total potassium and stomatal conductance QTLs. The other cluster contained total grain weight, filled grain weight and seedling root relative water content QTLs. We identified some individuals based on their physiological performance under stress as well as the presence of QTLs associated with some SSR markers that can be used for breeding and production of highly salt-tolerant cultivars with high yield. © 2019, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#ddRAD; Maturation; QTL; Rice landrace; Salinity; Seedling#FPC#
+#IRF#Abdullah Z., Khan M.A., Flowers T., Causes of sterility in seed set of rice under salinity stress, J Agron Crop Sci, 187, pp. 25-32, (2001); 
+Akinwale M., Gregorio G., Nwilene F., Akinyele B., Ogunbayo S., Odiyi A., Heritability and correlation coefficient analysis for yield and its components in rice (Oryza sativa L.), Afr J Plant Sci, 5, pp. 207-212, (2011); 
+Ashikari M., Ma J.F., Exploring the power of plants to overcome environmental stresses, Rice, 8, (2015); 
+Broman K.W., Wu H., Sen S., Churchill G.A., R/qtl: QTL mapping in experimental crosses, Bioinformatics, 19, pp. 889-890, (2003); 
+Chowdhury A., Haque M., Hoque M., Rokonuzzaman M., Adoption of BRRI Dhan47 in the Coastal Saline areas of Bangladesh, Agric J, 7, pp. 286-291, (2012); 
+Dasgupta S., Hossain M.M., Huq M., Wheeler D., Climate change, soil salinity, and the economics of high-yield rice production in coastal Bangladesh, (2014); 
+Elias S.M., Rahman M.S., Khan S.F., Biswas S., Haque T., Razzaque S., Combination of traits at two developmental stages under salt stress as a measure of tolerance in a reciprocally crossed rice, Oryza Sativa L.) Population. Crop and Pasture Science, (2019); 
+De Leon T.B., Linscombe S., Gregorio G., Subudhi P.K., Genetic variation in Southern USA rice genotypes for seedling salinity tolerance, Front Plant Sci, (2015); 
+De Leon T.B., Linscombe S., Subudhi P.K., Molecular dissection of seedling salinity tolerance in rice (Oryza sativa L.) using a high-density GBS-based SNP linkage map, Rice, 9, (2016); 
+De Leon T.B., Linscombe S., Subudhi P.K., Identification and validation of QTLs for seedling salinity tolerance in introgression lines of a salt tolerant rice landrace ‘Pokkali’, PLoS One, 12, (2017); 
+Dechaine J.M., Brock M.T., Weinig C., QTL architecture of reproductive fitness characters in Brassica rapa, BMC Plant Biol, 14, (2014); 
+Doyle J.J., Doyle J.L., Isolation of plant DNA from fresh tissue, Focus, 12, pp. 13-15, (1990); 
+Frouin J., Et al., Tolerance to mild salinity stress in japonica rice: a genome-wide association mapping study highlights calcium signaling and metabolism genes, PLoS One, 13, (2018); 
+Gomez K.A., Rice, the grain of culture, (2001); 
+Gregorio G.B., Senadhira D., Mendoza R.D., Screening rice for salinity tolerance, (1997); 
+Haque S.A., Salinity problems and crop production in Coastal Regions of Bangladesh, Pak J Bot, 38, pp. 1359-1365, (2006); 
+Hu S.P., Et al., Correlation and quantitative trait loci analyses of total chlorophyll content and photosynthetic rate of rice (Oryza sativa) under water stress and well-watered conditions, J Integr Plant Biol, 51, pp. 879-888, (2009); 
+Ishimaru K., Et al., Toward the mapping of physiological and agronomic characters on a rice function map: QTL analysis and comparison between QTLs and expressed sequence tags TAG, Theor Appl Genet, 102, pp. 793-800, (2001); 
+Islam M., Sarker M., Sharma N., Rahman M., Collard B., Gregorio G., Ismail A., Assessment of adaptability of recently released salt tolerant rice varieties in coastal regions of South Bangladesh, Field Crops Res, 190, pp. 34-43, (2016); 
+Jiang G.-H., He Y.-Q., Xu C.-G., Li X.-H., Zhang Q., The genetic basis of stay-green in rice analyzed in a population of doubled haploid lines derived from an indica by japonica cross, Theor Appl Genet, 108, pp. 688-698, (2004); 
+Kawasaki S., Et al., Gene expression profiles during the initial phase of salt stress in rice, Plant Cell, 13, pp. 889-905, (2001); 
+Kearsey M., Farquhar A., QTL analysis in plants; where are we now?, Heredity, 80, pp. 137-142, (1998); 
+Kumar V., Et al., Genome-wide association mapping of salinity tolerance in rice (Oryza sativa), DNA Res, 22, pp. 133-145, (2015); 
+Lisa L.A., Et al., Genetic variation in microsatellite DNA, physiology and morphology of coastal saline rice (Oryza sativa L.) landraces of Bangladesh, Plant and Soil, 263, pp. 213-228, (2004); 
+Lisa L.A., Et al., Physiology and gene expression of the rice landrace Horkuch under salt stress, Funct Plant Biol, 38, pp. 282-292, (2011); 
+Moradi F., Ismail A.M., Responses of photosynthesis, chlorophyll fluorescence and ROS-scavenging systems to salt stress during seedling and reproductive stages in rice, Ann Bot, 99, pp. 1161-1173, (2007); 
+Moradi F., Ismail A.M., Gregorio G., Egdane J., Salinity tolerance of rice during reproductive development and association with tolerance at the seedling stage, Indian J Plant Physiol, 8, pp. 105-116, (2003); 
+Nutan K.K., Kushwaha H.R., Singla-Pareek S.L., Pareek A., Transcription dynamics of Saltol QTL localized genes encoding transcription factors, reveals their differential regulation in contrasting genotypes of rice, Funct Integr Genom, 17, pp. 69-83, (2017); 
+Pang Y., Chen K., Wang X., Wang W., Xu J., Ali J., Li Z., Simultaneous improvement and genetic dissection of salt tolerance of rice (Oryza sativa L.) by designed QTL pyramiding, Front Plant Sci, 8, (2017); 
+Parida A.K., Das A.B., Salt tolerance and salinity effects on plants: a review, Ecotoxicol Environ Saf, 60, pp. 324-349, (2005); 
+Peterson B.K., Weber J.N., Kay E.H., Fisher H.S., Hoekstra H.E., Double digest RADseq: an inexpensive method for de novo SNP discovery and genotyping in model and non-model species, PLoS One, 7, (2012); 
+Pires I.S., Negrao S., Oliveira M.M., Purugganan M.D., Comprehensive phenotypic analysis of rice (Oryza sativa) response to salinity stress, Physiol Plant, 155, pp. 43-54, (2015); 
+Rahman M.A., Thomson M.J., Shah-E-Alam M., de Ocampo M., Egdane J., Ismail A.M., Exploring novel genetic sources of salinity tolerance in rice through molecular and physiological characterization, Ann Bot, 117, 6, pp. 1083-1097, (2016); 
+Razzaque S., Khan S., Jewel N., Haque T., Elias S., Rahman S., Seraj Z., Genetic analysis of SSR markers in F<sub>2</sub> reciprocal populations of the rice genotypes, Horkuch and IR29 show high segregation distortion, Biores Commun, 2, pp. 219-229, (2016); 
+Razzaque S., Et al., Reproductive stage physiological and transcriptional responses to salinity stress in reciprocal populations derived from tolerant (Horkuch) and susceptible (IR29) rice, Sci Rep, 7, (2017); 
+Rieseberg L.H., Archer M.A., Wayne R.K., Transgressive segregation, adaptation and speciation, Heredity, 83, pp. 363-372, (1999); 
+Seck P.A., Diagne A., Mohanty S., Wopereis M.C.S., Crops that feed the world 7: Rice, Food Secur, 4, pp. 7-24, (2012); 
+Singh R., Flowers T., Physiology and Molecular Biology of the Effects of Salinity on Rice, Handbook of Plant and Crop Stress,Third Edition, pp. 899-939, (2010); 
+Singh V.K., Marker-Assisted Introgression of Saltol QTL Enhances Seedling Stage Salt Tolerance in the Rice Variety “Pusa Basmati 1” International Journal of Genomics 2018, (2018); 
+Waziri A., Kumar P., Purty R., Saltol QTL and their role in salinity tolerance in rice, Austin J Biotechnol Bioeng, 3, pp. 1067-1072, (2016); 
+Xie W., Wu L., Zhang Y., Wu T., Li X., Ouyang Z., Effects of straw application on coastal saline topsoil salinity and wheat yield trend, Soil Tillage Res, 169, pp. 1-6, (2017); 
+Yesmin N., Elias S.M., Rahman M.S., Haque T., Mahbub Hasan A., Seraj Z.I., Unique genotypic differences discovered among indigenous Bangladeshi rice landraces, Int J Genom, (2014); 
+Yoshida S., Forno D., Cock J., Gomez K., Laboratory manual for physiological studies of rice, (1976); 
+Zhang Y.-M., Xu S., Mapping quantitative trait loci in F<sub>2</sub> incorporating phenotypes of F<sub>3</sub> progeny, Genetics, 166, pp. 1981-1993, (2004)#FRF#

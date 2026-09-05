@@ -1,0 +1,57 @@
+#ITI#Water productivity under strategic growth stage-based deficit irrigation in maize#FTI#
+#IRE#Water shortages are responsible for the greatest crop losses around the world and are expected to worsen. In arid areas where agriculture is dependent on irrigation, various forms of deficit irrigation management have been suggested to achieve high yields with less water used by the crop (i.e. evapotranspiration, ET). This study of maize evaluated twelve treatments with varying levels of deficit irrigation during late vegetative and maturation (grain filling) growth stages in semi-arid Northern Colorado. In particular, application of greater deficit during the late vegetative state with full or nearly full ET during the rest of the season consistently resulted in yield similar to full ET treatments while saving approximately 15–17% of ET. Maize given 40% of full ET during the late vegetative period had slightly reduced leaf area index (LAI) with significant leaf curling, thus reduced light interception during vegetative growth. However, when plants were fully watered during anthesis, all treatments had full canopy cover with no differences in light interception. The efficiency of photosystem II (quantum yield) declined with water stress but recovered with re-watering. The ability of photosystem II and light interception to recover after stress when well-watered suggests that reductions in biomass and yield resulted from stomatal closure, reduced photochemistry, or loss of xylem conductance that was temporary. With little indication of permanent decline in carbon assimilation after reducing ET in vegetative stages, maize appears able to achieve high grain yield if soil water is readily available during the reproductive and maturation stages. However, plants given full or nearly full irrigation during the entire vegetative period followed by stress later on during the maturation period, had dramatically greater yield loss than ET savings. Thus, while strategic deficit irrigation might maintain yield with less water, it may be especially important for buffering crops against yield losses due to end of season water shortfalls in water limited environments. © 2018#FRE#
+#IPC#DI; Evapotranspiration; Limited irrigation; SDI; Water productivity; WP#FPC#
+#IRF#Abendroth L.J., Elmore R.W., Boyer M.J., Marlay S.K., Corn Growth and Development, PMR 1009, (2011); 
+Allen R.G., Pereira L.S., Estimating crop coefficients from fraction of ground cover and height, Irrig. Sci., 28, pp. 17-34, (2009); 
+Allen R.G., Pereira L.S., Raes D., Smith M., Crop Evapotranspiration, Irrigation and Drainage Paper No. 56, (1998); 
+ASCE-EWRI, The ASCE Standardized Reference Evapotranspiration Equation, (2005); 
+Boyer J.S., Byrne P., Cassman K.G., Cooper M., Delmer D., Greene T., Gruis F., Habben J., Hausmann N., Kenny N., Lafitte R., Paszkiewicz S., Porter D., Schlegel A., Schussler J., Setter T., Shanahan J., Sharp R.E., Vyn T.J., Warner D., Gaffney J., The U.S. drought of 2012 in perspective: a call to action, Glob. Food Secur., 2, pp. 139-143, (2013); 
+Cakir R., Effect of water stress at different development stages on vegetative and reproductive growth of corn, Field Crops Res., 89, pp. 1-16, (2004); 
+Debaeke P., Aboudrare A., Adaptation of crop management to water-limited environments, Eur. J. Agron., 21, pp. 433-446, (2004); 
+Derner J., Joyce L., Guerrero R., Steele R., Northern Plains Regional Climate Hub Assessment of Climate Change Vulnerability and Adaptation and Mitigation Strategies, (2015); 
+Egli D.B., Hatfield J.L., Yield and yield gaps in central U.S. corn production systems, Agron. J., 106, (2014); 
+Egli D.B., Hatfield J.L., Yield gaps and yield relationships in Central U.S. soybean production systems, Agron. J., 106, (2014); 
+English M.J., Solomon K.H., Hoffman G.J., A paradigm shift in irrigation management, J. Irrig. Drain. Eng., 128, pp. 267-277, (2002); 
+FAO, World Agriculture Toward 2000: An FAO Study, (1988); 
+FAO, Agriculture, Food and Water, a Contribution to the World Water Development Report, Land and Water Development Division, (2003); 
+FAO, FAOSTAT Online Database, (2012); 
+Farre I., Faci J.M., Comparative response of maize (Zea mays L.) and sorghum (Sorghum bicolor L. Moench) to deficit irrigation in a Mediterranean environment, Agric. Water Manag., 83, pp. 135-143, (2006); 
+Fereres E., Soriano M.A., Deficit irrigation for reducing agricultural water use, J. Exp. Bot., 58, pp. 147-159, (2007); 
+Garces-Restrepo C., Vermillion D., Munoz G., Irrigation Management Transfer. Worldwide Efforts and Results, (2007); 
+Geerts S., Raes D., Deficit irrigation as an on-farm strategy to maximize crop water productivity in dry areas, Agric. Water Manag., 96, pp. 1275-1284, (2009); 
+Harb A., Krishnan A., Ambavaram M.M., Pereira A., Molecular and physiological analysis of drought stress in Arabidopsis reveals early responses leading to acclimation in plant growth, Plant Physiol., 154, pp. 1254-1271, (2010); 
+Henggeler J.C., Enciso J.M., Multer W.L., Unruh B.L., Deficit subsurface drip irrigation of cotton, Deficit Irrigation Practices, pp. 29-38, (2002); 
+Howell T.A., Enhancing water use efficiency in irrigated agriculture, Agron. J., 93, pp. 281-289, (2001); 
+Huang M., Zhong L., Gallichand J., Irrigation treatments for corn with limited water supply in the Loess Plateau, China, Can. Biosyst. Eng., 44, (2002); 
+Igbadun H.E., Mahoo H.F., Tarimo A.K.P.R., Salim B.A., Crop water productivity of an irrigated maize crop in Mkoji sub-catchment of the Great Ruaha River Basin, Tanzania, Agric. Water Manag., 85, pp. 141-150, (2006); 
+Jensen M.E., Allen R.G., Evaporation, Evapotranspiration, and Irrigation Water Requirements, (2016); 
+Kang S., Shi W., Zhang J., An improved water-use efficiency for maize grown under regulated deficit irrigation, Field Crops Res., 67, pp. 207-214, (2000); 
+Kirda C., Kanber R., Tulucu K., Gungor H., Yield response of cotton, maize, soybean, sugar beet, sunflower, and wheat to deficit irrigation, Crop Yield Response to Deficit Irrigation, pp. 21-38, (1999); 
+Knapp A.K., Beier C., Briske D.D., Classen A.T., Luo Y., Reichstein M., Smith M.D., Smith S.D., Bell J.E., Fay P.A., Heisler J.L., Leavitt S.W., Sherry R., Smith B., Weng E., Consequences of more extreme precipitation regimes for terrestrial ecosystems, Bioscience, 58, pp. 811-821, (2008); 
+Lobell D.B., Cassman K.G., Field C.B., Crop yield gaps: their importance, magnitudes, and causes, Annu. Rev. Environ. Resour., 34, pp. 179-204, (2009); 
+Lobell D.B., Roberts T.J., Schlenker W., Braun N., Little B.B., Rejesus R.M., Hammer G.L., Greater sensitivity to drought accompanies maize yield increase in the U.S. Midwest, Science, 344, pp. 516-519, (2014); 
+NeSmith D.S., Ritchie J.T., Effects of soil water-deficits during tassel emergence on development and yield component of maize (Zea mays), Field Crops Res., 28, pp. 251-256, (1992); 
+NeSmith D.S., Ritchie J.T., Maize (Zea mays L.) response to a severe soil water-deficit during grain-filling, Field Crops Res., 29, pp. 23-35, (1992); 
+NeSmith D.S., Ritchie J.T., Short- and long-term responses of corn to a pre-anthesis soil water deficit, Agron. J., 84, pp. 107-113, (1992); 
+Oktem A., Simsek M., Oktem A.G., Deficit irrigation effects on sweet corn (Zea mays saccharata Sturt) with drip irrigation system in a semi-arid region, Agric. Water Manag., 61, pp. 63-74, (2003); 
+Pandey R.K., Maranville J.W., Admou A., Deficit irrigation and nitrogen effects on maize in a Sahelian environment I. Grain yield and yield components, Agric. Water Manag., 46, pp. 1-13, (2000); 
+Payero J.O., Melvin S.R., Irmak S., Tarkalson D., Yield response of corn to deficit irrigation in a semiarid climate, Agric. Water Manag., 84, pp. 101-112, (2006); 
+Payero J.O., Tarkalson D.D., Irmak S., Davison D., Petersen J.L., Effect of timing of a deficit-irrigation allocation on corn evapotranspiration, yield, water use efficiency and dry mass, Agric. Water Manag., 96, pp. 1387-1397, (2009); 
+Pereira L.S., Oweis T.Y., Zairi A., Irrigation management under water scarcity, Agric. Water Manag., 57, pp. 175-206, (2002); 
+PRISM Climate Group, 30-Year Normals, (2015); 
+R Development Core Team, R: A Language and Environment for Statistical Computing, (2013); 
+Rhoades J.D., Sustainability of irrigation: an overview of salinity problems and control strategies, 50th Canadian Water Resources Association Conference, CWRA, Cambridge, ON, Lethbridge, AB, 3–6 June 1997, pp. 1-42, (1997); 
+Salter P.J., Goode J.E., Crop Response to Water at Different Stages of Growth, (1967); 
+Seager R., Vecchi G.A., Greenhouse warming and the 21st century hydroclimate of southwestern North America, PNAS, 107, pp. 21277-21282, (2010); 
+Sincik M., Candogan B.N., Demirtas C., Buyukcangaz H., Yazgan S., Goksoy A.T., Deficit irrigation of soya bean [Glycine max (L.) Merr.] in a sub-humid climate, J. Agron. Crop Sci., 194, pp. 200-205, (2008); 
+Steduto P., Hsiao T.C., Fereres E., Raes D., Crop Yield Response to Water, (2012); 
+Stevens S.J., Stevens E.J., Lee K.W., Flowerday A.D., Gardner C.O., Organogenesis of the staminate and pistillate inflorescences of pop and dent corns – relationship to leaf stages, Crop Sci., 26, pp. 712-718, (1986); 
+Tavakkoli A.R., Oweis T.Y., The role of supplemental irrigation and nitrogen in producing bread wheat in the highlands of Iran, Agric. Water Manag., 65, pp. 225-236, (2004); 
+Tolk J.A., Howell T.A., Evett S.R., Effect of mulch, irrigation, and soil type on water use and yield of maize, Soil Tillage Res., 50, pp. 137-147, (1999); 
+Trout T.J., Bausch W.C., USDA-ARS Colorado maize water productivity data set, Irrig. Sci., 35, pp. 241-249, (2017); 
+Trout T.J., DeJonge K.C., Water productivity of maize in the U.S. High Plains, Irrig. Sci., 35, pp. 251-266, (2017); 
+USDA, Production, Supply and Distribution Online Database, (2012); 
+Westgate M.E., Boyer J.S., Carbohydrate reserves and reproductive development at low leaf water potentials in maize, Crop Sci., 25, pp. 762-769, (1985); 
+Westgate M.E., Boyer J.S., Osmotic adjustment and the inhibition of leaf, root, stem and silk growth at low water potentials in maize, Planta, 164, pp. 540-549, (1985); 
+Wright C.K., Wimberly M.C., Recent land use change in the Western Corn Belt threatens grasslands and wetlands, PNAS, 110, pp. 4134-4139, (2013); 
+Yilmaz E., Akcay S., Gurbuz T., Dagdelen N., Sezgin F., Effect of different water stress on the yield and yield components of second crop corn in semiarid climate, J. Food Agric. Environ., 8, pp. 415-421, (2010)#FRF#

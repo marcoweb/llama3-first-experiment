@@ -1,0 +1,29 @@
+#ITI#Subsurface drip irrigation of corn in the United States Mid-South#FTI#
+#IRE#Although rainfall in the United States Mid-South is sufficient to produce corn (Zea mays L.) without irrigation in most years, timely irrigation has been shown to increase yields. The recent interest in ethanol fuels is expected to lead to increases in US corn production, and subsurface drip irrigation (SDI) is one possible way to increase application efficiency and thereby reduce water use. The objective of this study was to determine the response of SDI-irrigated corn produced in the US Mid-South. Field studies were conducted at the University of Arkansas Northeast Research and Extension Center at Keiser during the 2002-2004 growing seasons. The soil was mixed, with areas of fine sandy loam, loamy sand, and silty clay. SDI tubing was placed under every row at a depth of approximately 30 cm. Three irrigation levels were compared, with irrigation replacing 100% and 60% of estimated daily water use and no irrigations. The split plot treatment was hybrid, with three hybrids of different relative maturities. Although the 3-year means indicated significantly lower yields for a nonirrigated treatment, no significant differences were observed among the treatments in 2003 or 2004. A large difference was observed in 2002, the year with the least rainfall during the study period, but no difference was detected between the two irrigated treatments in any year. The treatment with the lower water application had the higher irrigation water use efficiency. Although the results of this study suggested that replacing 60% of the estimated daily evapotranspiration with SDI is sufficient for maximum corn yields, additional observations will be needed to determine whether corn production with SDI is feasible in the region and to develop recommendations for farmers choosing to adopt the method. Improved weather forecasting and crop coefficient functions developed specifically for the region should also contribute to more efficient irrigation management.#FRE#
+#IPC#Crop management; Maize; SDI; Water management#FPC#
+#IRF#Adamsen F.J., Irrigation method and water quality effects on corn yield in the mid-Atlantic coastal plain, Agron. J., 84, pp. 837-843, (1992); 
+Allen R.G., Pereira L.S., Raes D., Smith M., Crop evapotranspiration-Guidelines for computing crop water requirements, (1998); 
+EWRI A., The ASCE standardized reference evapotranspiration equation, (2004); 
+Cahoon J., Ferguson J., Edwards D., Tacker P., A microcomputer-based irrigation scheduler for the humid mid-south region, Appl. Eng. Agric., 6, pp. 289-295, (1990); 
+Caldwell D.S., Spurgeon W.E., Manges H.L., Frequency of irrigation for subsurface drip-irrigated corn, Trans. ASAE, 37, pp. 1099-1103, (1994); 
+Clawson E.L., Hendrix J.A., Weighing lysimeters in northeast Louisiana: first year's experience, Proceedings of the Beltwide Cotton Conference, National Cotton Council, (2007); 
+Fisher D.K., Simple and inexpensive lysimeters for monitoring reference-and crop-ET, Proceedings of the 25th Annual Int. Irrig. Show, Irrigation Association, (2004); 
+Howell T.A., Irrigation's role in enhancing water use efficiency, Proceedings of the 4th Decennial Natl. Irrig. Symp., (2000); 
+Howell T.A., Copeland K.S., Schneider A.D., Dusek D.A., Sprinkler irrigation management for corn-Southern Great Plains, Trans. ASAE, 32, (1989); 
+Howell T.A., Yazar A., Schneider A.D., Dusek D.A., Copeland K.S., Yield and water use efficiency of corn in response to LEPA irrigation, Trans. ASAE, 38, pp. 1737-1747, (1995); 
+Lamm F.R., Manges H.L., Stone L.R., Khan A.H., Rogers D.H., Water requirement of subsurface drip-irrigated corn in northwest Kansas, Trans. ASAE, 38, pp. 441-448, (1995); 
+Lillehoj E.B., Zuber M.S., Darrah L.L., Manwiller W.F., Sauer D.B., Thompson D., Warren H., West D.R., Widstrom N.W., Aflatoxin occurrence and levels in preharvest corn kernels with varied endosperm characteristics grown at diverse locations, Crop Sci., 23, pp. 1181-1184, (1983); 
+Lyle W.M., Bordovsky J.P., Low energy precision application (LEPA) irrigation system, Trans. ASAE, 24, pp. 1241-1245, (1981); 
+Lyle W.M., Bordovsky J.P., LEPA corn irrigation with limited water supplies, Trans. ASAE, 38, pp. 455-462, (1995); 
+Musick J.T., Dusek D.A., Irrigated corn yield response to water, Trans. ASAE, 23, (1980); 
+NOAA, undated. National Climatic Data Center; 
+PMday, Penman-Monteith Daily, (2006); 
+Purcell L.C., Soybean canopy coverage and light interception measurements using digital imagery, Crop Sci., 40, pp. 834-837, (2000); 
+Sadler E.J., Camp C.R., Evans D.E., Millen J.A., Spatial variation of corn response to irrigation, Trans. ASAE, 45, pp. 1869-1881, (2002); 
+Smith M.S., Riley T.J., Direct and interactive effects of planting date, irrigation, and corn earworm (Lepidoptera: Noctuidae) damage on aflatoxin production in preharvest field corn, J. Econ. Entomol., 85, pp. 998-1006, (1992); 
+USDA-NRCS, (undated), Web Soil Survey; 
+Tacker P., Vories E., Huitink G., Drainage and irrigation, pp. 13-22, (2003); 
+Trout T.J., Johnson L.F., Estimating crop water use from remotely sensed NDVI, crop models, and reference ET, Proc. Fourth Int. Conf. Irrig. Drain, pp. 275-285, (2007); 
+Vories E.D., Tacker P.L., Effect of ET calculation method on irrigation scheduling in Midsouth, (2006); 
+Vories E.D., Pitts D.J., Ferguson J.A., Sprinkler irrigation response of corn on clay, Ark. Farm Res., 42, pp. 6-7, (1993); 
+Zuber M.S., Calvert O.H., Lillehoj E.B., Kwolek W.F., Preharvest development of aflatoxin B<sub>1</sub> in corn in the United States, Phytopathology, 66, pp. 1120-1121, (1976)#FRF#

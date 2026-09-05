@@ -1,0 +1,54 @@
+#ITI#Morpho-physiological and biochemical changes in black gram (Vigna mungo L. Hepper) genotypes under drought stress at flowering stage#FTI#
+#IRE#The response of drought stress on morpho-physiological and biochemical characters was assessed in black gram genotypes in a pot culture experiment. Water stress was applied at flowering stage of the crop and various morpho-physiological and biochemical characters were analyzed under control and water stress conditions. The genotypes, water levels and their interaction varied significantly for majority of the traits quantified revealing the presence of substantial genetic diversity. Based on these studies, genotypes PGRU95016, COBG05, IPU99209, IPU941 and IPU243 were identified as tolerant to drought stress conditions. Photosynthesis, stomatal conductance, transpiration rate, total chlorophyll, proline content and peroxidase activity could be useful to screen for drought tolerance in black gram. © 2019, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Biochemical; Black gram; Drought stress; Genetic diversity; Morphological and physiological traits#FPC#
+#IRF#Anjum S.A., Xie X., Wang L., Saleem M.F., Man C., Lei W., Morphological, physiological and biochemical responses of plants to drought stress, Afr J Agric Res, 6, pp. 2026-2032, (2011); 
+Arnon D.I., Copper enzymes in isolated chloroplasts. Polyphenoloxidase in Beta vulgaris, Plant Physiol, 24, pp. 1-15, (1949); 
+Baburai Nagesh A.K., The physiological and genetic bases of water use efficiency in winter wheat, (2006); 
+Baroowa B., Gogoi N., Effect of induced drought on different growth and biochemical attributes of black gram (Vigna mungo L.) and green gram (Vigna radiata L.), J Env Res Dev, 6, pp. 584-593, (2012); 
+Baroowa B., Gogoi N., Biochemical changes in two Vigna sp. during drought and subsequent recovery, Indian J Plant Physiol, 18, pp. 319-325, (2013); 
+Baroowa B., Gogoi N., Farooq M., Changes in physiological, biochemical and antioxidant enzyme activities of green gram (Vigna radiata L.) genotypes under drought, Acta Physiol Plant, 38, 219, (2016); 
+Basu P.S., Ali M., Chaturvedi S.K., Adaptation of photosynthetic components of chickpea to water stress, 4Th Int Crop Science Congress. Brisbane Australia, (2004); 
+Bates L.S., Waldren R.P., Teari D., Rapid determination of free proline for water stress studies, Plant Soil, 39, pp. 205-207, (1973); 
+Bayoumi T.Y., Eid M.H., Metwali E.M., Application of physiological and biochemical indices as a screening technique for drought tolerance in wheat genotypes, Afr J Biotech, 7, pp. 2341-2352, (2008); 
+Beauchamp F., Superoxide dismutase: Improved assays and assay applicable to acrylamide gels, Anal Biochem, 44, pp. 276-287, (1971); 
+Bhatt R.M., Srinivasa Rao N.K., Influence of pod load response of okra to water stress, Indian J Plant Physiol, 10, pp. 54-59, (2005); 
+Chaparzadeh N., D'Amico M.L., Khavari Nejad R.A., Izzo R., Navari Izzo F., Antioxidative responses of Calendula officinalis under salinity conditions, Plant Physiol Biochem, 42, pp. 695-701, (2004); 
+Cornic G., Massacci A., Leaf photosynthesis under drought stress, Advances in photosynthesis: photosynthesis and the environment, 5, pp. 347-366, (1996); 
+Cortes P.M., Suidaira T.R., Gas exchange of field grown soybean under drought, Agron J, 78, pp. 454-458, (1986); 
+Deshmukh P.S., Sairam R.K., Shukla D.S., Measurement of ion leakage as a screening technique for drought resistance in wheat genotypes, Indian J Plant Physiol, 34, pp. 89-91, (1991); 
+Dhindsa R.H., Plumb Dhindsa R., Thorpe T.A., Leaf senescence correlated with increased level of membrane permeability, lipid peroxidation and decreased level of Superoxide Dismutase and Catalase, J Exp Bot, 32, pp. 93-101, (1981); 
+Flexas J., Medrano H., Drought-inhibition of photosynthesis in C-3 plants: Stomatal and non-stomatal limitation revisited, Ann Bot, 89, pp. 183-189, (2002); 
+Gueta-Dahan Y., Yaniv Z., Zilinskas B.A., BenHayyim G., Salt and oxidative stress: similar and specific responses and their relation to salt tolerance in citrus, Planta, 203, pp. 460-469, (1997); 
+Hasheminasab H., Assad M.T., Aliakbari A., Sahhafi R., Influence of drought stress on oxidative damage and antioxidant defense systems in tolerant and susceptible wheat genotypes, J Agric Sci, 4, 8, pp. 20-30, (2012); 
+Heath R.L., Packer L., Photo peroxidation in isolated chloroplast: I. Kinetics and stoichiometry of fatty acid peroxidation, Arch Biochem Biophys, 125, pp. 189-198, (1968); 
+Herbinger K., Tausz M., Wonisch A., Soja G., Sorger A., Grill D., Complex interactive effects of drought and ozone stress on the antioxidant defence systems of two wheat cultivars, Plant Physiol Biochem, 40, pp. 691-696, (2002); 
+Jain M., Mathur G., Koul S., Sarin N.B., Ameliorating effects of proline on salt stress lipid peroxidation in cell lines of groundnut (Arachis hypogea L.), Plant Cell Rep, 20, pp. 463-468, (2001); 
+Jaleel C.A., Gopi R., Sankar B., Manivannan P., Kishorekumar A., Sridharan R., Panneerselvam R., Studies on germination, seedling vigour, lipid peroxidation and proline metabolism in Catharanthus roseus seedlings under salt stress, South Afr J Bot, 73, pp. 190-195, (2007); 
+Katsuhara M., Otsuka T., Ezaki B., Salt stress-induced lipid peroxidation is reduced by glutathione S-transferase but this reduction of lipid peroxides is not enough for a recovery of root growth in Arabidopsis, Plant Sci, 169, pp. 369-373, (2005); 
+Kiani S.P., Maury P., Sarrafi A., Grieu P., QTL analysis of chlorophyll fluorescence parameters in sunflower (Helianthus annuus L.) under well-watered and water-stressed conditions, Plant Sci, 175, pp. 565-573, (2008); 
+Kochert G., Carbohydrate determination by phenol sulphuric acid method, Handbook of physiological methods, pp. 95-97, (1978); 
+Kpyoarissis A., Petropoulou Y., Manetas Y., Summer survival of leaves in a soft-leaved shrub (Phlomis fruticose L., Labiatae) under Mediterranean field conditions: avoidance of photo-inhibitory damage through decreased chlorophyll contents, J Exp Bot, 46, pp. 1825-1831, (1995); 
+Kumar R.R., Karajol K., Naik G.R., Effect of polyethylene glycol induced water stress on physiological and biochemical responses in pigeon pea (Cajanus cajan L. Mill sp.), Recent Res Sci Tech, 3, pp. 148-152, (2011); 
+Largrimini L.M., Wound-induced deposition of polyphenols in transgenic plants over expressing peroxidase, Plant Physiol, 96, 2, pp. 577-583, (1991); 
+Maheswari M., Vijaya Lakshmi T., Varalaxmi Y., Sarkar B., Yadav S.K., Singh J., Seshu Babu G., Kumar A., Sushma A., Jyothilakshmi N., Vanaja M., Functional mechanisms of drought tolerance in maize through phenotyping and genotyping under well watered and water stressed conditions, Eur J Agron, 79, pp. 43-57, (2016); 
+Manivannan P., Jaleel C.A., Sankar B., Kishorekumar A., Somasundaram R., Alagu Lakshmanan G.M., Panneerselvam R., Growth, biochemical modifications and proline metabolism in Helianthus annuus L. as induced by drought stress, Colloids Surf B Biointerfaces, 59, pp. 141-149, (2007); 
+Marcinska I., CzyczyoMysza I., Skrzypek E., Filek M., Grzesiak S., Grzesiak M.T., Janowiak F., Hura T., Dziurka M., Dziurka K., Nowakowska A., Quarrie S.A., Impact of osmotic stress on physiological and biochemical characteristics in drought susceptible and drought-resistant wheat genotypes, Acta Physiol Plant, 35, pp. 451-461, (2013); 
+Mohammadkhani N., Heidari R., Drought induced accumulation of soluble sugars and proline in two maize varieties, World Appl Sci J, 3, 3, pp. 448-453, (2008); 
+Mondal C., Bandopadhyay P., Alipatra A., Banerjee H., Performance of summer mungbean [Vigna radiata (L.) Wilczek] under different irrigation regimes and boron levels, J Food Legumes, 25, pp. 37-40, (2012); 
+Mwale S.S., Amzad-Ali S.N., Massawe F.J., Growth and development of bambara groundnut in response to soil moisture: 1. Dry matter and yield, Eur J Agron, 26, pp. 345-353, (2007); 
+Nilsen E.T., Orcutt D.M., The physiology of plants under stress, pp. 322-361, (1996); 
+Pireivatloum J., Qasimov N., Maralian H., Effect of soil water stress on yield and proline content of four wheat lines, Afr J Biotechnol, 9, pp. 36-40, (2010); 
+Pratap V., Sharma Y.K., Impact of osmotic stress on seed germination and seedling growth in black gram (Phaseolus mungo), J Environ Biol, 31, 5, pp. 721-726, (2010); 
+Rahdari P., Hosseini S.M., Tavakoli S., The studying effect of drought stress on germination, proline, sugar, lipid, protein and chlorophyll content in purslane (Portulaca oleracea L.) leaves, J Med Plants Res, 6, pp. 1539-1547, (2012); 
+Salwa A.R., Hammad Osama A.M., Physiological and biochemical studies on drought tolerance of wheat plants by application of amino acids and yeast extract, Annals Agri Sci, 59, pp. 133-145, (2014); 
+Shanker A.K., Maheswari M., Yadav S.K., Desai S., Bhanu D., Attal N.B., Venkateswarlu B., Drought stress responses in crops, Funct Integr Genomics, 14, pp. 11-22, (2014); 
+Singh D.P., Ahlawat I.P.S., Green gram (Vigna radiata L. Wilczek) and black gram (Vigna mungo L. Hepper) improvement in India: past, present and future prospects, Indian J Agr Sci, 75, pp. 243-250, (2005); 
+Subramanian V.B., Maheswari M., Stomatal conductance, photosynthesis and transpiration in mungbean during and after relief of water stress, Indian J Exp Biol, 28, pp. 542-544, (1990); 
+Subramanian V.B., Maheswari M., Physiological responses of groundnut to water stress, Indian J Plant Physiol, 33, pp. 130-135, (1990); 
+Tenhunen J.D., Pearcy R.W., Lange O.L., Diurnal variations in leaf conductance and gas exchange in natural environments, Stomatal Function, pp. 323-351, (1987); 
+Uprety D.C., Bhatia A., Effect of water stress on the photosynthesis, productivity and water status of mungbean (Vigna radiata L. Wilczek), J Agron Crop Sci, 163, pp. 115-123, (1989); 
+Verbruggen N., Hermans C., Proline accumulation in plants: a review, Amino Acids, 35, pp. 753-759, (2008); 
+Vinocur B., Altman A., Recent advances in engineering plant tolerance to abiotic stress: Achievements and limitations, Curr Opin Biotechnol, 16, pp. 123-132, (2005); 
+Yancy P.H., Clark M.E., Hand S.C., Bowlus R.D., Somero G.N., Living with water stress: evolution of osmolyte systems, Science, 217, pp. 1214-1222, (1982); 
+Yokota A., Takahara K., Akashi K., Physiology and molecular biology of stress tolerance in plants, pp. 15-39, (2006); 
+Zlatev Z., Lidon F.C., An overview on drought induced changes in plant growth, water relations and photosynthesis, Emir J Food Agric, 24, pp. 57-72, (2012)#FRF#

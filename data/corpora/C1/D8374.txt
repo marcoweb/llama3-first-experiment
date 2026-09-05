@@ -1,0 +1,45 @@
+#ITI#Comparative economic and environmental assessments of furrow- and flood-irrigated rice production systems#FTI#
+#IRE#Rice producers in the Mid-South of the United States face decreasing groundwater availability and increasing pumping depths which may jeopardize sustainable rice production. Recently, producers have started adopting furrow irrigated rice (FIR) which reduces irrigation requirements by approximately 17 % compared to conventionally flooded rice (CIR). Although driven by water savings and ease of planting and harvesting, as FIR does not require levies to be built, there are both yield (quantity) and milling (quality) concerns with FIR production. While some view FIR as a more sustainable production practice because of its reduced water usage, a comprehensive Life Cycle Analysis (LCA) has not been conducted to compare the two production systems. This study compares the economic (yield differences, NPV of water conserved and milling discounts/premiums) and environmental (a stepwise LCA which monetizes the holistic environmental of CIR and FIR on a per kg of rice basis) differences between CIR and FIR. Profitability results indicate that CIR more profitable and LCA results show that CIR is more environmentally sustainable. These results present a Gordian knot for policy makers and rice stakeholders alike as they struggle between a production practice that has a lower environmental impact (CIR) versus one that conserves water, reduces soil disturbance, and offers more flexibility to respond to market and weather conditions (FIR). Water savings has historically been a key focus of rice production from an environmental sustainability standpoint. Our research indicates that failure to both recognize and quantify holistic environmental metrics besides water savings may provide misleading recommendations. © 2022 The Authors#FRE#
+#IPC#Furrow-irrigation; LCA; Rice#FPC#
+#IRF#(2020); 
+(2021); 
+Bier D., H-2A visas for agriculture: the complex process for farmers to hire agricultural guest workers. Cato Institute, Immigr. Res. Policy Brief., pp. 1-36, (2020); 
+(2002); 
+Chlapecka J., Hardke J., Roberts T., Mann M., Ablo A., Scheduling rice irrigation using soil moisture thresholds for furrow irrigation and intermittent flooding, Agron. J. (2021), 113, pp. 1258-1270, (2020); 
+Cooper N., Siebenmorgen T., Counce P., Effects of nighttime temperature during kernel development on rice physiochemical properties, Cereal Chem., 85, pp. 276-282, (2008); 
+Counce P., Bryant R., Bergman C., Bautista R., Wang Y., Et al., Rice milling quality, grain dimensions and starch branching as affected by high night temperatures, Cereal Chem., 82, pp. 645-648, (2005); 
+Deliberto M.D., (2020); 
+Dieter C.A., Maupin M.A., Caldwell R.R., Harris M.A., Ivahnenko T.I., Lovelace J.K., Barber N.L., Linsey K., (2018); 
+Durand-Morat A., (2021); 
+Durand-Morat A., Nalley L., Thoma G., The implications of red rice on food security, Glob. Food Secur, 18, 2018, pp. 62-75, (2018); 
+Gholson D., (2020); 
+Golden B., (2018); 
+Golden B., (2019); 
+(2020); 
+Henry C., Hirsh S., Anders M., Vories E., Annual irrigation water use for Arkansas rice production, J. Irrig. Drain. Eng., 142, 11, (2016); 
+(2021); 
+Karki S., Adviento-Borbe M., Massey J., Reba M., Assessing seasonal methane and nitrous oxide emissions from furrow-irrigated rice with cover crops, Agriculture, 11, 3, (2021); 
+Kovacs K., Durand-Morat A., The influence of lateral flows in an aquifer on the agricultural value of groundwater, Nat. Resour. Model., 33, 2020, (2020); 
+Kritee K., Nair D., Zavala-Araiza D., Hamburg S., High nitrous oxide fluxes from rice indicate the need to manage water for both long-and short-term climate impacts, Proc. Natl. Acad. Sci. USA, 115, 39, pp. 9720-9725, (2018); 
+Lanning S., Siebenmorgen T., Counce P., Ambardekar A., Mauromoustakos A., Extreme nighttime air temperatures in 2010 impact rice chalkiness and milling quality, Field Crops Res., 124, pp. 132-136, (2011); 
+Li W., Sha X., Linscombe S., Growth D., Oard J., Theunissen S., (2009); 
+Linquist B., Van Groenigen K.J., Adviento-Borbe M.A., Pittelkow C., Van Kessel C., An agronomic assessment of greenhouse gas emissions from major cereal crops., Glob. Chang. Biol., 2011, 18, pp. 194-209, (2011); 
+Lunga D., Brye K., Henry C., Slayden J., Pant productivity and nutrient uptake as affected by tillage and site position in furrowed irrigated rice, Agron. J. (2021), 113, pp. 2374-2386, (2020); 
+Lyman N., Jagadish K., Nalley L., Dixon B., Siebenmorgen T., Neglecting rice milling yield and quality underestimates economic losses from high-temperature stress, PLoS One, 8, 8, (2013); 
+Massey J., Reba M., Adviento-Borbe M., Chiu Y., Payn G., Direct comparisons of four irrigation systems on a commercial rice farm: irrigation use efficiencies and water dynamics, Agric. Water Manag., 266, 31, (2022); 
+Nalley L., Tack J., Barkley A., Jagdish K., Brye K., Quantifying the agronomic and economic benefits of hybrid and conventional rice varieties, Agron. J., 108, 1514-1523, (2016); 
+Nalley L., Tsiboe F., Durand-Morat A., Shew A., Thoma G., Economic and Environmental Impact of Rice Blast Pathogen (Magnaporthe oryzae) Alleviation in the United States, PLoS ONE, 11, 12, (2016); 
+(2021); 
+Robb B., (2019); 
+Shew A., Durand-Morat A., Nalley L., Zhou X.-G., Rojas C., Thoma G., Warming increases Bacterial Panicle Blight (Burkholderia glumae) occurrences and impacts on USA rice production, PLOS ONE, 14, 2019, (2019); 
+Shew A., Nalley L., Durand-Morat A., Meredith K., Parajuli R., Thoma G., Henry C., Holistically valuing public investments in agricultural water conservation, Agric. Water Manag., 252, (2021); 
+Siebenmorgen T., Counce P., Wilson C., (2010); 
+(2020); 
+Stevens G.M., (2018); 
+(2021); 
+(2020); 
+(2022); 
+Vories E., Counce P., Keisling T., Comparison of flooded and furrow-irrigated rice on clay, Irrig. Sci., 21, 2002, pp. 139-144, (2002); 
+Weidema B., Using the budget constraint to monetarise impact assessment results, Ecol. Econ., 68, 6, pp. 1591-1598, (2009); 
+Weidema B., Comparing three life cycle impact assessment methods from an Endpoint perspective, J. Ind. Ecol., 19, 1, pp. 20-26, (2015); 
+Weidema B., Wesnaes M., Hermansen J., Kristensen T., Halberg N., Environmental Improvement potentials of meat and dairy products (http://dx.doi.org/10.2791/38863), EUR - Scientific and Technical Reports, (2008)#FRF#

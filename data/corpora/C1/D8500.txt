@@ -1,0 +1,48 @@
+#ITI#Quantification of soybean seed germination response to seed deterioration under PEG-induced water stress using hydrotime concept#FTI#
+#IRE#This experiment was arranged to investigate the ability of hydrotime model (θH) for estimating soybean seed germination (cv. ‘JK’) under different accelerated aging periods (AAP, 0, 24, 48, and 72 h) at each of the following water potentials (ψ, 0, − 0.12, − 0.24, and − 0.36 MPa). Results indicated that both germination percentage (GP) and germination rate (GR) significantly influenced by ψ, AAP, and their interactions (P &lt; 0.01). GP and GR decreased by 62.6 and 47.3% with longer AAP from 0 to 72 h and by 90.7 and 81.5% with lower ψ from zero to − 0.36 MPa as compared to the control, respectively. Therefore, the effect of ψ on GP and GR was more than AAP. The θH value was constant (~ 6.71 MPa h−1) till 50.6 h AAP and then linearly declined with the rate of 0.1545 MPa h−1 per hour increase in AAP until 72 h (~ 50% lower than its initial value). The ψb(50) value was − 0.343 MPa in the control and then increased (became more positive) by ~ 70% until 72 h AAP (− 0.104 MPa). In general, GP and GR of soybean declined with the increasing ψb(50) which can be due to cell membrane damage and reduce the activity of enzymes and organelles during AAP. Based on our findings, the θH model could describe well these relationships and their parameters can nicely be used for simulating soybean seed germination under this condition. © 2018, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Accelerated aging test; Drought stress; Modeling; Seed germination; Soybean#FPC#
+#IRF#Atashi S., Bakhshandeh E., Zeinali Z., Yassari E., Teixeira da Silva J.A., Modeling seed germination in Melissa officinalis L. in response to temperature and water potential, Acta Physiol Planta, 36, pp. 605-611, (2014); 
+Atashi S., Bakhshandeh E., Mehdipour M., Jamali M., Teixeira da Silva J.A., Application of a hydrothermal time seed germination model using the Weibull distribution to describe base water potential in zucchini (Cucurbita pepo L.), J Plant Growth Regul, 34, pp. 150-157, (2015); 
+Azadi M., Younesi E., The effects of storage on germination characteristics and enzyme activity of sorghum seeds, J Stress Physiol Biochem, 9, pp. 1-10, (2013); 
+Baalbaki R., Elias S., Marcos-Filho J., McDonald M., Seed vigor testing handbook, (2009); 
+Bakhshandeh E., Ghadiryan R., Galeshi S., Soltani E., Modelling the effects water stress and temperature on seed germination of Soybean (Glycine max L.) and Velvetleaf (Abutilon thephrasti med.), J Plant Prod, 18, pp. 29-45, (2011); 
+Bakhshandeh E., Atashi S., Hafez-Nia M., Pirdashti H., Quantification of the response of germination rate to temperature in sesame (Sesamum indicum), Seed Sci Technol, 41, pp. 469-473, (2013); 
+Bakhshandeh E., Atashi S., Hafeznia M., Pirdashti H., Teixeira da Silva J.A., Hydrothermal time analysis of watermelon (Citrullus vulgaris cv.‘Crimson sweet’) seed germination, Acta Physiol Planta, 37, (2015); 
+Bakhshandeh E., Jamali M., Afshoon E., Gholamhossieni M., Using hydrothermal time concept to describe sesame (Sesamum indicum L.) seed germination response to temperature and water potential, Acta Physiol Planta, 39, (2017); 
+Bayat P., Ghobadi M., Ghobadi M.E., Mohammadi G., Calibration of accelerated aging test as a vigor test to predict the seedling emergence of chickpea (Cicer arietinum L.) in field conditions, Iran J Pulses Res, 7, pp. 9-24, (2016); 
+Begum M.A.J., Balamurugan P., Vanagamudi K., Prabakar K., Ramakrishnan R., Enzyme changes during seed storage in groundnut (Arachis hypogaea L.), J Appl Nat Sci, 6, pp. 748-750, (2014); 
+Bradford K.J., Still D.W., Applications of hydrotime analysis in seed testing, Seed Technol, 26, pp. 75-85, (2004); 
+Delouche J.C., Influence of moisture and temperature levels on the germination of corn, soybeans and water-melons, Proc Assoc Off Seed Anal, 43, pp. 117-126, (1953); 
+Derakhshan A., Gharineh M.H., Application of hydrotime concept to predict seedling emergence of spring barley varieties in field, Iran J Seed Sci Res, 2, pp. 1-14, (2015); 
+Ebadie A., Parmoon G., Jahanbakhsh S., Effect of seed priming with potassium nitrate on seedling vigour index in seed aged of Silybum marianum, J Plant Res (Iranian J Biol), 29, pp. 553-566, (2016); 
+Food and Agriculture Organization of the United Nations; 
+Farzane S., Soltani E., Relationships between hydrotime parameters and seed vigor in sugar beet, Seed Sci Biotechnol, 5, pp. 7-10, (2011); 
+Foyer C.H., Lam H.-M., Nguyen H.T., Siddique K.H.M., Varshney R.K., Colmer T.D., Cowling W., Bramley H., Mori T.A., Hodgson J.M., Cooper J.W., Miller A.J., Kunert K., Vorster J., Cullis C., Ozga J.A., Wahlqvist M.L., Liang Y., Shou H., Shi K., Yu J., Fodor N., Kaiser B.N., Wong F.-L., Valliyodan B., Considine M.J., Neglecting legumes has compromised human health and sustainable food production, Nat Plants, 2, pp. 1-10, (2016); 
+Ghaderi-Far F., Bakhshandeh E., Ghadirian R., Evaluating seed quality in sesame (Sesamum indicum L.) by the accelerated ageing test, Seed Technol, 32, pp. 69-72, (2010); 
+Revised on 8 May 2017, (2017); 
+Gummerson R., The effect of constant temperatures and osmotic potentials on the germination of sugar beet, J Exp Bot, 37, pp. 729-741, (1986); 
+Hatzig S.V., Frisch M., Breuer F., Nesi N., Ducournau S., Wagner M.-H., Leckband G., Abbadi A., Snowdon R.J., Genome-wide association mapping unravels the genetic control of seed germination and vigor in Brassica napus, Front Plant Sci, 6, (2015); 
+International rules for seed testing, (2003); 
+Kalefetoglu T., Turan O., Ekmekci Y., Effects of water deficit induced by PEG and NaCl on chickpea (Cicer arietinum L.) cultivars and lines at early seedling stages, Gazi Univ J Sci, 22, pp. 5-14, (2009); 
+Kandil A., Sharief A., Sheteiwy M., Effect of seed storage periods, conditions and materials on germination of some soybean seed cultivars, Am J Exp Agric, 3, (2013); 
+Kebreab E., Murdoch A., Modelling the effects of water stress and temperature on germination rate of Orobanche aegyptiaca seeds, J Exp Bot, 50, pp. 655-664, (1999); 
+Khaliliaqdam N., Soltani A., Latifi N., Ghaderi Far F., Soybean seed aging and environmental factors on seedling growth, Communi Soil Sci Plant Anal, 44, pp. 1786-1799, (2013); 
+Kumar T.P., Asha A., Maruthi J., Vishwanath K., Influence of seed treatment chemicals and containers on seed quality of marigold during storage, Bioscan, 9, pp. 937-942, (2014); 
+Kumari S., Krishnan V., Sachdev A., Impact of soaking and germination durations on antioxidants and anti-nutrients of black and yellow soybean (Glycine max L.), J Plant Biochem Biotechnol, 24, pp. 355-358, (2015); 
+Li W., An P., Liu X., Effect of storage, stratification, temperature and gibberellins on germination of dimorphic seeds of Suaeda salsa under saline conditions, Seed Sci Technol, 36, pp. 122-132, (2008); 
+McDonald M., Seed deterioration: physiology, repair and assessment, Seed Sci Technol, 27, pp. 177-237, (1999); 
+Michel B.E., Radcliffe D., A computer program relating solute potential to solution composition for five solutes, Agron J, 87, pp. 126-130, (1995); 
+Mohammadi H., Soltani A., Sadeghipour H., Zeinali E., Effects of seed aging on subsequent seed reserve utilization and seedling growth in soybean, Int J Plant Prod, 5, pp. 65-70, (2012); 
+Najafi G., Khamary S., Javadi A., The response of rapeseed seed germination to seed vigor and hydro-priming changes, J Seed Res, 5, pp. 54-70, (2015); 
+Odoba A., Odiaka N., Gbanguba A., Bashiru M., Germination characteristics of twenty varieties of soybean (Glycine max (L.) Merr) stored for 7months, Sci Agric, 13, pp. 151-155, (2016); 
+Patane C., Saita A., Tubeileh A., Cosentino S.L., Cavallaro V., Modeling seed germination of unprimed and primed seeds of sweet sorghum under PEG-induced water stress through the hydrotime analysis, Acta Physiol Planta, 38, (2016); 
+Radha B.N., Channakeshava B.C., Bhanuprakash K., Munirajappa R., DNA damage during seed ageing, IOSR J Agric Vet Sci, 7, pp. 34-39, (2014); 
+Rezvani M., Fani Yazdi S., Factors affecting seed germination of black nightshade (Solanum nigrum), Acta Bot Hung, 55, pp. 397-408, (2013); 
+SAS/STAT user’s guide, (2013); 
+Soltani E., Farzaneh S., Hydrotime analysis for determination of seed vigour in cotton, Seed Sci Technol, 42, pp. 260-273, (2014); 
+Soltani A., Zeinali E., Galeshi S., Latifi N., Genetic variation for and interrelationships among seed vigor traits in wheat from the Caspian Sea coast of Iran, Seed Sci Technol, 29, pp. 653-662, (2001); 
+Song J., Wang B.S., Using euhalophytes to understand salt tolerance and to develop saline agriculture: Suaeda salsa as a promising model, Ann Bot, 115, pp. 541-553, (2015); 
+Wang R., Modeling Seed Germination and Seedling Emergence in Winterfat (Krascheninnikovia Lanata (Pursh) A.D.J. Meeuse & Smit): Physiological Mechanisms and Ecological Relevance, (2005); 
+Wang F.X., Xu Y.G., Wang S., Shi W.W., Liu R.R., Feng G., Song J., Salinity affects production and salt tolerance of dimorphic seeds of Suaeda salsa, Plant Physiol Biochem, 95, pp. 41-48, (2015); 
+Xu Y.G., Liu R.R., Sui N., Shi W.W., Wang L., Tian C.Y., Song J., Changes in endogenous hormones and seed-coat phenolics during seed storage of two Suaeda salsa populations, Aust J Bot, 64, pp. 325-332, (2016); 
+Yadollhhi Nooshabadi S., Mashayekhi F., Enzyme activity and seedling growth of soybean seeds under accelerated aging, J Stress Physiol Biochem, 9, pp. 65-72, (2013)#FRF#

@@ -1,0 +1,46 @@
+#ITI#AquaCrop-OS: An open source version of FAO's crop water productivity model#FTI#
+#IRE#Crop simulation models are valuable tools for quantifying crop yield response to water, and for devising strategies to improve agricultural water management. However, applicability of the majority of crop models is limited greatly by a failure to provide open-access to model source code. In this study, we present an open-source version of the FAO AquaCrop model, which simulates efficiently water-limited crop production across diverse environmental and agronomic conditions. Our model, called AquaCrop-OpenSource (AquaCrop-OS), can be run in multiple programming languages and operating systems. Support for parallel execution reduces significantly simulation times when applying the model in large geospatial frameworks, for long-run policy analysis, or for uncertainty assessment. Furthermore, AquaCrop-OS is compliant with the Open Modelling Interface standard facilitating linkage to other disciplinary models, for example to guide integrated water resources planning. © 2016 The Author(s)#FRE#
+#IPC#Agriculture; AquaCrop; Crop model; Open source; Policy; Water#FPC#
+#IRF#Bulatewicz T., Allen A., Peterson J.M., Staggenborg S., Welch S.M., Steward D.R., The Simple Script Wrapper for OpenMI: enabling interdisciplinary modeling studies, Environ. Model. Softw., 39, pp. 283-294, (2013); 
+Bulatewicz T., Yang X., Peterson J.M., Staggenborg S., Welch S.M., Steward D.R., Accessible integration of agriculture, groundwater, and economic models using the Open Modeling Interface (OpenMI): methodology and initial results, Hydrol. Earth Syst. Sci., 14, pp. 521-534, (2010); 
+Calera A., Martinez C., Melia J., A procedure for obtaining green plant cover: relation to NDVI in a case study for barley, Int. J. Remote Sens., 22, pp. 3357-3362, (2001); 
+Carlson T.N., Ripley D.A., On the relation between NDVI, fractional vegetation cover, and leaf area index, Remote Sens. Environ., 62, pp. 241-252, (1997); 
+Chukalla A.D., Krol M.S., Hoekstra A.Y., Green and blue water footprint reduction in irrigated agriculture: effect of irrigation techniques, irrigation strategies and mulching, Hydrol. Earth Syst. Sci., 19, pp. 4877-4891, (2015); 
+Doorenbos J., Kassam A.H., Yield response to water. FAO Irrigation and Drainage Paper No. 33, (1979); 
+Eaton J.W., Bateman D., Hauberg S., Wehbring R., GNU Octave Version 4.0.0 Manual: A High-Level Interactive Language for Numerical Computations, (2015); 
+Ewert F., Rotter R.P., Bindi M., Webber H., Trnka M., Kersebaum K.C., Olesen J.E., van Ittersum M.K., Janssen S., Rivington M., Et al., Crop modelling for integrated assessment of risk to food production from climate change, Environ. Model. Softw., 72, pp. 287-303, (2015); 
+FACCE-MACSUR, Modelling European Agriculture with Climate Change for Food Security, (2016); 
+Foster T., Brozovic N., Butler A.P., Modeling irrigation behavior in groundwater systems, Water Resour. Res., 50, pp. 6370-6389, (2014); 
+Foster T., Brozovic N., Butler A.P., Analysis of the impacts of well yield and groundwater depth on irrigated agriculture, J. Hydrol., 523, pp. 86-96, (2015); 
+Foster T., Brozovic N., Butler A.P., Why well yield matters for managing agricultural drought risk, Weather Clim. Extrem., 10, pp. 11-19, (2015); 
+Garcia-Vila M., Fereres E., Combining the simulation crop model AquaCrop with an economic model for the optimization of irrigation management at farm level, Eur. J. Agron., 36, pp. 21-31, (2012); 
+Girard C., Rinaudo J.D., Pulido-Velazquez M., Caballero Y., An interdisciplinary modelling framework for selecting adaptation measures at the river basin scale in a global change scenario, Environ. Model. Softw., 69, pp. 42-54, (2015); 
+Grassini P., Yang H., Irmak S., Thorburn J., Burr C., Cassman K.G., High-yield irrigated maize in the Western U.S. Corn Belt: II. Irrigation management and crop water productivity, Field Crops Res., 120, pp. 133-141, (2011); 
+Gregersen J., Gijsbers P., Westen S., OpenMI: open modelling interface, J. Hydroinform., 9, pp. 175-191, (2007); 
+Ince D.C., Hatton L., Graham-Cumming J., The case for open computing programs, Nature, 482, pp. 485-488, (2012); 
+van Ittersum M.K., Cassman K.G., Grassini P., Wolf J., Tittonell P., Hochman Z., Yield gap analysis with local to global relevance: a review, Field Crops Res., 143, pp. 4-17, (2013); 
+Jiang Z., Huete A.R., Chen J., Chen Y., Li J., Yan G., Zhang X., Analysis of NDVI and scaled difference vegetation index retrievals of vegetation fraction, Remote Sens. Environ., 101, pp. 366-378, (2006); 
+Johnson L.F., Trout T.J., Satellite NDVI assisted monitoring of vegetable crop evapotranspiration in California's San Joaquin Valley, Remote Sens., 4, pp. 439-455, (2012); 
+Jones J.W., Hoogenboom G., Porter C.H., Boote K.J., Batchelor W.D., Hunt L.A., Wilkens P.W., Singh U., Gijsman A.J., Ritchie J.T., The DSSAT cropping system model, Eur. J. Agron., 18, pp. 235-265, (2003); 
+Keating B.A., Carberry P.S., Hammer G.L., Probert M.E., Robertson M.J., Holzworth D., Huth N.I., Hargreaves J.N.G., Meinke H., Hochman Z., Et al., An overview of APSIM, a model designed for farming systems simulation, Eur. J. Agron., 18, pp. 267-288, (2003); 
+Kim D., Kaluarachchi J., Validating FAO AquaCrop using Landsat images and regional crop information, Agric. Water Manag., 149, pp. 143-155, (2015); 
+Lorite I.J., Garcia-Vila M., Santos C., Ruiz-Ramos M., Fereres E., AquaData and AquaGIS: two computer utilities for temporal and spatial simulations of water-limited yield with AquaCrop, Comput. Electron. Agric., 96, pp. 227-237, (2013); 
+Mathworks Inc, Matlab Release 2015, (2015); 
+Moore R.V., Tindall C.I., An overview of the Open Modelling Interface and environment (the OpenMI), Environ. Sci. Policy, 8, pp. 279-286, (2005); 
+Peng R.D., Reproducible research in computational science, Science, 334, pp. 1226-1227, (2012); 
+Raes D., Steduto P., Hsiao T.C., Fereres E., AquaCrop – the FAO crop model to simulate yield response to water: II. Main algorithms and software description, Agron. J., 101, pp. 438-447, (2009); 
+Raes D., Steduto P., Hsiao T.C., Fereres E., AquaCrop Plug-in Program Version 5.0 Reference Manual, (2016); 
+Raes D., Steduto P., Hsiao T.C., Fereres E., AquaCrop Version 5.0 Reference Manual, (2016); 
+Richey A.S., Thomas B.F., Lo M., Reager J.T., Famiglietti J.S., Voss K., Swenson S., Rodell M., Quantifying renewable groundwater stress with GRACE, Water Resour. Res., 51, pp. 5217-5238, (2015); 
+Rosenzweig C., Jones J.W., Hatfield J.L., Ruane A.C., Boote K.J., Thorburn P., Antle J.M., Nelson G.C., Porter C., Janssen S., Et al., The agricultural model intercomparison and improvement project (AgMIP): protocols and pilot studies, Agric. Forest Meteorol., 170, pp. 166-182, (2013); 
+Schewe J., Heinke J., Gerten D., Haddeland I., Arnell N.W., Clark D.B., Dankers R., Eisner S., Fekete B.M., Colon-Gonzalez F.J., Et al., Multimodel assessment of water scarcity under climate change, Proc. Natl. Acad. Sci. U. S. A., 111, pp. 3245-3250, (2014); 
+Steduto P., Hsiao T.C., Fereres E., On the conservative behavior of biomass water productivity, Irrig. Sci., 25, pp. 189-207, (2007); 
+Steduto P., Hsiao T.C., Fereres E., Raes D., Crop yield response to water. FAO Irrigation and Drainage Paper No. 66, (2012); 
+Steduto P., Hsiao T.C., Raes D., Fereres E., AquaCrop – the FAO crop model to simulate yield response to water: I. Concepts and underlying principles, Agron. J., 101, pp. 426-437, (2009); 
+Stockle C.O., Donatelli M., Nelson R., CropSyst, a cropping systems simulation model, Eur. J. Agron., 18, pp. 289-307, (2003); 
+Taylor R., When the wells run dry, Nature, 516, pp. 179-180, (2014); 
+Thorp K.R., Bronson K.F., A model-independent open-source geospatial tool for managing point-based environmental model simulations at multiple spatial locations, Environ. Model. Softw., 50, pp. 25-36, (2013); 
+Van Gaelen H., Raes D., AquaCrop Training Handbooks – Book II Running AquaCrop, (2016); 
+Vanuytrecht E., Raes D., Steduto P., Hsiao T.C., Fereres E., Heng L.K., Vila M.G., Moreno P.M., AquaCrop: FAO's crop water productivity and yield response model, Environ. Model. Softw., 62, pp. 351-360, (2014); 
+Vanuytrecht E., Raes D., Willems P., Global sensitivity analysis of yield output from the water productivity model, Environ. Model. Softw., 51, pp. 323-332, (2014); 
+Yang H.S., Dobermann A., Lindquist J.L., Walters D.T., Arkebauer T.J., Cassman K.G., Hybrid-maize a maize simulation model that combines two crop modeling approaches, Field Crops Res., 87, pp. 131-154, (2004)#FRF#

@@ -1,0 +1,53 @@
+#ITI#Mitigation of As toxicity in wheat by exogenous application of hydroxamate siderophore of Aspergillus origin#FTI#
+#IRE#Siderophores are secondary metabolites having molecular weight less than 10 KD. They are specifically meant for chelation of ferric ions. They also tend to chelate metals under heavy metal stress, thus reducing their toxic effects. In the current study, experiments have been conducted on wheat plants to analyse siderophore’s ability to counteract the adverse impact of arsenic (As) toxicity on physiology of plant seedlings along with biochemical response. As toxicity has been observed to adversely affect the lengths of root and shoot, chlorophyll and carotenoid contents, and activities of various antioxidative enzymes. The present study revealed that the application of hydroxamate-type siderophore isolated from Aspergillus nidulans under toxic condition significantly recovered the growth and helped in amending the enzymatic activities of superoxide dismutase (SOD), catalase (CAT), and peroxidase (POD) of wheat genotype (NW1014). At the same time, injury caused by lipid peroxidation was significantly reduced. In silico studies revealed better binding affinity of ferricrocin–arsenate complex leading to thermodynamically stable complex. Encouraging results of As containment by organic biomolecule-siderophore can lead to an emerging bioremediation mechanism brimming with opportunities for agricultural field and environmental clean-up. © 2019, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#As stress; Aspergillus nidulans; Hydroxamate; Siderophore; Triticum aestivum#FPC#
+#IRF#Abedin M.J., Meharg A.A., Relative toxicity of arsenite and arsenate on germination and early seedling growth of rice (Oryza sativa L), Plant Soil, 243, pp. 57-66, (2002); 
+Aebi H., Catalase in vitro, Methods in enzymology, 105, pp. 114-121, (1984); 
+Ahmad F.D., Ahmad N., Masood K.R., Hussain M., Malik M.F., Qayyum A., Phytoremediation of arsenic-contaminated soils by Eucalyptus camaldulensis, Terminalia arjuna and Salix tetrasperma, J App Bot Food Qual, 91, pp. 8-13, (2018); 
+Arnon D.I., Copper enzymes in isolated chloroplast, polyphenol-oxidase in Beta vulgaris, Plant Physiol, 24, pp. 1-15, (1949); 
+Atkin C.L., Neilands J.B., Phaff H., Rhodotorulic acid from species of Rhodospirillum, Rhodotorula, Sporidiobolus and Sporobolomyces, J Bacteriol, 103, pp. 722-733, (1970); 
+Baran A., Antonkiewicz J., Phytotoxicity and extractability of heavy metals from industrial wastes, Environ Prot Eng, 43, pp. 143-155, (2017); 
+Dhindsa R.S., Dhindsa P., Thorpe T., Leaf senescence correlated with increased levels of membrane permeability and lipid peroxidation and decrease levels of superoxide dismutase and catalase, J Exp Bot, 32, pp. 93-101, (1981); 
+Duckworth O., Bargar J., Sposito G., Quantitative structure–activity relationships for aqueous metal–siderophore complexes, Environ Sci Technol, 43, pp. 343-349, (2009); 
+Grobelak A., Hiller J., Bacterial siderophores promote plant growth: screening of catechol and hydroxamate siderophores, Int J Phytorem, 19, 9, pp. 825-833, (2017); 
+Gusain P., Singh V., Hydroxamate and catecholate siderophore synthesizing As resistant pgpr, J Environ Appl Biores, 4, pp. 01-04, (2016); 
+Gwozdz E.A., Przymusinski R., Rucinska R., Et al., Plant cell responses to heavy metals: molecular and physiological aspects, Acta Physiol Plant, 19, pp. 459-465, (1997); 
+Hartley-Whitaker J., Ainsworth G., Meharg A.A., Copper- and arsenate-induced oxidative stress in Holcus lanatus L. clones with differential sensitivity, Plant Cell Environ, 24, pp. 713-722, (2001); 
+Hasanuzzaman M., Fujita M., Exogenous sodium nitroprusside alleviates As-induced oxidative stress in wheat (Triticum aestivum L.) seedlings by enhancing antioxidant defense and glyoxalase system, Ecotoxicology, 22, pp. 584-596, (2013); 
+Heath R., Packer L., Photoperoxidation in isolated chloroplasts, Arch Biochem Biophys, 125, 1, pp. 189-198, (1968); 
+Hindmarsh J.T., Mccurdy R.F., Clinical and environmental aspects of As toxicity, Crit Rev Clin Lab Sci, 23, pp. 315-347, (1986); 
+Hoagland D.R., Arnon D.I., The water-culture method for growing plants without soil, Circ Calif Agric Exp Sta, 347, pp. 1-35, (1938); 
+Jeong S., Hee Sun Moon H.S., Nam K., Enhanced uptake and translocation of arsenic in cretain brake fern (Pteris cretica L.) through siderophore arsenic complex formation with an aid of rhizospheric bacterial activity, J Haz Mater, 280, pp. 536-543, (2014); 
+Khan A., Singh P., Srivastava A., Synthesis, nature and utility of universal iron chelator-siderophore: a review, Microbiol Res, 212-213, pp. 103-111, (2018); 
+Kraemer S.M., Crowley D.E., Kretzschmar R., Geochemical aspects of phytosiderophore promoted iron acquisition by plants, Adv Agron, 91, pp. 1-46, (2006); 
+Lichtenthaler H.K., Wellburn A.R., Determinations of total carotenoids and chlorophylls a and b of leaf extracts in different solvents, Biochem Soc Trans, 11, pp. 591-592, (1983); 
+McLaren R.G., Naidu R., Smith J., Tiller K.G., Fractionation and distribution of arsenic in soils contaminated by cattle dip, J Environ Qual, 27, pp. 348-354, (1998); 
+Morton W.E., Dunnette D.A., Health effects of environmental As, As in the environment. Part II. Human health and ecosystem effects, pp. 17-34, (1994); 
+Mylona P.V., Polidoros A.N., Scandalios J.G., Modulation of antioxidant responses by As in maize, Free Radic Biol Med, 25, pp. 576-585, (1998); 
+Neilands J.B., Iron absorption and transport in microorganisms, Annu Rev Nutr, 1, pp. 27-46, (1981); 
+Neilands J., Siderophores: structure and function of microbial iron transport compounds, J Biol Chem, 270, pp. 26723-26726, (1995); 
+Niazi N.K., Bashir S., Bibi I., Murtaza G., Phytoremediation of arsenic-contaminated soils using arsenic hyperaccumulating ferns, Phytoremediation, (2016); 
+Olsen S.R., Cole C.V., Watanabe F.S., Dean L.A., Estimation of Available Phosphorus in Soils by Extraction with Sodium Bicarbonate, (1954); 
+Payne S.M., Detection, isolation, and characterization of siderophores, Methods Enzymol, 235, pp. 329-344, (1994); 
+Pinto L., Moore M., Screening method to identify inhibitors of siderophore biosynthesis in the opportunistic fungal pathogen, Aspergillus fumigatus, Lett Appl Microbiol, 49, pp. 8-13, (2009); 
+Polle A., Junkermann W., Inhibition of apoplastic and symplastic Arse activity from Norway spruce by the photooxidant hydroxymethyl hydroperoxide, Plant Physiol, 104, pp. 617-621, (1994); 
+Poschenrieder C., Gunse B., Barcelo J., Influence of cadmium on water relations, stomatal resistance, and abscisic acid content in expanding Bean leaves, Plant Physiol, 90, pp. 1365-1371, (1989); 
+Puschenreiter M., Gruber B., Wenzel W.W., Schindlegger Y., Hann S., Spangl B., Schenkeveld W.D.C., Kraemer S.M., Oburger E., Phytosiderophore-induced mobilization and uptake of Cd, Cu, Fe, Ni, Pb and Zn by wheat plants grown on metal enriched soils, Environ Exp Bot, 138, pp. 67-76, (2017); 
+Raj A., Singh N., Phytoremediation of arsenic contaminated soil by arsenic accumulators: a three year study, Bull Environ Contam Toxicol, 94, pp. 308-313, (2015); 
+Raj A., Pandey A., Sharma Y., Khare P., Srivastava P., Singh N., Metabolic adaptation of Pteris vittata L. gametophyte to As induced oxidative stress, Biores Technol, 102, pp. 9827-9832, (2011); 
+Saha P., Shinde O., Sarkar S., Phytoremediation of industrial mines wastewater using water hyacinth, Int J Phytorem, 19, pp. 87-96, (2017); 
+Sarkar A., Agrawal S.B., Identification of Ozone stress in Indian rice through foliar injury and differential protein profile, Environ Monit Assess, 161, pp. 205-215, (2010); 
+Schwyn B., Neilands J., Universal chemical assay for the detection and determination of siderophores, Anal Biochem, 160, pp. 47-56, (1987); 
+Shaibur M., Kitajima N., Sugawara R., Kondo T., Huq S., Kawai S., Physiological and mineralogical properties of As-induced chlorosis in rice seedlings grown hydroponically, J Soil Sci Plant Nutr, 52, pp. 691-700, (2006); 
+Sharma S., Anand G., Singh N., Kapoor R., Arbuscular mycorrhiza augments As tolerance in wheat (Triticum aestivum L.) by strengthening antioxidant defense system and thiol metabolism, Front Plant Sci, 8, (2017); 
+Shi P., Zing Z., Zhang U., Chai T., Effect of heavy-metal on synthesis of siderophores by Pseudomonas aeruginosa ZGKD3, Earth Environ Sci, 52, (2017); 
+Simola L.K., Effect of lead, cadmium, arsenate, and fluoride ions on growth and fine-structure of Sphagnum–Nemoreum in aseptic culture, Can J Bot-Revue Canadienne De Botanique, 55, pp. 426-435, (1977); 
+Stoeva N., Bineva T., Oxidative changes and photosynthesis in oat plants grown in As-contaminated soil, Bulg J Plant Physiol, 29, pp. 87-95, (2003); 
+Stoeva N., Berova M., Zlatev Z., Effect of As on some physiological parameters in bean plants, Biol Plantarum, 49, pp. 293-296, (2005); 
+Tripathi A., Mishra A.K., The wheat sector in India: production, policies and food security, The Eurasian wheat belt and food security, pp. 275-296, (2017); 
+Tsutsumi M., Intensification of As toxicity to paddy rice by hydrogen sulfide and ferrous iron, Soil Sci Plant Nutr, 26, pp. 561-569, (1980); 
+Xi L.C., Li F.S., Yun S., Na J.L., Yang L.U.X., Li H.X., Effects of As on seed germination and physiological activities of wheat seedlings, J Environ Sci, 19, pp. 725-732, (2007); 
+Zengin F., Effects of exogenous salicylic acid on growth characteristics and biochemical content of wheat seeds under As stress, J Environ Biol, 36, pp. 249-254, (2015); 
+Zhang F.Q., Wang Y.S., Lou Z.P., Dong J.D., Effect of heavy metal stress on antioxidative enzymes and lipid peroxidation in leaves and roots of two mangrove plant seedlings (Kandelia candel and Bruguiera gymnorrhiza), Chemosphere, 67, pp. 44-50, (2007); 
+Zhang W.D., Liu D.S., Tian J.C., He F.L., Toxicity and accumulation of As in wheat (Triticum aestivum L.) varieties of China, Phyton (Buenos Aires), 78, pp. 147-154, (2009); 
+Zhao F.J., Ma J.F., Meharg A.A., McGrath S.P., As uptake and metabolism in plants, New Phytol, 181, pp. 777-794, (2009)#FRF#

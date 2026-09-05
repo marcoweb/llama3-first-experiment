@@ -1,0 +1,56 @@
+#ITI#Production externalities of shrimp aquaculture on paddy farming in coastal Bangladesh#FTI#
+#IRE#Shrimp aquaculture is a fast-growing industry in many parts of the world. The expansion of the industry has raised concerns about its external impacts on the local environment and ecosystems, including agriculture. This study examines changes over time in land use and soil salinity levels using satellite data and soil sample data from Satkhira district in Bangladesh. Moreover, the study measures the impact of shrimp aquaculture on soil salinity in neighboring paddy farms and evaluates how this, in turn, affects paddy farm profits, using farm-level data from 316 paddy plots. Results show that the land covered by shrimp ponds almost doubled in terms of percentage of land area, expanding from 22 % in 1990 to 38 % in 2016. Soil salinity also increased significantly over the same period. Farm-level analysis shows that salinity levels are relatively higher in paddy plots that are closer to shrimp ponds. Each additional 1-meter decrease in the distance between paddy plots and shrimp ponds induces a 0.14 % increase in soil salinity in both Aman (rainfed) and Boro (irrigated) seasons. As salinity is higher in paddy plots closer to shrimp ponds, the same percentage change results in a greater absolute increase in salinity levels in nearby paddy plots relative to plots located farther away. Furthermore, due to the higher salinity levels, paddy profits per hectare are relatively lower in paddy plots closer to shrimp ponds. On average, a 1-meter decrease in the distance between paddy plots and shrimp ponds results in a decrease in paddy profits by USD 0.31 and 0.15 per hectare in the Aman and Boro seasons, respectively. The findings of this study call for policy measures to address the externalities posed by shrimp aquaculture to paddy farmers. © 2020 Elsevier B.V.#FRE#
+#IPC#Bangladesh; Externality; Paddy profit; Shrimp ponds; Soil salinity#FPC#
+#IRF#Afroz T., Alam S., Sustainable shrimp farming in Bangladesh: a quest for an integrated coastal zone management, Ocean Coast. Manag., 71, pp. 275-283, (2013); 
+Ahmed M.F., Haider M.Z., Impact of salinity on rice production in the south-west region of Bangladesh, Environmental Science: An Indian Journal, 9, 4, pp. 134-141, (2014); 
+Ali A.M.S., Rice to shrimp: land use/land cover changes and soil degradation in Southwestern Bangladesh, Land Use Policy, 23, 4, pp. 421-435, (2006); 
+Azad A.K., Jensen K.R., Lin C.K., Coastal aquaculture development in Bangladesh: unsustainable and sustainable experiences, Environ. Manage., 44, 4, pp. 800-809, (2009); 
+Barbier E.B., Strand I., Sathirathai S., Do open access conditions affect the valuation of an externality? Estimating the welfare effects of mangrove-fishery linkages in Thailand, Environ. Resour. Econ. (Dordr), 21, 4, pp. 343-365, (2002); 
+Baum C., Schaffer M., Stillman S., IVREG210: Stata Module for Extended Instrumental variables/2SLS and GMM Estimation (v10), (2015); 
+BBS (Bangladesh Bureau of Statistics, Estimation of Boro Rice (Husked), 2016-2017. The People's Republic of Bangladesh, (2018); 
+Be T.T., Dung L.C., Brennan D., Environmental costs of shrimp culture in the rice‐growing regions of the Mekong Delta, Aquac. Econ. Manag., 3, 1, pp. 31-42, (1999); 
+Belton B., Shrimp, prawn and the political economy of social wellbeing in rural Bangladesh, J. Rural Stud., 45, pp. 230-242, (2016); 
+Bhat M.G., Bhatta R., Considering aquacultural externality in coastal land allocation decisions in India, Environ. Resour. Econ., 29, 1, pp. 1-20, (2004); 
+Bouaziz M., Matschullat J., Gloaguen R., Improved remote sensing detection of soil salinity from a semi-arid climate in Northeast Brazil, Comptes Rendus Geosci., 343, 11-12, pp. 795-803, (2011); 
+Bournazel J., Kumara M.P., Jayatissa L.P., Viergever K., Morel V., Huxham M., The impacts of shrimp farming on land-use and carbon storage around Puttalam lagoon, Sri Lanka, Ocean Coast. Manag., 113, pp. 18-28, (2015); 
+Chowdhury M.A., Shivakoti G.P., Salequzzaman M., A conceptual framework for the sustainability assessment procedures of the shrimp aquaculture industry in coastal Bangladesh, Int. J. Agric. Resour. Gov. Ecol., 5, 2-3, pp. 162-184, (2006); 
+Clemont-Dauphin C., Suwannang N., Grunberger O., Hammecker C., Maeght J.L., Yield of rice under water and soil salinity risks in farmers’ fields in northeast Thailand, Field Crops Res., 118, 3, pp. 289-296, (2010); 
+Dewalt B.R., Vergne P., Hardin M., Shrimp aquaculture development and the environment: people, mangroves and fisheries on the Gulf of Fonseca, Honduras, World Dev., 24, 7, pp. 1193-1208, (1996); 
+DoE (Department of Environment), Bangladesh: National Programme of Action for Protection of the Coastal and Marine Environment From Land-based Activities, (2006); 
+FAO, LOBEFISH - Information and Analysis on World Fish Trade: Towards Sustainability in the Shrimp Industry, (2020); 
+FAO (Food and Agriculture Organization), Fishery and Aquaculture Statistics: Aquaculture Production, (2017); 
+FAO (Food and Agriculture Organization), FAO Yearbook. Fishery and Aquaculture Statistics 2017/FAO Annuaire. Statistiques Des Pêches Et De l'aquaculture 2017/FAO Anuario. Estadísticas De Pesca Y Acuicultura 2017, (2019); 
+Flaherty M., Vandergeest P., Miller P., Rice paddy or shrimp pond: tough decisions in rural Thailand, World Dev., 27, 12, pp. 2045-2060, (1999); 
+Fleming C., Challenges Facing the Shrimp Industry in Bangladesh, (2004); 
+Gain A.K., Uddin M.N., Sana P., Impact of river salinity on fish diversity in the south-west coastal region of Bangladesh, International Journal of Ecology and Environmental Sciences, 34, 1, pp. 49-54, (2008); 
+Gujja B., Finger-Stich A., What price prawn?: shrimp aquaculture's impact in Asia, Environ. Sci. Policy Sustain. Dev., 38, 7, pp. 12-39, (1996); 
+Habiba U., Abedin M.A., Shaw R., Hassan A.W.R., Salinity-induced livelihood stress in coastal region of Bangladesh, Water Insecurity: a Social Dilemma, pp. 139-165, (2014); 
+Haider M.Z., Akter R., Shrimp-paddy conflict in the south-west coastal region of Bangladesh, Int. J. Agric. Econ., 3, 1, pp. 9-13, (2018); 
+Hanna Instuments, Instruction Manual: Portable Multi-range conductivity/TDS Meters, (2019); 
+Haque S.A., Salinity problems and crop production in coastal regions of Bangladesh, Pak. J. Bot., 38, 5, pp. 1359-1365, (2006); 
+Hoq M.E., An analysis of fisheries exploitation and management practices in Sundarbans mangrove ecosystem, Bangladesh, Ocean Coast. Manag., 50, 5-6, pp. 411-427, (2007); 
+Hossain S., Alam S.N., Lin C.K., Demaine H., Khan Y.S.A., Das N.G., Rouf M.A., Integrated management approach for shrimp culture development in the coastal environment of Bangladesh, World Aquaculture-Baton Rouge, pp. 35-44, (2004); 
+Ilman M., Dargusch P., Dart P., A historical analysis of the drivers of loss and degradation of Indonesia's mangroves, Land Use Policy, 54, pp. 448-459, (2016); 
+Integrated Coastal Zone Management Plan (ICZM), Living in the Coast– Population and Livelihoods. Program Development Office for Integrated Coastal Zone Management Plan, (2003); 
+Islam M.R., Managing Diverse Land Uses in Coastal Bangladesh: Institutional Approaches. Environment and Livelihoods in Tropical Coastal Zones, (2006); 
+Johnson F.A., Hutton C.W., Hornby D., Lazar A.N., Mukhopadhyay A., Is shrimp farming a successful adaptation to salinity intrusion? A geospatial associative analysis of poverty in the populous Ganges–Brahmaputra–Meghna Delta of Bangladesh, Sustain. Sci., 11, 3, pp. 423-439, (2016); 
+Kabir S.H., Sea Food Export From Bangladesh and Current Status of Traceability, (2013); 
+Kabir K.A., Saha S.B., Phillips M., Karim M., Meisner C.A., Rice-fish Integration for High Saline, Coastal Areas of Bangladesh: Learning from the Challenge Program for Water and Food (CPWF), (2016); 
+Mahmood N., Chowdhury S.R., Saikat S.Q., Indiscriminate expansion of coastal aquaculture in Bangladesh, genesis of conflicts: some suggestions, Coastal Zone Canada’ 94, “Cooperation in the Coastal Zone”, Conference Proceeding, Vol. 4. Canada: Nova Scotia, pp. 1697-1705, (1994); 
+Maniruzzaman M., Intrusion of Commercial Shrimp Farming in Three Rice-growing Villages of Southern Bangladesh: Its Effects on Poverty, Environment and Selected Aspects of Culture, (1998); 
+Marine Fresh Bangladesh, Seafood & Shrimp Buying House and Exporter, (2018); 
+Martinet V., Blanchard F., Fishery externalities and biodiversity: trade-offs between the viability of shrimp trawling and the conservation of Frigatebirds in French Guiana, Ecol. Econ., 68, 12, pp. 2960-2968, (2009); 
+Morshed M.M., Islam M.T., Jamil R., Soil salinity detection from satellite image analysis: an integrated approach of salinity indices and field data, Environ. Monit. Assess., 188, 2, (2016); 
+Paprocki K., Cons J., Life in a shrimp zone: aqua-and other cultures of Bangladesh's coastal landscape, J. Peasant Stud., 41, 6, pp. 1109-1130, (2014); 
+Parvin G.A., Ali M.H., Fujita K., Abedin M.A., Habiba U., Shaw R., Land use change in southwestern coastal Bangladesh: consequence to food and water supply, Land Use Management in Disaster Risk Reduction, pp. 381-401, (2017); 
+Potassium Nitrate Association (PNA), Effect of Salinity on Crop Yield Potential, (2018); 
+Alo P., Salt Increases Danger in Khulna and Satkhira (in Bengali), (2017); 
+Quader O., Islam Z., Rahman H., Rahman M., Sarkar M.H., Khan A.S., Suitable site selection of shrimp farming in the coastal areas of Bangladesh using remote sensing techniques (4S model), Proceedings of the XXth ISPRS (International Society for Photogrammetry and Remote Sensing) Congress 2004 Jul, ISPRS Istanbul, Turkey, pp. 12-23, (2004); 
+Seal L., Baten M.A., Salinity Intrusion in Interior Coast: a New Challenge to Agriculture in South Central Part of Bangladesh. A Working Draft, Climate Change, Biodiversity and Disaster Risk Reduction Unit, (2012); 
+Singaraval R., Balasundaram S.K., Johnson K., Physicochemical characteristics and nutrient status of coastal saline soils of Tamil Nadu, J. Ind. Soc. Coastal Agric. Res, 14, 1&2, pp. 59-61, (1996); 
+Soil Resource Development Institute (SRDI), Saline Soils of Bangladesh, (2010); 
+Stock J.H., Yogo M., Testing for weak instruments in linear IV regression, Identification and Inference for Econometric Models: Essays in Honor of Thomas Rothenberg, pp. 80-108, (2002); 
+Umamaheswari L., Hattab K.O., Nasurudeen P., Selvaraj P., Should Shrimp Farmers Pay Paddy Farmers?: the Challenges of Examining Salinisation Externalities in South India. SANDEE Working paper/South Asian Network for Development and Environmental Economics; no. 41-09, (2009); 
+UNEP (United Nations Environment Programme), Trade Liberalisation and the Environment – Lessons Learned From Bangladesh, Chile, India, Philippines, Romania and Uganda: a Synthesis Report. UNEP/99/7. United Nations, New York and Geneva, (1999); 
+Vincent J.R., Valuing the Environment As a Production Input. Environmental Valuation in South Asia, pp. 36-77, (2011); 
+Wooldridge J.M., Multiple Regression Analysis With Qualitative Information: Binary (or Dummy) Variables. Introductory Econometrics: a Modern Approach, pp. 227-267, (2013)#FRF#

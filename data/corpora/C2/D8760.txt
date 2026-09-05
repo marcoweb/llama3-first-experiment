@@ -1,0 +1,41 @@
+#ITI#Sink strength manipulation in branches of a Mediterranean woody plant suggests sink-driven allocation of biomass in fruits but not of nutrients in seeds#FTI#
+#IRE#The relative autonomy of branches within an individual plant may favor different resource allocation responses after reproductive losses. The assessment of these reproductive strategies at the branch level before their integration at the plant level would provide more insight into how plants deal with reproductive losses. Here, we present a field experiment to assess changes in the allocation strategies at the branch level after sink strength manipulation in a Mediterranean woody plant (Cistus ladanifer). We applied three levels of removal of developing fruits (75, 25 and 0 %) on branches of the same plants, and measured their effects on resource allocation (biomass, nitrogen and phosphorus) and seed production after controlling for the effects of branch diameter and leaf weight per branch. Our results suggest that after experimental fruit thinning, C. ladanifer branches presented a sink-driven allocation of biomass to fruits but this was not the case for the allocation of nutrients to seeds, which could be driven by competition with leaf biomass. Reductions in biomass per fruit resulted in a reduction in seed output since the average weight per seed remained constant. From these results, it could be suggested that an heterogeneous distribution of fruit losses among the branches within a crown would produce a higher impact on reproductive output than a more equitable distribution. © 2016, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Allocation; Branch autonomy; Cistus ladanifer; Nitrogen; Phosphorus; Reproductive investment; Trade-off#FPC#
+#IRF#Acosta F.J., Delgado J.A., Lopez F., Serrano J.M., Functional features and ontogenetic changes in reproductive allocation and partitioning strategies of plant modules, Plant Ecol, 132, pp. 71-76, (1997); 
+Austin R.B., The growth of watercress (Rorippa nasturtium aquaticum (L) Hayek) from seed as affected by the phosphorus nutrition of the parent plant, Plant Soil, 24, pp. 113-120, (1966); 
+Bolland M.D.A., Paynter B.H., Increasing phosphorus concentration in seed of annual pasture legume species increases herbage and seed yields, Plant Soil, 125, pp. 197-205, (1990); 
+Calvo L., Tarrega R., Luis E., Valbuena L., Marcos E., Recovery after experimental cutting and burning in three shrub communities with different dominant species, Plant Ecol, 180, pp. 175-185, (2005); 
+Delgado J.A., Serrano J.M., Lopez F., Acosta F.J., Heat shock, mass-dependent germination, and seed yield as related components of fitness in Cistus ladanifer, Environ Exp Bot, 46, pp. 11-20, (2001); 
+Delgado J.A., Serrano J.M., Lopez F., Acosta J.F., Seed size and seed germination in the Mediterranean fire-prone shrub Cistus ladanifer, Plant Ecol, 197, pp. 269-276, (2008); 
+Devlin B., Stephenson A.G., Sexual variations among plants of a perfect-flowered species, Am Nat, 130, pp. 199-218, (1987); 
+El-Keblawy A., Lovett-Doust J., Resource re-allocation following fruit removal in cucurbits: patterns in cantaloupe melons, New Pyhtol, 134, pp. 413-422, (1996); 
+Fang X.W., Yuan J.L., Wang G., Zhao Z.G., Fruit production of shrub, Caragana korshinskii, following above-ground partial shoot removal: mechanisms underlying compensation, Plant Ecol, 187, pp. 213-225, (2006); 
+Genard M., Dauzat J., Franck N., Lescourret F., Moitrier N., Vaast P., Vercambre G., Carbon allocation in fruit trees: from theory to modelling, Trees, 22, pp. 269-282, (2008); 
+Hanley M.E., Fenner M., Ne'eman G., Pregermination heat shock and seedling growth of fire-following Fabaceae from four Mediterraenan-climate regions, Acta Oecol, 22, pp. 315-320, (2001); 
+Heuvelink E., Effect of fruit load on dry matter partitioning in tomato, Sci Hortic, 69, pp. 51-59, (1997); 
+Hoch G., Fruit-bearing branchlets are carbon autonomous in mature broad-leaved temperate forest trees, Plant Cell Environ, 28, pp. 651-659, (2005); 
+Hoch G., Keel S.G., C-13 labelling reveals different contributions of photoassimilates from infructescences for fruiting in two temperate forest tree species, Plant Biol, 8, pp. 606-614, (2006); 
+Hochwender C.G., Sork V.L., Marquis R.J., Fitness consequences of herbivory on Quercus alba, Am Midl Nat, 150, 2, pp. 246-253, (2003); 
+Lacointe A., Deleens E., Ameglio T., Saint-Joanis B., Lelarge C., Vandame M., Song G.C., Daudet F.A., Testing the branch autonomy theory: a 13C/14C double-labelling experiment on differentially shaded branches, Plant Cell Environ, 27, pp. 1159-1168, (2004); 
+Landhausser S.M., Aspen shoots are carbon autonomous during bud break, Trees, 25, pp. 531-536, (2011); 
+Lord J.M., Westoby M., Accessory costs of seed production, Oecologia, 150, pp. 310-317, (2006); 
+Lowenberg G.J., Effects of floral herbivory on maternal reproduction in Sanicula arctopoides (Apiaceae), Ecology, 75, pp. 359-369, (1994); 
+Marsal J., Mata M., Arbones A., Rufat J., Girona J., Regulated deficit irrigation and rectification of irrigation scheduling in young pear trees: an evaluation based on vegetative and productive response, Eur J Agron, 17, pp. 111-122, (2002); 
+Marsal J., Basile B., DeJong T.M., Influence of branch autonomy on fruit, scaffold, trunk and root growth during Stage III of peach fruit development, Tree Physiol, 23, pp. 313-323, (2003); 
+Marsal J., Mata M., Arbones A., Del Campo J., Girona J., Lopez G., Factors involved in alleviating water stress by partial crop removal in pear trees, Tree Physiol, 28, pp. 1375-1382, (2008); 
+Millard P., Grelet G.A., Nitrogen storage and remobilization by trees: ecophysiological relevance in a changing world, Tree Physiol, 30, pp. 1083-1095, (2010); 
+Nombela G., Navas A., Bello A., Structure of the nematofauna in Spanish Mediterranean Continental soils, Biol Fertil Soils, 18, pp. 183-192, (1994); 
+Obeso J.R., Effects of defoliation and girdling on fruit production in Ilex aquifolium, Funct Ecol, 12, pp. 486-491, (1998); 
+Obeso J.R., A hierarchical perspective in allocation to reproduction from whole plant to fruit and seed level, Perspect Plant Ecol Evol Syst, 6, pp. 217-225, (2004); 
+Obeso J.R., Mineral nutrient stoichiometric variability in Hedera helix (Araliaceae) seeds, Ann Bot, 109, 4, pp. 801-806, (2012); 
+Oitate H., Noguchi Km Sone K., Terashima I., Suzuki A.A., Patterns of photoassimilate translocation to reproductive shoots from adjacent shoots in Camellia sasanqua by manipulation of sink-source balance between the shoots, J Plant Res, 124, pp. 131-136, (2011); 
+Pilson D., Decker K.L., Compensation for herbivory in wild sunflower: response to simulated damage by the head-clipping weevil, Ecology, 83, pp. 3097-3107, (2002); 
+Radojevic M., Bashkin V., Practical environmental analysis, (1999); 
+Sadras V.O., Cotton compensatory growth after loss of reproductive organs as affected by availability of resources and duration of recovery period, Oecologia, 106, pp. 432-439, (1996); 
+Silvertown J., The paradox of seed size and adaptation, Trends Ecol Evol, 4, pp. 24-26, (1989); 
+Talavera S., Gibbs P.E., Herrera J., Reproductive biology of Cistus ladanifer (Cistaceae), Plant Syst Evol, 186, pp. 123-134, (1993); 
+Trueman S.J., Wallace H.M., Pollination and resource constraints on fruit set and fruit size of Persoonia rigida (Proteaceae), Ann Bot, 83, pp. 145-155, (1999); 
+Valladares F., Architecture, ecology, and evolution of plant crowns, Handbook of functional plant ecology, pp. 121-194, (1999); 
+Volpe G., Bianco L.B., Rieger M., Carbon autonomy of peach shoots determined by C13-photoassimilate transport, Tree Physiol, 28, pp. 1805-1812, (2008); 
+Watson M.A., Integrated physiological units in plants, Trends Ecol Evol, 1, pp. 119-123, (1986); 
+Wise M.J., Cummins J.J., De Young C., Compensation for floral herbivory in Solanum carolinense: identifying mechanisms of tolerance, Evol Ecol, 22, pp. 19-37, (2008)#FRF#

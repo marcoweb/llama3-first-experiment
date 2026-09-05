@@ -1,0 +1,41 @@
+#ITI#Freezing tolerance in hydrated lettuce (Lactuca sativa) seeds is dependent on cooling rate but not imbibition temperature#FTI#
+#IRE#The effect of cold acclimation and cooling rate conferring viability of fully hydrated Lactuca sativa cv. Iceberg seeds were studied using differential scanning calorimetry (DSC) and controlled freezing experiments, with an intention to gain insights into the mechanisms seeds use in the natural environment to survive low temperatures. Rapidly cooled (60 °C h−1) cold acclimated or non-acclimated seeds although showed a high-temperature exotherm (HTE) and a low-temperature exotherm (LTE), the mortality correlated only with the LTE noted predominantly around −16 °C and below which no seed survived. In contrast, cooling cold acclimated and non-acclimated seeds at a slower rate (3 °C h−1), generated only one exotherm above −13 °C and seed viability was unaffected below this exotherm. However, noticeable seed mortality occurred in slow-cooled seeds during decrease in temperature and at below −40 °C no seeds survived, indicating that there is a lower limit to this mechanism. Excessive desiccation of the embryo water and/or membrane damage is proposed to be a likely factor contributing to seed mortality at lower temperatures. We conclude that cold acclimation is neither an essential nor a satisfying requirement for low-temperature survival of L. sativa seeds. The mechanism is rather determined by the rate at which the seeds are cooled. © 2016, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Cold-acclimation; Cooling rate; Freeze-desiccation; Freezing injury; Lettuce; Supercooling#FPC#
+#IRF#Bai Y., Booth D.T., Romo J.T., Winterfat (Eurotia lanata (Pursh) Moq.) seedbed ecology: Low temperature exotherms and cold hardiness in hydrated seeds as influenced by imbibition temperature, Ann Bot, 81, pp. 595-602, (1998); 
+Beck E., Schulze E.D., Senser M., Scheibe R., Equilibrium freezing of leaf water and extracellular ice formation in Afroalpine ‘giant rosette’plants, Planta, 162, pp. 276-282, (1984); 
+Becwar M., Stanwood P., Leonhardt K., Dehydration effects on freezing characteristics and survival in liquid nitrogen of desiccation-tolerant and desiccation-sensitive seeds, J Am Soc Hort Sci, 108, pp. 613-618, (1983); 
+Booth D.T., Bai Y., Imbibition temperature affects on seedling vigor: In crops and shrubs, J Range Manag, 52, pp. 534-538, (1999); 
+Bourque J.E., Wallner S.J., Endosperm and pericarp involvement in the supercooling of imbibed lettuce seeds, Plant Physiol, 70, (1982); 
+De Vries I., Origin and domestication of Lactuca sativa L, Genet Resour Crop Evol, 44, pp. 165-174, (1997); 
+Gusta L.V., Gao Y.P., Benning N.T., Freezing and desiccation tolerance of imbibed canola seed, Physiol Plantarum, 127, pp. 237-246, (2006); 
+The germination test, International Rules for Seed Testing: International Seed Testing Association, pp. 1-46, (2010); 
+Jaganathan G., Liu B., Effects of dimethyl sulfoxide concentration, pre-cooling and cooling rate on cryopreservation of hydrated lettuce seeds, Seed Sci Technol, 42, pp. 214-226, (2014); 
+Junttila O., Stushnoff C., Freezing avoidance by deep supercooling in hydrated lettuce seeds, Nature London, 269, pp. 325-327, (1977); 
+Keefe P., Moore K., Freeze desiccation: a second mechanism for the survival of hydrated lettuce (Lactuca sativa L.) seed at sub-zero temperatures, Ann Bot, 47, pp. 635-645, (1981); 
+Keefe P., Moore K., Frost damage during stratification:mechanism and protection in Pinus sylvestris, Seed Sci Technol, 10, pp. 485-495, (1982); 
+Keefe P., Moore K., Freezing tolerance in hydrated Lactuca sativa (L) seed: a model to explain observed variation between seed lots, Ann Bot, 51, pp. 373-383, (1983); 
+Levitt J., Responses of plants to environmental stress. Chilling, freezing, And high temperature stresses, (1980); 
+Lindqvist K., On the origin of cultivated lettuce, Hereditas, 46, pp. 319-350, (1960); 
+Lutz C., Plants in alpine regions: cell physiology of adaption and survival strategies, (2011); 
+Ma M., Zhou X., Wang G., Ma Z., Du G., Seasonal dynamics in alpine meadow seed banksalong an altitudinal gradient on the Tibetan Plateau, Plant Soil, 336, pp. 291-302, (2010); 
+Mazur P., Freezing injury in plants, Ann Rev Plant Physiol, 20, pp. 419-448, (1969); 
+Mazur P., Freezing of living cells: mechanisms and implications, Am J Physiol Cell Physiology, 247, pp. C125-C142, (1984); 
+Murphy J.B., Noland T.L., Temperature effects on seed imbibition and leakage mediated by viscosity and membranes, Plant Physiol, 69, pp. 428-431, (1982); 
+Nguyen X.V., Kacperska A., Freezing pattern in apple seeds as affected by the temperature of fruit storage, Physiol Plant, 78, pp. 112-116, (1990); 
+Nguyen X.V., Kacperska A., Supercooling ability in apple seeds as affected by temperature-induced modifications in water relations in the seed parts, Physiol Plant, 78, pp. 117-122, (1990); 
+Pearce R.S., Plant freezing and damage, Ann Bot, 87, pp. 417-424, (2001); 
+Rajashekar C., Burke M., Liquid water during slow freezing based on cell water relations and limited experimental testing, Plant cold hardiness and freezing stress: mechanisms and crop implications, pp. 211-220, (1982); 
+Roos E., Stanwood P., Effects of low temperature, cooling rate and moisture content on seed germination of lettuce, J Am Hort Sci, 103, pp. 30-34, (1981); 
+Sakai A., Survival of the twig of woody plants, Nature London, 185, pp. 393-394, (1960); 
+Sakai A., Larcher W., Frost survival of plants, Responses and adaptation to freezing stress, (1987); 
+Salt R., Principles of insect cold-hardiness, Ann Rev Ent, 6, pp. 55-74, (1961); 
+Shugart H.H., Leemans R., Bonan G.B., A systems analysis of the global boreal forest, (1992); 
+Steponkus P.L., Role of the plasma membrane in freezing injury and cold acclimation, Ann Rev Plant Physiol, 35, pp. 543-584, (1984); 
+Stushnoff C., Junttila O., Resistance to low temperature injury in hydrated lettuce seed by supercooling, Plant cold hardiness and freezing stress, pp. 241-248, (1978); 
+Thomashow M.F., Plant cold acclimation: freezing tolerance genes and regulatory mechanisms, Ann Rev Plant Biol, 50, pp. 571-599, (1999); 
+Towill L.E., Mazur P., Osmotic shrinkage as a factor in freezing injury in plant tissue cultures, Plant Physiol, 57, pp. 290-296, (1976); 
+Vernon P., Vannier G., Arondel V., Supercooling capacity of seeds and seedlings in Arabidopsis thaliana, Cryobiology, 39, pp. 138-143, (1999); 
+Vertucci C.W., Leopold A.C., Dynamics of imbibition by soybean embryos, Plant Physiol, 72, pp. 190-193, (1983); 
+Vertucci C.W., Stushnoff C., The state of water in acclimating vegetative buds from Malus and Amelanchier and its relationship to winter hardiness, Physiol Plant, 86, pp. 503-511, (1992); 
+Weiser C., Cold Resistance and injury in woody plants: Knowledge of hardy plant adaptations to freezing stress may help us to reduce winter damage, Science, 169, (1970); 
+Zachariassen K.E., Kristiansen E., Ice nucleation and antinucleation in nature, Cryobiology, 41, pp. 257-279, (2000)#FRF#

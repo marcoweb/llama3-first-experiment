@@ -1,0 +1,33 @@
+#ITI#A new and reliable way to detect frost tolerance in Pooideae plants#FTI#
+#IRE#The morphological markers of plant-stress tolerance are often evaluated as having essential limitations: a continuous reaction to the environmental fluctuations and their excessive influence on each other. To avoid these limitations, the authors propose a new strategy for searching for markers, based on the identification of macro-traits related with adaptive growth bifurcation. The later manifests itself in roots as a sharp decline of meristem cell production at ~ 4 °C. It has been detected that under the hardening regime, the length of root growth zone of stress-tolerant Festuca pratensis is significantly shorter than that of less stress-tolerant Lolium multiflorum and Festulolium braunii. Using a quantitative approach, it was determined that this decrease in cell production results in the sharp decrease of growing cells number and also strongly reduces the growth zone length. Besides this, during the hardening regime, the length dynamics of F. pratensis root hairs was significantly higher than that of other species. This effect is caused by meristem bifurcation, which determines the rare release of cells from the growth zone, thus, the previous root hairs increase significantly. The proposed bifurcation-related markers seem to withstand these limitations and could be applied in plant breeding and the ecological evaluation of plants. © 2021, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Adaptive growth bifurcation; Meristem cell production; Morphological markers; Pooideae plants; Root hair length dynamics; Short growth zone; Stationary growth equations#FPC#
+#IRF#Amom T., Nongdam P., The use of molecular marker methods in plants: a review, J Cur Res Rev, 9, (2017); 
+Andersen J.R., Lubberstedt T., Functional markers in plants, Trends Plant Sci, 8, 11, pp. 554-560, (2003); 
+Arnholdt-Schmitt B., Costa J.H., Melo D.F., AOX—a functional marker for efficient cell reprogramming under stress?, Trends Plant Sci, 11, 6, pp. 281-287, (2006); 
+Carol R.J., Dolan L., Building a hair: tip growth in Arabidopsis thaliana root hairs Philosophical Transactions of the Royal Society, B Biol Sci, 357, 1422, pp. 815-821, (2002); 
+Caverzan A., Casassola A., Brammer S.P., Antioxidant responses of wheat plants under stress, Genet Mol Biol, 39, 1, pp. 1-6, (2016); 
+Chinnusamy V., Xiong L., Zhu J.-K., Use of genetic engineering and molecular biology approaches for crop improvement for stress environments, Abiotic Stresses: Plant Resistance Through Breeding and Molecular Approaches, pp. 47-107, (2005); 
+Chinnusamy V., Zhu J.K., Sunkar R., Gene regulation during cold stress acclimation in plants, Plant Stress Tolerance. Methods in Molecular Biology (Methods and Protocols), 639, pp. 39-55, (2010); 
+Grime J.P., Hodgson J.G., Hunt R., Comparative plant ecology: a functional approach to common british species, (2007); 
+Ivanov V.B., Cellular organization of root growth, Sov Sci Rev Ser Biol, 2, pp. 365-392, (1981); 
+Ivanov V.B., Root growth responses to chemicals, Sov Sci Rev Ser D Physicohem Biol, 13, pp. 1-70, (1994); 
+Ivanov V.B., Meristem as a self-renewing system. Maintenance and cessation of cell proliferation (a review), Russ J Plant Physiol, 51, pp. 834-847, (2004); 
+Lemeziene N., Kanapeckas J., Tarakanovas P., Nekrosas S., Analysis of dry matter yield structure of forage grasses, Plant Soil Environ, 50, 6, pp. 277-282, (2004); 
+Mhadhbi H., Fotopoulos V., Mylonac P.V., Jebaraa M., Aouania M.B., Polidoros A.N., Alternative oxidase1 (Aox1) gene expression in roots of Medicago truncatula is a genotype specific component of salt stress tolerance, J Plant Physiol, 170, pp. 111-114, (2013); 
+Nekrosas S., Sliesaravicius A., Investigation of intergeneric ryegrass-fescue and intespecific ryegrass hybrids developed in Lithuania, Žemdirbystė, 78, 2, pp. 158-164, (2002); 
+Paul M.J., Foyer C.H., Sink regulation of photosynthesis, J Exp Bot, 52, pp. 1383-1400, (2001); 
+Pfeiffer W.H., Trethowan R.M., Vanortiz-Monasterio I., Rajaram S., Breeding for abiotic stress tolerance in wheat, Abiotic Stresses: Plant Resistance through Breeding and Molecular Approaches, pp. 401-490, (2005); 
+Revilla P., Butron A., Cartea M.E., Malvar R.A., Ordas A., Abiotic Stresses: Plant Resistance through Breeding and Molecular Approaches Pp, pp. 301-400, (2005); 
+Saha B., Borovskii G., Panda S.K., Alternative oxidase and plant stress tolerance, Plant Signal Behav, 11, 12, (2016); 
+Simkunas A., (2004); 
+Simkunas A., Pasakinskiene I., Investigation of root elongation and cytomorphological characters of Italian ryegrass, meadow fescue and their hybrids, The 3Rd Genetical Congress of Baltic States, pp. 69-70, (2002); 
+Simkunas A., Valasinaite S., Pasakinskiene I., Root growth characteristics of Festuca, Lolium and Festulolium in relation to stress tolerance, Biologija, 18, 1, pp. 64-68, (2007); 
+Simkunas A., Valasinaite S., Svitra D., Temperature-dependent growth adaptation of Festuca pratensis from the biophysical viewpoint, J Agron Crop Sci, 197, 5, pp. 361-367, (2011); 
+Simkunas A., Valasinaite S., Denisov V., Salyte A., Systemic view on heading and overwintering: are they always opposed?, J Agron Crop Sci, 199, 6, pp. 460-465, (2013); 
+Simkunas A., Denisov V., Valasinaite S., Systemic research of plant growth and stress in a specially designed climatic hydroponics system, J Agron Crop Sci, 204, 6, pp. 613-623, (2018); 
+Souza M.G., Bertolli S.C., Luttge U., Hierarchy and informatikon in a system approach to plant biology: Explaining the irreducibility in plant ecophysiology, Progress in botany 77, pp. 167-186, (2016); 
+Sugiyama S., Polyploidy and cellular mechanisms changing leaf size: comparison of diploid and autotetraploid populations in two species of Lolium, Ann Bot, 96, 5, pp. 931-938, (2005); 
+Tognetti J.A., Pontis H.G., Martinez-Noel G.M., Sucrose signalling in plants: a world yet to be explored, Plant Signal Behav, 8, 3, (2013); 
+Vavilov N., The law of homologous series in variation, J Genet, 12, (1922); 
+Veselovskii V.A., Veselova T.V., Chernavskii D.S., Plant stress: A biophysical approach, Russ J Plant Physiol Engl Transl, 40, pp. 553-557, (1993); 
+Zhang C., Fei S., Warnke S., Hannapel L., Li D., Identification of genes associated with cold acclimation in perennial ryegrass, J Plant Physiol, 166, pp. 1436-1445, (2009)#FRF#

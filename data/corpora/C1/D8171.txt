@@ -1,0 +1,30 @@
+#ITI#Effects of irrigation level and timing on profile soil water use by grain sorghum#FTI#
+#IRE#Although deficit irrigation (DI) may have the potential to optimize crop yields in water limited environments, the success of such strategies may depend on the ability to manage variability in profile stored soil water during periods of drought. Understanding variability in stored soil water and crop rooting depth is an important component of successfully managing a deficit irrigation strategy. Traditionally, DI is applied at a fraction of the full irrigation (FI) requirement, but managed deficit irrigation (MDI) may optimize yield and irrigation by coordinating irrigation timing with the crop's reproductive stages through the management of soil water depletion and water stress. The depth of the soil water use by grain sorghum [Sorghum bicolor (L.) Moench] was evaluated in the High Plains of Texas, USA under FI, DI, and MDI strategies: during the 2010–2012 growing seasons. Crop water use during critical growth stages was year specific due to variable precipitation and antecedent soil moisture even though irrigation strategies were maintained as planned in all years. In 2010, soil water contents within the rooting zone (0–1.6 m) were > 50 % of the potential plant available water (PPAW) in the soil at emergence under all treatments, and soil water contents remained > 50 % PPAW at half-bloom for FI and MDI. Soil water contents were < 50 % PPAW at half-bloom for both DI and MDI in 2011 and 2012. In 2011, water contents only remained> 50 % PPAW under FI from 0- to 0.6-m through the growing season. Due to variability in the depth of the stored soil water, irrigation scheduling based on managed allowed depletion below PPAW may need to be modified to account for greater sparse root densities deeper in the profile. © 2020#FRE#
+#IPC#Crop water use; Grain sorghum; Irrigation; Soil water management#FPC#
+#IRF#Allen R.G., Pereira L.S., Raes D., Wright J.L., FAO-56 dual crop coefficient method for predicting evaporation from soil and application extensions, J. Irrig. Drain. Eng., 31, 1, pp. 85-93, (2005); 
+Assefa Y., Staggenborg S.A., Prasad V.P.V., Grain sorghum water requirement and responses to drought stress: a review, Crop Mgmt., (2010); 
+Bell J.M., Schwartz R.C., McInnes K.J., Howell T.A., Morgan C.L., Deficit irrigation effects on yield and yield components of grain sorghum, Agric. Water Manag., 203, pp. 289-296, (2018); 
+Bohm W., Methods of Studying Root Systems. Ecological Studies, (1979); 
+Borrell A.G., Hammer G.L., Henzell R.G., Does maintaining green leaf area in sorghum improve yield under drought? II. Dry matter production and yield, Crop Sci., 40, pp. 1037-1048, (2000); 
+Blum A., Arkin A.F., Sorghum root growth and water use as affected by water supply and growth duration, Field Crops Res., 9, pp. 131-142, (1984); 
+Blum A., Ritchie J., Effect of soil surface water content on sorghum root distribution in the soil, Field Crops Res., 8, pp. 169-176, (1984); 
+Calzadilla A., Rehdanz K., Tol R.S.J., The economic impact of more sustainable water use in agriculture: a computable general equilibrium analysis, J. Hydrol. (Amst), 384, pp. 292-305, (2010); 
+Chai Q., Gan Y., Zhao C., Xu H.-L., Waskon R.M., Niu Y., Siddique K.H.M., Regulated deficit irrigation for crop production under drought stress. A review, Agron. Sustain. Dev., 36, 3, (2016); 
+Chavez M.M., Maroco J.P., Pereira J.S., Understanding plant responses to drought-from genes to the whole plant, Funct. Plant Biol., 30, pp. 239-264, (2003); 
+Evett S.R., Howell T.A., Steiner J.L., Cresap J.L., Evapotranspiration by Soil Water Balance Using TDR and Neutron Scattering, (1993); 
+Evett S.R., Schwartz R.C., Howell T.A., Baumhardt R.L., Copeland K.S., Can weighing lysimeter ET represent surrounding field ET well enough to test flux station measurements of daily and sub-daily ET?, Adv. Water Resour. Prot., 50, pp. 79-90, (2012); 
+FAO, AQUASTAT Website, (2016); 
+Gardner W.R., Relation of root distribution to water uptake and availability, Agron. J., 56, pp. 41-45, (1964); 
+Gurdak J.J., Roe C.D., Recharge Rates and Chemistry Beneath Playas of the High Plains Aquifer. A Literature Review and Synthesis: U.S. Geological Survey Circular, (2009); 
+Gurian-Sherman D., High and Dry: Why Genetic Engineering Is Not Solving Agriculture's Drought Problem in a Thirsty World, (2012); 
+Howell T.A., Hiler E.A., Optimization of water use efficiency under high frequency irrigation I. Evapotranspiration and yield relationship, Trans. ASAE, 18, pp. 873-878, (1975); 
+Hsiao T.C., Acevedo E., Plant responses to water deficits, water use efficiency, and drought resistance, Agric. Meteor., 14, pp. 59-84, (1974); 
+Hulugalle N.R., Lal R., Soil water balance of intercropped maize and cowpea grown in a tropical hydromorphic soil in western Nigeria, Agron. J., 78, pp. 86-90, (1986); 
+Moroke T.S., Schwartz R.C., Brown K.W., Juo A.S.R., Soil water depletion and root distribution of three dryland crops, Soil Sci. Soc. Am. J., 69, pp. 197-205, (2005); 
+Musick J.T., Sletten W.H., Grain sorghum irrigation-water management on Richfield and Pullman Soils, Trans. ASAE, 9, pp. 369-373, (1966); 
+Ober E.S., Sharp R.E., Regulation of root growth responses to water deficit, Advances in Molecular Breeding toward Drought and Salt Tolerant Crops, pp. 33-53, (2007); 
+Pabuayon I.L.B., Singh S., Lewis K.L., Ritchie G.L., Water extraction and productivity of cotton, sorghum, and sesame under deficit irrigation, Crop Sci., 59, pp. 1692-1700, (2019); 
+SAS Institute, User's guide: Statistics, (2004); 
+Sharp R.E., Wu Y., Voetberg G.S., Saab I.N., LeNoble M.E., Confirmation that abscisic acid accumulation is required for maize primary root elongation at low water potentials, J. Exp. Bot., 45, pp. 1743-1751, (1994); 
+Tolk J.A., Evett S.R., Lower limits of crop water use in three soil textural classes, Soil Sci. Soc. Am. J., 76, pp. 607-612, (2012); 
+Wright G.C., Smith R.C.G., Differences between two grain sorghum genotypes in adaptation to drought stress. II. Root water uptake and water use. CSIRO, Aust. J. Agric. Res., 34, 6, pp. 627-636, (1983)#FRF#

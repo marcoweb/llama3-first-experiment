@@ -1,0 +1,41 @@
+#ITI#The effects of foliar-applied manganese on major cell wall polysaccharide fractions and soluble sugar composition of cucumber leaves#FTI#
+#IRE#Increasing evidence shows that micronutrients can induce changes in cell wall (CW) properties in plants. A detailed knowledge of these changes will contribute to understand the beneficial and detrimental impacts of trace elements on plant development and defence. In the present work, the influence of foliar spray of manganese (Mn) on the composition of CW polysaccharides and soluble sugars was investigated in cucumber leaves using spectrophotometric and chromatographic techniques. Cucumber seedlings were hydroponically cultured under controlled situations for 21 days. At the two-leaf stage, the above facade of cucumber leaves was fertilized with MnSO4 solutions at various dosages (1.8, 4.5 and 7.2 mM). Results showed that the foliar Mn spray decreased the galacturonic acid (GalA) content, while it increased the degree-of-methyl-esterification (DM) of pectin. The amounts of fucose, arabinose and galactose diminished upon Mn application. The contents of rhamnose and xylose decreased or did not change by Mn treatment. The glucose level enhanced at low concentration of Mn (1.8 mM), but it decreased at medium and high concentrations of Mn (4.5 and 7.2 mM). The increase of mannose content was significant only at medium concentration of Mn. Overall, the amount of total hemicellulose increased at 1.8 mM concentration of Mn, while a decrease was observed at 4.5 and 7.2 mM concentrations of Mn. The cellulose content decreased at low and high concentrations of Mn, although it remained unchanged at medium concentration of Mn. Generally, the total contents of CW polysaccharides increased at low concentration of Mn, but they decreased at the higher concentrations of Mn. Such changes can be important in plant resistance to environmental stresses via reduction of permeability against fungal pathogens and decrease of water loss from tissues under stresses such as drought and salinity. © 2020, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Cellulose; Cucumber; Galacturonic acid; Glucose; Manganese#FPC#
+#IRF#Arancibia R.A., Motsenbocker C.E., Pectin methylesterase activity in vivo differs from activity in vitro and enhances polygalacturonase-mediated pectin degradation in tabasco pepper, J Plant Physiol, 163, pp. 488-496, (2006); 
+Baker D.B., Ray P.M., Relation between effects of Auxin on cell wall synthesis and cell elongation, Plant Physiol, 40, 2, pp. 360-368, (1965); 
+Blevins D.G., Lukaszewski K.M., Boron in plant structure and function, Annu Rev Plant Physiol Plant Mol Biol, 49, pp. 481-500, (1998); 
+Blumenkrantz N., Asboe-hansen G., New method for quantitative determination of uranic acids, Anal Biochem, 54, pp. 484-489, (1973); 
+Burnell J., The biochemistry of manganese in plants, Manganese in soil and plants, pp. 125-137, (1988); 
+Cano-Delgado A., Penfield S., Smith C., Catley M., Bevan M., Reduced cellulose synthesis invokes lignification and defence responses in Arabidopsis thaliana, Plant J, 34, pp. 351-362, (2003); 
+Chen H., Biotechnology of lignocellulose: theory and practice, (2014); 
+Cosgrove D.J., Re-constructing our models of cellulose and primary cell wall assembly, Curr Opin Plant Biol, 22, pp. 122-131, (2014); 
+Dordas C., Role of nutrients in controlling plant diseases in sustainable agriculture: a review, Agron Sustain Dev, 28, pp. 33-46, (2008); 
+Dronnet V.M., Renard C.M.G.C., Axelos M.A.V., Thibault J.F., Heavy metals binding by pectins: selectivity, quantification and characterization, Carbohydr Polym, 30, pp. 253-263, (1996); 
+Ducic T., Polle A., Transport and detoxification of manganese and copper in plants, Braz J Plant Physiol, 17, pp. 103-112, (2005); 
+Endler A., Persson S., Cellulose synthases and synthesis in Arabidopsis, Mol Plant, 4, pp. 199-211, (2011); 
+Eskandari S., Sharifnabi B., The modifications of cell wall composition and water status of cucumber leaves induced by powdery mildew and manganese nutrition, Plant Physiol Biochem, 145, pp. 132-141, (2019); 
+Graham D.R., Webb M.J., Micronutrients and disease resistance and tolerance in plants, Micronutrients in agriculture, pp. 329-370, (1991); 
+Hamann T., Plant cell wall integrity maintenance as an essential component of biotic stress response mechanisms, Front Plant Sci, 3, (2012); 
+Harholt J., Jensen J.K., Sorensen S.O., Orfila C., Pauly M., Scheller H.V., ARABINAN DEFICIENT 1 is a putative arabinosyltransferase involved in biosynthesis of pecticarabinan in Arabidopsis, Plant Physiol, 140, 1, pp. 49-58, (2006); 
+Huber M.D., The role of nutrition in the take-all disease of wheat and other small grains, Management of diseases with macro- and microelements, pp. 46-74, (1996); 
+Huber D.M., Graham R.D., The role of nutrition in crop resistance and tolerance to disease, Mineral nutrition of crops fundamental mechanisms and implications, pp. 205-226, (1999); 
+Kobayashi M., Matoh T., Azuma J., Two chains of rhamnogalacturonan II are cross-linked by borate-diol ester bonds in higher plant cell walls, Plant Physiol, 110, pp. 1017-1020, (1996); 
+Krauss A., Balanced nutrition and biotic stress, IFA Agricultural Conference on Managing Plant Nutrition, (1999); 
+Krzeslowska M., The cell wall in plant cell response to trace metals: polysaccharide remodeling and its role in defence strategy, Acta Physiol Plant, 51, pp. 35-51, (2011); 
+Lidon F.C., Barreiro M., Ramalho J., Manganese accumulation in rice: implications for photosynthetic functioning, J Plant Physiol, 161, pp. 1235-1244, (2004); 
+Lionetti V., Cervone F., Bellincampi D., Methyl esterification of pectin plays a role during plant–pathogen interactions and affects plant resistance to diseases, Plant Physiol, 169, pp. 1623-1630, (2012); 
+Marschner H., Mineral nutrition of higher plants, (1995); 
+Morris E.R., Powell D.A., Gidley M.J., Rees D.A., Conformations and interactions of pectins: I. Polymorphism between gel and solid states of calcium polygalacturonate, J Mol Biol, 155, pp. 507-516, (1982); 
+Nuhse T.S., Cell wall integrity signalling and innate immunity in plants, Front Plant Sci, 3, (2012); 
+Parrotta L., Guerriero G., Sergeant K., Cai G., Hausman J.F., Target or barrier? The cell wall of early- and later-diverging plants vs cadmium toxicity: differences in the response mechanisms, Front Plant Sci, 6, (2015); 
+Pelloux J., Rusterucci C., Mellerowicz E.J., New insight into pectin methylesterase structure and function, Trends Plant Sci, 12, pp. 267-277, (2007); 
+Romheld V., Marschner H., Function of micronutrients in plants, Micronutrients in agriculture, pp. 297-328, (1991); 
+Rovira A.D., Graham R.D., Ascher J.S., Reduction in infection of wheat roots by Gaeumannomyces graminis var. tritici with application of manganese to soil, Ecology and management of soilborne plant pathogens, (1983); 
+Scheller H.V., Ulvskov P., Hemicelluloses, Annu Rev Plant Biol, 61, pp. 263-289, (2010); 
+Sharma S., Uttam K.N., Investigation of the manganese stress on wheat plant by attenuated total reflectance Fourier transform infrared spectroscopy, Spectrosc Lett, 49, 8, pp. 520-528, (2016); 
+Updegraff D.M., Semimicro determination of cellulose in biological materials, Anal Biochem, 32, pp. 420-424, (1969); 
+Vidhyasekaran P., Fungal pathogenesis in plants and crops: molecular biology and host defence mechanisms, (1997); 
+Voragen A.G.J., Coenen G., Verhoef R.P., Schols H.A., Pectin, a versatile polysaccharide present in plant cell walls, Struct Chem, 20, (2009); 
+Voxeur A., Habrylo O., Guenin S., Miart F., Soulie M.C., Rihouey C., Pau-Roblot C., Domon J.M., Gutierrez L., Pelloux J., Mouille G., Fagard M., Hofte H., Vernhettes S., Oligogalacturonide production upon Arabidopsis thaliana–Botrytis cinerea interaction, Proc Natl Acad Sci USA, 116, pp. 19743-19752, (2019); 
+Wang J.J., Evangelou B.P., Ashraf M.M., Changes in root cell wall chemistry induced by manganese exposure with two tobacco genotypes, J Plant Nutr, 26, 8, pp. 1527-1540, (2003); 
+Wolf S., Mouille G., Pelloux J., Homogalacturonan methyl-esterification and plant development, Mol Plant, 2, pp. 851-860, (2009)#FRF#

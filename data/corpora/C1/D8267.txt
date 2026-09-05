@@ -1,0 +1,42 @@
+#ITI#Transient soil salinity under the combined effect of reclaimed water and regulated deficit drip irrigation of mandarin trees#FTI#
+#IRE#Regulated deficit irrigation (RDI) strategy using saline reclaimed water is becoming a frequent practice under semiarid Mediterranean climatic conditions in the southeastern region of Spain. There is a concern that the long-term use of this strategy will affect the production sustainability of the agricultural soils. This paper evaluates the field consequences of this strategy on the accumulation of salts within the plant root zone. Full and regulated deficit surface drip deficit irrigation was combined with fresh water (EC 1 dS m-1) and saline (EC 3 dS m-1) tertiary reclaimed water to irrigate adult mandarin trees over a 3-year period. The control treatment received 100% of the crop evapotranspiration "ETc" and the RDI treatment received 50% of ETc during the 2nd stage of fruit growth. Soil water content was monitored every other week within the soil wetted volume under the emitter. Gravimetric soil samples were collected from 3 depths and at 3 distances to the emitter, twice a year: at the end of irrigation season and at the conclusion of RDI period. Soluble salts, electrical conductivity and sodium adsorption ratio were determined in the saturated paste extract. The results show how the RDI strategy intensifies the development of salinity gradient away from the emitter even when using good quality water. The combination of RDI with saline reclaimed water produced transient saline-sodic conditions at the outer superficial limits of the wetted bulb under the emitter. The appearance of such adverse conditions is alarming and would threaten the sustainability of agricultural soils. Therefore soil water deficit should be avoided whenever saline reclaimed water is in use for irrigation. © 2012 Elsevier B.V.#FRE#
+#IPC#Mandarin; Regulated deficit irrigation; Salinity; Treated wastewater#FPC#
+#IRF#Allen R.G., Pereira L.S., Raes D., Smith M., Crop Evapotranspiration-guidelines for Computing Crop Water Requirements., Irrigation and Drainage, 56, (1998); 
+Angin I., Yaganoglu A.V., Turan M., Effects of long-term wastewater irrigation on soil properties, Journal of Sustainable Agriculture, 26, pp. 31-42, (2005); 
+Ayars J.E., Hutmacher R.B., Schoneman R.A., Vail S.S., Pflaum T., Long-term use of saline water for irrigation, Irrigation Science, 14, pp. 27-34, (1993); 
+Ballester C., Castel J., Intrigliolo D.S., Castel J.R., Response of Clementina de Nules citrus trees to regulated deficit irrigation, Yield components and fruit composition. Agricultural Water Management, 98, pp. 1027-1032, (2011); 
+Bittelli M.F., Salvatorelli F., Rossi-Pisa P., Correction of TDR-based soil water content measurements in conductive soils, Geoderma, 143, pp. 133-142, (2008); 
+Castel J.R., Bautista I., Ramos C., Cruz G., Evapotranspiration and irrigation efficiency of mature orange orchards in Valencia (Spain), Irrigation and Drainage Systems, 3, pp. 205-217, (1987); 
+Colino Sueiras J., Martinez Paz J.M., Productividad, disposición al pago y eficiencia técnica en el uso del agua: la horticultura intensiva de la región de Murcia, Economía Agraria y Recursos Naturales, 7, pp. 109-125, (2007); 
+Darwish T., Atallah T., El Moujabber M., Khatib N., Salinity evolution and crop response to secondary soil salinity in two agro-climatic zones in Lebanon, Agricultural Water Management, 78, pp. 152-164, (2005); 
+De Jong Van De Lier Q., van Dam J.C., Metselaar K., Root water extraction under combined water and osmotic stress, Soil Science Society of America Journal, 73, pp. 862-875, (2009); 
+Del Amor Garcia F., El riego con aguas salobres en Murcia (Proyectos en marcha durante la última sequía., Situación actual y perspectivas)., Publicaciones CEBASCSIC- Programa de Asesoramiento en Riegos, Murcia., (2000); 
+Endo T., Yamamoto S., Honna T., Eneji A.E., Sodium-calcium exchange selectivity as influenced by clay minerals and composition., Soil Science, 167, 2, pp. 117-125, (2002); 
+Entidad Regional de Saneamiento y Depuración de Aguas Residuales [on line]., (2009); 
+Garcia-Tejero I., Romero-Vicente R., Jimenez-Bocanegra J.A., Martinez-Garcia G., Duran-Zuazo V.H., Muriel-Fernandez J.L., Response of citrus trees to deficit irrigation during different phenological periods in relation to yield, fruit quality, and water productivity, Agricultural Water Management, 97, pp. 689-699, (2010); 
+Geerts A., Raes D., Deficit irrigation as an on-farm strategy to maximize crop water productivity in dry areas., Agricultural Water Management, 96, 9, pp. 1257-1284, (2009); 
+Gonzalez-Altozano P., Castel J.R., Regulated deficit irrigation in 'Clementina de Nules' citrus trees, I. Yield and fruit quality effects., Journal of Horticultural Science & Biotechnology, 74, pp. 706-713, (1999); 
+Hillel D., Salinity Management for Sustainable Irrigation: Integrating Science, Environment and Economics., The World Bank, (2000); 
+Homaee M., Schmidhalter U., Water integration by plant root under nonuniform salinity, Irrigation Science, 27, pp. 83-95, (2008); 
+Ibor C.S., Molla M.G., Reus L.A., Genoves J.C., Reaching the limits of water resources mobilization: irrigation development in the Segura river basin, Spain., Water Alternatives, 4, 3, pp. 259-278, (2011); 
+Levine A., Asano T., Recovering sustainable water from wastewater, Journal of Environmental Science and Technology, 1, pp. 201A-208A, (2004); 
+Mmolawa K., Or D., Root zone solute dynamics under drip irrigation: a review, Plant and Soil, 222, pp. 163-190, (2000); 
+Mantell A., Frenkel H., Meiri A., Drip irrigation of cotton with saline-sodic water, Irrigation Science, 6, pp. 95-106, (1985); 
+Morgan K.T., Wheaton T.A., Parsons L.R., Castle W.S., Effects of reclaimed municipal waste water on horticultural characteristics, fruit quality, and soil and leaf mineral concentration of citrus., Hortscience, 43, 2, pp. 459-464, (2008); 
+Oster J.D., Irrigation with poor quality water, Agricultural Water Management, 25, pp. 271-297, (1994); 
+Oster J.D., Schroer F.W., Infiltration as influenced by water quality, Soil Sci. Soc. Am. J., 43, (1979); 
+Pedrero F., Kalavrouziotis I., Alarcon J.J., Koukoulakis P., Asano T., Use of treated municipal wastewater in irrigated agriculture-review of some practices in Spain and Greece, Agricultural Water Management, 97, pp. 1233-1241, (2010); 
+Pedrero F., Manejo sostenible del riego con aguas regeneradas., 155, (2011); 
+Perez-Sirvent C., Martinez-Sanchez M.J., Vidal J., Sanchez A., The role of lowquality irrigation water in the desertification of semi-arid zones in Murcia, SE Spain, Geoderma, 113, pp. 109-125, (2003); 
+Hydrologic Plan of Segura Basin., (1997); 
+Raine S.R., Meyer W.S., Rassam D.W., Hutson J.L., Cook F.J., Soil-water and solute movement under precision irrigation: knowledge gaps for managing sustainable root zones, Irrigation Science, 26, pp. 91-100, (2007); 
+Rengasamy P., Soil processes affecting crop production in salt-affected soils, Functional Plant Biology, 37, pp. 613-620, (2010); 
+Rhoades J.D., Soluble salts, Methods of Soil Analysis Part, 2 Page, 9, pp. 167-178, (1982); 
+Richards L.A., Diagnosis and improvement of saline and alkaline soils, 60., U.S. Dept. Agric. Handbook, pp. 110-118, (1954); 
+Ruiz-Sanchez M.C., Domingo R., Castel J.R., Review, Deficit irrigation in fruit trees and vines in Spain., Spanish Journal of Agricultural Research, 8, pp. 5-20, (2010); 
+Shalhevet J., Hsiao T.C., Salinity and drought, Irrigation Science, 7, pp. 249-264, (1986); 
+Slavich P.G., Petterson G.H., Griffin D., Effects of irrigation water salinity and sodicity on infiltration and lucerne growth over a shallow watertable, Australian Journal of Experimental Agriculture, 42, pp. 281-290, (2002); 
+Tedeschi A., Dell'Aquila R., Effects of irrigation with saline waters, at different concentrations, on soil physical and chemical characteristics, Agricultural Water Management, 77, pp. 308-322, (2005); 
+Wallach R., Ben-Arie O., Graber E.R., Soil water repellency induced by longterm irrigation with treated sewage effluent, Journal of Environment Quality, 34, pp. 1910-1920, (2005); 
+Wang Z., Chang A.C., Wu L., Crowley D., Assessing the soil quality of longterm reclaimed wastewater-irrigated cropland, Geoderma, 114, pp. 261-271, (2003); 
+Zekri M., Koo R.C.J., A reclaimed water citrus irrigation project, Proc. Fla. State Hortic. Soc., 106, pp. 30-35, (1993)#FRF#

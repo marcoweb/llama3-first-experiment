@@ -1,0 +1,50 @@
+#ITI#Impact of maize hybrid selection on water productivity under deficit irrigation in semiarid western Nebraska#FTI#
+#IRE#The future economic and agricultural sustainability of semiarid western Nebraska will largely depend on more efficient utilization of the declining groundwater resources. The scope of this research was to evaluate the maize hybrid yield, water productivity (WP; i.e. grain yield produced per unit of water consumed), and irrigation water productivity (IWP; i.e. increase in grain yield per unit of irrigation water applied) across a range of semiarid climatic conditions (i.e. drought, normal, and wet) and irrigation treatments. Total of 13 maize hybrids were evaluated under full irrigation (FI), deficit irrigation (DI, receiving ~50% less irrigation water than FI), and dryland (DRY; rainfall only) at the University of Nebraska-Lincoln Brule Water Laboratory near Brule, Nebraska, in 2011 and 2012 and Bayer's Gothenburg Water Utilization Learning Center near Gothenburg, Nebraska, in 2010 and 2011 (i.e. four site-years). Compared to FI, DI caused yield reduction of as much as 33% in a dry, 11% in a normal, and 2% in a wet year, resulting in consequently 22–47% improvement in IWP. Depending on site-year and irrigation level, a difference of up to 7.2 t ha-1, 3.6 kg m-3, and 5.9 kg m-3 was observed in yield, WP, and IWP, respectively, as a consequence of hybrid selection, with few top-performing hybrids yielding similarly under DI and FI in a normal and/or wet year. This study highlights the impact hybrid selection and DI have on crop water productivity (WP) and IWP as well as provides insight into strategies that can maintain productivity and profitability in water limited environments. © 2020 Elsevier B.V.#FRE#
+#IPC#Drought tolerance; Genetic x environment x management (G x E x M); Groundwater depletion; Irrigation pumping regulations; Yield variability#FPC#
+#IRF#Al-Naggar A., Atta M., Ahmed M., Younis A., Influence of deficit irrigation at silking stage and genotype on Maize (Zea mays L.) agronomic and yield characters, J. Agric. Ecol. Res. Int., 7, 4, pp. 1-16, (2016); 
+Atteya A.M., Alteration of water relations and yield of corn genotypes in response to drought stress, Bulg. J. Plant Physiol., 29, 1-2, pp. 63-76, (2003); 
+Aydinsakir K., Erdal S., Buyuktas D., Bastug R., Toker R., The influence of regular deficit irrigation applications on water use, yield, and quality components of two corn (Zea mays L.) genotypes, Agric. Water Manag., 128, pp. 65-71, (2013); 
+Bos M.G., Summary of ICID definitions of Irrigation efficiency, ICID Bull. Int. Comm. Irrig. Drain., 34, 1, pp. 28-31, (1985); 
+Bos M.G., Irrigatio efficiencies at crop production level, Int. Comm. Irrig. Drain. ICID, 29, 2, pp. 18-24, (1980); 
+Campos H., Cooper M., Habben J.E., Edmeades G.O., Schussler J.R., Improving drought tolerance in maize: a view from industry, Field Crops Res., 90, 1, pp. 19-34, (2004); 
+Cicogna A., Dietrich S., Gani M., Giovanardi R., Sandra M., Use of meteorological radar to estimate leaf wetness as data input for application of territorial epidemiological model (Downy mildew—plasmopara viticola), Phys. Chem. Earth Parts A B C, 30, 1-3, pp. 201-207, (2005); 
+Eck H.V., Effects of water deficits on yield, yield components, and water use efficiency of irrigated corn1, Agron. J., 78, 6, pp. 1035-1040, (1986); 
+El Sabagh A., Barutcular C., Saneoka H.; 
+English M., Deficit irrigation. i: analytical framework, J. Irrig. Drain. Eng., 116, 3, pp. 399-412, (1990); 
+Ertek A., Kara B., Yield and quality of sweet corn under deficit irrigation, Agric. Water Manag., 129, pp. 138-144, (2013); 
+Evett S.R., Steiner J.L., Precision of neutron scattering and capacitance type soil water content gauges from field calibration, Soil Sci. Soc. Am. J., 59, 4, pp. 961-968, (1995); 
+Fabeiro C., Yield and size of de®cit irrigated potatoes, Agric. Water Manag., (2001); 
+Geerts S., Raes D., Deficit irrigation as an on-farm strategy to maximize crop water productivity in dry areas, Agric. Water Manag., 96, 9, pp. 1275-1284, (2009); 
+Grassini P., Yang H., Irmak S., Thorburn J., Burr C., Cassman K.G., High-yield irrigated maize in the Western U.S. Corn Belt: II. Irrigation management and crop water productivity, Field Crops Res., 120, 1, pp. 133-141, (2011); 
+Guillen-Portal F.R., Russell W.K., Baltensperger D.D., Eskridge K.M., D'Croz-Mason N.E., Nelson L.A., Best types of maize hybrids for the western high plains of the USA, Crop Sci., 43, 6, pp. 2065-2070, (2003); 
+Haacker E.M.K., Kendall A.D., Hyndman D.W., Water level declines in the high plains aquifer: predevelopment to resource senescence, Groundwater, 54, 2, pp. 231-242, (2016); 
+Hao B., Xue Q., Marek T.H., Jessup K.E., Becker J., Hou X., Xu W., Bynum E.D., Bean B.W., Colaizzi P.D., Howell T.A., Water use and grain yield in drought-tolerant corn in the texas high plains, Agron. J., 107, 5, pp. 1922-1930, (2015); 
+Hao B., Xue Q., Marek T.H., Jessup K.E., Hou X., Xu W., Bynum E.D., Bean B.W., Soil water extraction, water use, and grain yield by drought-tolerant maize on the Texas High Plains, Agric. Water Manag., 155, pp. 11-21, (2015); 
+Irmak S., Payero J.O., Martin D.L., Using Modified Atmometers (ET gage) for Irrigation Management, (2005); 
+Kaman H., Kirda C., Sesveren S., Genotypic differences of maize in grain yield response to deficit irrigation, Agric. Water Manag., 98, 5, pp. 801-807, (2011); 
+Kisekka I., Aguilar J.P., Rogers D.H., Holman J., O'Brien D.M., Klocke N., Assessing deficit irrigation strategies for corn using simulation, Trans. ASABE, 59, 1, pp. 303-317, (2016); 
+Kranz W.L., Irmak S., van Donk S.J., Yonts C.D., Martin D.L., Irrigation Management For Corn, (2008); 
+Lamphear C., Econ. Import. Irrig. Agric., 2003, (2003); 
+Lilienfeld A., Asmild M., Estimation of excess water use in irrigated agriculture: a data envelopment analysis approach, Agric. Water Manag., 94, 1-3, pp. 73-82, (2007); 
+Lo T.H., Rudnick D.R., Burr C.A., Stockton M.C., Werle R., Approaches to evaluating grower irrigation and fertilizer nitrogen amount and timing, Agric. Water Manag., 213, pp. 693-706, (2019); 
+Lorens F., Bennett J.M., Loggale L.B., Differences in drought resistance between two corn hybrids. 11, Compon. Anal. Growth Rates, (1987); 
+Marouelli W.A., Silva W.L.C., Water tension thresholds for processing tomatoes under drip irrigation in Central Brazil, Irrig. Sci., 25, 4, pp. 411-418, (2007); 
+Mhike X., Patrick O., Cosmos M., Thokozile N., Validation of the use of secondary traits and selection indices for drought tolerance in tropical maize (Zea mays L.), African J. Plant Sci., 6, 2, (2012); 
+(2012); 
+Oweis T., Pala M., Ryan J., Stabilizing rainfed wheat yields with supplemental irrigation and nitrogen in a mediterranean climate, Agron. J., 90, 5, pp. 672-681, (1998); 
+Payero J.O., Tarkalson D.D., Irmak S., Davison D., Petersen J.L., Effect of irrigation amounts applied with subsurface drip irrigation on corn evapotranspiration, yield, water use efficiency, and dry matter production in a semiarid climate, Agric. Water Manag., 95, 8, pp. 895-908, (2008); 
+Rudnick D., Irmak S., Ferguson R., Shaver T., Djaman K., Slater G., Bereuter A., Ward N., Francis D., Schmer M., Wienhold B., Van Donk S., Economic Return versus Crop Water Productivity of Maize for Various Nitrogen Rates under Full Irrigation, Limited Irrigation, and Rainfed Settings in South Central Nebraska, J. Irrig. Drain Eng., (2016); 
+Rudnick D.R., Irmak S., West C., Chavez J.L., Kisekka I., Marek T.H., Schneekloth J.P., Mitchell McCallister D., Sharma V., Djaman K., Aguilar J., Schipanski M.E., Rogers D.H., Schlegel A., Deficit irrigation management of maize in the high plains aquifer region: a review, JAWRA J. Am. Water Resour. Assoc., 55, 1, pp. 38-55, (2019); 
+Sabagh A.E.L., Hossain A., Barutcular C., Khaled A.A., Fahad S., Anjorin F.B., Islam M.S., Ratnasekera D., Kizilgeci F., Yadav G.S., Yildirim M., Konuskan O., Saneoka H., Sustainable Maize (Zea mays L.) production under drought stress by understanding its adverse effect, survival mechanism and drought tolerance indices, J. Exp. Biol. Agric. Sci., 6, 2, pp. 282-295, (2018); 
+Sah R.P., Chakraborty M., Prasad K., Pandit M., Tudu V.K., Chakravarty M.K., Narayan S.C., Rana M., Moharana D., Impact of water deficit stress in maize: Phenology and yield components, Scientific Reports, 10, 1, (2020); 
+Base SAS 9.4 procedures guide, (2013); 
+McGuire V.; 
+Moradi H., Akbari G.A., Khorasani S.K., Ramshini H.A., Evaluation of drought tolerance in corn (Zea mays L.) new hybrids with using stress tolerance indices, Eur. J. Sustain. Dev., 1, 3, (2012); 
+Shaver T., Nutrient Management for Agronomic Crops in Nebraska, (2014); 
+Singh J., Lo T., Rudnick D.R., Dorr T.J., Burr C.A., Werle R., Shaver T.M., Munoz-Arriola F., Performance assessment of factory and field calibrations for electromagnetic sensors in a loam soil, Agric. Water Manag., 196, pp. 87-98, (2018); 
+Spurgeon E.W., Yonts D.C., Water productivity of corn and dry bean rotation on very fine sandy loam soil in western Nebraska, Appl. Eng. Agric., 29, 6, pp. 885-892, (2013); 
+Stewart B.A., Musick J.T., Dusek D.A., Yield and water use efficiency of grain sorghum in a limited irrigation-dryland farming system1, Agron. J., 75, 4, pp. 629-634, (1983); 
+Unlu M., Kanber R., Senyigit U., Onaran H., Diker K., Trickle and sprinkler irrigation of potato (Solanum tuberosum L.) in the middle Anatolian region in Turkey, Agric. Water Manag., 79, 1, pp. 43-71, (2006); 
+Van Duivenbooden N., Pala M., Studer C., Bielders C.L., Beukes D.J., Cropping systems and crop complementarity in dryland agriculture to increase soil water use efficiency: a review, NJAS Wagening. J. Life Sci., 48, 3, pp. 213-236, (2000); 
+Xue Q., Zhu Z., Musick J.T., Stewart B.A., Dusek D.A., Root growth and water uptake in winter wheat under deficit irrigation, Plant Soil, 257, 1, pp. 151-161, (2003); 
+Yenesew M., Tilahun K., Yield and water use efficiency of deficit-irrigated maize in a semi-arid region of Ethiopia, Afr. J. Food, Agric. Nutr. Dev., 9, 8, (2009)#FRF#

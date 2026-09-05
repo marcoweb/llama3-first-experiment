@@ -1,0 +1,34 @@
+#ITI#Fitting infiltration equations to centre-pivot irrigation data in a Mediterranean soil#FTI#
+#IRE#Centre-pivot irrigation systems often lead to runoff problems, due to the difficulty in adapting high-water application rates to soil infiltrability. To avoid such problems, a good understanding of soil infiltration characteristics and the factors that influence infiltration rate is necessary. Field tests were carried out, for 2 years, in a Mediterranean soil with different antecedent soil surface conditions and variable water application rates under a centre-pivot irrigation system. The soil infiltration rate was found to decrease not only with an increase in soil water content but also with soil surface compaction. Centre-pivot sprinklers equipped with medium grooved deflectors produced lower infiltration rate values compared to sprinklers with smooth deflectors. The increase in water application rates leads to an increase in soil infiltration rate, especially for durations of less than 25-30 min. Infiltration equations obtained from infiltration tests following previous water application events account for the effect of soil surface compaction and are recommended for design and management of centre-pivot systems. Infiltration tests data was used to fit to different infiltration equations. The Kostiakov-type equation showed the best adjustment to the field data. © 2007 Elsevier B.V. All rights reserved.#FRE#
+#IPC#Centre-pivot; Infiltration equations; Infiltration tests; Mediterranean soils; Runoff#FPC#
+#IRF#Bosch D.D., Onstad C.A., Surface seal hydraulic conductivity as affected by rainfall, ASAE Trans., 31, 4, pp. 1120-1127, (1988); 
+Chowdary V.M., Rao M.D., Jaiswal C.S., Study of infiltration process under different experimental conditions, Agric. Water Manage., 83, pp. 69-78, (2006); 
+Davies J.C., Statistics and Data Analysis in Geology, (1986); 
+DeBoer D.W., Chu S.T., Sprinkler technologies, soil infiltration, and runoff, J. Irrig. Drain. Eng., 127, 4, pp. 234-239, (2001); 
+DeBoer D.W., Moshref-Javadi A., Chu S.T., Application of the Green-Ampt infiltration equation to sprinkler irrigation management, Appl. Agric. Res., 3, 3, pp. 128-132, (1988); 
+Dillon R.C., Vittetoe G., Hiler E.A., Center-pivot sprinkler design based on intake characteristics, ASAE Trans., 15, 5, pp. 996-1001, (1972); 
+Gilley J.R., Suitability of reduced pressure center-pivots, J. Irrig. Drain. Eng., 110, 1, pp. 22-34, (1984); 
+Green W.H., Ampt G.A., Studies of soil physics. 1. The flow of air and water trough soils, J. Agric. Sci., 4, 1, pp. 1-24, (1911); 
+Hakansson I., Lipiec J., A review of the usefulness of relative bulk density values in studies of soil structure and compaction, Soil Til. Res., 53, pp. 71-85, (2000); 
+Horton R.E., An approach toward a physical interpretation of infiltration capacity, Soil Sci. Soc. Am. Proc., 5, pp. 399-419, (1940); 
+Hussen A.A., Warrick A.W., Tension infiltrometers for the measurement of vadose zone hydraulic properties, Handbook of Vadose Zone Characterization and Monitoring, pp. 177-187, (1995); 
+Johnson G.C., Rochester E.W., Hatch L.U., Curtis L.M., Yoo K.H., Analysis of center pivot irrigation systems operating in a humid-area environment, ASAE Trans., 30, 6, pp. 1720-1725, (1987); 
+Keller J., Bliesner R.D., Sprinkle and Trickle Irrigation, (1990); 
+Kincaid D.C., Spraydrop kinetic energy from irrigation sprinklers, ASAE Trans., 39, 3, pp. 847-853, (1996); 
+Kincaid D.C., Heermann D.F., Kruse E.G., Application rates and runoff in center-pivot sprinkler irrigation, ASAE Trans., 12, 6, (1969); 
+Kostiakov A.N., On the dynamics of the coefficient of water percolation in soils and the necessity of studying it from a dynamic point, Trans. Commun. Int. Soc. Soil Sci., Moscow, Part A, 6, pp. 17-21, (1932); 
+Luz P.B., Heermann D., A statistical approach to estimating runoff in center pivot irrigation with crust conditions, Agric. Water Manage., 72, pp. 33-46, (2005); 
+McIntyre D.S., Soil splash and the formation of surface crusts by raindrop impact, Soil Sci., 85, pp. 261-266, (1958); 
+Mohammed D., Kohl R.A., Infiltration response to kinetic energy, ASAE Trans., 30, 1, pp. 108-111, (1987); 
+Mohamoud Y.M., Evaluating Green and Ampt infiltration parameter values for filled and crusted soils, J. Hydrol., 123, 1, pp. 25-38, (1991); 
+Moore I.D., Effect of surface sealing on infiltration, ASAE Trans., 24, 6, (1981); 
+Morin J., Benyamini Y., Michaeli A., The effect of raindrop impact on the dynamics of soil surface crusting and water movement in the profile, J. Hydrol., 52, pp. 321-335, (1981); 
+Perroux K.M., White I., Designs for disc permeameters, Soil Sci. Soc. Am. J., 52, 5, pp. 1205-1214, (1988); 
+Philip J.R., The theory of infiltration. 4. Sorptivity and algebraic infiltration equations, Soil Sci., 84, pp. 257-264, (1957); 
+Serralheiro R.P., Furrow irrigation advance and infiltration equations for a Mediterranean soil, J. Agric. Eng. Res., 62, pp. 117-126, (1995); 
+Shockley D., Mimeograph Report, (1968); 
+Silva L.L., The effect of spray head sprinklers with different deflector plates on irrigation uniformity, runoff and sediment yield in a Mediterranean soil, Agric. Water Manage., 85, pp. 243-252, (2006); 
+Thompson A.L., James L.G., Water droplet impact and its effect on infiltration, ASAE Trans., 28, 5, pp. 1506-1510, (1985); 
+Thooyamani K.P., Norum D.I., Dubetz S., Application rates and uniformity under center-pivot sprinkler irrigation systems using spray nozzles, Can. Agric. Eng., 29, 2, pp. 149-154, (1987); 
+Von Bernuth R.D., Gilley J.R., Evaluation of center pivot application packages considering droplet induced infiltration reduction, ASAE Trans., 28, 6, pp. 1940-1946, (1985); 
+Wilmes G.J., Martin D.L., Supalla R.J., Decision support system for design of center pivots, ASAE Trans., 37, 1, pp. 165-175, (1993)#FRF#

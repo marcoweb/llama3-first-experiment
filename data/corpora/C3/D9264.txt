@@ -1,0 +1,34 @@
+#ITI#Seasonal analysis of the tropane alkaloid ecgonine methyl ester and the occurrence of other highly-valued tropanes in the South African Erythroxylum trees#FTI#
+#IRE#The coca family (Erythroxylaceae) consists of trees and shrubs sub-divided into four genera: Aneulophus, Nectaropetalum, Pinacopodium, and Erythroxylum, which include species with highly valuable medicinal compounds. E. delagoense, E. emarginatum, and E. pictum are endemic to southern Africa and have great pharmaceutical potential based on their traditional uses. Previous studies have shown certain inconsistencies in terms of the presence or absence of tropane alkaloids in these species, resulting in a need for further research and clarification. Therefore, the aim of this study was to determine the seasonal variation of the immediate biosynthetic precursor of cocaine, the tropane alkaloid, ecgonine methyl ester in the three South African Erythroxylum species by means of gas chromatography–mass spectrometry, as well as to conduct a phytochemical screening for observing the presence of other potential compounds and tropane alkaloids. We found significant differences in tropane concentrations from the seasonal variation study, explaining the discrepancies in previous reports on its presence/absence in these species. Furthermore, we report for the first time on the occurrence of selected highly valuable tropane alkaloids in E. emarginatum currently used in ‘blockbuster medicine’. © 2018, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Alkaloid; Ecgonine methyl ester; Erythroxylum; GC–MS; Phytochemical; Tropane#FPC#
+#IRF#Ansell S.M., Pegel K.H., Taylor D.A.H., Diterpenes from the timber of Erythroxylum pictum, Phytochemistry, 32, pp. 945-952, (1993); 
+Bohm B.A., Loo T., Nicholls K.W., Plowman T., Flavonoid variation in Erythroxylum, Phytochemistry, 27, pp. 833-837, (1988); 
+Brachet A., Rudaz S., Mateus L., Et al., Optimisation of accelerated solvent extraction of cocaine and benzoylecgonine from coca leaves, J Sep Sci, 24, pp. 865-873, (2001); 
+Casale J.F., Detection of pseudoecgonine and differentiation from ecgonine in illicit cocaine, Forensic Sci Int, 47, pp. 277-287, (1990); 
+Casale J.F., Methyl esters of ecgonine: injection-port produced artifacts from cocaine base (crack) exhibits, J Forensic Sci, 37, pp. 1295-1310, (1992); 
+Chin Y.-W., Jones W.P., Waybright T.J., Et al., Tropane aromatic ester alkaloids from a large-scale re-collection of Erythroxylum pervillei stem bark obtained in Madagascar, J Nat Prod, 69, pp. 414-417, (2006); 
+Corrigan B.M., Van Wyk B.E., Geldenhuys C.J., Jardine J.M., Ethnobotanical plant uses in the KwaNibela Peninsula, St Lucia, South Africa, S Afr J Bot, 77, pp. 346-359, (2011); 
+Cramer G.R., Urano K., Delrot S., Et al., Effects of abiotic stress on plants: a systems biology perspective, BMC Plant Biol, 11, (2011); 
+De Simone R., Margarucci L., De Feo V., Tropane alkaloids: an overview, Pharmacologyonline, 1, pp. 70-89, (2008); 
+Evans W.C., The comparative phytochemistry of the genus Erythroxylon, J Ethnopharmacol, 3, pp. 265-277, (1981); 
+Grynkiewicz G., Gadzikowska M., Tropane alkaloids as medicinally useful natural products and their synthetic derivatives as new drugs, Pharmacol Rep, 60, pp. 439-463, (2008); 
+Jenkins A.J., Llosa T., Montoya I., Cone E.J., Identification and quantitation of alkaloids in coca tea, Forensic Sci Int, 77, pp. 179-189, (1996); 
+Johnson E.L., Alkaloid content in Erythroxylum coca tissue during reproductive development, Phytochemistry, 42, pp. 35-38, (1996); 
+Johnson E.L., Emche S.D., Variation os alkaloid content in a study of the chemical composition of Erythroxylum coca leaves, Ann Bot, 73, pp. 645-650, (1994); 
+Lounasmaa M., Tamminen T., The tropane alkaloids. Alkaloids Chem Pharmacol, 44, pp. 1-114, (1993); 
+Mari F., Bertol E., Tosti M., Benzoyltropeine, an unusual substance in street heroin samples, Bull Narc, 1, pp. 59-67, (1984); 
+Mroczek T., Glowniak K., Kowalska J., Solid–liquid extraction and cation-exchange solid-phase extraction using a mixed-mode polymeric sorbent of Datura and related alkaloids, J Chromatogr A, 1107, pp. 9-18, (2006); 
+Mushtaq A., Akbar S., Zargar M.A., Et al., Phytochemical screening, physicochemical properties, acute toxicity testing and screening of hypoglycaemic activity of extracts of Eremurus himalaicus baker in normoglycaemic Wistar strain albino rats, Biomed Res Int, 2014, (2014); 
+Ncube B., Nair J.J., Rarova L., Et al., Seasonal pharmacological properties and alkaloid content in Cyrtanthus contractus N.E, Br S Afr J Bot, 97, pp. 69-76, (2015); 
+Nishiyama Y., Moriyasu M., Ichimaru M., Et al., Tropane alkaloids from Erythroxylum emarginatum, J Nat Med, 61, pp. 56-58, (2007); 
+Oliveira S.L., Da Silva M.S., Tavares J.F., Et al., Tropane alkaloids from Erythroxylum genus: distribution and compilation of 13C-NMR spectral data, Chem Biodivers, 7, pp. 302-326, (2010); 
+2-Carbomethoxy-8-methyl-8-azabicyclo[3.2.1]oct-2-ene, Royal Society of Chemistry, (2015); 
+Methylecgonidine, Royal Society of Chemistry, (2015); 
+Smith R.M., Casale J.F., The mass spectrum of cocaine: deuterium labeling and MS/MS studies, (2010); 
+Solar A., Colaric M., Usenik V., Stampar F., Seasonal variations of selected flavonoids, phenolic acids and quinones in annual shoots of common walnut (Juglans regia L.), Plant Sci, 170, pp. 453-461, (2006); 
+Stein S.E., An integrated method for spectrum extraction and identification from gas chromatography/mass spectrometry data, J Am Soc Mass Spectrom, 10, pp. 770-781, (1999); 
+Stevens P.F., Angiosperm phylogeny website, (2015); 
+Taiz L., Zeiger E., Plant physiology, (2010); 
+Treutter D., Biosynthesis of phenolic compounds and its regulation in apple, Plant Growth Regul, 34, pp. 71-89, (2001); 
+Turner C.E., Ma C.Y., Elsohly H.A., Constituents of Erythroxylon coca II. Gas-chromatographic analysis of cocaine and other alkaloids in coca leaves, J Ethnopharmacol, 3, pp. 293-298, (1981); 
+Recommended methods for the identification and analysis of cocaine in seized materials, Vienna, (2012)#FRF#

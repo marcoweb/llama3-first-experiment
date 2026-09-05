@@ -1,0 +1,57 @@
+#ITI#Investigating soybean (Glycine max L.) responses to irrigation on a large-scale farm in the humid climate of the Mississippi Delta region#FTI#
+#IRE#The shallow Lower Mississippi River Valley Alluvial Aquifer, which supports irrigated agriculture in the Lower Mississippi Delta (LMD) region, is fast depleting from unsustainable water extractions for irrigations. The survival of irrigated agriculture in the region today hinges on enhancing the irrigation use efficiencies of the water pumped out. Furrow irrigation practices (surface or flood irrigation) dominate the LMD region's irrigated agriculture scenario. We investigated soybean productivity in response to irrigations applied through every furrow (FI), applied through alternate furrow (AFI), and rainfed (RF, no irrigation). Approximately half the volume of water applied in FI was applied in the AFI. The experiments were conducted in 2016, 2018, and 2020, which constituted the soybean phases of a corn-soybean rotation trial conducted on a clay soil in farm-scale plots (15 ha). The plots were equipped with eddy covariance systems for quantifying crop water use (ET, evapotranspiration). There was no appreciable difference in soybean grain yield between FI and AFI, but RF yielded significantly lower than FI and AFI. Leaf area index was also significantly lower in RF compared to FI and AFI. Across the three years, the average reduction in soybean yield was only 2% in AFI, while it was 24% in RF compared to FI. Average grain yields were 4507, 4413, and 3422 kg ha−1; seasonal ET were 549, 562, and 527 mm; and water use efficiencies (WUE) were 8, 8, and 7 kg ha−1 mm−1 in FI, AFI, and RF, respectively. This large farm-scale study demonstrated that grain yields from irrigating soybean through alternate furrows were comparable to irrigating through every furrow, thus saving about half the water pumped out of the aquifer. This unique study was conducted in farm-scale fields; as such, the results obtained directly apply to a farm environment, so they are ready for recommendation to soybean farmers for adoption without further field trials. © 2021#FRE#
+#IPC#Crop responses to water; Eddy covariance; Evapotranspiration; Furrow irrigation; Irrigation water management; Skip-row irrigation; Soybean#FPC#
+#IRF#Anapalli S.S., Fisher D.K., Pinnamaneni S.R., Reddy K.N., Quantifying evapotranspiration and crop coefficients for cotton using an eddy covariance approach, Agric. Water Manag, (2020); 
+Anapalli S.S., Fisher D.K., Reddy K.N., Pettigrew W.T., Sui R., Ahuja L.R., Vulnerability and adaptation of cotton to climate change in the Mississippi Delta, Climate, 4, 55, pp. 1-20, (2016); 
+Anapalli S.S., Fisher D.K., Reddy K.N., Krutz J.L., Pinnamaneni S.R., Sui R., Quantifying water and CO<sub>2</sub> fluxes and water use efficiencies across irrigated C<sub>3</sub> and C<sub>4</sub> crops in a humid climate, Sci. Total Environ., 63, pp. 338-350, (2019); 
+Anapalli S.S., Fisher D.K., Reddy K.N., Rajan N., Pinnamaneni S.R., Modeling evapotranspiration for irrigation water management in a humid climate, Agric. Water Manag, 225, 1-11, (2019); 
+Anapalli S.S., Fisher D.K., Reddy K.N., Wagle P., Gowda P.H., Sui R., Quantifying soybean evapotranspiration using an eddy covariance approach, Agric. Water Manag., 209, pp. 228-239, (2018); 
+Baldocchi D.D., Assessing the eddy covariance technique for evaluating carbon dioxide exchange rates of ecosystems: the past, present, and future, Glob. Change Biol., 9, pp. 479-492, (2003); 
+Burba G., Anderson D., (2005); 
+Casler M.D., Fundamentals of experiment design: guidelines for designing successful experiments, Agron. J., 107, 2, pp. 692-705, (2015); 
+Dalin C., Wada Y., Kastner T., Puma M.J., Groundwater depletion embedded in international food trade, Nat. Lett., 543, pp. 700-706, (2017); 
+De Roo F., Zhang S., Huq S., Mauder M., A semi-empirical model of the energy balance closure in the surface layer, PLoS One, 13, 12, (2018); 
+Denager T., Looms M.C., Sonnerborg T.O., Jenser K.H., Comparison of evapotranspiration estimates using the water balance and the eddy covariance methods, Vadose Zone J., 19, 1, (2020); 
+Desclaux D., Roumet P., Impact of drought stress on the phenology of two soybeans ( Glycine max L. Merr) cultivars, Field Crops Res., 46, pp. 61-70, (1996); 
+Eck H., Mathers A., Musick J., Plant water stress at various growth stages and growth and yield of soybeans, Field Crop. Res., 1987, 17, pp. 1-16, (1988); 
+Fehr W.R., (1977); 
+Foken T., Aubinet M., Leuning R., The eddy covariance method, Eddy Covariance—a Practical Guide to Measuring Data Analysis, pp. 1-20, (2012); 
+Foken T., Wimmer F., Mauder M., Thomas C., Liebethal C., Some aspects of the energy balance closure problem, Atmos. Chem. Phys. Discuss., 6, pp. 3381-3402, (2006); 
+Fratini G., Mauder M., Towards a consistent eddy-covariance processing: an intercomparison of EddyPro and TK3, Atmos. Meas. Tech., 7, pp. 2273-2281, (2014); 
+Geerts S., Raes D., Deficit irrigation as an on-farm strategy to maximize crop water productivity in dry areas, Agric. Water Manag., 96, pp. 1275-1284, (2009); 
+Gleeson T., VanderSteen J., Sophocleous A.A., Taniguchi M., Alley W.M., Allen D.M., Zhou Y., Commentary: groundwater sustainability strategies, Nat. Geosci., 3, pp. 378-379, (2010); 
+Graterol Y.E., Eisenhauer D.E., Elmore R.W., Alternate-furrow irrigation for soybean production, Agric. Water Manag., 24, 2, pp. 133-145, (1993); 
+Guzman S.M., Paz J.O., Tager M.L., Wu R., (2014); 
+Hanasaki N., Inuzuka T., Kanae S., Oki T., An estimation of global virtual water flow and sources of water withdrawal for major crops and livestock products using a global hydrological model, J. Hydrol., 384, pp. 232-244, (2010); 
+Hodges T., French V., Soyphen: soybean growth stages modeled from temperature, water availability, and daylength, Agron. J., 77, pp. 500-505, (1985); 
+Howell T.A., Enhancing water use efficiency in irrigated agriculture, Agron. J., 93, pp. 281-289, (2001); 
+Howell T.A., Evett S.R., Tolk J.A., Schneider A.D., Evapotranspiration of full, deficit-irrigated, and dryland cotton on the Northern Texas High Plains, J. Irrig. Drain. Eng., 130, pp. 277-285, (2004); 
+Howell T.A., Schneider A.D., Dusek D.A., Marek T.H., Steiner J.L., Calibration and scale performance of Bushland weighing lysimeters, Trans. ASAE, 38, 4, pp. 1019-1024, (1995); 
+Irmak S., Odhiambo L.O., Kranz W.L., Eisenhauer D.E., (2011); 
+Isaac P., Cleverly J., McHugh I., van Gorsel E., Ewenz C., Beringer J., OzFlux data: network integration from collection to curation, Biogeosciences, 14, 12, pp. 2903-2928, (2017); 
+Kottek M., Grieser J., Beck C., Rudolf B., Rubel F., World Map of the Köppen-Geiger climate classification updated, Meteorol. Z., 15, pp. 259-263, (2006); 
+Leininger S.D., Krutz L.J., Sarver J.M., Gore J., Henn A., Bryant C.J., Atwill R.L., Spencer G.D., Skip row, furrow irrigation optimizes peanut pod yield, net returns, and irrigation water use efficiency, Crop Forage Turfgrass Manag., 5, 1, (2019); 
+Littell R.C., Milliken G.A., Stroup W.W., Wolfinger R.D., Schabenberger O., SAS for Mixed Models, (2007); 
+Mauder M., Foken T., Impact of post-field data processing on eddy covariance flux estimates and energy balance closure, Meteorol. Z., 15, pp. 597-609, (2006); 
+Meyers T.P., Hollinger S.E., An assessment of storage terms in the surface energy balance of maize and soybean, Agric. For. Meteor., 125, pp. 105-115, (2004); 
+Moorhead J.E., Marek G.W., Gowda P.H., Lin X., Colaizzi P.D., Evett S.R., Kutikoff S., Evaluation of evapotranspiration from Eddy covariance using large weighing lysimeters, Agronomy, 2019, 9, (2019); 
+Nicolini G., Fratini G., Avilov V., Kurbatova J.A., Vasenev I., Valentini R., Performance of eddy-covariance measurements in fetch-limited applications, Theor. Appl. Climatol., 127, 3-4, pp. 829-840, (2017); 
+Pinnamaneni S.R., Anapalli S.S., Fisher D.K., Reddy K.N., Irrigation and planting geometry effects on Cotton (Gossypium hirsutum L.) yield and water use, J. Cotton Sci., 24, pp. 2-96, (2020); 
+Pinnamaneni S.R., Anapalli S.S., Reddy K.N., Fisher D.K., Ashwell N.E.Q., Assessing irrigation water use efficiency and economy of twin‐row soybean in the Mississippi Delta, Agron. J., 2020, 112, pp. 4219-4231, (2020); 
+Reichstein M., Falge E., Baldocchi D., Papale D., Aubinet M., Berbigier P., Bernhofer C., Buchmann N., Gilmanov T., Granier A., Grunwald T., Havrankova K., Ilvesniemi H., Janous D., Knohl A., Laurila T., Lohila A., Loustau D., Matteucci G., Meyers T., Miglietta F., Ourcival J.M., Pumpanen J., Rambal S., Rotenberg E., Sanz M., Tenhunen J., Seufert G., Vaccari F., Vesala T., Yakir D., Valentini R., On the separation of net ecosystem exchange into assimilation and ecosystem respiration: review and improved algorithm, Glob. Change Biol., 11, 9, pp. 1424-1439, (2005); 
+Saseendran S.A., Ahuja L.R., Ma L., Trout T.J., McMaster G.S., Nielsen D.C., Ham J.M., Andales A.A., Halvorson A.D., Chavez J.L., Fang Q., Developing and normalizing average corn crop water production functions across years and locations using a system model, Agric. Water Manag., 157, pp. 65-77, (2015); 
+Scanlon B.R., Faunt C.C., Longuevergne L., Reedy R.C., Alley W.M., McGuire V.L., McMahon P.B., Groundwater depletion and sustainability of irrigation in the US High Plains and Central Valley, Proc. Natl. Acad. Sci. USA, 109, pp. 9320-9325, (2012); 
+Schmidt P., Mohring J., Koch R.J., Piepho H., More, larger, simpler: how comparable are on‐farm and on‐station trials for cultivar evaluation?, Crop Sci., 58, pp. 1508-1518, (2018); 
+Seckler D., (1996); 
+Seckler D., Amarasinghe U., Molden D., (1998); 
+Shiklomanov I.A., Appraisal and assessment of world water resources, Water Int., 25, 1, pp. 11-32, (2000); 
+Snipes C., Nichols S., Poston D., Walker T., Evans L., Robinson H., Current agricultural practices of the Mississippi Delta. Mississippi Agric, For. Exp. Stn. Bull., (2005); 
+Sudduth K.A., Drummond S.T., Myers D.B., (2012); 
+Sugimoto H., Amemiya A., Satou T., Takenouchi A., Excess moisture injury of soybeans cultivated in an upland field converted from paddy: II. Effects of excessive soil moisture on bleeding, stomatal aperture and mineral absorption, Jpn. J. Crop Sci., 57, pp. 77-82, (1988); 
+Sugimoto H., Satou T., Nishihara S., Narimatsu K., Excess moisture injury of soybeans cultivated in an upland field converted from paddy: III. Foliar application of urea as a countermeasure against excess moisture injury, Jpn. J. Crop Sci., 58, pp. 605-610, (1989); 
+Varzi M.M., Crop water production functions—a review of available mathematical method, J. Agric. Sci., 8, 4, (2016); 
+Wada Y., van Beek L., Bierkens M., Nonsustainable groundwater sustaining irrigation: a global assessment, Water Resour. Res., 48, (2012); 
+Wada Y., Wisser D., Bierkens M., Global modeling of withdrawal, allocation and consumptive use of surface water and groundwater resources, Earth Syst. Dyn., 5, pp. 15-40, (2014); 
+Wax C., Pote J.W., Merrell L.T., pp. 68-81, (2009); 
+Wood C.W., Krutz L.J., Falconer L., Pringle H.C., Henry B., Irby T., Orlowski J.M., Bryant C.J., Boykin D.L., Atwill R.L., Pickelmann D.M., Surge Irrigation reduces irrigation requirements for soybean on smectitic clay-textured soils, Crop Forage Turfgrass Manag., 3, (2017); 
+Yan W., Hunt L.A., Johnson P., Stewart G., Lu X., On-farm strip trials vs. replicated performance trials for cultivar evaluation, Crop Sci., 42, pp. 385-392, (2002)#FRF#

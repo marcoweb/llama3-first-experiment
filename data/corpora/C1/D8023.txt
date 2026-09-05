@@ -1,0 +1,58 @@
+#ITI#Self-calibrated ballistic model for sprinkler irrigation with a field experiments data base#FTI#
+#IRE#Simulation models of sprinkler irrigation are a valuable tool to improve the irrigation water management at plot scale. Ballistic theory has been commonly used to simulate drop dynamics in sprinkler irrigation models. A number of experiments on sprinkler irrigation performed in previous studies in the Ebro Valley Spain were analyzed and integrated in a data base. The evaluations were performed on six sprinkler types with different nozzle sizes, operating pressures under different meteorological conditions and spacings. The data base includes 40 isolated and 167 solid-set experiments that were processed with a self-calibrated model to calibrate and validate the ballistic parameters. The ballistic model used in this research was improved with respect to a previous model, moreover some novelties were added. These modifications were done in the phases of: the numerical solution, a wind drift and evaporation losses model, simulations considering slope in the terrain, drop generation (using regular and random methods), the size of the terrain cells where the drops are simulated and considering two drop size distributions, upper limit lognormal and Weibull. The results indicated larger and significant differences of Christiansen´s Uniformity Coefficient measured and simulated when considering a constant wind velocity (9%) and no differences when the wind velocity is defined for intervals equal to or less than 30 min (6%). Regarding the effect of the slope in the terrain, differences between both uniformity coefficients are relevant (11%) when the wind velocity is larger than 4 m s−1. Both drop size distributions were similar in accuracy however, the upper limit lognormal was more suitable to simulate a sprinkler especially designed to operate under low pressure. The predictive ability of the model once calibrated and validated was satisfactory (99% and 75%, respectively). The new model improves the accuracy with respect to previous research and minimizes the computing time for the calibration and validation processes using the cluster Trueno-CSIC. © 2019 Elsevier B.V.#FRE#
+#IPC#Ballistic model improved; Experimental database; Self-calibrated model; Sprinkler irrigation#FPC#
+#IRF#Bautista-Capetillo C., Robles O., Salinas H., Playan E., A particle tracking velocimetry technique for drop characterization in agricultural sprinklers, Irrig. Sci., 32, 6, pp. 437-447, (2014); 
+Bergstra J., Bengio Y., Random search for hyper-parameter optimization, J. Mach. Learn. Res., 13, pp. 281-305, (2012); 
+Burguete J., Latorre B., MPCOTool: The Multi-Purposes Calibration and Optimization Tool, (2018); 
+Burguete J., Lacasta A., Latorre B., Ambroj S., Ouazaa S., Zapata N., Garcia-Navarro P., MPCOTool: An Open Source Software to Supply Empirical Parameters Required in Simulation Models. I: Model and Tests, (2010); 
+Burguete J., Playan E., Montero J., Zapata N., Improving drop size and velocity estimates of an optical disdrometer: implications for sprinkler irrigation simulation, Trans. ASAE, 50, 6, pp. 2103-2116, (2007); 
+Christiansen J.E., Irrigation by sprinkling, Agricultural Experimental Station Bulletin 670, (1942); 
+Carrion P., Tarjuelo J.M., Montero J., SIRIAS: a simulation model for sprinkler irrigation: I. Description of the model, Irrig. Sci., 20, pp. 73-84, (2001); 
+Dechmi F., Playan E., Cavero J., Faci J.M., Martinez-Cob A., Wind effects on solid set sprinkler irrigation depth and yield of maize (Zea mays), Irrig. Sci., 22, pp. 67-77, (2003); 
+Dechmi F., Playan E., Cavero J., Martinez-Cob A., Faci J.M., A coupled crop and solid-set sprinkler simulation model: I. Model development, J. Irrig. Drain. Eng. ASCE, 130, 6, pp. 499-510, (2004); 
+De Wranchien D., Evaporation losses in irrigation sprinklers: an overview, Proc. 3rd Conf. on Energy Efficiency and Agric. Eng., (2006); 
+Edling R.J., Kinetic-energy, evaporation and wind drift of droplets from low-pressure irrigation nozzles, Trans. ASAE, 28, 5, pp. 1543-1550, (1985); 
+Fukui Y., Nakanishi K., Okamura S., Computer evaluation of sprinkler irrigation uniformity, Irrig. Sci., 2, pp. 23-32, (1980); 
+Heermann D.F., Kohl R.A., Fluid dynamics of sprinkler systems, Design and Operation of Farm Irrigation Systems, pp. 583-618, (1980); 
+Hills D., Gu Y., Sprinkler volume mean droplet diameter as a function of pressure, Trans. ASAE, 32, pp. 471-476, (1989); 
+ISO standard-15886-3, Agricultural Irrigation Equipment, Sprinklers. Part 3: Characterization of Distribution and Test Methods, (2012); 
+Kincaid D.C., Impact sprinkler pattern modification, Trans. ASAE, 34, 6, pp. 2397-2403, (1991); 
+Kincaid D.C., Longley T.S., A water droplet evaporation and temperature model, Trans. ASAE, 32, pp. 457-463, (1989); 
+Kincaid D.C., Solomon K.H., Oliphant J.C., Drop size distributions for irrigation sprinklers, Trans. ASAE, 39, 3, pp. 839-845, (1996); 
+King B.A., Dungan R., Bjorneberg D., Evaluation of centre pivot sprinkler wind drift and evaporation loss, ASABE Annual International Meeting Presentation, (2012); 
+King B.A., Winward T.W., Bjorneberg D.L., Laser precipitation monitor for measurement of drop size and velocity of moving spray-plate sprinklers, App. Eng. Agric., 26, 2, pp. 263-271, (2010); 
+Li J.S., Kawano H., Simulating water-drop movement from noncircular sprinkler nozzles, J. Irrig. Drain. Eng. ASCE, 121, 2, pp. 152-158, (1995); 
+Li J., Kawano H., Yu K., Droplet size distributions from different shaped sprinkler nozzles, Trans. ASAE, 37, 6, pp. 1871-1878, (1994); 
+Li Y., Bai G., Yan H., Development and validation of a modified model to simulate the sprinkler water distribution, Comp. Electron. Agric., 111, pp. 38-47, (2015); 
+Lorenzini G., Air temperature effect on spray evaporation in sprinkler irrigation, Irrig. Drain., 51, 4, pp. 301-309, (2002); 
+Lorenzini G., Simplified modeling of sprinkler droplet dynamics, Biosyst. Eng., 87, 1, pp. 1-11, (2004); 
+Lorenzini G., Water droplet dynamics and evaporation in an irrigation spray, Trans. ASABE, 49, 2, pp. 545-549, (2006); 
+Merriam L., Keller J., Farm Irrigation System Evaluation: a Guide for Management, (1978); 
+Montero J., Análisis de la distribución de agua en sistemas de riego por aspersión estacionario, Desarrollo del modelo de simulación de riego por aspersión (SIRIAS), (1999); 
+Montero J., Tarjuelo J.M., Carrion P., SIRIAS: a simulation model for sprinkler irrigation. II. Calibration and validation of the model, Irrig. Sci., 20, pp. 85-98, (2001); 
+Montero J., Tarjuelo J.M., Carrion P., Sprinkler droplet size distribution measured with an optical spectropluviometer, Irrig. Sci., 22, 2, pp. 47-56, (2003); 
+Mugele R.A., Evans H.D., Droplet size distribution in sprays, Ind. Eng. Chem., 43, 6, pp. 1317-1324, (1951); 
+Paniagua M.P., Mejora del riego por aspersión en parcela, PhD dissertation, pp. 23-56, (2015); 
+Playan E., Salvador R., Faci J.M., Zapata N., Martinez-Cob A., Sanchez I., Day and night wind drift and evaporation losses in sprinkler solid-sets and moving laterals, Agric. Water Manage., 76, pp. 139-159, (2005); 
+Playan E., Zapata N., Faci J.M., Tolosa D., Lacueva J.L., Pelegrin J., Salvador R., Sanchez I., Lafita A., Assessing sprinkler irrigation uniformity using a ballistic simulation model, Agric. Water Manage., 84, 1-2, pp. 89-100, (2006); 
+RAMA, Grupo de investigación en Riego, Agronomía y Medio Ambiente, (2018); 
+Robles O., Cavero J., Playan E., Zapata N., Assessing low-pressure solid-set sprinkler irrigation in maize, Agric. Water Manage., 191, pp. 37-49, (2017); 
+Salvador R., Bautista-Capetillo C., Burguete J., Zapata N., Playan E., A photographic methodology for drop characterization in agricultural sprinklers, Irrig. Sci., 27, 4, pp. 307-317, (2009); 
+Sanchez I., Faci J.M., Zapata N., The effects of pressure, nozzle diameter and meteorological conditions on the performance of agricultural impact sprinklers, Agric. Water Manage., 102, 1, pp. 13-24, (2011); 
+Seginer I., Water loss during sprinkling, Trans. ASAE, 14, 4, pp. 656-659, (1971); 
+Seginer I., Nir D., von Bernuth D., Simulation of wind distorted sprinkler patterns, J. Irrig. Drain. Eng. ASCE, 117, 2, pp. 285-306, (1991); 
+Solomon K.H., Kincaid D.C., Bezdek J.C., Drop size distribution for irrigation spray nozzles, Trans. ASAE, 28, 6, pp. 1966-1974, (1985); 
+Stambouli T., Zapata N., Faci J.M., Performance of new agricultural impact sprinkler fitted with plastic nozzles, Biosyst. Eng., 118, 1, pp. 39-51, (2014); 
+Tarjuelo J.M., Carrion P., Valiente M., Simulación de la distribución del riego por aspersión en condiciones de viento, Invest. Agrar. Prod. Prot. Veg., 9, 2, pp. 255-272, (1994); 
+Tarjuelo J.M., El riego por aspersión y su tecnología, (1999); 
+Tarjuelo J.M., Ortega J.F., Motnero J., Juan J.A., Modelling evaporation and drift losses in irrigation with medium size impact sprinklers under semi-arid conditions, Agric. Water Manage., 43, pp. 263-284, (2000); 
+Thompson A.L., Gilley G.R., Norman J.M., A sprinkler water droplet evaporation and plant canopy model: I. Model development, Trans. ASAE, 36, 3, pp. 735-741, (1993); 
+von Bernuth R.D., Gilley J.R., Sprinkler droplet size distribution estimation from single leg test data, Trans. ASAE, 27, pp. 1435-1441, (1984); 
+von Bernuth, Effect of trajectory angle on performance of sprinklers in wind, J. Irrig. Drain. Eng. ASCE, 114, 4, pp. 579-587, (1988); 
+Vories E., von Bernuth R.D., Single nozzle sprinkler performance in wind, Trans. ASAE, 29, 5, pp. 1325-1330, (1986); 
+Vories E.D., Von Bernuth R.D., Mickelson R.H., Simulating sprinkler performance in wind, J. Irrig. Drain. Eng., 113, 1, pp. 119-130, (1987); 
+Yazar A., Evaporation and drift losses from sprinkler irrigation systems under various operating conditions, Agric. Water Manage., 8, pp. 439-449, (1984); 
+Zapata N., Playan E., Skhiri A., Burguete J., Simulation of a collective solid-set sprinkler irrigation controller for optimum water productivity, J. Irrig. Drain. Eng. ASCE, 135, 1, pp. 13-24, (2009); 
+Zapata N., Robles O., Playan E., Paniagua P., Romano C., Salvador R., Montoya F., Low-pressure sprinkler irrigation in maize: differences in water distribution above and below the crop canopy, Agric. Water Manage., 203, pp. 353-365, (2018); 
+Zerihun D., Sanchez C.A., Sprinkler Irrigation Precipitation Pattern Simulation Model: Development and Evaluation, (2014); 
+Zerihun D., Sanchez C.A., Warrick A.W., Sprinkler irrigation droplet dynamics. I: review and theoretical development, J. Irrig. Drain. Eng., 142, 5, (2016)#FRF#

@@ -1,0 +1,57 @@
+#ITI#Phenolic compounds and allelopathic activities of ancient emmer wheats: perspective for non-chemical weed control scenarios#FTI#
+#IRE#Phenolic compounds are natural phytotoxins which play role as chemical defense compounds in wheat species. However, the contribution and role of phenolic compounds in ancient and modern wheat genotypes for plant-to-plant interference are equivocal. Biological screening of seven wheat genotypes including five emmer wheat genotypes of Triticum turgidum ssp. dicoccum (Zarneh, Singerd, Shahrekord, Khoygan and Joneghan), one modern hexaploid wheat genotype (Triticum aestivum var. Roushan) and one modern tetraploid wheat genotype (Triticum turgidum var. Yavaroos) demonstrated that all wheat genotypes suppressed the seedling growth of Raphanus sativus L. by shoot aqueous extract in a dose–response bioassay. Modern hexaploid wheat genotypes along with ancient tetraploid emmer wheat genotypes possessed a high allelopathic capability. High-performance liquid chromatography diode array detection analysis of aqueous extracts indicated that the ability to synthesise polyphenolic compounds is different among genotypes. The total amount of polyphenolics and flavonoid compounds in shoot aqueous showed a significant correlation to the R. sativus growth suppression. These results suggest that the number of polyphenolics in general and syringic acid in particular may have contributed to the allelopathic effects of ancient tetraploid and modern hexaploid wheat genotypes. At the same time, results showed that ancient tetraploid emmer wheat may offer promising values for their unique composition of allelochemicals, indicating their potential in sustainable crop production systems. © 2020, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Allelopathy; Ancient wheat; Aqueous extract; Modern wheat; Polyphenolics#FPC#
+#IRF#Alinian S., Razmjoo J., Zeinali H., Flavonoids, anthocyanins, phenolics and essential oil produced in cumin (Cuminum cyminum L.) accessions under different irrigation regimes, Ind Crops Prod, 81, pp. 49-55, (2016); 
+Aslam F., Khaliq A., Matloob A., Tanveer A., Hussain S., Zahir A.Z., Allelopathy in agro-ecosystems: a critical review of wheat allelopathy-concepts and implications, Chemoecology, 27, pp. 1-24, (2016); 
+Bali A.S., Batish R.D., Singh H.P., Kaur S., Kohli R.K., Phytotoxicity and weed management potential of leaf extracts of Callistemon viminalis against the weeds of rice, Acta Physiol Plant, 39, pp. 1-9, (2017); 
+Baziramakenga R., Simard R.R., Leroux G.D., Effects of benzoic and cinnamic acids on growth, mineral composition and chlorophyll contents of soybean, J Chem Ecol, 20, pp. 2821-2833, (1994); 
+Baziramakenga R., Leroux G.D., Simard R.R., Effects of benzoic and cinnamic acids on membrane permeability of soybean root, J Chem Ecol, 21, pp. 1271-1285, (1995); 
+Berthancientsson N.O., Early vigour and allelopathy two useful traits for enhanced barley and wheat competitiveness against weeds, Weed Res, 45, pp. 94-102, (2005); 
+Bertholdsson N.O., Breeding spring wheat for improved allelopathic potential, Weed Res, 50, pp. 49-57, (2010); 
+Bertin C., Yang X.H., Weston L.A., The role of root exudates and allelochemicals in the rhizosphere, Plant Soil, 256, pp. 67-83, (2003); 
+Bhadoria P.B.S., Allelopathy: a natural way towards weed management, Am J Exp Agric, 1, pp. 7-20, (2011); 
+Bhowmik P.C., Inderjit A., Challenges and opportunities in implementing allelopathy for natural weed management, Crop Prot, 22, pp. 661-667, (2003); 
+Blum U., Wentworth T.R., Klein K., Worsham A.D., King L.D., Gerig T.M., Lyu S.W., Phenolic acid content of soils from wheat-no till, wheat-conventional till, and fallow-conventional till soybean cropping systems, J Chem Ecol, 17, pp. 1045-1068, (1991); 
+Bordoni A., Danesi F., Nunzio M.D., Taccari A., Valli V., Ancient wheat and health: a legend or the reality? A review on KAMUT khorasan wheat, Int J Food Sci Nutr, 68, pp. 278-286, (2017); 
+Cheema Z.A., Khaliq A., Saeed S., Weed control in maize (Zea mays L.) through sorghum allelopathy, J Sustain Agric, 23, pp. 73-86, (2004); 
+Cheng F., Cheng Z., Research progress on the use of plant allelopathy in agriculture and the physiological and ecological mechanisms of allelopathy, Front Plant Sci, 6, pp. 10-16, (2015); 
+Devi S.R., Prasad M.N.V., Effect of ferulic acid on growth and hydrolytic enzyme activities of germinating maize seeds, J Chem Ecol, 18, pp. 1981-1990, (1992); 
+Dong S.Q., Ma Y.Q., Wu H.W., Shui J.F., Ye X.X., An Y., Allelopathic stimulatory effects of wheat differing in ploidy levels on Orobanche minor germination, Allelopathy J, 31, pp. 355-366, (2013); 
+Einhellig F.A., Mechanisms and mode of action of allelochemicals, The sciences of allelopathy, pp. 171-188, (1986); 
+Favaretto A., Scheffer-Basso S.M., Perez N.B., Allelopathy in Poaceae species present in Brazil A review, Agron Sustain Dev, 38, (2018); 
+Feledyn-Szewczyk B., The influence of morphological features of spelt wheat (Triticum aestivum ssp. spelta) and common wheat (Triticum aestivum ssp. vulgare) varieties on the competitiveness against weeds in organic farming system, J Food Agric Environ, 11, pp. 416-421, (2013); 
+Guenzi W.D., Mccalla T.M., Phenolic acids in oats, wheat, sorghum, and corn residues and their phytotoxicity, Agron J, 58, pp. 303-304, (1966); 
+Holappa L.D., Blum U., Effects of exogenously applied ferulic acid, a potential allelopathic compound, on leaf growth, water utilization and endogenous abscisic acid levels of tomato, cucumber and bean, J Chem Ecol, 17, pp. 865-886, (1991); 
+Iannucci A., Fragasso M., Platani C., Papa R., Plant growth and phenolic compounds in rhizosphere soil of wild oat (Avena fauta L.), Front Plant Sci, 4, pp. 1-7, (2013); 
+Karimmojeni H., Rahimian-Mashhadi H., Alizadeh H.M., Cousens R.D., Interference between maize and Xanthium strumarium or Datura stramonium, Weed Res, 50, pp. 253-261, (2010); 
+Karimmojeni H., Pirbaloti A.G., Kudsk P., Kanani V., Ghafori A., Influence of postemergence herbicides on weed management in spring-sown linseed, Agron J, 105, pp. 821-826, (2013); 
+Labbafi M.R., Hejazi A., Meighani F., Khalaj H., Baghestani M.A., A Study of the Allelopathic potential of wheat (Triticum aestivum L.) cultivars on the growth of field bindweed (Convolvulus arvensis L.) and Rye (Secale cereal L.), Environ Sci, 5, pp. 1-10, (2008); 
+Labbafy M.R., Maighany F., Hejazy A., Khalaj H., Baghestany A.M., Allahdady I., Mehrafarin A., Study of allelopathic interaction of wheat (Triticum aestivum L.) and rye (Secale cereal L.) using equal-compartment-agar method, Asian J Agri Sci, 1, pp. 25-28, (2009); 
+Li Z.H., Wang Q., Ruan X., Pan C.D., Jiang D.A., Phenolics and Plant Allelopathy, Molecules, 15, pp. 8933-8952, (2010); 
+Ma Y.Q., Allelopathic studies of common wheat (Triticum aestivum L.), Weed Biol Manag, 5, pp. 93-104, (2005); 
+Mahmood K., Khaliq A., Cheema Z.A., Arshad M., Allelopathic activity of Pakistani wheat genotypes against wild oat (Avena fatua), Pak J Agr Sci, 50, pp. 169-176, (2013); 
+Mathiassen S.K., Kudsk P., Mogensen B.B., Herbicidal effects of soil-incorporated wheat, J Agric Food Chem, 54, pp. 1058-1063, (2006); 
+Mersie W., Singh M., Phenolic acids affect photosynthesis and protein synthesis by isolated leaf cells of velvet-leaf, J Chem Ecol, 19, pp. 1293-1301, (1993); 
+Miri H.R., Allelopathy of 68 Iranian wheat genotypes released between 1939 and 2009, Asian J Agric Sci, 3, pp. 462-468, (2011); 
+Motamedi M., Karimmojeni H., Ghorbani-Sini F., Evaluation of allelopathic potential of safflower genotypes (Carthamus tinctorius L.), J Plant Protec Res, 56, pp. 364-371, (2016); 
+Pellissier F., Improved germination bioassays for allelopathy research, Acta Physiol Plant, 35, pp. 23-30, (2013); 
+Penuelas J., Ribas-Carbo M., Giles L., Effect of allelochemicals on plant respiration and oxygen isotopes fractionation by alternative oxidase, J Chem Ecol, 22, pp. 801-805, (1996); 
+Prasanta C.B., Inderjit A., Challenges and opportunities in implementing allelopathy for natural weed management, Crop Protect, 22, pp. 661-671, (2003); 
+Putnam A.R., Duke W.B., Biological suppression of weeds–evidence for allelopathy in accessions of cucumber, Science, 185, pp. 370-372, (1974); 
+Rajput P., Rao P.B., Effect of different wheat straw extracts on germination and growth of three dominant weed species, Int J Bot, 3, pp. 71-78, (2013); 
+Razavifar Z., Karimmojeni H., Ghorbani-Sini F., Effects of wheat-canola intercropping on Phelipanche aegyptiaca parasitism, J Plant Protec Res, 57, pp. 268-274, (2017); 
+Sanchez-Moreiras A.M., Weiss O.A., Reigosa-Roger M.J., Allelopathic evidence in the Poaceae, Bot Rev, 69, pp. 300-319, (2004); 
+Seal A.N., Pratley J.E., Haig T., An M., Identification and quantitation of compounds in a series of allelopathic and non-allelopathic rice root exudates, J Chem Ecol, 30, pp. 1647-1662, (2004); 
+Seufert V., Ramankutty N., Foley J.A., Comparing the yields of organic and conventional agriculture, Nature, 485, pp. 229-232, (2012); 
+Shewry P.R., Hey S., Do “ancient” wheat species differ from modern bread wheat in their contents of bioactive components?, J Cereal Sci, 65, pp. 236-243, (2015); 
+Tranel P.J., Horvath D.P., Molecular biology and genomics: new tools for weed science, Bioscience, 59, pp. 207-215, (2009); 
+Vaghar M., Ehsanzadeh P., Comparative photosynthetic attributes of emmer and modern wheats in response to water and nitrogen supply, Photosynthetica, 56, pp. 1224-1234, (2018); 
+Worthington M., Reberg-Horton C., Breeding cereal crops for enhanced weed suppression: optimizing allelopathy and competitive ability, J Chem Ecol, 39, pp. 213-231, (2013); 
+Wu H., Pratley J., Lemerle D., Haig T., Allelopathy in wheat (Triticum aestivum), Ann Appl Biol, 139, pp. 1-9, (2001); 
+Wu H., Pratley J., Haig T., Phytotoxic effects of wheat extracts on a herbicide-resistant biotype of annual ryegrass (Lolium rigidum), J Agric Food Chem, 51, pp. 4610-4616, (2003); 
+Wu H., Pratley J., Ma W., Haig T., Quantitative trait loci and molecular markers associated with wheat allelopathy, Theor Appl Genet, 107, pp. 1477-1481, (2003); 
+Ze-Lin L., Harnly J.M., Identification of the phenolic components of chrysanthemum flower (Chrysanthemum morifolium Ramat), Food Chem, 120, pp. 319-326, (2010); 
+Zhang S.Z., Li Y.H., Kong C.H., Xu X.H., Interference of allelopathic wheat with different weeds, Pest Manag Sci, 72, pp. 172-178, (2016); 
+Zuo Y.Q., Ma S., Allelopathy variation in dryland winter wheat (Triticum aestivum L.) accessions grown on the Loess Plateau of China for about fifty years, Genetic Res Crop Evol, 54, pp. 1381-1393, (2007); 
+Zuo S.P., Liu G.B., Li M., Genetic basis of allelopathic potential of winter wheat based on the perspective of quantitative trait locus, Field Crops Res, 135, pp. 67-73, (2012); 
+Zuo S., Li X., Ma Y., Yang S., Soil microbes are linked to the allelopathic potential of different wheat genotypes, Plant Soil, 378, pp. 49-58, (2014)#FRF#

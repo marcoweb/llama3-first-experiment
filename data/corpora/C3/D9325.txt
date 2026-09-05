@@ -1,0 +1,54 @@
+#ITI#Physiological and anatomical response of foliar silicon application to Dendrocalamus brandisii plantlet leaves under chilling#FTI#
+#IRE#The physiological and anatomical responses of different concentrations (0.0, 0.5, 1.0, 2.0 and 4.0 mM sodium silicate) of Si foliar-application in improving the chilling tolerance of Dendrocalamus brandisii plantlets were investigated. The Si-supplemented D. brandisii plantlets exhibited better chilling tolerance, associated with the enhancement of photosynthetic pigment and soluble sugar and starch content, increasing CAT and SOD activities and decreasing MDA and H2O2 level, as well as thicker leaf blades and mesophyll tissues. Furthermore, distinct changes in phytolith morphology were observed, including formation of a new phytolith morphotype (dumb-bell with nodular shark), significantly higher frequency of elongated phytoliths, and the increased length of elongated and elliptical phytoliths. Results indicated the physiological and anatomical response showed weak positive linkage with increasing amount of silicon applied, and the 1.0 mM sodium silicate on D. brandisii plantlet leaves was the most effective treatment in enhancing chilling tolerance. © 2018, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Anatomical response; Application; Dendrocalamus brandisii; Physiological response; Silicon#FPC#
+#IRF#Balakhnina T., Borkowska A., Effects of silicon on plant resistance to environmental stresses: review, Int Agrophys, 27, pp. 225-232, (2013); 
+Dubois M., Gilles K.A., Hamilton J.K., Rebers P.A., Smith F., Colorimetric method for determination of sugars and related substances, Anal Chem, 28, pp. 350-356, (1956); 
+Gallego L., Distel R.A., Phytolith Assemblages in Grasses Native to Central Argentina, Ann Bot, 94, pp. 865-874, (2004); 
+Gong H.J., Zhu X.Y., Chen K.M., Wang S.M., Zhang C.L., Silicon alleviates oxidative damage of wheat plants in pots under drought, Plant Sci, 169, pp. 313-321, (2005); 
+Habibi G., Exogenous silicon leads to increased antioxidant capacity in freezing-stressed pistachio leaves, Acta Agric Slov, 105, pp. 43-52, (2015); 
+Habibi G., Effects of soil-and foliar-applied silicon on the resistance of grapevine plants to freezing stress, Acta Biol Szeged, 59, pp. 109-117, (2015); 
+Habibi G., Effect of foliar-applied silicon on photochemistry, antioxidant capacity and growth in maize plants subjected to chilling stress, Acta Agric Slov, 107, pp. 33-43, (2016); 
+Hasanuzzaman M., Nahar K., Fujita M., Extreme temperature responses, oxidative stress and antioxidant defense in plantsAbiotic stress-plant responses and applications in agriculture, (2013); 
+He Y., Liu Y., Cao W., Huai M., Xu B., Huang B., Effects of salicylic acid on heat tolerance associated with antioxidant metabolism in Kentucky bluegrass, Crop Sci, 45, pp. 988-995, (2005); 
+He Y., Xiao H., Wang H., Chen Y., Yu M., Effect of silicon on chilling-induced changes of solutes, antioxidants, and membrane stability in seashore paspalum turfgrass, Acta Physiol Plant, 32, pp. 487-494, (2010); 
+Iwasaki K., Maier P., Fecth M., Horst W.J., Leaf apoplastic silicon enhances manganese tolerance of cowpea (Vigna unguiculata), J Plant Physiol, 159, pp. 167-173, (2002); 
+Kaya C., Tuna L., Higgs D., Effect of silicon on plant growth and mineral nutrition of maize grown under water stress conditions, J Plant Nutr, 29, pp. 1469-1480, (2006); 
+Kido N., Yokoyama R., Yamamoto T., Furukawa J., Iwai H., Satoh S., Nishitani K., The matrix polysaccharide (1;3,1;4)-beta-d-glucan is involved in silicon-dependent strengthening of rice cell wall, Plant Cell Physiol, 56, pp. 268-276, (2015); 
+Li R.C., Taxonomic Significance and Seasonal Variations of Lipid from Bamboo Leaf and Its Phytolith, (2010); 
+Li Q., Xu D.K., Lu H.Y., Morphology of phytolith in bambusoideae and its ecological significance, Quat Sci, 25, pp. 777-784, (2005); 
+Li D.Z., Wang Z.P., Zhu Z.D., Xia N.H., Jia L.Z., Guo Z.H., Yang G.Y., Stapleton C.M.A., Bambuseae, Flora of China. 22, Poaceae, (2006); 
+Liang Y.C., Effects of Si on leaf ultrastructure, chlorophyll content and photosynthetic activity in barley under salt stress, Pedosphere, 8, pp. 289-296, (1998); 
+Liang Y.C., Chen Q., Liu Q., Zhang W.H., Ding R.X., Exogenous silicon (Si) increases antioxidant enzyme activity and reduces lipid peroxidation in roots of salt-stressed barley (Hordeum vulgare L.), J Plant Physiol, 160, pp. 1157-1164, (2003); 
+Liang Y., Zhu J., Li Z., Chu G., Ding Y., Zhang J., Sun W., Role of silicon in enhancing resistance to freezing stress in two contrasting winter wheat cultivars, Environ Exp Bot, 64, pp. 286-294, (2008); 
+Lianopoulou V., Bosabalidis A.M., Patakas A., Lazari D., Panteris E., Effects of chilling stress on leaf morphology, anatomy, ultrastructure, gas exchange, and essential oils in the seasonally dimorphic plant Teucrium polium (Lamiaceae), Acta Physiol Plant, 36, pp. 2271-2281, (2014); 
+Lin Z.F., Li S.S., Lin G., Sun G.C., Guo J.Y., The relationship between the senescence of rice leaves and superoxide dismutase activity and lipid peroxidation, Bull Bot, 26, pp. 605-615, (1984); 
+Lin Q.Y., Hu J., Wen G.S., Zou W., Li G.H., Yang S.L., Diurnal variations of photosynthesis in leaves of Phyllostachys edulis in winter, J Fujian Coll For, 28, pp. 61-64, (2008); 
+Liu J., Lin S., Xu P., Wang X., Bai J., Effects of exogenous silicon on the activities of antioxidant enzymes and lipid peroxidation in chilling-stressed cucumber leaves, Agric Sci China, 8, pp. 1075-1086, (2009); 
+Liu Y., Li J.M., Zheng G., Effects of silicon nutrition on photosynthesis and fluorescence of cucumber, J Northwest Agric For Univ, 43, pp. 73-78, (2015); 
+Ma J.F., Role of silicon in enhancing the resistance of plants to biotic and abiotic stresses, Soil Sci Plant Nuitr, 50, pp. 11-18, (2004); 
+Ma J.F., Yamaji N., Functions and transport of silicon in plants, Cell Mol Life Sci, 65, pp. 3049-3057, (2008); 
+Ma J.F., Tamai K., Yamaji N., Mitani N., Konishi S., Katsuhara M., Ishiguro M., Murata Y., Yano M., A silicon transporter in rice, Nature, 440, pp. 688-691, (2006); 
+Marin M., Koko V., Duletic-Lausevic S., Marin P.D., Micromorphology of trichomes of Thymus malyi (Lamiaceae), J Microsc, 232, pp. 406-409, (2008); 
+Marschner H., Mineral nutrition of higher plants, (1995); 
+Meena V.D., Dotaniya M.L., Coumar V., Rajendiran S., Ajay, Kundu S., Subba Rao A., A Case for Silicon Fertilization to Improve Crop Yields in Tropical Soils, Proceedings of the National Academy of Sciences, India Section B: Biological Sciences, 84, 3, pp. 505-518, (2013); 
+Moussa H.R., Influence of exogenous application of silicon on physiological response of salt-stressed maize (Zea mays L.), Int J Agric Biol, 8530, pp. 293-297, (2006); 
+Ning D., Song A., Fan F., Li Z., Liang Y., Effects of slag-based silicon fertilizer on rice growth and brown-spot resistance, PLoS One, 9, (2014); 
+Pearsall D.M., Paleoethnobotany: a handbook of procedures, (2000); 
+Piperno D.R., Phytolith analysis—an archeological and geological perspective, (1988); 
+Raven J.A., Silicon transport at the cell and tissue level, Silicon in agriculture, pp. 41-55, (2001); 
+Rovner I., Plant opal phytolith analysis: major advances in archaeobotanical research, Adv Archaeol Method Theory, 6, pp. 225-266, (1983); 
+Sanglard L.M., Martins S.C., Detmann K.C., Silva P.E., Lavinsky A.O., Silva M.M., Detmann E., Araujo W.L., DaMatta F.M., Silicon nutrition alleviates the negative impacts of arsenic on the photosynthetic apparatus of rice leaves: an analysis of the key limitations of photosynthesis, Physiol Plant, 152, pp. 355-366, (2014); 
+Sun W., Zhang J., Fan Q., Xue G., Li Z., Liang Y., Silicon-enhanced resistance to rice blast is attributed to silicon-mediated defense resistance and its role as physical barrier, Eur J Plant Pathol, 128, pp. 39-49, (2010); 
+Sundar D., Chaitanya K.V., Jutur P.P., Reddy A.R., Low temperature-induced changes in antioxidative metabolism in rubber-producing shrub, guayule (Parthenium argentatum Gray), Plant Growth Regul, 44, pp. 175-181, (2004); 
+Tamai K., Ma J., Reexamination of silicon effects on rice growth and production under field conditions using a low silicon mutant, Plant Soil, 307, pp. 21-27, (2008); 
+Twiss P.C., Predicted world distribution of C3 and C4 grass phytoliths. Phytolith systematics, pp. 113-128, (1992); 
+Twiss P.C., Suess C.E., Smith R.M., Morphological classification of grass phytoliths, Soil Sci Soc Am Proc, 33, pp. 109-115, (1969); 
+Wang Y.J., Lu H.Y., Phytolith study and its application, (1993); 
+Wang C.M., Wang J., Wang W.J., Mu Q.Y., Deng Q.P., The property and papermaking performance of the major bamboo species in Yunnan province, China Pulp Paper, 27, pp. 10-12, (2008); 
+Xu C.X., Liu Y.L., Silicon absorption, transport and accumulation in plants, Acta Bot Boreali Occident Sin, 26, pp. 1071-1078, (2006); 
+Zhang J.H., Huang W.D., Research Advances on Mechanism of Cross-adaptation to Temperature Stresses in Plants, Chin Agric Sci Bull, 19, pp. 95-100, (2003); 
+Zhang Q., Zhang J.Z., Chow W.S., Sun L.L., Chen J.W., Chen Y.J., Peng C.L., The influence of low temperature on photosynthesis and antioxidant enzymes in sensitive banana and tolerant plantain (Musa sp.) cultivars, Photosynthetica, 49, pp. 201-208, (2011); 
+Zhu J., Mechanisms of silicon-enhancement of cold tolerance in winter wheat seedling, (2006); 
+Zhu Y., Gong H., Beneficial effects of silicon on salt and drought tolerance in plants, Agron Sustain Dev, 34, pp. 455-472, (2014); 
+Zhu Z.J., Wei G.Q., Li J., Qian Q.Q., Yu J.P., Silicon alleviates salt stress and increases antioxidant enzymes activity in leaves of salt-stressed cucumber (Cucumis sativus L.), Plant Sci, 167, pp. 527-533, (2004); 
+Zou Q., Guide to plant physiology experiment, (2008)#FRF#

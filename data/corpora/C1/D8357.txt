@@ -1,0 +1,32 @@
+#ITI#Does water salinity affect pepper plant response to nitrogen fertigation?#FTI#
+#IRE#Recent increase in demand for agricultural products combined with scarcity of fresh water has motivated increased use of non-conventional water sources for irrigation. Application of water varying in quality dictates adjustment of nitrogen (N) management. The response of bell pepper to a range of different concentrations of N and salinity (NaCl) was evaluated in soilless and field experiments under greenhouse conditions. Pepper plant biomass and yield increased with N and decreased with salinity. Chloride accumulated mainly in the stems and the fraction of Cl in leaves increased as a function of increased exposure to salinity. Increasing N application resulted in reduced Cl uptake and accumulation in pepper organs, including leaves and petioles. Although N significantly reduced Cl content and concentration in leaves and petioles it did not compensate for the negative effects of increasing salinity. This indicates that salinity itself and not Cl − N competition was the limiting factor affecting growth and yield. © 2017 Elsevier B.V.#FRE#
+#IPC#Chloride; Mineral distribution; Mineral nutrition; Nitrate; Nitrogen uptake#FPC#
+#IRF#Bar-Tal A., Aloni B., Karni L., Oserovitz J., Hazan A., Itach M., Gantz S., Avidan A., Posalski I., Tratkovski N., Rosenberg R., Nitrogen nutrition of greenhouse pepper. I. Effects of nitrogen concentration and NO<sub>3</sub>:NH<sub>4</sub> ratio on yield fruit shape, and the incidence of blossom-end rot in relation to plant mineral composition, HortSci., 36, pp. 1244-1251, (2001); 
+Beltran M.J., Irrigation with saline water: benefits and environmental impact, Agric. Water Manag., 40, pp. 183-194, (1999); 
+Ben-Gal A., Ityel E., Dudley L., Cohen S., Yermiyahu U., Presnov E., Zigmond L., Shani U., Effect of irrigation water salinity on transpiration and on leaching requirements: a case study for bell peppers, Agric. Water Manag., 95, pp. 587-597, (2008); 
+Ben-Gal A., Yermiyahu U., Cohen S., Fertilization and blending alternatives for irrigation with desalinated water, J. Environ. Qual., 38, pp. 529-536, (2009); 
+Bernstein L., Francois L.F., Clark R.A., Interactive effects of salinity and fertility on yields of grains and vegetables, Agronomy J., 66, pp. 413-421, (1974); 
+Botiotaa P., Navarro J.M., Cerda A., Martiotanez V., Yield and fruit quality of two melon cultivars irrigated with saline water at different stages of development, Euro. J. Agronomy, 23, pp. 243-253, (2005); 
+Chen W., Hou Z., Wu L., Liang Y., Wei C., Effects of salinity and nitrogen on cotton growth in arid environment, Plant Soil, 326, pp. 61-73, (2010); 
+Cohen S., Offenbach R., Bar-Tal A., Keinan M., Maduel A., Suriano S., Aloni B., Karni L., Managing of circulated nutrient solutions with saline water for pepper cultivation, Acta Hortic., 609, pp. 349-354, (2003); 
+Dechorgnat J., Nguyen C.T., Armengaud P., Jossier M., Diatloff E., Filleur S., Daniel-Vedele F., From the soil to the seeds: the long journey of nitrate in plants, J. Exp. Bot., 62, pp. 1349-1359, (2011); 
+De Pascale S., Ruggiero C., Barbieri G., Maggio A., Physiological responses of pepper to salinity and drought, J. Amer. Soc. Hort. Sci., 128, pp. 48-54, (2003); 
+Feigin A., Ravina I., Shalhevet J., Irrigation with Treated Sewage Effluent: Management for Environmental Protection, (1991); 
+Grattan S.R., Grieve C.M., Mineral element acquisition and growth response of plants grown in saline environments, Agric. Ecosys. Environ., 38, pp. 275-300, (1992); 
+Kafkafi U., Valoras N., Letey J., Chloride interaction with NO<sub>3</sub> and phosphate nutrition in tomato, J. Plant Nutr., 5, pp. 1369-1385, (1982); 
+Kosman E., Cohen Y., Procedures for calculating the differentiating synergism and antagonism in action of fungicide mixtures, Phytopathology, 86, pp. 1263-1272, (1996); 
+Levy Y., Benderly M., Cohen Y., Gisi U., Bassand D., The joint action of fungicides in mixtures; comparison of two methods for synergy calculation, Bull EPPO, 16, pp. 651-657, (1986); 
+Maas E.V., Crop Salt Tolerance, Agricultural Salinity Assessment and Management. ASCE Manuals and Reports on Engineering Practices No. 71, (1990); 
+Min W., Hou Z.A., Ma L.J., Zhang W., Ru S.B., Ye J., Effects of water salinity and N application rate on water- and N-use efficiency of cotton under drip Irrigation, J. Arid Land, 6, pp. 454-467, (2014); 
+Rubio J.S., Garciotaa-Sanchez F., Rubio F., Garciotaaand A.L., Martiotanez V., The importance of K<sup>+</sup> in ameliorating the negative effects of salt stress on the growth of pepper plants, Euro. J. Hort. Sci., 75, pp. 33-41, (2010); 
+Semiz G.D., Suarez D.L., Unlukara A., Yurtseven E., Interactive effects of salinity and N on pepper (Capsicum annuum L.) yield, water use efficiency and root zone and drainage salinity, J. Plant Nutr., 37, pp. 595-610, (2014); 
+Shani U., Dudley L.M., Field Studies of crop response to water and salt stress, Soil Sci. Soc. Am. J., 65, pp. 1522-1528, (2001); 
+Shani U., Ben-Gal A., Dudley L.M., Environmental implications of adopting a dominant factor approach to salinity management, J. Environ. Quality, 34, pp. 1455-1460, (2005); 
+Shenker M., Ben-Gal A., Shani U., Sweet corn response to combined nitrogen and salinity environmental stresses, Plant Soil, 256, pp. 139-147, (2003); 
+Snell F.D., Snell C.T., Colorimetric methods of analysis including some turbidimetic and nephelometric methods, (1949); 
+von der Fecht-Bartenbach J., Bogner M., Dynowski M., Ludewig U., CLC-b-mediated NO<sub>3</sub><sup>−</sup>/H<sup>+</sup> exchange across the tonoplast of Arabidopsis vacuoles, Plant Cell Physiol., 5, pp. 960-968, (2010); 
+Xu G., Magen H., Tarchitzky J., Kafkafi U., Advances in chloride nutrition of plants, Adv. in Agron., 68, pp. 97-150, (2000); 
+Yasuor H., Ben-Gal A., Yermiyahu U., Beit-Yannai E., Cohen S., Nitrogen Management of greenhouse pepper production: agronomic, nutritional, and environmental implications, HortScience, 48, pp. 1241-1249, (2013); 
+Yeo A., Predicting the interaction between the effects of salinity and climate change on crop plants, Sci. Hortic., 78, pp. 159-174, (1999); 
+Yermiyahu U., Ben-Gal A., Keren R., Reid R.J., Combined effect of salinity and excess boron on plant growth and yield, Plant Soil, 304, pp. 73-87, (2008); 
+Yermiyahu U., Tal A., Ben-Gal A., Bar-Tal A., Tarchitzky J., Lahav O., Rethinking desalinated water quality and agriculture, Science, 318, pp. 920-921, (2007)#FRF#

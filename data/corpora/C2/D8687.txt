@@ -1,0 +1,36 @@
+#ITI#The combined treatment of Mn and Al alleviates the toxicity of Al or Mn stress alone in barley#FTI#
+#IRE#Aluminum (Al) and manganese (Mn) toxicity commonly coexists in acid soil, so the crop cultivars suitable for planting in acid soil should show high tolerance to both elements simultaneously. However, it is still not clear if the toxicity of Mn and Al on plant growth is antagonistic or synergistic, and the plants with Al tolerance are also tolerant to Mn toxicity. In this study, three barley genotypes (one Tibetan wild and two cultivated), differing in Al tolerance, were characterized for growth and physiological responses to Al or Mn toxicity as well as the combined treatment of the two toxic elements. Interestingly, it has been found that the combined treatment of both metals was less affected in comparison with Al or Mn treatment alone, in terms of plant growth, Al or Mn concentration in plant tissues, and photosynthetic parameters, indicating antagonistic interaction of Al and Mn for their effect on plant growth and physiological traits. The results also showed that there was a dramatic difference among barley genotypes in Mn toxicity tolerance and XZ16 showed much higher tolerance than other two genotypes. High Mn tolerance is mainly described to less Mn uptake and lower Mn concentration in plants, and Mn tolerance is independent of Al tolerance. © 2016, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Acidic soil; Aluminum; Interaction; Manganese; Tolerance#FPC#
+#IRF#Blair L.M., Taylor G.J., The nature of interaction between aluminum and manganese on growth and metal accumulation in Triticum aestivum, Environ Exp Bot, 37, pp. 25-37, (1997); 
+Bortner C., Toxicity of manganese to Turkish tobacco in acidic soil, Soil Sci, 39, pp. 15-34, (1935); 
+Bromfield S., Cumming R., David D., Williaams C., Change in soil pH, manganese and aluminium under subterranean clover pasture Animal production, Science, 23, pp. 181-191, (1983); 
+Soil of China [in Chinese]. Chinese Agriculture Press, Beijing, 950, pp. 95-96, (1998); 
+Culvenor R.A., Tolerance of Phalaris aquatica L. lines and some other agricultural species to excess manganese, and the effect of aluminium on manganese tolerance in P. aquatica, Aust J Agric Res, 36, pp. 695-708, (1985); 
+Dai H., Cao F., Chen X., Zhang M., Ahmed I.M., Chen Z.H., Li C., Zhang G., Wu F., Et al., Comparative proteomic analysis of aluminum tolerance in Tibetan wild and cultivated barleys, PLoS One, 8, 5, (2013); 
+de la Luz M.M., Rosas A., Ribera A., Rengel Z., Differential tolerance to Mn toxicity in perennial ryegrass genotypes: involvement of antioxidative enzymes and root exudation of carboxylates, Plant Soil, 320, pp. 79-89, (2009); 
+Delhaize E., Ryan P.R., Aluminum toxicity and tolerance in plants, Plant Physiol, 107, pp. 315-321, (1995); 
+Delhaize E., Craig S., Beaton C.D., Bennet R.J., Jagadish V.C., Randall P.J., Aluminum tolerance in wheat (Triticum aestivum L.) (I. Uptake and distribution of aluminum in root apices), Plant Physiol, 103, pp. 685-693, (1993); 
+Delhaize E., Ryan P.R., Hebb D.M., Yamamoto Y., Sasaki T., Matusmoto H., Engineering high-level aluminum tolerance in barley with the ALMT1 gene, Proc Nat Aca Sci USA, 101, pp. 15249-15254, (2004); 
+Foy C.D., Physiological effects of hydrogen, aluminum, and manganese toxicities in acid soil, In: Soil acidity and liming, pp 57–97, (1984); 
+Foy C.D., Plant adaptation to acid, aluminum-toxic soils, Commun Soil Sci Plant Anal, 19, pp. 959-987, (1988); 
+Fuhrs H., Hartwig M., Molina L.E., Heintz D., Van Dorsselaer A., Braun H.P., Horst W.J., Early manganese-toxicity response in Vigna unguiculata L. a proteomic and transcriptomic study, Proteomics, 8, pp. 149-159, (2008); 
+Fuhrs H., Behrens C., Gallien S., Heintz D., Van Dorsselaer A., Braun H.P., Horst W.J., Physiological and proteomic characterization of manganese sensitivity and tolerance in rice (Oryza sativa) in comparison with barley (Hordeum vulgare), Ann Bot, 105, pp. 1129-1140, (2010); 
+Khan A.A., McNeilly T., Variability in aluminium and manganese tolerance among maize accessions, Genet Resour Crop Evol, 45, pp. 525-531, (1998); 
+Kochian L.V., Hoekenga O.A., Pineros M.A., How do crop plants tolerate acid soils? Mechanisms of aluminum tolerance and phosphorous efficiency, Annu Rev Plant Biol, 55, pp. 459-493, (2004); 
+Lidon F.C., Teixeira M.G., Rice tolerance to excess Mn: implications in the chloroplast lamellae and synthesis of a novel Mn protein, Plant Physiol Biochem, 38, pp. 969-978, (2000); 
+Lidon F.C., Barreiro M.G., Ramalho J.C., Manganese accumulation in rice: implications for photosynthetic functioning, J Plant Physiol, 161, pp. 1235-1244, (2004); 
+Ma J.F., Ryan P.R., Delhaize E., Aluminium tolerance in plants and the complexing role of organic acids, Trends Plant Sci, 6, pp. 273-278, (2001); 
+Marschner H., Functions of mineral nutrients: macronutrients Mineral nutrition of higher plants, 2, pp. 379-396, (1995); 
+Martini J., Kochhann R., Siqueira O., Borkert C., Response of soybeans to liming as related to soil acidity, Al and Mn toxicities, and P in some oxisols of Brazil, Soil Sci Soc Am J, 38, pp. 616-620, (1974); 
+Moroni J., Scott B., Wratten N., Differential tolerance of high manganese among rapeseed genotypes, Plant Soil, 253, pp. 507-519, (2003); 
+Nable R.O., Houtz R.L., Cheniae G.M., Early inhibition of photosynthesis during development of Mn toxicity in tobacco, Plant Physiol, 86, pp. 1136-1142, (1988); 
+Pineros M.A., Shaff J.E., Manslank H.S., Alves V.M.C., Kochian L.V., Aluminum resistance in maize cannot be solely explained by root organic acid exudation. A comparative physiological study, Plant Physiol, 137, pp. 231-241, (2005); 
+Rosas A., Rengel Z., de la Luz M.M., Manganese supply and pH influence growth, carboxylate exudation and peroxidase activity of ryegrass and white clover, J Plant Nutr, 30, pp. 253-270, (2007); 
+Shen R.F., Chen R.F., Ma J.F., Buckwheat accumulates aluminum in leaves but not in seeds, Plant Soil, 284, pp. 265-271, (2006); 
+Taylor G.J., Blamey F.P.C., Edwards D.G., Antagonistic and synergistic interaction between aluminum and manganese on growth of Vigna unguiculata at low ionic strength, Physiol Plant, 104, pp. 183-194, (1998); 
+Vlamis J., Williams D.E., Iron and manganse relations in rice and barley, Plant Soil, 20, pp. 221-231, (1964); 
+Von Uexkull H., Mutert E., Global extent, development and economic impact of acid soils, Plant Soil, 171, pp. 1-15, (1995); 
+Wenzl P., Patino G.M., Chaves A.L., Mayer J.E., Rao I.M., The high level of aluminum resistance in signalgrass is not associated with known mechanisms of external aluminum detoxification in root apices, Plant Physiol, 125, pp. 1473-1484, (2001); 
+Yang Z.B., You J.F., Xu M.Y., Yang Z.M., Interaction between aluminum toxicity and manganese toxicity in soybean (Glycine max), Plant Soil, 319, pp. 277-289, (2009); 
+You J.F., He Y.F., Yang J.L., Zheng S.J., A comparison of aluminum resistance among Polygonum species originating on strongly acidic and neutral soils, Plant Soil, 276, pp. 143-151, (2005); 
+Zheng S.J., Ma J.F., Matsumoto H., Continuous secretion of organic acids is related to aluminium resistance during relatively long-term exposure to aluminium stress, Physiol Plant, 103, pp. 209-214, (1998)#FRF#

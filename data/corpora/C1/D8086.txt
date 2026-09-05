@@ -1,0 +1,33 @@
+#ITI#A decision model for stochastic optimization of seasonal irrigation-water allocation#FTI#
+#IRE#Optimal water allocation on a seasonal basis is generally a decision taken with uncertainty regarding seasonal crop needs (unknown yield, precipitation and other environmental factors). Decision criteria, such as “irrigating for the good years of production” and "applying a little extra water just in case it is needed by the plant", are consistent with the rational behaviour of stochastic profit maximization. The motivation behind an increase in water allocation (acquiring water rights or reserving water for certain crops) is that of self-protection: it is better to maintain an extra allocation of water than to face potential yield losses due to water constraints on production in those years when potential yields exceed average levels. The stochastic optimization model presented herein is applied to maize in Spain showing that in current economic and technical conditions, the optimal stochastic water allocation under yield uncertainty is 10% higher than the irrigation dose required under certainty (historical average yield), which leads to an 8% higher expected profit than that obtained for an average-yield water application. © 2021 The Authors#FRE#
+#IPC#Irrigation-water allocation; Over-allocation; Stochastic optimization; Yield uncertainty#FPC#
+#IRF#Adamson D., Loch A., Incorporating uncertainty in the economic evaluation of capital investments for water use efficiency improvements, Land Econ., (2021); 
+Alexandratos N., Bruinsma J., World Agriculture towards 2030/2050: The 2012 Revision, ESA Working Paper No 12-03, (2012); 
+Anderson J.R., Dillon J.L., Hardaker B., Agricultural decision analysis, Monogr.: Appl. Econ., AgEcon Searh, (1977); 
+Anvari S., Mousavi S.J., Morid S., Stochastic dynamic programming-based approach for optimal irrigation scheduling under restricted water availability conditions, Irrig. Drain., 66, pp. 492-500, (2017); 
+Archibald T.W., Marshall S.E., Review of mathematical programming applications in water resource management under uncertainty, Environ. Model. Assess., 23, 2018, pp. 753-777, (2018); 
+Arrow K.J., Harris T., Marschak J., Optimal inventory policy, Économ.: J. Econom. Soc., pp. 250-272, (1951); 
+Babcock B.A., The effects of uncertainty on optimal nitrogen applications, Rev. Agric. Econ., 14, pp. 271-280, (1992); 
+Berbel J., Exposito A., The theory and practice of water pricing and cost recovery in the Water Framework Directive, Water Altern., 13, pp. 659-673, (2020); 
+pp. 0001-0073, (2000); 
+Gallego G., Moon I., The distribution free newsboy problem: review and extensions, J. Oper. Res. Soc., 44, pp. 825-834, (1993); 
+Garcia-Garizabal I., Causape J., Influence of irrigation water management on the quantity and quality of irrigation return flows, J. Hydrol., 385, 1, pp. 36-43, (2010); 
+Just R.E., Pope R.D., Production function estimation and related risk considerations, Am. J. Agric. Econ., 61, pp. 276-284, (1979); 
+Just R.E., Weninger Q., Are crop yields normally distributed?, Am. J. Agric. Econ., 81, pp. 287-304, (1999); 
+Lecina S., Isidoro D., Playan E., Aragues R., Irrigation modernization in Spain: effects on water quantity and quality—A conceptual approach, Int J. Water Resour. D., 26, pp. 265-282, (2010); 
+Linker R., Stochastic model-based optimization of irrigation scheduling, Agric. Water Manag., 243, (2021); 
+Loch A., Auricht C., Adamson D., Mateo L., Markets, mis-direction and motives: A factual analysis of hoarding and speculation in southern Murray–Darling Basin water markets, Aust. J. Agric. Resour. Econ., 65, pp. 291-317, (2021); 
+Magnusson G., Production under risk: A theoretical study, Acta Univ. Ups., (1969); 
+MIMAM, EL uso del agua en la economía española. Ministerio de Medio Ambiente [The use of water in the Spanish economy, (2008); 
+Moldero D., Lopez-Bernal A., Testi L., Lorite I.J., Fereres E., Orgaz F., Long-term almond yield response to deficit irrigation, Irrig. Sci., 39, pp. 409-420, (2021); 
+Pannell D.J., Flat earth economics: the far-reaching consequences of flat payoff functions in economic decision making, Rev. Agric. Econ., 28, 4, pp. 553-566, (2006); 
+Pereira H., Marques R.C., An analytical review of irrigation efficiency measured using deterministic and stochastic models, Agric. Water Manag., 184, pp. 28-35, (2017); 
+Sandmo A., On the theory of the competitive firm under price uncertainty, Am. Econ. Rev., 61, pp. 65-73, (1971); 
+Scheierling S.M., Loomis J.B., Young R.A., Irrigation water demand: A meta-analysis of price elasticities, Water Resour. Res., 42, 1, (2006); 
+Scott C.A., Vicuna S., Blanco-Gutierrez I., Meza F., Varela-Ortega C., Irrigation efficiency and water-policy implications for river basin resilience, Hydrol. Earth Syst. Sci., 18, 4, pp. 1339-1348, (2014); 
+Steduto P., Hsiao T.C., Raes D., Fereres E., Crop Yield Response to Water, (2012); 
+Vita Serman F., Orgaz F., Starobinsky G., Capraro F., Fereres E., Water productivity and net profit of high-density olive orchards in San Juan, Argentina, Agric. Water Manag., 252, (2021); 
+World Bank-OECD, Facilitating policy change towards sustainable water use in agriculture (Summary), World Bank-OECD workshop, (2018); 
+Xie Y., Zilberman D., Water storage capacity versus water use efficiency: substitutes or complements?, J. Assoc. Environ. Resour. Econ., 5, pp. 265-299, (2018); 
+Yan Z., Li M., Li Z., Efficient and economical allocation of irrigation water under a changing environment: a stochastic multi-objective nonlinear programming model, Irrig. Drain., 70, pp. 103-116, (2021); 
+Zuo A., Ann Wheeler S., Adamowicz W.L., Boxall P.C., Hatton-MacDonald D., Measuring price elasticities of demand and supply of water entitlements based on stated and revealed preference data, Am. J. Agric. Econ., 98, 1, pp. 314-332, (2015)#FRF#

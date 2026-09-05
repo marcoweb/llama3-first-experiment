@@ -1,0 +1,26 @@
+#ITI#Impact of controlled drainage on subsurface drain flow and nitrate load: A synthesis of studies across the U.S. Midwest and Southeast#FTI#
+#IRE#Controlled drainage (CD), sometimes called drainage water management, is a practice whereby the drainage system outflow is managed during specific periods to retain more water in the field. Although CD has been shown to reduce downstream nitrate-N (NO3--N) load, seasonal patterns have been less consistent which can potentially impact the effectiveness of conservation practices. The main objective of this study was to assess the regional and seasonal impact of conventional free drainage (FD) and CD on drainage flow and nitrate-N load. Using experimental data from ongoing and historical CD experiments across the Corn Belt and in North Carolina, we evaluated subsurface drain flow, nitrate-N load, and performance of CD systems. Across the data set and regions, there was little difference in annual flow from FD conditions. Seasonally, more northern and western sites experienced a greater percentage of the annual flow occurring in the spring. There was no nitrate-N concentration reduction with CD. Flow and nitrate-N load reductions with CD did not vary by plant hardiness zone across the region, but the season with the greatest reduction did shift from winter to spring moving north and west in the study area. Absolute flow reductions (in mm) were similar regardless of precipitation category. Consequently, the percent reduction was lower as the amount of precipitation (category) increased. Overall, this analysis found CD to be an effective practice for reducing drain flow and nitrate-N loading directly delivered by the drains to downstream water bodies across the region. © 2021 The Authors#FRE#
+#IPC#Drainage water management; Nitrate loss; Seasonal drainage#FPC#
+#IRF#Alexander R.B., Murdoch P.S., Smith R.A., Streamflow-induced variations in nitrate flux in tributaries to the Atlantic Coastal Zone, Biogeochemistry, 33, 3, pp. 149-177, (1996); 
+Chighladze G.; 
+Chighladze G., Reinhart B., (2020); 
+Craft K.J., Helmers M.J., Malone R.W., Pederson C.H., Schott L.R., Effects of subsurface drainage systems on water and nitrogen footprints simulated with RZWQM2, Trans. ASABE, 61, pp. 245-261, (2018); 
+David M.B., Drinkwater L.E., McIsaac G.F., Sources of nitrate yields in the Mississippi River Basin, J. Environ. Qual., 39, pp. 1657-1667, (2010); 
+Eagle A.J., Christianson L.E., Cook R.L., Harmel R.D., Miguez F.E., Qian S.S., Ruiz Diaz D.A., Meta-analysis constrained by data: Recommendations to improve relevance of nutrient management research, Agron. J., 109, 6, pp. 2441-2449, (2017); 
+Ghane E., Ranaivoson A.Z., Feyereisen G.W., Rosen C.J., Moncrief J.F., Comparison of contaminant transport in agricultural drainage water and urban stormwater runoff, PLoS One, 11, 12, (2016); 
+Herzmann D.E., Abendroth L.J., Bunderson L., Data management approach to multidisciplinary agricultural research and syntheses, J. Soil Water Conserv., 69, 6, pp. 180A-185A, (2014); 
+Kladivko E.J., Brown L.C., Baker J.L., Pesticide transport to subsurface tile drains in humid regions of North America, Crit. Rev. Environ. Sci. Technol., 31, 16, pp. 1-62, (2001); 
+Kladivko E.J., Frankenberger J.R., Jaynes D.B., Meek D.W., Jenkinson B.J., Fausey N.R., Nitrate leaching to subsurface drains as affected by drain spacing and changes in crop production system, J. Environ. Qual., 33, pp. 1803-1813, (2004); 
+Qi Z., Helmers M.J., Christianson R.D., Pederson C.H., Nitrate-nitrogen losses through subsurface drainage under various agricultural land covers, J. Environ. Qual., 40, 5, pp. 1578-1585, (2011); 
+(2018); 
+(2016); 
+Rabalais N.N., Turner R.E., Wiseman W.J., Gulf of Mexico hypoxia, AKA “The dead zone.”, Ann. Rev. Ecol. Syst., 33, pp. 235-263, (2002); 
+Ross J.A., Herbert M.E., Sowa S.P., Frankenberger J.R., King K.W., Christopher S.F., Tank J.L., Arnold J.G., White M.J., Yen H., A synthesis and comparative evaluation of factors influencing the effectiveness of drainage water management, Agric. Water Manag., 178, pp. 366-376, (2016); 
+Schilling K.E., Streeter M.T., Vogelgesang J., Jones C.S., Seeman A., Subsurface nutrient export from a cropped field to an agricultural stream: implications for targeting edge-of-field practices, Agric. Water Manag., 241, (2020); 
+Skaggs R.W., Fausey N.R., Evans R.O., Drainage water management, J. Soil Water Conserv., 62, 6, pp. 167A-172A, (2012); 
+Strock J.S., Porter P.M., Russelle M.P., Cover cropping to reduce nitrate loss through subsurface drainage in the Northern U.S. Corn Belt, J. Environ. Qual., 33, 3, pp. 1010-1016, (2004); 
+Tomer M.D., Meek D.W., Jaynes D.B., Hatfield J.L., Evaluation of nitrate nitrogen fluxes from a tile-drained watershed in central Iowa, J. Environ. Qual., 32, pp. 642-653, (2003); 
+USDA A.R.S., USDA Plant Hardiness Zone Map, (2012); 
+(2007); 
+Wang Z., Shao G., Lu J., Zhang K., Gao Y., Ding J., Effects of controlled drainage on crop yield, drainage water quantity and quality: a meta-analysis, Agric. Water Manag., 239, (2020); 
+Williams M., King K., Fausey N.R., Drainage water management effects on tile discharge and water quality, Agric. Water Manag., 148, pp. 43-51, (2015)#FRF#

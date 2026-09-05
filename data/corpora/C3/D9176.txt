@@ -1,0 +1,48 @@
+#ITI#Codon usage bias and evolution analysis in the mitochondrial genome of Mesona chinensis Benth#FTI#
+#IRE#Mesona chinensis Benth (MCB) is an edible and medicinal plant in southern China and Southeast Asian countries. Mitochondria, semi-autonomous organelles in eukaryotic cells, contain their own genome (mitogenome) and are involved in various cellular processes. Codons are the core elements of protein translation in gene-coding regions. It is of great significance to analyze the characteristics of codon usage in gene-coding regions for gene function and phylogenetic studies. Here, the codon usage pattern and the factors affecting codon usage bias (CUB), and the cluster and phylogenetic analysis based on mitogenomes were determined. Results of nucleotide composition analysis showed an unequal distribution of T, G, A, and C nucleotides and AT bias in MCB mitogenome. The GC, GC1, GC2, GC3 content, codon adaption index (CAI), and effective number codon (ENC) of MCB mitogenome were 43.09%, 48.37%, 42.67%, 38.22%, 0.632, and 55.539, respectively, while those of each gene ranged from 35.61% to 51.85%, 36.25% to 56.69%, 33.46% to 47.76%, 23.08% to 58.15%, 37.81 to 60.02, and 0.564 to 0.680, respectively. 18 out of 28 genes showed the highest GC1 content and the lowest GC3 content, and the general order of GC content in different codon positions was GC1 > GC2 > GC3. Further analysis of the neutrality plot, ENC-plot, and PR2-bias plot revealed that the CUB of MCB mitogenome was affected by natural selection and mutation. Seven optimal codons, TTG, GAC, TCA, AGA, ACC, GGG, and ATA were determined in MCB mitogenome. The phylogenetic tree based on mitogenome sequences and the cluster analysis based on relative synonymous codon usage (RSCU) values indicated that the CUB of mitogenome might have to do with the genetic relationship among species. Overall, the current study positively contributed to the molecular mechanism of biological adaptation and the evolutionary relationship of MCB. © 2022, The Author(s) under exclusive licence to Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Cluster and phylogenetic analysis; Codon usage bias; Mesona chinensis Benth; Mitogenome#FPC#
+#IRF#Angellotti M.C., Bhuiyan S.B., Chen G., Wan X.F., CodonO: codon usage bias analysis within and across genomes, Nucleic Acids Res, 35, pp. 132-136, (2007); 
+Bornali D., Arif U., Gulshana A.M., Supriyo C., Analysis of codon usage pattern of mitochondrial protein-coding genes in different hookworms, Mol Biochem Parasitol, 219, pp. 24-32, (2018); 
+Bulmer M., The selection-mutation-drift theory of synonymous codon usage, Genetics, 129, 3, pp. 897-907, (1991); 
+Cai M.S., Cheng A.C., Wang M.S., Zhao L.C., Characterization of synonymous codon usage bias in the duck plague virus UL35 gene, Intervirology, 52, pp. 266-278, (2009); 
+Chakraborty S., Yengkhom S., Uddin A., Analysis of codon usage bias of chloroplast genes in Oryza species, Planta, 252, (2020); 
+Debaroti D., Bornali D., Arup K.M., Supriyo C., Allele frequency analysis of GALC gene causing Krabbe disease in human and its codon usage, Gene, 747, (2020); 
+Francino H.P., Ochman H., Isochores result from mutation not selection, Nature, 400, pp. 30-31, (1999); 
+Helene P., Pierre G., Jacques-Henry W., Pillay D.T.N., Adjustment of the tRNA population to the codon usage of chloroplasts, Nucleic Acids Res, 15, (1987); 
+Ikemura T., Codon usage and tRNA content in unicellular and multicellular organisms, Mol Biol Evol, 2, pp. 13-34, (1985); 
+Kawabe A., Miyashita N.T., Patterns of codon usage bias in three dicot and four monocot plant species, Genes Genetic Syst, 78, 5, pp. 343-352, (2003); 
+Lavner Y., Kotlar D., Codon bias as a factor in regulating expression via translation rate in the human genome, Gene, 345, pp. 127-138, (2005); 
+Li G.L., Pan Z.L., Gao S.C., He Y.Y., Xia Q.Y., Yan J., Yao H.P., Analysis of synonymous codon usage of chloroplast genome in Porphyra umbilicalis, Gene Genomics, 41, pp. 1173-1181, (2019); 
+Li Y.Q., Zhao H.K., Tan H., Liu X.D., Zhang C.B., Dong Y.S., Analysis and comparison on characteristic of mitochondrial genome of eight plants, Biotechnol Bull, 10, pp. 156-162, (2011); 
+Liu H.Y., Sun C.H., Zhu Y., Li Y.D., Wei Y.S., Ruan H.H., Mitochondrial genomes of four American characins and phylogenetic relationships within the family Characidae (Teleostei: Characiformes), Gene, (2020); 
+Lu H., Zhao W.M., Yan Z., Hong W., Mei Q., Ping Y.X., Analysis of synonymous codon usage bias in Chlamydia, Acta Biochim Biophys Sin, 37, pp. 1-10, (2005); 
+Mazumder G.A., Uddin A., Chakraborty S., Prediction of gene expression and codon usage in human parasitic helminths, Genes Genom, (2015); 
+Nie X.J., Deng P.C., Feng K.W., Liu P.X., Du X.H., You F.M., Song W.M., Comparative analysis of codon usage patterns in chloroplast genomes of the Asteraceae family, Plant Mol Biol Rep, (2013); 
+Oda K., Yamato K., Ohta E., Nakamura Y., Takemura M., Nozato N., Akashi K., Kanegae T., Ogura Y., Kohchi T., Gene organization deduced from the complete sequence of liverwort Marchantia polymorpha mitochondrial DNA. A primitive form of plant mitochondrial genome, J Mol Biol, 223, pp. 1-7, (1992); 
+Peden J.F., Analysis of Codon Usage, pp. 73-74, (1999); 
+Pereto J., (2015); 
+Perna N.T., Kocher T.D., Patterns of nucleotide composition at fourfold degenerate sites of animal mitochondrial genomes, J Mol Evol, 41, pp. 353-358, (1995); 
+Petersena G., Andersona B., Braun H.P., Meyer E.H., Moller I.M., Mitochondria in parasitic plants, Mitochondrion, 52, pp. 173-182, (2020); 
+Ren Y.M., Jiang L., Wang W.J., Xiao Y.H., Liu S.C., Luo Y., Shen M.Y., Xie J.H., Effects of Mesona chinensis Benth polysaccharide on physicochemical and rheological properties of sweet potato starch and its interactions, Food Hydrocolloids, 99, (2019); 
+Roychoudhury S., Mukherjee D., A detailed comparative analysis on the overall codon usage pattern in herpesviruses, Virus Res, 148, 12, pp. 31-43, (2010); 
+Sharp P.M., Li W.H., An evolutionary perspective on synonymous codon usage in unicellular organisms, J Mol Evol, 24, 1-2, pp. 28-38, (1986); 
+Shields D.C., Sharp P.M., Higgins D.G., Wright F., Silent” sites in Drosophila genes are not neutral: evidence of selection among synonymous codons, Mol Biol Evol, 5, 6, pp. 704-716, (1988); 
+Sueoka N., Intrastrand parity rules of DNA base composition and usage biases of synonymous codons, J Mol Evol, 40, 3, pp. 318-325, (1995); 
+Sueoka N., Two aspects of DNA base composition: G+C content and translation-coupled deviation from intra-strand rule of A=T and G=C, J Mol Evol, 49, 1, pp. 49-62, (1999); 
+Sun Z., Wan D.C., Murphy R.W., Ma L., Zhang X.S., Huang D.W., Comparison of base composition and codon usage in insect mitochondrial genomes, Genes & Genomics, 31, 1, pp. 65-71, (2009); 
+Supriyo C., Sophiarani Y., Arif U., Analysis of codon usage bias of chloroplast genes in Oryza species, Planta, 252, (2020); 
+Tang D.F., Wei F., Cai Z.Q., Wei Y.Y., Aziz K., Miao J.H., Wei K.H., Analysis of codon usage bias and evolution in the chloroplast genome of Mesona chinensis Benth, Dev Genes Evol, 231, pp. 1-9, (2020); 
+Tang D.F., Huang Q.F., Wei K.H., Yang X.N., Wei F., Miao J.H., Identification of differentially expressed genes and pathways involved in growth and development of Mesona chinensis Benth under red and blue light conditions, Front Plant Sci, 12, (2021); 
+Tang D.F., Quan C.Q., Wei K.H., Lin Y., Huang Q.F., Wei F., Miao J.H., Physio-morphological, biochemical and transcriptomic analyses provide insights into drought stress responses in Mesona chinensis Benth, Front Plant Sci, 13, (2022); 
+Tang D.F., Lin Y., Wei F., Quan C.Q., Wei K.H., Wei Y.Y., Cai Z.Q., Muhammad H.K., Miao J.H., Characteristics and comparative analysis of Mesona chinensis Benth chloroplast genome reveals DNA barcode regions for species identification, Funct Integr Genomics, (2022); 
+Wang H.C., Hickey D.A., Rapid divergence of codon usage patterns within the rice genome, BMC Evol Biol, 7, 1, (2007); 
+Wang J., Wang T.Y., Wang L.Y., Zhang J.G., Zeng Y.F., Assembling and analysis of the whole chloroplast genome sequence of Elaeagnus angustifolia and its codon usage bias, Acta Bot. Boteal. Occident. Sin., 39, 9, pp. 1559-1572, (2019); 
+Wang W.J., Jiang L., Ren Y.M., Shen M.Y., Xie J.H., Characterizations and hepatoprotective effect of polysaccharides from Mesona blumes against tetrachloride induced acute liver injury in mice, Int J Biol Macromol, 124, pp. 788-795, (2019); 
+Wei L., He J., Jia X., Qi Q., Analysis of codon usage bias of mitochondrial genome in Bombyx mori and its relation to evolution, BMC Evol Biol, 14, (2014); 
+Westermann B., Mitochondrial fusion and fission in cell life and death, Nat Rev Mol Cell Biol, 11, pp. 872-884, (2010); 
+Wright F., The “effective number of codons” used in a gene, Gene, 87, pp. 23-29, (1990); 
+Wu M.L., Chen S.P., Chen H., Condon preference of chloroplast genome of Bambusoideae, J Forest Environ, 39, 1, pp. 9-14, (2019); 
+Xiao Y.H., Liu S.C., Shen M.Y., Jiang L., Ren Y.M., Luo Y., Physicochemical, rheological and thermal properties of Mesona chinensis polysaccharides obtained by sodium carbonate assisted and cellulase assisted extraction, Int J Biol Macromol, 126, pp. 30-36, (2019); 
+Zhao S., Deng L., Chen F., Codon usage bias of chloroplast genome in Kandelia obovata, J Forest Environ, 40, 5, pp. 534-541, (2020); 
+Zhou M., Li X., Analysis of synonymous codon usage patterns in different plant mitochondrial genomes, Mol Biol Rep, 36, pp. 2039-2046, (2009); 
+Zhou M., Long W., Li X., Analysis of synonymous codon usage in chloroplast genome of Populus alba, J Fores Res, 19, 4, pp. 293-297, (2008)#FRF#

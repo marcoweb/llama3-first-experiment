@@ -1,0 +1,56 @@
+#ITI#Cytological aspects of recalcitrance in dormant seeds of Mauritia flexuosa (Arecaceae)#FTI#
+#IRE#We evaluated the physiological and cytological aspects of the embryos of the palm tree Mauritia flexuosa, whose seeds show a rare association of recalcitrance and dormancy. Seeds were subjected to dehydration, or stored with stabilized water contents for 420 days. Seed viability and germination, as well as the anatomy, cytochemistry and ultrastructure of the embryos were evaluated using standardized methodologies. Under initial conditions (seeds with water contents of 44.6 %), viability was as high as 94 %, although without germination. Seeds dehydrated to water contents of 20 % lost all viability, whereas 87 % of the seeds stored while hydrated remained viable and 25 % germinated. Embryonic cells showed characteristics associated with recalcitrance in other palms species, such as the presence of large vacuoles and the absence of lipidic reserves, but also had abundant protein bodies and terpenoids in their cytoplasm as well as carbohydrate and protein reserves in their vacuoles—conditions found in the embryo cells of palms having orthodox seeds. Dehydration caused invagination of the cell walls, retraction of the plasma membrane, proliferation of the endoplasmic reticulum and autophagic vacuoles, and increased the densities of vacuolar contents—culminating in the collapse of the protoplast. Stored seeds showed preserved cell structures. M. flexuosa seeds are sensitive to dehydration, but will retain viability if kept hydrated, allowing dormancy to be overcome in seed banks in the swampy soils where this species occurs. The accumulations of secondary metabolites, vacuolation and the storage of carbohydrates and proteins in the vacuole all have important roles in the modulation of recalcitrance. © 2016, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Germination; Mucilage; Palms; Sensitivity to dehydration; Vacuole#FPC#
+#IRF#Bailly C., Active oxygen species and antioxidants in seed biology, Seed Sci Res, 14, pp. 93-107, (2004); 
+Baskin C.C., Baskin J.M., Seeds: ecology, biogeography and evolution of dormancy and germination, (2014); 
+Berjak P., Pammenter N.W., What ultrastructure has told us about recalcitrant seeds, Rev Bras Fisiol Veg, 12, pp. 22-55, (2000); 
+Berjak P., Pammenter N.W., From Avicennia to Zizania: seed recalcitrance in perspective, Ann Bot, 101, pp. 213-228, (2008); 
+Bewley J.D., Bradford K.J., Hilhorst H.W.M., Nonogaki H., Seeds: physiology of development, germination and dormancy, (2013); 
+Regras para análise de sementes, (2009); 
+Cho C.-H., Cho T.-P., Kuo-Huang L.-L., Ultrastructural study on the recalcitrant seeds of Machilus thunbergii Sieb. & Zucc, Taiwania, 42, pp. 125-134, (2001); 
+David R., Carde J.P., Coloration différentielle dês inclusions lipidique et terpeniques dês pseudophylles du Pin maritime au moyen du reactif Nadi, C R Hebd Séances Academ Sci Paris Série D, 258, pp. 1338-1340, (1964); 
+Daws M.I., Garwood N.C., Pritchard H.W., Prediction of desiccation sensitivity in seeds of woody species: a probabilistic model based on two seed traits and 104 species, Ann Bot, 97, pp. 667-674, (2006); 
+DeMason D.A., Embryo structure and storage reserve histochemistry in the palm Washingtonia filifera, Am J Bot, 75, pp. 330-337, (1988); 
+DeMason D., Thomson W.W., Structure and ultrastructure of the cotyledon of date palm (Phoenix dactylifera L.), Bot Gaz, 142, pp. 320-328, (1981); 
+Dickie J.B., Balick M.J., Linington I.M., Experimental investigations into the feasibility of ex situ preservation of palm seeds; an alternative strategy for biological conservation of this economically important plant family, Biodivers Conserv, 1, pp. 112-119, (1992); 
+Dransfield J., Uhl N.W., Asmussen C.B.A., Baker W.J., Harley M.M., Lewis C.E., Genera palmarum: the evolution and classification of palms, (2008); 
+Fahn A., Plant anatomy, pp. 522-524, (1990); 
+Farnsworth E., The ecology and physiology of viviparous and recalcitrant seeds, Annu Rev Ecol Syst, 31, pp. 107-138, (2000); 
+Fintel G.T., Berjak P., Pammenter N.W., Seed behaviour in Phoenix reclinata Jacquin, the wild date palm, Seed Sci Res, 14, pp. 197-204, (2004); 
+Fischer D.B., Protein staining of ribboned Epon sections for light microscopy, Histochemie, 16, pp. 92-96, (1968); 
+Gumilevskaya N.A., Azarkovich M.I., Physiological and biochemical characteristics of the recalcitrant seeds having dormancy: a review, Appl Biochem Microbiol, 43, pp. 332-340, (2007); 
+Holm J.A., Miller C.J., Cropper W.P., Population dynamics of the dioecious amazonian palm Mauritia flexuosa: simulation analysis of sustainable harvesting, Biotropica, 40, pp. 550-558, (2008); 
+Hong T.D., Ellis R.H., A protocol to determine seed storage behaviour, IPGRI Technical Bulletin No. 1, (1996); 
+Horn C.M., Gilmore M.P., Endress B.A., Ecological and socio-economic factors influencing aguaje (Mauritia flexuosa) resource management in two indigenous communities in the Peruvian Amazon, For Ecol Manag, 267, pp. 93-103, (2012); 
+Johansen D.A., Plant microtechnique, (1940); 
+Karnovsky M.J., A formaldehyde-glutaraldehyde fixative of high osmolality for use in electron microscopy, J Cell Biol, 27, pp. 137-138, (1965); 
+Kioko J.I., Berjak P., Pammenter N.W., Viability and ultrastructural responses of seeds and embryonic axes of Trichilia emetica to different dehydration and storage conditions, S Afr J Bot, 72, pp. 167-176, (2006); 
+Koolen H.H.F., da Silva F.M.A., Gozzo F.C., de Souza A.Q.L., de Souza A.D.L., Antioxidant, antimicrobial activities and characterization of phenolic compounds from buriti (Mauritia flexuosa L. f.) by UPLC–ESI-MS/MS, Food Res Int, 51, pp. 467-473, (2013); 
+Long R.L., Gorecki M.J., Renton M., Scott J.K., Colville L., Goggin D.E., Finch-Savage W.E., The ecophysiology of seed persistence: a mechanistic view of the journey to germination or demise, Biol Rev, 90, pp. 31-59, (2015); 
+Lorenzi H., Kahn F., Noblick L.R., Ferreira E., Brazilian flora Lorenzi: Arecaceae (palms), (2010); 
+Marty F., Plant vacuoles, Plant Cell, 11, pp. 587-599, (1999); 
+Mazzottini-Dos-Santos H.C., Ribeiro L.M., Mercadante-Simoes M.O., Sant'Anna-Santos B.F., Ontogenesis of the pseudomonomerous fruits of Acrocomia aculeata (Arecaceae): a new approach to the development of pyrenarium fruits, Trees, 29, pp. 199-214, (2015); 
+Moura E.F., Ventrella M.C., Motoike S.Y., Anatomy, histochemistry and ultrastructure of seed and somatic embryo of Acrocomia aculeata (Arecaceae), Sci Agric, 67, pp. 399-407, (2010); 
+Neves S.C., Ribeiro L.M., Cunha I.R.G., Pimenta M.A.S., Mercadante-Simoes M.O., Lopes P.S.N., Diaspore structure and germination ecophysiology of the babassu palm (Attalea vitrivir), Flora, 208, pp. 68-78, (2013); 
+O'Brien T.P., Feder N., McCully M.E., Polychromatic staining of plant cell walls by toluidine blue O, Protoplasma, 59, pp. 368-373, (1964); 
+Oliveira N.C.C., Lopes P.S.N., Ribeiro L.M., Mercadante-Simoes M.O., Oliveira L.A.A., Silverio F.O., Seed structure, germination, and reserve mobilization in Butia capitata (Arecaceae), Trees, 27, pp. 1633-1645, (2013); 
+Orozco-Segovia A., Batis A.I., Rojas-Arechiga M., Mendoza A., Seed biology of palms: a review, Palms, 47, pp. 79-94, (2003); 
+Paiva E.A.S., Pinho S.Z., Oliveira D.M.T., Large plant samples: how to process for GMA embedding?, Light microscopy: methods and protocols, pp. 37-49, (2011); 
+Pammenter N.W., Berjak P., Aspects of recalcitrant seed physiology, Rev Bras Fisiol Veg, 12, pp. 56-69, (2000); 
+Pammenter N.W., Berjak P., Farranta J.M., Smitha M.T., Rossa G., Why do stored hydrated recalcitrant seeds die?, Seed Sci Res, 4, pp. 187-191, (1994); 
+Panza V., Lainez V., Maldonado S., Seed structure and histochemistry in the palm Euterpe edulis, Bot J Linn Soc, 145, pp. 445-453, (2004); 
+Panza V., Lainez V., Maldonado S., Maroder H.L., Effects of desiccation on Euterpe edulis Martius seeds, Biocell, 31, pp. 383-390, (2007); 
+Pizzolato T.D., Lillie R.D., Mayer’s tannic acid ferric chloride stain for mucins, J Histochem Cytochem, 21, pp. 56-64, (1973); 
+Ribeiro L.M., Oliveira T.G.S., Carvalho V.S., Silva P.O., Neves S.C., Garcia Q.S., The behaviour of macaw palm (Acrocomia aculeata) seeds during storage, Seed Sci Technol, 40, pp. 344-353, (2012); 
+Ribeiro L.M., Garcia Q.S., Muller M., Munne-Bosch S., Tissue-specific hormonal profiling during dormancy release in macaw palm seeds, Physiol Plant, 153, pp. 627-642, (2015); 
+Robards A.W., An introduction to techniques for scanning electron microscopy of plant cells, Electron microscopy and cytochemistry of plant cells, (1978); 
+Roland A.M., General preparations and staining of thin sections, Electron microscopy and cytochemistry of plant cells, (1978); 
+Seleguini A., Camilo Y.M.V., Souza E.R.B., Simoes M.L.M., Belo A.P.M., Fernandes A.L., Superação de dormência em sementes de buriti por meio da escarificação mecânica e embebição, Rev Agroambiente, 6, pp. 235-241, (2012); 
+Silva R.S., Ribeiro L.M., Mercadante-Simoes M.O., NunesYRF L.P.S.N., Seed structure and germination in buriti (Mauritia flexuosa)—the swamp palm, Flora, 209, pp. 674-685, (2014); 
+Spera M.R.N., Cunha R., Teixeira J.B., Quebra de dormência, viabilidade e conservação de sementes de buriti (Mauritia flexuosa), Pesqui Agropec Bras, 36, pp. 1567-1572, (2001); 
+Tweddle J.C., Dickie J.B., Baskin C.C., Baskin J.M., Ecological aspects of seed desiccation sensitivity, J Ecol, 91, pp. 294-304, (2003); 
+Vidal B.C., Dichroism in collagen bundles stained with xylidine-Ponceau 2R, Ann Histochim, 15, pp. 289-296, (1970); 
+Walters C., Orthodoxy, recalcitrance and in-between: describing variation in seed storage characteristics using threshold responses to water loss, Planta, 242, pp. 397-406, (2015); 
+Wesley-Smith J., Pammenter N.W., Walters C., Berjak P., The effects of two drying rates on the desiccation tolerance of embryonic axes of recalcitrant jackfruit (Artocarpus heterophyllus Lamk.) seeds, Ann Bot, 88, pp. 653-664, (2001); 
+Zanatta C.F., Mitjans M., Ugartondo V., Rocha-Filho P.A., Vinardell M.P., Photoprotective potential of emulsions formulated with Buriti oil (Mauritia flexuosa) against UV irradiation on keratinocytes and fibroblasts cell lines, Food Chem Toxicol, 48, pp. 70-75, (2010); 
+Zhang C.P., Wu C.X., Song Y.C., Tian C.Y., Feng G., Effects of mucilage on seed germination of the desert ephemeral plant Plantago minuta Pall. under osmotic stress and cycles of wet and dry conditions, Plant Spec Biol, 29, pp. 109-116, (2014)#FRF#

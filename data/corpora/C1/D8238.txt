@@ -1,0 +1,48 @@
+#ITI#Tolerance of some sugar beet varieties to water stress#FTI#
+#IRE#Tolerance of three of sugar beet multigerm varieties: Zwanpoly, England; Halawa, Germany and Heba, Denmark, and two monogerm varieties: Xanadu and Marathon, Denmark to water stress levels of 30, 50 and 70% of field capacity (F.C) which were studied during 2013/2014 and 2014/2015 seasons in the experimental station, Faculty of Agriculture, Cairo Univ., Giza, Egypt. The variety Xanadu produced the highest values of the studied growth traits as dry matter accumulation, chlorophyll content, leaf area index (LAI), relative growth rate (RGR) and net assimilation rate (NAR) at 125, 150, 175 and 200 days post planting as well as root, top and sugar yield, and were of the most tolerant variety according to stress tolerance index (STI), followed by Zwanpoly, Halawa, Heba and Marathon variety in a descending order. Whereas, Marathon was of the highest variety in sucrose, purity and sugar recovery (SR) percentages. Increasing water stress level from 30 up to 70% from F.C was significantly decreased beet growth throughout the growing season. Juice quality (sucrose, purity and SR%) significantly increased as water stress increased up to 70%, while juice impurities and sucrose loss to molasses% (SLM) decreased. A reduction in root yield of 13.6 and 15.6%, sugar yield was obtained by 7.5 and 11.5% and top yield by 14.9 and 36.5% in the 1st and 2nd seasons, respectively which were recorded as water stress levels increased from 30 up to 70%. The highest value of WUE for root and sugar yield where obtained for Xanadu variety at 70% of water stress level. © 2018 Elsevier B.V.#FRE#
+#IPC#Drought stress; Quality; Root yield; Sugar yield; Varietal tolerance#FPC#
+#IRF#Abd El-Wahab S.A., Nemeat Alla E.A.E., Sugar beet response to zinc-application under different water regimes in Northen Delta soils, J. Agric. Sci. Mansoura Univ., 27, pp. 1943-1953, (2002); 
+Bahmani O., Sabziparvar A.A., Khosravi R., Evaluation of yield, quality and crop water stress index of sugar beet under different irrigation regimes, Water Sci. Technol., 17, 2, pp. 571-578, (2017); 
+Baigy M.J., Sahebi F.G., Pourkhiz I., Asgari A., Ejlali F., Effect of deficit-irrigation management on components and yield of sugar beet, Int. J. Agron. Plant Prod., 3, pp. 781-787, (2012); 
+Besheit S.Y., Mekki B.B., Beshay M.G., Effect of different levels of water supply on sugar beet yield and quality in calcareous soils, J. Agric. Sci. Mansoura Univ., 21, pp. 3429-3436, (1996); 
+Blaney H.F., Criddle W.D., Determining Consumptive Use and Irrigation Water Requirements, (1962); 
+Bloch D., Hoffmann C., Seasonal development of genotypic differences in sugar beet (Beta vulgaris L.) and their interaction with water supply, J. Agron. Crop Sci., 91, pp. 263-272, (2005); 
+Brown J.G., Lilleland O., Rapid determination of potassium and sodium in plant materials and soil extracts by flam photometry, J. Am. Soc. Hortic. Sci., 48, pp. 341-346, (1964); 
+Carruthers A., Oldfield J.F., Methods for the assessment of beet quality, Int. Sugar J., 63, pp. 72-74, (1960); 
+Farshdfar E., Pour Siahbidi M.M., Pour Abooghadareh A.R., Repeatability of drought tolerance indices in bread wheat genotypes, Int. J. Agric. Crop Sci., 4, 13, pp. 891-903, (2012); 
+Fernandez G.C., Effective selection criteria for assessing plant stress tolerance, Proceeding of the International Symposium on Adaptation of Vegetables and Other Food Crops in Temperature and Water Stress, pp. 257-270, (1992); 
+Ghamarina H., Arji I., Sepehri S., Norozpour S., Khodael E., Evaluation and comparison of drip and convential irrigation methods on sugar beets in a semi arid regions, J. Irrig. Drain. Eng., 138, pp. 90-97, (2012); 
+Gharib H.S., El-Henawy A.S., Response of sugar beet (Beta vulgaris) to irrigation regime, nitrogen rate and micronutrients application, Alex. Sci. Exchange J., 32, 2, pp. 140-156, (2011); 
+Hesadi P., Taleghani D.F., Shiranirad A., Daneshian J., Jaliliyan A., Selection for drought tolerance in sugar beet genotypes (Beta vulgaris L.), InBiol. Forum, 7, 1, pp. 1189-1204, (2015); 
+Hoffmann C.M., Sucrose accumulation in sugar beet under drought stress, J. Agron. Crop Sci., 196, pp. 243-252, (2010); 
+Hoffmann C.M., Adaptive responses of Beta vulgaris L. and Cichorium intybus L. root and leaf forms to drought stress, J. Agron. Crop Sci., pp. 108-118, (2014); 
+Huffaker R.G., Hamilton J., Conflict in US irrigation, Irrigation of Africultural Crops Monograph, pp. 3-22, (2007); 
+Hussein M.M., Kassab O.M., Abo Ellil A.A., Evaluating water stress influence on growth and photosynthetic pigments of two sugar beet varieties, Res. J. Agric. Biol. Sci., 4, 6, pp. 936-941, (2008); 
+Jensen M.E., Design and Operation of Farm Irrigation Systems, (1983); 
+Kheirabi J., Asadollahi S.A.A., Entesari M.R., Proceedings of the Eighth Conference of Iranian National Committee on Irrigation and Drainage, Tehran, Iran, November 10–14, 1996 (in Persain), (1996); 
+Kiziloglu F.M., Sahin U., Angin I., Anapali O., The effect of deficit irrigation on water-yield relationship of sugar beet (Beta vulgaris L.) under cool season and semi-arid climatic conditions, Int. Sugar J., 108, 1286, pp. 90-94, (2006); 
+Last P.J., Draycott A.P., Messem A.B., Webb D.J., Effects of nitrogen fertilizer and irrigation on sugar beet at Brooms Barn 1973-8, J. Agric. Sci., 101, 1, pp. 185-205, (1983); 
+Mahmoodi R., Maralian H., Aghabarati A., Effects of limited irrigation on root yield and quality of sugar beet (Beta vulgaris L.), Afr. J. Biotechnol., 7, 24, pp. 4475-4478, (2008); 
+Masri M.I., Ramadan B.S., El-Shafai A.M., El-Kady M.S., Effect of water stress and fertilization on yield and quality of sugar beet under drip and sprinkler irrigation systems in sandy soil, Int. J. Agric. Sci., 5, 3, pp. 414-425, (2015); 
+Mohamed K.A., El-Shafai A.M., El-Geddawy I.H., Effect of sowing pattern and irrigation on yield and quality of sugar beet, Egypt. J. Appl. Sci., 15, 2, pp. 56-67, (2000); 
+Monje O.A., Bugbee B., Inherent limitations of nondestructive chlorophyll meters: a comparison of two types of meters, Hortc. Sci., 27, pp. 69-71, (1992); 
+Moosavi S.G.R., Ramazani S.H.R., Hemayati S.S., Gholizade H., Effect of drought stress on root yield and some morpho-physiological traits in different genotypes of sugar beet (Beta vulgaris L.), J. Crop Sci. Biotech., 20, 3, pp. 167-174, (2017); 
+Mstat-c, Users Guide: A Microcomputer Program for the Design, Management and Analysis of Agronomic Research Experiments, (1989); 
+Nassar A.M., Effect of Harvest Time on the Productivety of Some Sugar Beet Varieties, (1992); 
+Ober E.S., Le Bloa M., Clark C.J., Royal A., Jaggard K.W., Pidgeon J.D., Evaluation of physiological traits as indirect selection criteria for drought tolerance in sugar beet, Field Crops Res., 91, 2, pp. 231-249, (2005); 
+Pregel F., Grant J., Quantitative Organic Microanalysis, (2018); 
+Radfords P.J., Growth analysis formula-their use and abuse, Crop Sci., 7, 3, pp. 171-175, (1967); 
+Rajabi A., Ober E.S., Griffiths H., Genotypic variation for water use efficiency, carbon isotop discrimination, and potential surrogate measure in sugar beet, Field Crops Res., 112, 2, pp. 172-181, (2009); 
+Renfield E., Emmerich A., Baumarten G., Winner C., Beiss U., Zur voraussage des melosse suckers aus rubenanalyses. Zuker, The Sugar Beet Crop, 27, pp. 2-15, (1993); 
+Shaw B., Thomas T.H., Cooke D.T., Responses of sugar beet (Beta vulgaris L.) to drought and nutrient deficiency stress, Plant Growth Regul., 37, 1, pp. 77-83, (2002); 
+Shehata M.M., Azer S.A., Mostafa S.N., The effect of soil moisture stress on some sugar beet varieties, Egypt. J. Agric. Res., 78, 3, pp. 1141-1160, (2000); 
+Snedecor G.A., Cochran W.G., Statistical Methods, (1976); 
+Steel R.G., Torrie H.H., Principles and Procedures of Statistics, (1980); 
+(2017); 
+Topak R., Suheri S., Acar B., Effect of different drip irrigation regimes in Middle Anatolian, Turkey, Irrig. Sci., 29, pp. 79-89, (2011); 
+Topak R., Acar B., Uyanoz R., Ceyhan E., Performance of partial root-zone drip irrigation for sugar beet production in a semi- arid area, Agric. Water Manage., 176, pp. 180-190, (2016); 
+Tsialtas J.T., Soulioti E., Maslaris N., Papakosta D.K., Effect of defoliation on leaf physiology of sugar beet cultivars subjected to water stress and re-watering, Int. J. Plant Prod., 5, 3, pp. 207-220, (2012); 
+Ucan K., Gencoglan C., The effect of water deficit on yield and yield components of sugar beet, Turkish J. Agric. For., 28, pp. 163-172, (2004); 
+Vamerali T., Guarise M., Ganis A., Mosca G., Effects of water and nitrogen management on fibrous root distribution and turnover in sugar beet, Eur. J. Agron., 31, 2, pp. 69-76, (2009); 
+Watson D.J., Comparative physiological studies on the growth of field crops: I. Variation in net assimilation rate and leaf area between species and varieties within and between years, Ann. Bot. (London), 11, pp. 41-76, (1947); 
+Zare Abyaneh H., Jovzi M., Albaji M., Effect of regulated deficit irrigation, partial root drying and N-fertilizer levels on sugar beet crop (Beta vulgaris L.), Agric. Water Manage., 194, pp. 13-23, (2017)#FRF#

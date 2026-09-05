@@ -1,0 +1,41 @@
+#ITI#Evaluation of maize production under mobile drip irrigation#FTI#
+#IRE#Declining water levels in the Ogallala aquifer of the U.S. High Plains necessitate more efficient irrigation technology to sustain agricultural production. A study to evaluate the performance of Mobile Drip Irrigation (MDI) for maize production, in comparison to common center-pivot nozzles (Low Elevation Spray Application (LESA) and Low Energy Precision Application (LEPA)) was conducted. A center-pivot was retrofitted with MDI, LEPA and LESA. Irrigation capacities of 6.3, 3.1, and 1.6 mm/d were considered. Grain yield, water use efficiency, above ground biomass, leaf area index (LAI), and soil water content was compared. Differences in grain yield between irrigation application devices were not significant (p = 0.085), but there were differences between irrigation capacities (p < 0.0001) at 5% significance level. There were no significant differences in monthly biomass yield between the application devices but there were significant differences in biomass yield between irrigation capacities. There were no significant differences in LAI between both the application devices and irrigation capacities. There were no significant differences in water use efficiency between the application technologies (p = 0.2352), at 5% significance level, however, differences between irrigation capacities were significant (p = 0.050). Generally, crop biophysical measurements under MDI were not significantly different from those under LEPA and LESA. Any marginal benefits of MDI were likely masked by rainfall, thus further evaluation of MDI is recommended under conditions of less applied water than LEPA or LESA accompanied by low rainfall. The other benefits of MDI were found in reduction of wheel-track rutting and ease of carrying out fertigation. © 2018 Elsevier B.V.#FRE#
+#IPC#Center-pivot; Irrigation; LEPA; LESA; Mobile Drip Irrigation; Ogallala#FPC#
+#IRF#Benjamin J.G., Nielsen D.C., Vigil M.F., Mikha M.M., Calderon F., Agricultural Water Management Cumulative deficit irrigation effects on corn biomass and grain yield under two tillage systems, Agric. Water Manage., 159, pp. 107-114, (2015); 
+Cai X., Rosegrant M.W., World Water productivity: current situation and future options, Water Productivity in Agriculture: Limits and Opportunities for Improvements, pp. 163-187, (2003); 
+Cakir R., Effect of water stress at different development stages on vegetative and reproductive growth of corn, Field Crop. Res., 89, pp. 1-16, (2004); 
+Daynard T.B., Duncan W.G., The black layer and grain maturity in corn, Crop Sci., 9, pp. 473-476, (1969); 
+Djaman K., Irmak S., Rathje W.R., Martin D.L., Eisenhauer D.E., Maize evapotranspiration, yield production functions, biomass, grain yield, harvest index, and yield response factors under full and limited irrigation, Trans. ASABE, 56, (2013); 
+Goodin D.G., Mitchell J.E., Knapp M.C., Bivens R.E., Climate and Weather Atlas of Kansas. An Introduction, (2004); 
+Goyal M.R., Management of Drip/Trickle or Micro Irrigation, (2012); 
+Irmak S., Odhiambo L.O., Kranz W.L., Eisenhauer D.E., Irrigation Efficiency and Uniformity, and Crop Water Use Efficiency, (2011); 
+Kansas Department of Agriculture, Kansas Agriculture [WWW Document], (2016); 
+Kansas Department of Agriculture, Kansas Farm Facts, (2016); 
+Kenny J.F., Juracek K.E., Irrigation trends in Kansas, 1991–2011, U.S. Geol. Surv. Fact Sheet, pp. 2013-3094, (2013); 
+Kisekka I., Oker T., Nguyen G., Aguilar J., Rogers D., Revisiting precision Mobile Drip Irrigation under limited water, Irrig. Sci., pp. 1-18, (2017); 
+Klocke N.L., Payero J.O., Schneekloth J.P., Long-term response of corn to limited irrigation and crop rotations, Trans. ASABE, 50, pp. 2117-2124, (2007); 
+Klocke N.L., Currie R.S., Tomsicek D.J., Koehn J., Klocke N.L., Corn yield response to deficit irrigation, Trans. ASABE, 54, pp. 931-940, (2011); 
+Lamm F.R., Howell T.A., Bordovsky J.P., Concepts of in-canopy and near-canopy sprinkler irrigation, Proc. ASCE-EWRI Water Congress. American Society of Civil Engineers, pp. 1-11, (2006); 
+Littell R.C., Milliken G.A., Stroup W.W., Wolfinger R.D., Schabenberger O., SAS for Mixed Models, Second Edition, (2006); 
+Lyle W.M., Bordovsky J.P., LEPA irrigation system evaluation, Trans. ASAE, 3, pp. 776-781, (1983); 
+McGuire V.L., Water-Level and Recoverable Water in Storage Changes, High Plains Aquifer, Predevelopment to 2015 and 2013–15, Scientific Investigations Report, (2017); 
+Ning T., Zheng Y., Han H., Jiang G., Li Z., Nitrogen uptake, biomass yield and quality of intercropped spring- and summer-sown maize at different nitrogen levels in the North China Plain, Biomass Bioenergy, 47, pp. 91-98, (2012); 
+O'Shaughnessy S.A., Colaizzi P.D., Performance of precision Mobile Drip Irrigation in the Texas High Plains Region, Agronomy, 7, (2017); 
+O'Shaughnessy S., Andrade M., Evett S., Colaizzi P., An irrigation scheduling SCADA system, Resour. Mag., 23, (2016); 
+Pathak P., Sahrawat K.L., Wani S.P., SAchan R.C., Sudi R., Opportunities for water harvesting and supplemental irrigation for improving rainfed agriculture in semi-arid areas, Rainfed Agriculture: Unlocking the Potential, pp. 197-221, (2009); 
+Phene C.J., Howell T.A., Beck R.D., Sanders D.C., A traveling trickle irrigation system for row crops, Irrig Assoc Tech Conf., pp. 66-82, (1981); 
+Phene C.J., Howell T.A., Sikorski M.D., A traveling trickle irrigation system, Adv. Irrig., pp. 1-49, (1985); 
+Rahmani V., Hutchinson S.L., Hutchinson J.M.S., Anandhi A., Extreme daily rainfall event distribution patterns in Kansas, J. Hydrol. Eng., 19, pp. 707-716, (2013); 
+Rajan N., Maas S., Kellison R., Dollar M., Cui S., Sharma S., Attia A., Emitter uniformity and application efficiency for centre- pivot irrigation systems, Irrig. Drain., 64, pp. 353-361, (2015); 
+Rogers D.H., Alam M., Shaw L.K., Kansas Irrigation Trends, Irrigation Management Series, (2008); 
+Rogers D.H., Aguilar J., Kisekka I., Barnes P.L., Lamm F.R., AGRICULTURAL CROP WATER USE, Proceedings of the 27th Annual Central Plains Irrigation Conference, (2015); 
+Saseendran S.A., Ahuja L.R., Ma L., Nielsen D.C., Trout T.J., Andales A.A., Chavez J.L., Ham J., Enhancing the water stress factors for simulation of corn in RZWQM2, Agron. J., 106, pp. 81-94, (2014); 
+Schabenberger O., Introducing the GLIMMIX procedure for generalized linear mixed models, Proceedings of the Thirthieth Annual SAS Users Group Conference. Paper 196-30, (2005); 
+Schneider A.D., Howell T.A., LEPA and spray irrigation for grain crops, J. Irrig. Drain. Eng., 125, pp. 167-172, (1999); 
+Steward D.R., Bruss P.J., Yang X., Staggenborg S.A., Welch S.M., Apley M.D., Tapping unsustainable groundwater stores for agricultural production in the High Plains Aquifer of Kansas, projections to 2110, Proc. Natl. Acad. Sci. U. S. A., 110, pp. E3477-E3486, (2013); 
+Stone L.R., Klocke N.L., Schlegel A.J., Lamm F.R., Tomsicek D.J., Equations for drainage component of the field water balance, Appl. Eng. Agric., 27, pp. 345-350, (2011); 
+USDA National Agricultural Statistics Service, Kansas Rank in U.S. Agriculture, (2015); 
+Wada Y., van Beek L.P.H., van Kempen C.M., Reckman J.W.T.M., Vasak S., Bierkens M.F.P., Global depletion of groundwater resources, Geophys. Res. Lett., 37, (2010); 
+Waller P., Yitayew M., Introduction, Irrigation and Drainage Engineering, pp. 1-18, (2016); 
+Yin X., McClure M.A., Relationship of corn yield, biomass, and leaf nitrogen with normalized difference vegetation index and plant height, Agron. J., 105, pp. 1005-1016, (2013); 
+Zwart S.J., Bastiaanssen W.G.M., Review of measured crop water productivity values for irrigated wheat, rice, cotton and maize, Agric. Water Manage., 69, pp. 115-133, (2004)#FRF#

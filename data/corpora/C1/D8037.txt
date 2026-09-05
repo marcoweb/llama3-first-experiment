@@ -1,0 +1,43 @@
+#ITI#A kriging-based adaptive global optimization method with generalized expected improvement and its application in numerical simulation and crop evapotranspiration#FTI#
+#IRE#The generalized effective global optimization (EGO) method based on Kriging model can sequentially solve the expensive black-box problems. However, it can only obtain one sampling point in a cycle, which will result in more time spent on expensive function evaluations and affect the global convergence. To this end, A Kriging-based adaptive global optimization method with generalized expected improvement (KAGO-GEI) is proposed. It divides the enhanced generalized expected improvement (GEI) criterion which recursively changes in the iterative process into double objectives, and then uses multi-objective PSO method to optimize the two objectives to produce the Pareto frontier. Further, more valuable sampling points from Pareto frontier are screened and corrected as the expensive-evaluation points for updating Kriging model. Test results on eighteen benchmark functions and crop evapotranspiration calculation example show that the proposed method is superior to other classical optimization methods in terms of convergence and accuracy in most cases. © 2020 Elsevier B.V.#FRE#
+#IPC#Crop evapotranspiration; Generalized EI; Global optimization; Kriging surrogate model#FPC#
+#IRF#Ahmad M.J., Choi K.S., Influence of climate variables on FAO Penman–Monteith reference evapotranspiration in the Upper Chenab Canal command area of Pakistan, Paddy Water Environ., 16, 3, pp. 425-438, (2018); 
+Akbari H., Kazerooni A., KASRA: a kriging-based adaptive space reduction algorithm for global optimization of computationally expensive black-box constrained problems, Appl. Soft Comput., 90, (2020); 
+Awad M., Khanna R., Support vector regression, Efficient Learning Machines, pp. 67-80, (2015); 
+Bernal E C.O., Soria J., Valdez F., Imperialist competitive algorithm with dynamic parameter adaptation using fuzzy logic applied to the optimization of mathematical functions, Algorithms, 10, 1, pp. 1-19, (2017); 
+Carpio R.R., Giordano R.C., Secchi A.R., Enhanced surrogate assisted global optimization algorithm based on maximizing probability of improvement, Computer Aided Chemical Engineering, 40, pp. 2065-2070, (2017); 
+Hao P., Feng S., Li Y., Wang B., Chen H., Adaptive infill sampling criterion for multi-fidelity gradient-enhanced kriging model, Struct. Multidiscip. Optim., 62, pp. 353-373, (2020); 
+Hao P., Feng S., Zhang K., Li Z., Wang B., Li G., Adaptive gradient-enhanced kriging model for variable-stiffness composite panels using Isogeometric analysis, Struct. Multidiscip. Optim., 58, 1, pp. 1-16, (2018); 
+Hosder S., Watson L.T., Grossman B., Mason W.H., Kim H., Haftka R.T., Cox S.E., Polynomial response surface approximations for the multidisciplinary design optimization of a high speed civil transport, Optim. Eng., 2, 4, pp. 431-452, (2001); 
+Jamil M., Yang X.S., A literature survey of benchmark functions for global optimization problems, Int. J. Math. Model. Numer. Optim., 4, 2, pp. 150-194, (2013); 
+Jones D.R., Schonlau M., Welch W.J., Efficient global optimization of expensive black-box functions, J. Glob. Optim., 13, 4, pp. 455-492, (1998); 
+Ju B.H., Cho T.M., Jung D.H., Lee B.C., An error assessment of the Kriging based approximation model using a mean square error, Trans. Korean Soc. Mech. Eng. A, 30, 8, pp. 923-930, (2006); 
+Koziel S., Bekasiewicz A., Szczepanski S., Multi-objective design optimization of antennas for reflection, size, and gain variability using kriging surrogates and generalized domain segmentation, Int. J. RF Microw. Comput. Aided Eng., 28, 5, (2018); 
+Leonard J.A., Kramer M.A., Ungar L.H., Using radial basis functions to approximate a function and its error bounds, IEEE Trans. Neural Netw., 3, 4, pp. 624-627, (1992); 
+Lewis P.A., Stevens J.G., Nonlinear modeling of time series using multivariate adaptive regression splines (MARS), J. Am. Stat. Assoc., 86, 416, pp. 864-877, (1991); 
+Li Y., Wang S., Wu Y., Kriging-based unconstrained global optimization through multi-point sampling, Eng. Optim., 52, 6, pp. 1082-1095, (2020); 
+Li Y., Wu Y., Zhang Y., Wang S., A Kriging-based bi-objective constrained optimization method for fuel economy of hydrogen fuel cell vehicle, Int. J. Hydrog. Energy, 44, 56, pp. 29658-29670, (2019); 
+Li Y., Wu Y., Zhao J., Chen L., A Kriging-based constrained global optimization algorithm for expensive black-box functions with infeasible initial points, J. Glob. Optim., 67, 1-2, pp. 343-366, (2017); 
+Li E., Ye F., Wang H., Alternative Kriging-HDMR optimization method with expected improvement sampling strategy, Eng. Comput., 34, 6, pp. 1807-1828, (2017); 
+Li Y., Zhang Q., Wu Y., Wang S., A sequential Kriging method assisted by trust region strategy for proxy cache size optimization of the streaming media video data due to fragment popularity distribution, Multimed. Tools Appl., 78, 20, pp. 28737-28756, (2019); 
+Li Y., Zhang Q., Wu Y., Wang S., A Kriging-based sequential optimization method with dual transformation for black-box models, J. Intell. Fuzzy Syst., 35, 2, pp. 1471-1482, (2018); 
+Mao L.M., Bergman M.J., Tai C.C., Evapotranspiration measurement and estimation of three wetland environments in the upper St. Johns River Basin, Florida<sup>1</sup>, JAWRA J. Am. Water Resour. Assoc., 38, 5, pp. 1271-1285, (2002); 
+Martinez-Frutos J., Herrero-Perez D., Kriging-based infill sampling criterion for constraint handling in multi-objective optimization, J. Glob. Optim., 64, 1, pp. 97-115, (2016); 
+Martin J.D., Simpson T.W., Use of kriging models to approximate deterministic computer models, AIAA J., 43, 4, pp. 853-863, (2005); 
+Ma L., Wang R., Chen S., Cheng S., Wang X., Lin Z., Huang M., A novel many-objective evolutionary algorithm based on transfer matrix with Kriging model, Inf. Sci., 509, pp. 437-456, (2020); 
+Myers R.H., Montgomery D.C., Anderson-Cook C.M., Response surface methodology: process and product optimization using designed experiments, (2016); 
+Passos A.G., Luersen M.A., Steeves C.A., Optimal curved fibre orientations of a composite panel with cutout for improved buckling load using the Efficient Global Optimization algorithm, Eng. Optim., 49, 8, pp. 1354-1372, (2017); 
+Pedrielli G., Ng S.H.; 
+Pereira L.S., Allen R.G., Smith M., Raes D., Crop evapotranspiration estimation with FAO56: past and future, Agric. Water Manag., 147, pp. 4-20, (2015); 
+Saad A., Dong Z., Buckham B., Crawford C., Younis A., Karimi M., A new kriging–bat algorithm for solving computationally expensive black-box global optimization problems, J. Eng. Optim., 51, 2, pp. 265-285, (2019); 
+Sasena M.J., Papalambros P., Goovaerts P., Exploration of metamodeling sampling criteria for constrained global optimization, Eng. Optim., 34, 3, pp. 263-278, (2002); 
+Schonlau M., Welch W.J., Jones D.R., Global versus local search in constrained optimization of computer models, New Dev. Appl. Exp. Des., 34, pp. 11-25, (1998); 
+Simpson T.W., Mauery T.M., Korte J.J., Mistree F., Kriging models for global approximation in simulation-based multidisciplinary design optimization, AIAA J., 39, 12, pp. 2233-2241, (2001); 
+Stein M.L., Interpolation of spatial data: some theory for kriging, (2012); 
+Sun G., Tian Y., Wang R., Fang J., Li Q., Parallelized multiobjective efficient global optimization algorithm and its applications, Struct. Multidiscip. Optim., 61, 2, pp. 763-786, (2020); 
+Tabari H., Evaluation of reference crop evapotranspiration equations in various climates, Water Resour. Manag., 24, 10, pp. 2311-2337, (2010); 
+Xing J., Luo Y., Gao Z., A global optimization strategy based on the Kriging surrogate model and parallel computing, Struct. Multidiscip. Optim., 62, pp. 405-417, (2020); 
+Yang Z., Qiu H., Gao L., Cai X., Jiang C., Chen L., A surrogate-assisted particle swarm optimization algorithm based on efficient global optimization for expensive black-box problems, Eng. Optim., 51, 4, pp. 549-566, (2019); 
+Zhang Y., Kim N.H., T H.R., Haftka R.T., General-surrogate adaptive sampling using interquartile range for design space exploration, J. Mech. Des., 142, 5, (2020); 
+Zhang X., Zheng X., Cheng R., Qiu J., Jin Y., A competitive mechanism based multi-objective particle swarm optimizer with fast convergence, Inf. Sci., 427, pp. 63-76, (2018); 
+Zhao F., Zeng Z., Liu H.Q., Fan J.L., A kriging-assisted reference vector guided multi-objective evolutionary fuzzy clustering algorithm for image segmentation, IEEE Access, 7, pp. 21465-21481, (2019)#FRF#

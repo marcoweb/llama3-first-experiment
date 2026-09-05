@@ -1,0 +1,38 @@
+#ITI#Endoreduplication level affects flower size and development by increasing cell size in Phalaenopsis and Doritaenopsis#FTI#
+#IRE#Endoreduplication is an alternative form of the cell cycle that is common in approximately 90 % of angiosperm species. Endoreduplication, determined using flow cytometry, occurs in various tissues of Phalaenopsis and Doritaenopsis species belonging to the Phalaenopsis (Phal.) alliance. In this study, flowers and leaves of nine cultivars from the small, middle, and large flower groups of the Phal. alliance were used to investigate the relationship between endoreduplication level and flower size. Some degree of endoreduplication was detected in all cultivars. A higher level of endoreduplication (2C–16C) was observed in cultivars from the large flower group than in those from the middle and small flower groups (2C–8C). In the leaves, endoreduplication tended to be found in middle and large flower group cultivars, but it varied with the cultivar rather than the flower group. Different patterns of endoreduplication were recorded at various stages of flower development in the Phal. hybrids ‘Queen Beer’ (small flower group) and ‘KV01’ (large flower group). Endoreduplication during flower development caused an increase in ploidy levels from 2C–4C to 2C–8C in ‘Queen Beer’, and from 2C–8C to 2C–16C in ‘KV01’; thus higher ploidy levels were detected in cultivars from the large flower group. Endoreduplication levels affected flower size and development by increasing cell size, indicating a positive relationship between endoreduplication and petal size in the Phal. alliance. Controlling flower size via the adjustment of the level of endoreduplication should be considered in breeding programs aimed at developing new cultivars. © 2016, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#DNA content; Endocycle; Flow cytometry; Orchidaceae; Petal; Ploidy level#FPC#
+#IRF#Agullo-Anton M.A., Olmos E., Perez-Perez J.M., Acosta M., Evaluation of ploidy level and endoreduplication in carnation (Dianthus spp.), Plant Sci, 201-202, pp. 1-11, (2013); 
+Barrow M., Endopolyploidy in seed plants, Bioessays, 28, 3, pp. 271-281, (2006); 
+Breuer C., Ishida T., Sugimoto K., Developmental control of endocycles and cell growth in plants, Curr Opin Plant Biol, 13, pp. 654-660, (2010); 
+Ceccarelli M., Sanantonio E., Marmottini F., Amzallag G.N., Cionini P.G., Chromosome endoreduplication as a factor of salt adaptation in Sorghum bicolor, Protoplasma, 227, pp. 113-118, (2006); 
+Chen W.H., Tang C.Y., Lin T.Y., Weng Y.C., Kao Y.L., Changes in the endopolyploidy pattern of different tissues in diploid and tetraploid Phalaenopsis aphrodite subsp. formosana (Orchidaceae), Plant Sci, 181, pp. 31-38, (2011); 
+Chevalier C., Nafati M., Mathieu-Rivet E., Bourdon M., Fragne N., Cheniclet C., Renaudin J.P., Gevaudant F., Hernould M., Elucidating the functional role of endoreduplication in tomato fruit development, Ann Bot, 107, pp. 1159-1169, (2011); 
+Christenson E.A., Phalaenopsis: a monograph, (2001); 
+Cookson S.J., Radziejwoski A., Granier C., Cell and leaf size plasticity in Arabidopsis: what is the role of endoreduplication?, Plant Cell Environ, 29, pp. 1273-1283, (2006); 
+D'Amato F., Polyploidy in cell differentiation, Caryologia, 42, 3-4, pp. 183-211, (1989); 
+Galbraith D.W., Harkins K.R., Knapp S., Systemic endopolyploidy in Arabidopsis thaliana, Plant Physiol, 96, pp. 985-989, (1991); 
+Gendreau E., Trass J., Desnos T., Grandjean O., Caboche M., Hofte H., Cellular basis of hypocotyl growth in Arabidopsis thaliana, Plant Physiol, 114, pp. 295-305, (1997); 
+Joubes J., Chevalier L., Endoreduplication in higher plants, Plant Mol Biol, 43, pp. 735-745, (2000); 
+Kondorosi E., Roudier F., Gendreau E., Plant cell-size control: growing by ploidy?, Curr Opin Plant Biol, 3, pp. 488-492, (2000); 
+Kudo N., Kimura Y., Flow cytometric evidence for endopolyploidy in seedlings of some Brassica species, Theor Appl Genet, 102, pp. 104-110, (2001); 
+Kudo N., Kimura Y., Flow cytometric evidence for endopolyploidization in cabbage (Brassica oleracea L.) flowers, Sex Plant Reprod, 13, pp. 279-283, (2001); 
+Kudo N., Kimura Y., Patterns of endopolyploidy during seedling development in cabbage (Brassica oleracea L.), Ann Bot, 87, pp. 275-281, (2001); 
+Kudo N., Kimura Y., Nuclear DNA endoreduplication during petal development in cabbage: relationship between ploidy levels and cell size, J Exp Bot, 53, pp. 1017-1023, (2002); 
+Larkins B.A., Dikes B.P., Dante R.A., Coelho C.M., Woo Y.M., Liu Y., Investigating the hows and whys of DNA endoreduplication, J Exp Bot, 52, pp. 183-192, (2001); 
+Lee H.C., Chiou D.W., Chen W.H., Markhart A.H., Chen Y.H., Lin T.Y., Dynamics of cell growth and endoreduplication during orchid flower development, Plant Sci, 166, pp. 659-667, (2004); 
+Lee H.C., Chen Y.J., Markhart A.H., Lin T.Y., Temperature effects on systemic endoreduplication in orchid during floral development, Plant Sci, 172, pp. 588-595, (2007); 
+Lee H.O., Davidson J.M., Duronio R.J., Endoreplication: polyploidy with purpose, Genes Dev, 23, pp. 2461-2477, (2009); 
+Lee H.J., Kim Y.E., Yoon Y.J., Jeong C.S., Lian M.L., Paek K.Y., Park S.Y., Highly endoreduplicated floral organs of somaclonal variants in clonally propagated Phalaenopsis ‘Spring Dancer’, Plant cell Tiss Organ Cult, 126, pp. 67-77, (2016); 
+Lemontey C., Mousset-Declas C., Munier-Jolain N., Boutin J.P., Maternal genotype influences pea seed size by controlling both mitotic activity during early embryogenesis and final endoreduplication level/cotyledon cell size in mature seed, J Exp Bot, 51, pp. 167-175, (2000); 
+Levan A., Cytological phenomena connected with the root swelling caused by growth substances, Hereditas, 25, pp. 87-96, (1939); 
+Melaragno J.E., Mehrotra B., Coleman A.W., Relationship between endopolyploidy and cell size in epidermal tissue of Arabidopsis, Plant Cell, 5, pp. 1661-1668, (1993); 
+Mizukami Y., A matter of size: developmental control of organ size in plants, Curr Opin Plant Biol, 4, pp. 533-539, (2001); 
+Park S.Y., Paek K.Y., Endoreduplication pattern of somatic embryos and variants occurrence affected by pre-existed endoreduplicated cells in Doritaenopsis, Korean J Plant Biotechnol, 33, pp. 297-302, (2006); 
+Park S.Y., Yeung E.C., Paek K.Y., Endoreduplication in Phalaenopsis is affected by light quality from light-emitting diodes during somatic embryogenesis, Plant Biotechnol Rep, 4, pp. 303-309, (2010); 
+Rocher E.J.D., Harkins K.R., Galbraith D.W., Bohnert H.J., Developmentally regulated systemic endopolyploidy in succulents with small genomes, Science, 250, pp. 99-101, (1990); 
+Roeder A.H.K., Chickarmane V., Cunha A., Obara B., Manjunath B.S., Meyerowitz E.M., Variability in the control of cell division underlies sepal epidermal patterning in Arabidopsis thaliana, PLoS Biol, 8, (2010); 
+Scholes D.R., Paige K.N., Chromosomal plasticity: mitigating the impacts of herbivory, Ecology, 92, pp. 1691-1698, (2011); 
+Schweizer L., Yerk-Davis G.L., Phillips R.L., Srienc F., Jones R.J., Dynamics of maize endosperm development and DNA endoreduplication, Proc Natl Acad Sci USA, 92, pp. 7070-7074, (1995); 
+Smulders M.J.M., Rus-Kortekaas W., Gilissen L.J.W., Development of polysomaty during differentiation in diploid and tetraploid tomato (Lycopersicon esculentum) plants, Plant Sci, 97, pp. 53-60, (1994); 
+Sugimoto-Shiraru K., Roberts K., Big it up”: endoreduplication and cell-size control in plants, Curr Opin Plant Biol, 6, pp. 44-553, (2003); 
+Tsai C.C., Molecular phylogeny and biogeography of Phalaenopsis species, Orchid biotechnology II, pp. 1-24, (2011)#FRF#

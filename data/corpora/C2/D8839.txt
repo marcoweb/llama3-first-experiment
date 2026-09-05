@@ -1,0 +1,56 @@
+#ITI#Polyphenols leaching and seed dormancy in carob (Ceratonia siliqua L.) in relation to hot water treatment#FTI#
+#IRE#Carob (Ceratonia siliqua L.) is a relevant element of the Mediterranean spontaneous vegetation. Moreover, it is useful in reforestation, and it is currently re-valued for sustainable agriculture in dryland areas. However, the difficulties tied to carob propagation (mainly seed dormancy) hamper its large-scale cultivation. In this paper, the effects of four seed treatments (no treatment [control], soaking at 70 °C and 90 °C in water, or in 96% sulphuric acid) on five carob genotypes germination were studied. As compared to the very low germination of untreated seeds (0–13% germination), sulphuric acid (93–100% germination) and 90 °C water soaking (from 72 to > 90% germination in four out the five genotypes) were effective in promoting germination. Soaking at 90 °C resulted in the leaching of a higher amount of total polyphenols from the genotypes seed coat as compared to soaking at 70 °C. A significant correlation (0.75**) was ascertained between polyphenol leaching of the different genotypes and germination. These results suggest that dormancy in this species is not primarily associated with seed coat hardness, as it is generally thought, but also with the release of polyphenols. Polyphenols determination of the dormant and the few non-dormant seeds of the different genotypes also seem to confirm this hypothesis since these last showed an almost halved total polyphenols content (on average 17.0) as compared to dormant ones (34.8 mg g−1 of seed FW). Further studies may determine the polyphenols involved, but also assess new, easier to carry out, seed treatments. The important role of the galactomannans on seed germination of carob is also discussed. Finally, similar studies may enhance the knowledge of dormancy processes in other Fabaceae species whose germination is positively affected by hot water treatments. © 2021, The Author(s).#FRE#
+#IPC#Carob; Dormancy; Polyphenols leaching; Seed germination; Seed treatments#FPC#
+#IRF#Aliero B.L., Effects of sulphuric acid, mechanical scarification and wet heat treatments on germination of seeds of African locust bean tree Parkia biglobosa, Afr J Biotechnol, 3, pp. 179-181, (2004); 
+Amessis-Ouchemoukh N., Ouchemoukh S., Meziant N., Idiri Y., Hernanz D., Stinco C.M., Rodriguez-Pulido F.J., Heredia F.J., Madani K., Luis J., Bioactive metabolites involved in the antioxidant, anticancer and anticalpain activities of Ficus carica L., Ceratonia siliqua L. and Quercus ilex L. extracts, Ind Crop Prod, 95, pp. 6-17, (2017); 
+Baskin J.M., Baskin C.C., A classification system for seed dormancy, Seed Sci Res, 14, pp. 1-16, (2004); 
+Baskin C., Baskin J.M., Seeds: ecology, biogeography, and evolution of dormancy and germination, (2014); 
+Baskin J.M., Baskin C.C., Li X., Taxonomy, anatomy and evolution of physical dormancy in seeds, Plant Spec Biol, 15, pp. 139-152, (2000); 
+Benkovic M., Belscak-Cvitanovic A., Bauman I., Dr K., Srecec S., Flow properties and chemical composition of carob (Ceratonia siliqua L.) flours as related to particle size and seed presence, Food Res Int, 100, pp. 211-218, (2017); 
+Bewley J.D., Black M., Seeds. Physiology of development and germination, (1994); 
+Bewley J.D., Bradford K.J., Hilhorst H.W.M., Nonogaki H., Dormancy and the Control of Germination, Seeds, (2013); 
+Bianco C.A., Kraus T.A., Desarrollo y estructura de la semilla y el fruto de Adesmia bicolor (Poir.) DC. (Fabaceae), Phyton, 54, pp. 71-77, (2005); 
+Brosche V., Das Oleo Ceratonion, (2017); 
+Cartabellotta D., Drago A., Lo Bianco B., Lombardo M., Climatologia della Sicilia, (1998); 
+Cavallaro V., Barbera A., Maucieri C., Gimma G., Scalisi C., Patane C., Evaluation of variability to drought and saline stress through the germination of different ecotypes of carob (Ceratonia siliqua L.) using a hydrotime model, Ecol Eng, 95, pp. 557-566, (2016); 
+Forbes I., Wells H.D., Hard and soft seededness in blue lupine, Lupinus angustifolius L., inheritance and phenotype classification, Crop Sci, 8, pp. 195-197, (1968); 
+Gong X., Bassel G.W., Wang A., Greenwood J.S., Bewley D., The emergence of embryos from hard seeds is related to the structure of the cell walls of the micropylar endosperm, and not to endo-b-mannanase activity, Ann Bot, 96, pp. 1165-1173, (2005); 
+Gresta F., Avola G., Abbate V., Germination ecology of Scorpiurus subvillosus L. seeds, the role of temperature and storage time, Plant Ecol, 190, pp. 123-130, (2007); 
+Gresta F., Avola G., Onofri A., Anastasi U., Cristaudo A., When does hard coat impose dormancy in legume seeds? Lotus and Scorpiurus case study, Crop Sci, 51, pp. 1-9, (2011); 
+Gubbuk H., Kafkas E., Guven D., Gunes E., Physical and phytochemical profile of wild and domesticated carob, Span J Agric Res, 8, pp. 1129-1136, (2010); 
+Gunes E., Gubbuk H., Ayala-Silva T., Gozlekci S., Ercisli S., Effects of various treatments on seed germination and growth of carob (Ceratonia siliqua L.), Pak J Bot, 45, pp. 1173-1177, (2013); 
+Hosseini S.M., Savadkoohi S.K., Ahmadi E., Effect of different seed treatments on dormancy breaking and germination in three species in arid and semi-arid lands, For Sci Pract, 15, pp. 130-136, (2013); 
+Inacio M.C., Moraes R.M., Mendonca P.C., Morel L.J.F., Franca S.C., Bertoni B.W., Pereira A.M.S., Phenolic compounds influence seed dormancy of Palicourea rigida H.B.K. (Rubiaceae), a medicinal plant of the brazilian savannah, Am J Plant Sci, 4, pp. 129-133, (2013); 
+Janick J., Paull R.E., The encyclopedia of fruit and nuts, (2008); 
+Kelly K.M., Van Staden J., Bell W.E., Seed coat and dormancy, Plant Growth Regul, 11, pp. 201-209, (1992); 
+Kilen T.C., Hartwig E.E., An inheritance study of impermeable seed in soybeans, Field Crop Res, 1, pp. 65-70, (1978); 
+Kong L., Wang F., Si J., Feng B., Li S., Water-soluble phenolic compounds in the coat control germination and peroxidase reactivation in Triticum aestivum seeds, Plant Growth Regul, 56, 3, pp. 275-283, (2008); 
+Lahijanian S., Nazari M., Increasing germination speed of common bean (Phaseolus vulgaris L.) seeds by ultrasound treatments, Seed Technol, 38, pp. 49-55, (2017); 
+Lavoie J.M., Bare W., Bilodeau M., Depolymerization of steam-treated lignin for the production of green chemicals, Bioresour Technol, 102, pp. 4917-4920, (2011); 
+Ma F., Cholewa E., Mohamed T., Peterson C.A., Gijzen M., Cracks in the palisade cuticle of soybean seed coats correlate with their permeability to water, Ann Bot, 94, pp. 213-228, (2004); 
+Mackay W.A., Davis T.D., Sankhla D., Influence of scarification and temperature treatments on seed germination of Lupinus havardii, SST, 23, pp. 815-821, (1995); 
+Mazaheri D., Shojaosadati S.A., Mousavi S.M., Hejazi P., Saharkhiz S., Bioethanol production from carob pods by solid-state fermentation with Zymomonas mobilis, Appl Energy, 99, pp. 372-378, (2012); 
+McCleary B.V., Matheson N.K., α-D-Galactosidase activity and galactomannan and galactosylsucrose oligosaccharide depletion in germinating legume seeds, Phytochemistry, 13, pp. 1747-1757, (1974); 
+Nikolaeva M.G., Factors controlling the seed dormancy pattern, The physiology and biochemistry of seed dormancy and germination, pp. 51-74, (1977); 
+Orozco-Segovia A., Marquez-Guzman J., Sanchez-Coronado M.E., Gamboa de Buen A., Baskin J.M., Baskin C.C., Seed anatomy and water uptake in relation to seed dormancy in Opuntia tomentosa (Cactaceae, Opuntioideae), Ann Bot, 99, pp. 581-592, (2007); 
+Ortiz P.L., Arista M., Talavera S., Germination ecology of Ceratonia siliqua L. (Cesalpinaceae), a Mediterranean tree, Flora, 190, pp. 89-95, (1995); 
+Patane C., Cavallaro V., D'Agosta G., Cosentino S.L., Plant emergence of PEG-osmoprimed seeds under suboptimal temperatures in two cultivars of sweet sorghum differing in seed tannin content, J Agron Crop Sci, 194, pp. 304-309, (2008); 
+Patane C., Saita A., Tubeileh A., Cosentino S.L., Cavallaro V., Modeling seed germination of unprimed and primed seeds of sweet sorghum under PEG-induced water stress through the hydrotime analysis, Acta Physiol Plant, 38, (2016); 
+Perez-Garcia F., Germination characteristics and intra-population variation in carob (Ceratonia siliqua L.) seeds, Span J Agric Res, 7, pp. 398-406, (2009); 
+Piotto B., Di Noi A., Seed Propagation of Mediterranean Trees and Shrubs. Agency for the Protection of the Environment and for Technical Services (APAT), (2003); 
+Rangaswamy N.S., Nandakumar L., Correlative studies on seed coat structure, chemical composition, and impermeability in the legume Rhynchosia minima, Bot Gaz, 146, pp. 501-509, (1985); 
+Reid J.S.G., Bewley J.D., A dual role for the endosperm and its galactomannan reserves in the germinative physiology of fenugreek (Trigonella foenum-graecum L.), an endospermic leguminous seed, Planta, 147, pp. 145-150, (1979); 
+Rifna E., Ramanan K.R., Mahendran R., Emerging technology applications for improving seed germination, Trends Food Sci Technol, 86, pp. 95-108, (2019); 
+Rolston M.P., Water impermeable seed dormancy, Bot Rev, 44, pp. 365-396, (1978); 
+Serrato-Valenti G., De Vries M., Conaro L., The hilar region in Leucaena leucocephala Lam. (De Wit) seed, Structure, histochemistry and the role of the lens in germination, Ann Bot, 75, pp. 569-574, (1995); 
+Silveira F.A.O., Fernandes G.W., Effect of light, temperature and scarification on the germination of Mimosa foliolosa (Leguminosae) seeds, SST, 34, pp. 585-592, (2006); 
+Singleton V.L., Rossi J.A., Colorimetry of total phenolics with phosphomolybdic-phosphotungstic acid reagents, Am J Enol Viticult, 16, pp. 144-158, (1965); 
+Snedecor G.W., Cochran W.G., Statistical methods, (1989); 
+Spyropoulos C.G., Lambiris M.P., Effect of water stress on germination and reserve carbohydrate metabolism in germinating seeds of Ceratonia siliqua L, J Exp Bot, 31, pp. 851-857, (1980); 
+van Staden J., Manning J.C., Kelly K.M., Legume seeds - the structure: Function equation, Advances in Legume Biology. Monogr Syst Bot Missouri Bot Garden, 29, pp. 417-450, (1989); 
+Toscano S., Romano D., Tribulato A., Cavallaro V., Assessing and modeling seed germination of Mediterranean wildflowers for low input landscape restoration, Restor Ecol, 26, pp. 525-536, (2017); 
+Tsakaldimi M., Ganatsas P., Treatments Improving Seeds Germination of Two Mediterranean Sclerophyll Species Ceratonia Siliqua and Pistacia Lentiscus. In: Proceedings of the Third Balkan Scientific Conference on Study, Conservation and Utilization of Forest Resources, Sofia, (2001); 
+Venier P., Funes G., Garcia C.C., Physical dormancy and histological features of seeds of five Acacia species (Fabaceae) from xerophytic forests in central Argentina, Flora, 207, pp. 39-46, (2012); 
+Werker E., Seed anatomy, Encyclopedia of Plant Anatomy. Gebrüder Borntraeger, (1997); 
+Willemsen R.W., Rice E.L., Mechanism of Seed Dormancy in Ambrosia artemisiifolia, Am J Bot, 59, pp. 248-257, (1972); 
+Zaen El Deen E.M., El-Sayed O.M., El-Sayed A.E.I., Hegazi G.A.E., Studies on carob (Ceratonia siliqua L.) propagation, IOSR-JAVS, 7, pp. 31-40, (2014)#FRF#

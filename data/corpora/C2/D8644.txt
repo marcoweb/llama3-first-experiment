@@ -1,0 +1,53 @@
+#ITI#Copper accumulation, localization and antioxidant response in Eclipta alba L. in relation to quantitative variation of the metal in soil#FTI#
+#IRE#Eclipta alba L. is a well known medicinal herb, found commonly on contaminated roadsides in Kerala, India. To assess its potential for copper tolerance and accumulation, pot culture experiment was carried out. Metal accumulation in the plant in relation to 50–800 mg kg−1 Cu in soils, administered as CuSO4·7H2O in solution, was examined. Biomass yield of shoot and root, pigment content, Cu accumulation in the plant, bio-concentration factor, and translocation factor were the parameters studied. At the highest level of treatment, Cu was found accumulated more in the roots than in shoots. A significant increase in lipid peroxidation, proline content, phenolics and flavanoids were observed in Cu treated plants, compared to the control. The activity of antioxidant enzymes like superoxide dismutase, catalase, ascorbate peroxidase and glutathione reductase was found significantly changed in all the treated plants than in the control. The Bradford assay revealed a significant increase in protein content of the plant at higher levels of Cu treatment. Transmission electron microscopy, images supported the uptake and sequestration of metal particles inside the plant cell. The overall data suggests Eclipta alba L. to be a plant with high potential to tolerate Cu toxicity in soil. © 2017, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Antioxidant enzymes; Copper accumulation; Eclipta alba L; Heavy metal stress; Hyper accumulators; Phytoremediation#FPC#
+#IRF#Aebi H., Catalase in vitro, Methods Enzymol, 105, pp. 121-126, (1984); 
+Ahmad P., Umar S., Sharma S., Mechanism of free radical scavenging and role of phytohormones in plants under abiotic stress, Plant adaptation and phytoremediation, pp. 100-118, (2010); 
+Ali S., Rizwan M., Ullah N., Bharwana S.A., Waseem M., Farooq M.A., Abbassi G.H., Fareed M., Physiological and biochemical mechanisms of silicon-induced copper stress tolerance in cotton (Gossypium hirsutum L.), Acta Physiol Plant, 38, pp. 1-11, (2016); 
+Arnon D.I., Copper enzymes in isolated chloroplasts. Polyphenoloxidase in Beta vulgaris, Plant Physiol, 24, pp. 1-12, (1949); 
+Bates L.S., Waldren R.P., Teare I.D., Rapid determination of free proline for water stress studies, Plant Soil, 39, pp. 205-207, (1973); 
+Benzie I.F.F., Strain J.J., The ferric reducing ability of plasma (FRAP) as a measure of antioxidant power: the FRAP assay, Anal Biochem, 239, pp. 70-76, (1996); 
+Blois M.S., Antioxidant determinations by the use of a stable free radical, Nature, 29, pp. 1199-1200, (1958); 
+Brafdord M.M., A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding, Anal Biochem, 72, pp. 248-254, (1976); 
+Chai M., Shi F., Li R., Growth and physiological responses to copper stress in a halophyte Spartina alterniflora (Poaceae), Acta Physiol Plant, 36, pp. 745-754, (2014); 
+Chaney R.L., Malik M., Li Y.M., Brown S.L., Eric P., Angle J.S., Baker A.J.M., Phytoremediation of soil metals, Curr Opin Biotechnol, 8, pp. 279-284, (1997); 
+Chen M., Ma L., Comparison of three aqua regia digestion methods for twenty Florida soils, Soil Sci Soc Am J, 65, (2001); 
+Chen J., Shafi M., Li S., Wang Y., Wu J., Ye Z., Peng D., Yan W., Liu D., Copper induced oxidative stresses, antioxidant responses and phytoremediation potential of Moso bamboo (Phyllostachys pubescens), Nat Publ Group, (2015); 
+Cunningham S., Berti W., Huang J., Phytoremediation of contaminated soils, Trends Biotechnol, 13, pp. 393-397, (1995); 
+Doganlar Z.B., Metal accumulation and physiological responses induced by copper and cadmium in Lemna gibba L. minor and Spirodela polyrhiza, Chem Speciat Bioavailab, 25, 2, pp. 79-88, (2013); 
+Ent A., Baker A.J.M., Pollard A.J., Schat H., Hyperaccumulators of metal and metalloid trace elements: facts and fiction, Plant Soil, (2012); 
+Foster J.G., Hess J.L., Responses of superoxide dismutase and glutathione reductase activities in cotton leaf tissue exposed to an atmosphere enriched in oxygen, Plant Physiol, 66, pp. 482-487, (1980); 
+Hakmaoui A., Ater M., Boka K., Baron M., Copper and cadmium tolerance, uptake and effect on chloroplast ultrastructure. Studies on Salix purpurea and Phragmites australis, Verlag der Zeitschrift fur Naturforschung. Tubingen, 62, pp. 417-426, (2007); 
+Herald T.J., Gadgil P., Tilley M., High-throughput micro plate assays for screening flavonoid content and DPPH-scavenging activity in sorghum bran and flour, J Sci Food Agric, 92, pp. 2326-2331, (2012); 
+Hodges D.M., DeLong J.M., Forney C.F., Prange R.K., Improving the thiobarbituric acid-reactive-substances assay for estimating lipid peroxidation in plant tissues containing anthocyanin and other interfering compounds, Planta, 207, pp. 604-611, (1999); 
+Hong-yun P., Xiao-e Y., Sheng-ke T., Accumulation and ultrastructural distribution of copper, J Zhejiang Univ Sci, 6B, pp. 311-318, (2005); 
+Hussain I., Khan H., Investigation of heavy metals content in medicinal plant, Eclipta alba L, J Chem Soc Pak, 32, 1, pp. 28-34, (2010); 
+Jackson M.L., Soil chemical analysis, pp. 38-134, (1958); 
+Khatun S., Ali M.B., Hahn E.J., Paek K.Y., Copper toxicity in Withania somnifera: growth and antioxidant enzymes responses of in vitro grown plants, Environ Exp Bot, 64, pp. 279-285, (2008); 
+Lu Y., Li X., Liu Y., CuiY P.Y.T., Seedlings growth and antioxidative enzymes activities in leaves under heavy metal stress differ between two desert plants: a perennial (Peganum harmala) and an annual (Halogeton glomeratus) grass, Acta Physiol Plant, 32, pp. 583-590, (2010); 
+Madejon P., Ramirez-Benitez J.E., Corrales I., Barcelo J., Poschenrieder C., Copper-induced oxidative damage and enhanced antioxidant defenses in the root apex of maize cultivars differing in Cu tolerance, Environ Exp Bot, 67, pp. 415-420, (2009); 
+Manan F.A., Mamat D.D., Samad A.A., Ong Y.S., Ooh K.F., Chai T.T., Heavy metal accumulation and antioxidant properties of Nephrolepis biserrata growing in heavy metal-contaminated soil, Glob NEST J, 17, pp. 1-10, (2015); 
+McCord J.M., Fridovich I., Superoxide dismutase: an enzyme function for erythrocuprein (hemocuprein), J Biol Chem, 244, pp. 6049-6055, (1969); 
+Michaud A.M., Chappellaz C., Hinsinger P., Copper phytotoxicity affects root elongation and iron nutrition in durum wheat (Triticum turgidum durum L.), Plant Soil, 310, pp. 151-165, (2008); 
+Mourato M.P., Martins L.L., Physiological responses of Lupinus luteus to different copper concentrations, Biol Plant, 53, pp. 105-111, (2009); 
+Nair P.M.G., Kim S.H., Chung I.M., Copper oxide nanoparticle toxicity in mung bean (Vigna radiata L.) seedlings: physiological and molecular level responses of in vitro grown plants, Acta Physiol Plant, 36, pp. 2947-2958, (2014); 
+Nakano Y., Asada K., Hydrogen peroxide is scavenged by ascorbate-specific peroxidase in spinach chloroplasts, Plant Cell Physiol, 22, pp. 867-880, (1981); 
+Peng H., Wang-muller Q., Witt T., Differences in copper accumulation and copper stress between eight populations of Haumaniastrum katangense, Environ Exp Bot, 79, pp. 58-65, (2012); 
+Prasad M.N.V., Malec P., Waloszek A., Bojko M., Strzalka K., Physiological responses of Lemna trisulca L. (duckweed) to cadmium and copper bioaccumulation, Plant Sci, 161, pp. 881-889, (2001); 
+Raskin I., Smith R., Salt D., Phytoremediation of metals: using plants to remove pollutants from the environment, Curr Opin Biotechnol, 8, pp. 221-226, (1997); 
+Ray J.G., George J., Phytosociology of roadside communities to identify ecological potentials of tolerant species, J Ecol Nat Environ, 1, pp. 184-190, (2009); 
+Ray J.G., George J., Nickel in soils and resilient plants on roadsides of Kerala, South India, Grunthosnavsthvo (Soil Sci), 12, 1-2, pp. 12-23, (2011); 
+Reichman S.M., The responses of plants to metal toxicity: a review focusing on copper, manganese and zinc, pp. 1-54, (2002); 
+Rejeb K.B., Abdelly C., Savoure A., How reactive oxygen species and proline face stress together, Plant Physiol Biochem, 80, pp. 278-284, (2014); 
+Sako A., Kandakar J., Tamari N., Higa A., Yamaguchi K., Kitamura Y., Copper excess promotes propagation and induces proteomic change in root cultures of Hyoscyamus albus L, Plant Physiol Biochem, 103, pp. 1-9, (2016); 
+Sanchez-pardo B., Fernandez-pascual M., Zornoza P., Copper microlocalisation, ultrastructural alterations and antioxidant responses in the nodules of white lupin and soybean plants grown under conditions of copper excess, Environ Exp Bot, 84, pp. 52-60, (2012); 
+Sasidharan S., Chen Y., Saravanan D., Sundram K.M., Latha L.Y., Bedong-semeling J., Nasi B.A., Extraction, isolation and characterization of bioactive compounds from plant extracts, Afr J Tradit Complement Altern Med, 8, 1, pp. 1-10, (2011); 
+Schat H., Sharma S.S., Vooijs R., Heavy metal-induced accumulation of free proline in a metal-tolerant and a nontolerant ecotype of Silene vuigaris, Physiol Plant, 101, pp. 477-482, (1997); 
+Srivastava S., Mishra S., Tripathi R.D., Dwivedi R.D., Gupta D.K., Copper-induced oxidative stress and responses of antioxidants and phytochelatins in Hydrilla verticillata (L.f.) Royle, Aquat Toxicol, 80, pp. 405-415, (2006); 
+Sytar O., Kumar A., Latowski D., Kuczynska P., Strzalka K., Prasad M.N.V., Heavy metal-induced oxidative damage, defense reactions, and detoxification mechanisms in plants, Acta Physiol Plant, 35, pp. 985-999, (2013); 
+Szollosi R., Kalman E., Medvegy A., Peto A., Varga S.I., Studies on oxidative stress caused by Cu and Zn excess in germinating seeds of Indian mustard (Brassica juncea L.), Acta Biol Szeged, 55, 1, pp. 175-178, (2011); 
+Thounaojam T.C., Panda P., Mazumdar P., Kumar D., Sharma G.D., Sahoo L., Panda S.K., Excess copper induced oxidative stress and response of antioxidants in rice, Plant Physiol Biochem, 53, pp. 33-39, (2012); 
+Trudic B., Kebert M., Popovic M.B., Stajner D., Orlovic S., Galovic V., Pilipovic A., The effect of heavy metal pollution in soil on serbian poplar clones, Izvomi Znanstveni clanci Sumarski list, 5-6, pp. 287-296, (2013); 
+Yang Z., Chu C., Towards understanding plant response to heavy metal stress, Abiotic stress in plants: mechanisms and adaptations, pp. 59-78, (2011); 
+Yoon J., Cao X., Zhou Q., Ma L.Q., Accumulation of Pb, Cu, and Zn in native plants growing on a contaminated Florida site, Sci Total Environ, 368, pp. 456-464, (2006); 
+Yruela I., Copper in Plants, Braz J Plant Physiol, 17, pp. 145-156, (2005)#FRF#

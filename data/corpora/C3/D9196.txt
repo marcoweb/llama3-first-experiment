@@ -1,0 +1,54 @@
+#ITI#The deterioration of Moringa oleifera Lam. seeds in the course of storage involves reserve degradation#FTI#
+#IRE#Seed deterioration in the course of storage may involve hydrolytic reactions. Hence, we aimed to evaluate viability, vigour, contents of reserves and metabolites, and activities of hydrolytic enzymes in Moringa oleifera Lam. seeds during storage under controlled conditions. Seeds were packaged in semipermeable plastic and maintained in a growth chamber (27 ± 2 °C and RH 60–65%) and under refrigeration (4 ± 2 °C and RH 20–25%) for 18 months. Samples were taken at the start of the experiment and every 3 months. During the first 12 months, water content, viability, and vigour remained almost unaffected, while the content of neutral lipids, starch, soluble sugars and free amino acids did not reduce in the seeds kept under refrigeration. After this period, the loss of viability and vigour was accompanied by the degradation of storage lipids, storage proteins, and non-reducing sugars associated with the increase of lipase and acid protease activity in both environmental conditions. As the seed water content remained below 8% in the course of the experiment, we suggest that non-enzymatic hydrolysis might play a role in the deterioration of M. oleifera seeds during storage. At least for planting, we recommend that M. oleifera seeds be kept at low relative humidity under refrigeration for up to 12 months. © 2017, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Deterioration reactions; Non-enzymatic hydrolysis; Reserve degradation; Seed viability; Seed vigour#FPC#
+#IRF#Abbade L.C., Takaki M., Biochemical and physiological changes of Tabebuia roseoalba (Ridl.) Sandwith (Bignoniaceae) seeds under storage, J Seed Sci, 36, pp. 100-107, (2014); 
+Official methods of analysis of AOAC International, (2000); 
+Bailly C., El-Maarouf-Bouteau H., Corbineau F., From intracellular signaling networks to cell death: the dual role of reactive oxygen species in seed physiology, C R Biol, 331, pp. 806-814, (2008); 
+Bao J., Sha S., Zhang S., Changes in germinability, lipid peroxidation, and antioxidant enzyme activities in pear stock (Pyrus betulaefolia Bge.) seeds during room- and low-temperature storage, Acta Physiol Plant, 33, pp. 2035-2040, (2011); 
+Beevers L., Protein degradation and proteolytic activity in the cotyledons of germinating pea seeds (Pisum sativum), Phytochemistry, 7, pp. 1837-1844, (1968); 
+Bewley J.D., Bradford K.J., Hilhorst H.W.M., Nonogaki H., Seeds: physiology of development, germination and dormancy, (2013); 
+Bezerra A.M.E., Momente V.G., Medeiros Filho S., Seed germination and development of moringa seedlings (Moringa oleifera Lam.) as a function of seed weight and substrate type, Hort Bras, 22, pp. 295-299, (2004); 
+Black M., Bewley J.D., Halmer P., The encyclopedia of seeds: science, technology and uses, (2006); 
+Bradford M.M., A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding, Anal Biochem, 72, pp. 248-254, (1976); 
+Cabiscol E., Tamarit J., Ros J., Proteomics, specificity and relevance to ageing, Mass Spectrom Rev, 33, pp. 21-48, (2014); 
+Castellion M., Matiacevich S., Buera P., Maldonado S., Protein deterioration and longevity of quinoa seeds during long-term storage, Food Chem, 121, pp. 952-958, (2010); 
+Corte V.B., Borges E.E.L., Leite H.G., Leite I.T.A., Physiological quality of Melanoxylon brauna seeds aged naturally and artificially, Sci For, 38, pp. 181-189, (2010); 
+Demidchik V., Mechanisms of oxidative stress in plants: from classical chemistry to cell biology, Environ Exp Bot, 109, pp. 212-228, (2015); 
+Dias D.C.F.S., Oliveira G.L., Vallory G.G., Silva L.J., Soares M.M., Physiological changes in Jatropha curcas L. seeds during storage, J Seed Sci, 38, pp. 41-49, (2016); 
+Donazzolo J., Ornellas T.S., Bizzocchi L., Vilperte V., Nodari R.O., The cold storage prolongs the viability of feijoa seeds, Rev Bras Frutic, 37, pp. 748-754, (2015); 
+Dubois M., Gilles K.A., Hamilton J.K., Rebers P.A., Smith F., Colorimetric method for determination of sugars and related substances, Anal Chem, 28, pp. 248-254, (1956); 
+Dussert S., Davey M.W., Laffargue A., Doulbeau S., Swennen R., Etienne H., Oxidative stress, phospholipid loss and lipid hydrolysis during drying and storage of intermediate seeds, Physiol Plant, 127, pp. 192-204, (2006); 
+Edmond J.B., Drapala W.L., The effects of temperature, sand and soil, and acetone on germination of okra seed, Proc Am Soc Hort Sci, 71, pp. 428-434, (1958); 
+Elarbi M.B., Khemiri H., Jridi T., Hamida J.B., Purification and characterization of α-amylase from safflower (Carthamus tinctorius L.) germinating seeds, C R Biol, 332, pp. 426-432, (2009); 
+Fotouo-m H., Du Toit E.S., Robbertse P.J., Effect of storage conditions on Moringa oleífera Lam. seed oil: biodiesel feedstock quality, Ind Crops Prod, 84, pp. 80-86, (2016); 
+Fu Y.B., Ahmed Z., Diederichsen A., Towards a better monitoring of seed ageing under ex situ seed conservation, Conserv Physiol, (2015); 
+Graham I.A., Seed storage oil mobilization, Annu Rev Plant Biol, 59, pp. 115-142, (2008); 
+Guedes R.S., Alves E.U., Goncalves E.P., Viana J.S., Franca P.R.C., Santos S.S., Physiological quality of Amburana cearensis (Allemão) A.C. Smith seeds stored, Cienc Agrar, 31, pp. 331-342, (2010); 
+Hay F.R., Probert R.J., Advances in seed conservation of wild plant species: a review of recent research, Conserv Physiol, (2013); 
+Muschick M., The germination test, International rules for seed testing 2006, pp. 5.1-5.46, (2006); 
+Muschick M., Determination of moisture content, International rules for seed testing 2008, pp. 9.1-9.20, (2008); 
+Kocsy G., Die or survive? Redox changes as seed viability markers, Plant Cell Environ, 38, pp. 1008-1010, (2015); 
+Kumar S.P.J., Prasad S.R., Banerjee R., Thammineni C., Seed birth to death: dual functions of reactive oxygen species in seed physiology, Ann Bot, 116, pp. 663-668, (2015); 
+Marriot K.M., Northcote D.H., The induction of enzyme activity in the endosperm of germinating castor-bean seeds, Biochem J, 152, pp. 65-70, (1975); 
+Martins C.C., Pinto M.A.D.S.C., Storage of Handroanthus Umbellatus seeds, Ci Fl, 24, pp. 533-539, (2014); 
+McCready R.M., Guggolz J., Silviera V., Owens H.S., Determination of starch and amylose in vegetables, Anal Chem, 22, pp. 1156-1158, (1950); 
+Miller G.L., Use of dinitrosalicylic acid reagent for determination of reducing sugar, Anal Chem, 31, (1959); 
+Moncaleano-Escandon J., Silva B.C.F., Silva S.R.S., Granja J.A.A., Alves M.C.J.L., Pompelli M.F., Germination responses of Jatropha curcas L. seeds to storage and ageing, Ind Crops Prod, 44, pp. 684-690, (2013); 
+Morris D.L., Quantitative determination of carbohydrates with Dreywood’s anthrone reagent, Science, 107, pp. 111-114, (1948); 
+Muntz K., Protein dynamics and proteolysis in plant vacuoles, J Exp Bot, 58, pp. 2391-2407, (2007); 
+Murthy U.M.N., Sun W.Q., Protein modification by Amadori and Maillard reactions during seed storage: roles of sugar hydrolysis and lipid peroxidation, J Exp Bot, 51, pp. 1221-1228, (2000); 
+Murthy U.M.N., Kumar P.P., Sun W.Q., Mechanisms of seed ageing under different storage conditions for Vigna radiata (L.) Wilczeck: lipid peroxidation, sugar hydrolysis, Maillard reactions and their relationship to glass state transition, J Exp Bot, 54, pp. 1057-1067, (2003); 
+Oliver A.E., Hincha D.K., Crowe J.H., Looking beyond sugars: the role of amphiphilic solutes in preventing adventitious reactions in anhydrobiotes at low water content, Comp Biochem Physiol, 131, pp. 515-525, (2002); 
+Parkhey S., Naithani S.C., Keshavkant S., Protein metabolism during natural ageing in desiccating recalcitrant seeds of Shorea robusta, Acta Physiol Plant, 36, pp. 1649-1659, (2014); 
+Peoples M.B., Faizah A.W., Reakasen B., Harridge D.F., Methods for evaluating nitrogen fixation by nodulated legumes in the field, (1989); 
+Popova E.A., Mironova R.S., Odjakova M.K., Non-enzymatic glycosilation and deglycating enzymes, Biotechnol Biotechnol Equip, 24, pp. 1928-1935, (2010); 
+Shaban M., Review on physiological aspects of seed deterioration, Int J Agric Crop Sci, 6, pp. 627-631, (2013); 
+Silva J.P.V., Serra T.M., Gossman M., Wolf C.R., Meneghetti M.R., Meneghetti S.M.P., Moringa oleifera oil: studies of characterization and biodiesel production, Biomass Bioenergy, 24, pp. 1526-1530, (2010); 
+Silva D.G., Carvalho M.L.M., Nery M.C., Oliveira L.M., Caldeira C.M., Physiological and biochemical properties changes during storage of Tabebuia serratifolia seeds, Cerne, 17, pp. 1-7, (2011); 
+Strelec I., Ugarcic-Hardi Z., Hlevnjak M., Accumulation of Amadori and Maillard products in wheat seeds aged under different storage conditions, Croatica Chemi Acta, 81, pp. 131-137, (2008); 
+Tan-Wilson A.L., Wilson K.A., Mobilization of seed protein reserves, Physiol Plant, 145, pp. 140-153, (2012); 
+Van Handel E., Direct microdetermination of sucrose, Anal Biochem, 22, pp. 280-283, (1968); 
+Veselova T.V., Veselovsky V.A., Obroucheva N.V., Deterioration mechanisms in air-dry pea seeds during early ageing, Plant Physiol Biochem, 87, pp. 133-139, (2015); 
+Veselovsky V.A., Veselova T.V., Lipid peroxidation, carbohydrate hydrolysis, and Amadori–Maillard reaction at early stages of dry seed ageing, Russ J Plant Physiol, 59, pp. 811-817, (2012); 
+Walters C., Ballesteros D., Vertucci V.A., Structural mechanics of seed deterioration: standing the test of time, Plant Sci, 179, pp. 565-573, (2010); 
+Wettlaufer S.H., Leopold A.C., Relevance of Amadori and Maillard products to seed deterioration, Plant Physiol, 97, pp. 165-169, (1991)#FRF#

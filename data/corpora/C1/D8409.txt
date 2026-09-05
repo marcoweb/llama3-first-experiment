@@ -1,0 +1,29 @@
+#ITI#Canavanine involvement in the interaction of rice lines and Rhizoctonia solani#FTI#
+#IRE#Canavanine is known as antifungal non-protein amino acid found in the legume. In the previous metabolome study of rice lines infected by R. solani, using CE/TOF-MS in positive ion mode showed that canavanine was detected, but unstable. To obtain the stable result, re-analyzed using MassHunter Workstation Quantitative analysis has been done in this study. The improvement analysis showed that canavanine was significantly higher in 32R than in 29S inoculated by R. solani. Furthermore, this result suggests that canavanine involves in the defence mechanism of rice line to the infection of R. solani. � 2016, Franciszek G�rski Institute of Plant Physiology, Polish Academy of Sciences, Krak�w.#FRE#
+#IPC#Canavanine; CE/TOF-MS; Rhizoctonia solani; Rice line#FPC#
+#IRF#Agrios G.N., Plant pathology, 3rded, (1988); 
+Aliferis K.A., Faubert D., Jabaji S., A metabolic profiling strategy for the dissection of plant defense against fungal pathogens, PLoS ONE., 9, (2014); 
+Archibald R.M., Colorimetric determination of canavanine, J Biol Chem, 165, pp. 169-178, (1946); 
+Cai T., Cai W., Zhang J., Zheng H., Tsou A.M., Xiao L., Zhong Z., Zhu J., Host legume-exuded antimetabolites optimize the symbiotic rhizosphere, Mol Microbiol, 73, pp. 507-517, (2009); 
+Danson J., Wasano K., Nose A., Infection of rice plants with the sheath blight fungus causes an activation of pentose phosphate and glycolytic pathways, Eur J Plant Pathol, 106, pp. 555-561, (2000); 
+Dulermo T., Bligny R., Gout E., Cotton P., Amino acid changes during sunflower infection by necrotrophic fungus B. cinerea, Plant Signal Behav, 4, pp. 859-861, (2009); 
+Emmert E.A.B., Milner J.L., Lee J.C., Pulvermacher K.L., Olivares H.A., Clardy J., Handelsman J., Canavanine from Alfalfa seeds on the population biology of Bacillus cereus, Microbiol, 64, pp. 4683-4688, (1998); 
+Keshavan N.D., Chowdhary P.K., Haines D.C., Gonzalez J.E., L-Canavanine made by Medicago sativa with quorum sensing in Sinorhizobium meliloti, J Bacteriol, 187, pp. 8427-8436, (2005); 
+Krasuska U., Andrzejczak O., Staszek P., Bogatek R., Gniazdowska A., Canavanine alters ROS/RNS level and leads to post-translational modification of proteins in roots of tomato seedlings, Front Plant Sci, 7, pp. 1-15, (2016); 
+Mutuku J.M., Nose A., Rhizoctonia solani infection in two rice lines increases mRNA expression of metabolic enzyme genes in glycolytic, oxidative pentose phosphate pathways and secondary metabolites, Trop Agr Dev, 54, pp. 119-131, (2010); 
+Mutuku J.M., Nose A., Changes in the contents of metabolites and enzyme activities in rice plants responding to Rhizoctonia solani Kuhn infection: activation of glycolysis and connection to phenylpropanoid pathway, Plant Cell Physiol, 53, pp. 1017-1032, (2012); 
+Nakajima N., Hiradate S., Fujii Y., Plant growth inhibitory activity of l-canavanine and its mode of action, J Chem Ecol, 27, pp. 19-31, (2001); 
+Oropeza C., Alpizar L., Loyola-Vargas V.M., Quiroz J., Scorer K.N., Determination of l-canavanine and l-canaline in plant tissues by high-performance liquid chromatography, J Chromatogr, 456, pp. 405-409, (1988); 
+Rajkowski K.T., Simplified qualitative method for canavanine in seeds and sprouts, J Food Prot, 67, pp. 212-214, (2004); 
+Rojas C.M., Senthil-Kumar M., Tzin V., Mysore K.S., Regulation of primary plant metabolism during plant-pathogen interactions and its contribution to plant defense, Front Plant Sci, 5, pp. 1-12, (2014); 
+Rosenthal G.A., Investigation of canavanine biochemistry in the jack bean plant, Canavalia ensiformis (L.) DC. I. Canavanine utilization in the developing plant, Plant Physiol, 46, pp. 273-276, (1970); 
+Rosenthal G.A., l-canavanine metabolism in jack bean Canavalia ensiformis (L.) DC. (Leguminosae), Plant Physiol, 69, pp. 1066-1069, (1982); 
+Samborski D.J., Forsyth F.R., Inhibition of rust development on detached wheat leaves by metabolites, antimetabolites, and enzyme poisons, Can J Bot, 38, pp. 467-476, (1960); 
+Shepherd C.J., Mandryk M., Effect of metabolites and antimetabolites on the sporulation of Peronospora tabacina Adam on tobacco leaf disk, Aust J Biol Sci, 17, pp. 878-891, (1964); 
+Simola L.K., Lonnroth K., The effect of some protein and non-protein amino acid on the growth of Cladosporium herbarum and Trichothecium roseum, Physiol Plant, 46, pp. 381-387, (1979); 
+Suharti W.S., Nose A., Zheng S.-H., Metabolite properties of sheath blight disease resistance in rice: in the case of positive ion mode analysis by CE/TOF-MS, Plant Prod Sci, 19, pp. 279-290, (2016); 
+Vance C.P., Lignification as a mechanism of disease resistance, Ann Rev Phytopathol, 18, pp. 259-288, (1980); 
+Wasano K., Oro S., Kido Y., The syringe inoculation method for selecting rice plants resistant to sheath blight, Rhizoctonia solani K�hn, Jpn J Trop Agric, 27, pp. 131-134, (1983); 
+Wasano K., Hirota Y., Kido Y., Varietal differences in the resistance to sheath blight of rice, Rhizoctonia solani Kuhn, and effectiveness of selection for the resistance from the cross, Tetep x CN4-4-2, Rep Kyus Bran Crop Sci Soc Jpn, 52, pp. 16-22, (1985); 
+Wink M., Plant breeding: importance of plant secondary metabolites for protection against pathogens and herbivores, Theor Appl Genet, 75, pp. 225-233, (1988); 
+Winter G., Todd C.D., Trovato M., Forlani G., Funck D., Physiological implication of arginine metabolism in plants, Front Plant Sci, 6, pp. 1-14, (2015)#FRF#

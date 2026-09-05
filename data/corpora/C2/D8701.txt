@@ -1,0 +1,57 @@
+#ITI#Boron induced changes in biochemical constituents, enzymatic activities, and growth performance of wheat#FTI#
+#IRE#The present study investigates how excess boron (B) affects and alters the biochemical constituents and enzymatic activities of wheat (Triticum aestivum var. ‘Raj 4037’), consequently leading to reduced plant growth and yield. Plants were raised in soils supplemented with various concentrations of B (0, 1, 2, 4, 8, 16, and 32 µg B g−1 soil). Biochemical constituents including soluble leaf protein contents, total phenol contents, soluble sugar contents, proline contents, enzymatic activities of peroxidase (POX), and nitrate reductase (NR) were analyzed. In addition, growth parameters namely shoot–root length, shoot–root fresh and dry weight, seed number and seed weight were analyzed to assess the impact of B toxicity. Results indicate that change in biochemical constituents were correlated with B treatments. Boron concentrations beyond 4 µg g−1 significantly increased soluble leaf protein contents, total phenol contents, soluble sugar contents, and proline contents. The POX activity was found to be positively correlated with B treatments. B significantly affects nitrogen metabolism and nitrate accumulation which is reflected by the downregulation of NR activity at higher B concentrations. B induced changes in physiological parameters of the plant which subsequently led to the reduction in growth, biomass production, and yield attributes. Out of the various concentrations of B, 8 µg g−1 was moderately toxic while 16 and 32 µg g−1 generated high toxicity and induced B stress response to confer tolerance in wheat. Further, a possible mechanism of B toxicity response in wheat is suggested. © 2017, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Antioxidant response; B toxicity; Biomass production; Nitrate reductase#FPC#
+#IRF#Aery N.C., Manual of environmental analysis, (2010); 
+Aftab T., Khan M.M.A., Idrees M., Naeem M., Ram M., Boron induced oxidative stress, antioxidant defence response and changes in artemisinin content in Artemisia annua L, J Agron Crop Sci, 196, 6, pp. 423-430, (2010); 
+Ayvaz M., Guven A., Blokhina O., Fagerstedt K.V., Boron stress, oxidative damage and antioxidant protection in potato cultivars (Solanum tuberosum L.), Acta Agric Scand A, 66, 4, pp. 302-316, (2016); 
+Bates L.S., Waldren R.P., Teare I.D., Rapid determination of free proline for water-stress studies, Plant Soil, 39, 1, pp. 205-207, (1973); 
+Bergmann W., Colour atlas: nutritional disorders of plants, (1992); 
+Blevins D.G., Lukaszewski K.M., Boron in plant structure and function, Annu Rev Plant Biol, 49, 1, pp. 481-500, (1998); 
+Bolanos L., Esteban E., de Lorenzo C., Et al., Essentiality of boron for symbiotic dinitrogen fixation in pea (Pisum sativum) rhizobium nodules, Plant Physiol, 104, 1, pp. 85-90, (1994); 
+Bonilla I., Garcia-Gonzalez M., Mateo P., Boron requirement in cyanobacteria. Its possible role in the early evolution of photosynthetic organisms, Plant Physiol, 94, 4, pp. 1554-1560, (1990); 
+Bradford M.M., A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding, Anal Biochem, 72, 1-2, pp. 248-254, (1976); 
+Brown P.H., Hu H., Phloem mobility of boron is species dependent: evidence for phloem mobility in sorbitol-rich species, Ann Bot, 77, 5, pp. 497-506, (1996); 
+Brown P.H., Hu H., Roberts W.G., Occurrence of sugar alcohols determines boron toxicity symptoms of ornamental species, J Am Soc Hortic Sci, 124, 4, pp. 347-352, (1999); 
+Cervilla L.M., Blasco B., Rios J.J., Et al., Response of nitrogen metabolism to boron toxicity in tomato plants, Plant Biol, 11, 5, pp. 671-677, (2009); 
+Chatterjee M., Liu Q., Menello C., Galli M., Gallavotti A., The combined action of duplicated boron transporters is required for maize growth in boron-deficient conditions, Genetics, 206, 4, pp. 2041-2051, (2017); 
+da Costa R.C.L., Lobato A.K.D.S., da Silveira J.A.G., Laughinghouse H.D., ABA-mediated proline synthesis in cowpea leaves exposed to water deficiency and rehydration, Turk J Agric For, 35, 3, pp. 309-317, (2011); 
+Eraslan F., Inal A., Gunes A., Alpaslan M., Boron toxicity alters nitrate reductase activity, proline accumulation, membrane permeability, and mineral constituents of tomato and pepper plants, J Plant Nutr, 30, 6, pp. 981-994, (2007); 
+Hamurcu M., Sekmen A.H., Turkan I., Et al., Induced anti-oxidant activity in soybean alleviates oxidative stress under moderate boron toxicity, Plant Growth Regul, 70, 3, pp. 217-226, (2013); 
+Hellal F.A., Taalab H., Safaa H., Influence of nitrogen and boron nutrition on nutrient balance and sugar beet yield grown in calcareous soil, Ozean J Appl Sci, 2, 1, pp. 1-10, (2009); 
+Huang J.H., Cai Z.J., Wen S.X., Guo P., Ye X., Lin G.Z., Chen L.S., Effects of boron toxicity on root and leaf anatomy in two citrus species differing in boron tolerance, Trees, 28, 6, pp. 1653-1666, (2014); 
+Huang J.H., Qi Y.P., Wen S.X., Et al., Illumina microRNA profiles reveal the involvement of miR397a in citrus adaptation to long-term boron toxicity via modulating secondary cell-wall biosynthesis, Sci Rep, 6, (2016); 
+Jaworski E.G., Nitrate reductase assay in intact plant tissues, Biochem Biophys Res Commun, 43, 6, pp. 1274-1279, (1971); 
+Kastori R., Plesnicar M., Pankovic D., Sakac Z., Photosynthesis, chlorophyll fluorescence and soluble carbohydrates in sunflower leaves as affected by boron deficiency, J Plant Nutr, 18, 9, pp. 1751-1763, (1995); 
+Kayihan C., Oz M.T., Eyidogan F., Yucel M., Oktem H.A., Physiological, biochemical, and transcriptomic responses to boron toxicity in leaf and root tissues of contrasting wheat cultivars, Plant Mol Biol Report, (2016); 
+Landi M., Pardossi A., Remorini D., Guidi L., Antioxidant and photosynthetic response of a purple-leaved and a green-leaved cultivar of sweet basil (Ocimum basilicum) to boron excess, Environ Exper Bot, 85, pp. 64-75, (2013); 
+Lata C., Kumar A., Sharma S.K., Singh J., Sheokand S., Mann A., Rani B., Tolerance to combined boron and salt stress in wheat varieties: biochemical and molecular analyses, Indian J of Exp Bot, 55, pp. 321-328, (2017); 
+Lu Y.B., Yang L.T., Li Y., Et al., Effects of boron deficiency on major metabolites, key enzymes and gas exchange in leaves and roots of Citrus sinensis seedlings, Tree Physiol, 34, 6, pp. 608-618, (2014); 
+Mahasuk P., Kullik A.S., Iqbal M.C., Mollers C., Effect of boron on microspore embryogenesis and direct embryo to plant conversion in Brassica napus (L.), Plant Cell Tiss Organ Cult, 130, pp. 443-447, (2017); 
+Mahboobi H., Yucel M., Avni Oktem H., Changes in total protein profiles of barley cultivars in response to toxic boron concentration, J Plant Nutr, 23, 3, pp. 391-399, (2000); 
+Marschner H., Mineral nutrition of higher plants, (1995); 
+Martinez-Cuenca M.R., Martinez-Alcantara B., Quinones A., Et al., Physiological and molecular responses to excess boron in Citrus macrophylla W, PLoS One, 10, 7, (2015); 
+Maziah M., Zuraida A.R., Halimi M.S., Et al., Influence of boron on the growth and biochemical changes in plant growth promoting rhizobacteria (PGPR) inoculated banana plantlets, World J Microbiol Biotechnol, 26, 5, pp. 933-944, (2010); 
+Mengel K., Kirkby E.A., Kosegarten H., Appel T., Boron, Principles of plant nutrition, pp. 621-638, (2001); 
+Mishra S., Heckathorn S., Boron stress and plant carbon and nitrogen relations, Progress in botany, pp. 333-355, (2016); 
+Miwa K., Takano J., Omori H., Et al., Plants tolerant of high boron levels, Science, 318, 5855, (2007); 
+Nable R.O., Banuelos G.S., Paull J.G., Boron toxicity, Plant Soil, 193, 1-2, pp. 181-198, (1997); 
+Oosterhuis D.M., Bate G.C., Nitrogen uptake of field-grown cotton. II. Nitrate reductase activity and petiole nitrate concentration as indicators of plant nitrogen status, Exp Agric, 19, 1, pp. 103-109, (1983); 
+Pallotta M., Schnurbusch T., Hayes J., Et al., Molecular basis of adaptation to high soil boron in wheat landraces and elite cultivars, Nature, 514, 7520, pp. 88-91, (2014); 
+Pandey N., Antioxidant responses and water status in Brassica seedlings subjected to boron stress, Acta Physiol Plant, 35, 3, pp. 697-706, (2013); 
+Pappin B., Kiefel M.J., Houston T.A., Boron-carbohydrate interactions, Kraan S, pp. 38-54, (2012); 
+Pardossi A., Romani M., Carmassi G., Et al., Boron accumulation and tolerance in sweet basil (Ocimum basilicum L.) with green or purple leaves, Plant Soil, 395, 1-2, pp. 375-389, (2015); 
+Quartacci M.F., Ranieri A., Sgherri C., Antioxidative defence mechanisms in two grapevine (Vitis vinifera L.) cultivars grown under boron excess in the irrigation water, VITIS J Grapevine Res, 54, 2, pp. 51-58, (2015); 
+Reid R., Understanding the boron transport network in plants, Plant Soil, 385, 1-2, pp. 1-13, (2014); 
+Sakamoto T., Inui Y.T., Uraguchi S., Et al., Condensin II alleviates DNA damage and is essential for tolerance of boron overload stress in Arabidopsis, Plant Cell, 23, 9, pp. 3533-3546, (2011); 
+Sang W., Huang Z.R., Qi Y.P., Et al., An investigation of boron-toxicity in leaves of two citrus species differing in boron-tolerance using comparative proteomics, J Proteom, 123, pp. 128-146, (2015); 
+Seth K., Aery N.C., Effect of boron on the contents of chlorophyll, carotenoid, phenol and soluble leaf protein in mung bean, Vigna radiata (L.) Wilczek, Proc Natl A Sci India B, 84, 3, pp. 713-719, (2014); 
+Simon I., Diaz-Lopez L., Gimeno V., Et al., Effects of boron excess in nutrient solution on growth, mineral nutrition, and physiological parameters of Jatropha curcas seedlings, J Soil Sci Plant Nutr, 176, 2, pp. 165-174, (2013); 
+Szabados L., Savoure A., Proline: a multifunctional amino acid, Trends Plant Sci, 15, 2, pp. 89-97, (2010); 
+Takahashi S., Izawa Y., Suzuki N., Astroglial pentose phosphate pathway rates in response to high glucose environments, ASN Neuro, 4, 2, (2012); 
+(2012); 
+Varshney P., Fariduddin Q., Yusuf M., Boron induced modulation in growth, photosynthesis and antioxidant system in two varieties of Brassica juncea, Int J Adv Res, 3, 10, pp. 819-832, (2015); 
+Wakuta S., Fujikawa T., Naito S., Takano J., Tolerance to excess-boron conditions acquired by stabilization of a BOR1 variant with weak polarity in arabidopsis, Front Cell Dev Biol, 4, pp. 1-11, (2016); 
+Wang B.L., Shi L., Li Y.X., Zhang W.H., Boron toxicity is alleviated by hydrogen sulfide in cucumber (Cucumis sativus L.) seedlings, Planta, 231, 6, pp. 1301-1309, (2010); 
+Wasaya A., Shahzad S.M., Hussain M., Ansar M., Aziz A., Hassan W., Ahmad I., Foliar application of zinc and boron improved the productivity and net returns of maize grown under rainfed conditions of Pothwar plateau, J Soil Sci Plant Nutr, (2017); 
+Yau S.K., Hamblin J., Ryan J., Phenotypic variation in boron toxicity tolerance in barley, durum and bread wheat, Rachis, 13, pp. 20-25, (1994); 
+Yemm E.W., Willis A.J., The estimation of carbohydrates in plant extracts by anthrone, Biochem J, 57, 3, (1954)#FRF#

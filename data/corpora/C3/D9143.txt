@@ -1,0 +1,50 @@
+#ITI#Altering light–dark cycle at pre-harvest stage regulated growth, nutritional quality, and photosynthetic pigment content of hydroponic lettuce#FTI#
+#IRE#Lettuce exposed to red (R) and blue (B) LEDs (4R:1B, 200 μmol·m−2·s−1) were cultivated hydroponically in an environmentally controlled plant factory to examine the effects of light–dark cycle (LDC) conversion at pre-harvest stage on the growth, phytochemical, and photosynthetic pigment accumulation of lettuce. Lettuce plants of four groups were firstly cultivated with the same LDC of 16/8 h (light/dark) for fourteen days. Six days before harvest, the LDC of three groups were altered to 8/4 h (T12), 24/12 h (T36), and 32/16 h (T48), respectively. The last group had invariable photoperiod and was concerned as control (CK, 16/8 h). The results showed that T12 and T36 significantly improved while T48 reduced leaf area and shoot fresh and dry weight of lettuce compared with the CK. The plants treated with altered LDC had higher phytochemicals (soluble sugar, soluble protein, and ascorbate) and photosynthetic pigments (chlorophyll and carotenoids) contents than the CK, but the starch and nitrate contents of the CK were higher. These results suggested that the yield and nutritional quality of lettuce can be increased by changing the LDC properly in the later growth stage. But if the light–dark period was too long, it would have negative effects on the growth of lettuce. In addition, shorten the LDC at pre-harvest stage promoted better production yield and nutritional quality based on the same electricity consumption. © 2021, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Carbohydrate; Circadian rhythm; Leaf lettuce; Light-emitting diode; Principal component analysis#FPC#
+#IRF#Bondada B.R., Syvertsen J.P., Leaf chlorophyll, net gas exchange and chloroplast ultrastructure in citrus leaves of different nitrogen status, Tree Physiology, 23, 8, pp. 553-559, (2003); 
+Bradford M.M., A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding, Anal Biochem, 72, 1-2, pp. 248-254, (1976); 
+Cataldo D.A., Haroon L.E., Schrader L.E., Youngs V.L., Rapid colorimetric determination of nitrate in plant tissue by nitration of salicylic acid, Commun SoilSci PlantAnal, 6, pp. 71-80, (1975); 
+Chen X., Yang Q., Effects of intermittent light exposure with red and blue light emitting diodes on growth and carbohydrate accumulation of lettuce, Sci Hortic, 234, pp. 220-226, (2018); 
+Chen K.M., Piippo M., Holmstrom M., Et al., A chloroplast-targeted DnaJ protein AtJ8 is negatively regulated by light and has rapid turnover in darkness, J Plant Physiol, 168, 15, pp. 1780-1783, (2011); 
+Colin J., Gerald E., John A., Reduction in chlorophyll content without a corresponding reduction in photosynthesis and carbon assimilation enzymes in yellow-green oil yellow mutants of maize, Photosynth Res, 20, 2, pp. 191-205, (1989); 
+Dodd A.N., Plant circadian clocks increase photosynthesis, growth, survival, and competitive advantage, Science, 309, 5734, pp. 630-633, (2005); 
+Downie B.J.M., AB, Xu Q, Gubler F,, A role for barley CRYPTOCHROME1 in light regulation of grain dormancy and germination, PlantCell, 26, pp. 1094-1104, (2014); 
+Dubois M., Gilles K.A., Hamilton J.K., Rebers P.A., Smith F., Colorimetric method for determination of sugars and related substances, Anal Chem, 28, 3, pp. 350-356, (1956); 
+Fukuda H., Nakamichi N., Hisatsune M., Murase H., Mizuno T., Synchronization of plant circadian oscillators with a phase delay effect of the vein network, Physical Review Letters, 99, 9, (2007); 
+Fukuda H., Ukai K., Oyama T., Self-arrangement of cellular circadian rhythms through phase-resetting in plant roots, Phys Rev E, 86, (2012); 
+Goto E., Takakura T., Reduction of lettuce tipburn by shortening day/night cycle, Journal of Agricultural Meteorology, 59, 3, pp. 219-225, (2003); 
+Graf A., Schlereth A., Stitt M., Smith A.M., Circadian control of carbohydrate availability for growth in Arabidopsis plants at night, Proc Natl Acad Sci, 107, pp. 9458-9463, (2010); 
+Green R.M., Circadian rhythms confer a higher level of fitness to arabidopsis plants, Plant Physiol, 129, 2, pp. 576-584, (2002); 
+Greenham K., McClung C.R., Integrating circadian dynamics with physiological processes in plants, Nat. Rev. Genet., 16, pp. 598-610, (2015); 
+Harmer S.L., The circadian system in higher plants, Annu Rev Plant Biol, 60, 357, (2009); 
+Harmer S.L., Hogenesch J.B., Straume M., Et al., Orchestrated transcription of key pathways in Arabidopsis by the circadian clock, Science, 290, 2110, (2000); 
+Higashi T., Kamitamari A., Okamura N., Et al., Characterization of circadian rhythms through a bioluminescence reporter assay in lactuca sativa L, Environmental Control in Biology, 52, 1, pp. 21-27, (2013); 
+Higashi T., Nishikawa S., Okamura N., Evaluation of Growth under Non-24 h Period Lighting Conditions in Lactuca sativa L, Ecb, 53, pp. 7-12, (2015); 
+Hogewoning S.W., Wientjes E., Douwstra P., Et al., Photosynthetic quantum yield dynamics: from photosystems to leaves, Plant Cell, 24, 5, pp. 1921-1935, (2012); 
+Kang J.H., Krishnakumar S., Atulba S.L.S., Et al., Light intensity and photoperiod influence the growth and development of hydroponically grown leaf lettuce in a closed-type plant factory system, Hortic Environ Biotechnol, 54, 6, pp. 501-509, (2013); 
+Ketellapper H.J., Interaction of endogenous and environmental periods in plant growth, Plant Physiol, 35, pp. 238-241, (1960); 
+Klopotek Y., Franken P., Klaering H.P., Et al., A higher sink competitiveness of the rooting zone and invertases are involved in dark stimulation of adventitious root formation in Petunia hybrida cuttings, Plant Sci, 243, pp. 10-22, (2016); 
+Kozai T., Fujiwara K., Runkle E.S., Led Lighting for Urban Agriculture, (2016); 
+Landi M., Zivcak M., Sytar O., Et al., Plasticity of photosynthetic processes and the accumulation of secondary metabolites in plants in response to monochromatic light environments: A review, Biochimica Et Biophysica Acta (BBA) – Bioenergetics, 1861, 2, (2019); 
+Lee S.K., Kader A.A., Preharvest and postharvest factors influencing vitamin C content of horticultural crops, Postharvest Biol Technol, 20, 3, pp. 207-220, (2000); 
+Lichtenthaler H.K., Chlorophylls and carotenoids: pigments of photosynthetic biomembranes, Method Enzymol, 148, 1, pp. 350-382, (1987); 
+Linde A.M., Eklund D.M., Kubota A., Et al., Early evolution of the land plant circadian clock, New Phytol, 216, pp. 576-590, (2017); 
+Lu Y., Gehan J.P., Sharkey T.D., Daylength and circadian effects on starch degradation and maltose metabolism, Plant Physiol, 138, pp. 2280-2291, (2005); 
+Mcclung C.R., Plant circadian rhythms, Plant Cell, 18, 4, pp. 792-803, (2006); 
+Michael T.P., Enhanced fitness conferred by naturally occurring variation in the circadian clock, Science, 302, 5647, pp. 1049-1053, (2003); 
+Montaigu A.D., Toth R., Coupland G., Plant development goes like clockwork, Trends in Genetics, 26, 7, pp. 296-306, (2010); 
+Ouyang Y., Andersson C.R., Kondo T., Et al., Resonating circadian clocks enhance fitness in cyanobacteria, Proc Natl Acad Sci, 95, 15, pp. 8660-8664, (1998); 
+Padayatty S.J., Katz A., Wang Y., Et al., Vitamin C as an antioxidant: evaluation of its role in disease prevention, J Am Coll Nutr, 22, 1, pp. 18-35, (2003); 
+Shor E., Green R.M., The Impact of Domestication on the Circadian Clock, Trends in Plant Science, 21, 4, pp. 281-283, (2016); 
+Singh D., Basu C., Meinhardt M., Et al., LEDs for energy efficient greenhouse lighting, Renew Sustain Energy Rev, 49, pp. 139-147, (2015); 
+Song Y.H., Ito S., Imaizumi T., Similarities in the circadian clock and photoperiodism in plants, Curr Opin Plant Biol, 13, 5, pp. 594-603, (2010); 
+Spinola V., Mendes B., Camara J.S., Castilho P.C., An improved and fast UHPLC-PDA methodology for determination of L-ascorbic and dehydroascorbic acids in fruits and vegetables. Evaluation of degradation rate during storage, Analytical and Bioanalytical Chemistry, 403, 4, pp. 1049-1058, (2012); 
+Srivastava D., Shamim M., Kumar M., Et al., Role of circadian rhythm in plant system: an update from development to stress response, Environ Exp Bot, (2019); 
+Talbott L.D., Nikolova G., Ortiz A., Et al., Green light reversal of blue-light-stimulated stomatal opening is found in a diversity of plant species, Am J Bot, 89, pp. 366-368, (2002); 
+Trouwborst G., Hogewoning S.W., Kooten O.V., Et al., Plasticity of photosynthesis after the 'red light syndrome' in cucumber, Environ Exp Bot, 121, pp. 75-82, (2016); 
+Tukey H.B., Ketellapper H.J., Length of the light-dark cycle and plant growth, Am J Bot, 50, 2, pp. 110-115, (1963); 
+Urairi C., Shimizu H., Nakashima H., Et al., Optimization of light-dark cycle of Lactuca sativa L, Plant Factory Environment Control in Biology, 55, 2, pp. 85-91, (2017); 
+Vooren J., Welles G.W.H., Hayman G., Glasshouse crop production, (1986); 
+Walters R.G., Towards an understanding of photosynthetic acclimation, J Exp Bot, 56, pp. 435-447, (2005); 
+Wang Y., Slabas A.R., Chivasa S., Proteomic analysis of dark response in Arabidopsis cell suspension cultures, J Plant Physiol, 169, 17, pp. 1690-1697, (2012); 
+Zhang Y., Liu Z., Wang L., Et al., Sucrose-induced hypocotyl elongation of Arabidopsis seedlings in darkness depends on the presence of gibberellins, J Plant Physiol, 167, 14, pp. 1130-1136, (2010)#FRF#

@@ -1,0 +1,42 @@
+#ITI#Adjusting irrigation uniformity coefficients for unimportant variability on a small scale#FTI#
+#IRE#Distribution Uniformity (DU) and the Coefficient of Uniformity (CU) are commonly used irrigation performance measures of how evenly water is applied across a field during irrigation. The more DU or CU can be improved, the more water will be conserved and the better the crop will perform. DU and CU are most commonly measured for sprinkler irrigation using catch cans. Gross irrigation amounts are often increased to account for poor DU and CU by dividing the net irrigation required by the DU or CU as a decimal. However, non-uniformity on a very small scale (i.e. less than 30 cm) is less important since the soil can redistribute the water and the crop roots can get water from wetter regions. In this paper, a new method is suggested to measure and adjust DU and CU for the less important irrigation application variability on a small scale. These methods were applied to uniformity evaluations in grower fields at different locations in Washington and Oregon, USA. The results showed that the absolute value of DU and CU might be adjusted up 6–8% and 3–6%, respectively. If gross irrigation depth is being corrected for poor DU or CU, then using this method would result in 9–12.5% less water being applied to compensate for poor DU. This method helps give a DU and a CU that are more representative of what the crops in a field as a whole “feel” and helps prevent over application of irrigation water to correct for variability in water application depths on a small scale. © 2018#FRE#
+#IPC#Adjusting method; Center-pivot irrigation systems; Irrigation management; Sprinkler irrigation#FPC#
+#IRF#Al-Ghobari H.M., The areal distribution of applied water above and below soil surface under center pivot sprinkler irrigation system, WIT Trans. Ecol. Environ., 84, (1970); 
+ASABE Standards, S436.1: Test Procedure for Determining the Uniformity of Water Distribution of Center Pivot and Lateral Move Irrigation Machines Equipped With Spray or Sprinkler Nozzles, (2007); 
+Barragan J., Bralts V., Wu I.P., Assessment of emission uniformity for micro-irrigation design, Biosyst. Eng., 93, pp. 89-97, (2006); 
+Beale J.G., Howell D.T., Relationships among sprinkler uniformity measures, J. Irrig. Drain. Div., 92, pp. 41-48, (1966); 
+Benami A., Hore F.R., A new irrigation-sprinkler distribution coefficient, Trans. ASAE, 7, pp. 0157-0158, (1964); 
+Branscheid V.O., Hart W.E., Predicting field distributions of sprinkler systems, Trans. ASAE, 11, pp. 0801-0803, (1968); 
+Bremond B., Molle B., Characterization of rainfall under center pivot: influence of measuring procedure, J. Irrig. Drain. Eng., 121, pp. 347-353, (1995); 
+Burt C.M., Ag-Irrrigation Management: Training Manual for Certified Agricultural Irrigation Specialist (CAIS) Program, (2004); 
+Burt C.M., Rapid field evaluation of drip and microspray distribution uniformity, Irrig. Drain. Syst. Eng., 18, pp. 275-297, (2004); 
+Burt C.M., Clemmens A.J., Strelkoff T.S., Solomon K.H., Bliesner R.D., Hardy L.A., Howell T.A., Eisenhauer D.E., Irrigation performance measures: efficiency and uniformity, J. Irrig. Drain. Eng., 123, pp. 423-442, (1997); 
+Christiansen J.E., Irrigation by sprinkling, Calif. Agric. Exp. Stn. Bull., 670, (1942); 
+Cogels O.G., An irrigation system uniformity function relating the effective uniformity of water application to the scale of influence of the plant root zones, Irrig. Sci., 4, pp. 289-299, (1983); 
+Criddle W.D., Davis S., Pair C.H., Shockley C.D., Method for Evaluating Irrigation Systems, (1956); 
+Dukes M.D., Perry C., Uniformity testing of variable-rate center pivot irrigation control systems, Precis. Agric., 7, (2006); 
+Evans R., Han G.S., Kroeger M.W., Spatial distribution and uniformity evaluations for chemigation with center pivots, Trans. ASAE, 38, pp. 85-92, (1995); 
+Fukui Y., Nakanishi K., Okamura S., Computer evaluation of sprinkler irrigation uniformity, Irrig. Sci., 2, pp. 23-32, (1980); 
+Hart W.E., Overhead irrigation pattern parameters, Agric. Eng., 42, pp. 354-355, (1961); 
+Hart W.E., Sprinkler distribution analysis with a digital computer, Trans. ASAE, 6, pp. 0206-0208, (1963); 
+Hart W.E., Subsurface distribution of nonuniformly applied surface waters, Trans. ASAE, 15, pp. 0656-0661, (1972); 
+Hart W.E., Reynolds W.N., Analytical design of sprinkler systems, Trans. ASAE, 8, pp. 0083-0085, (1965); 
+Heermann D.F., Hein P.R., Performance characteristics of self-propelled center-pivot sprinkler irrigation system, Trans. ASAE, 11, pp. 0011-0015, (1968); 
+Heermann, Duke H.R., Serefim A.M., Dawson L.J., Distribution functions to represent center-pivot water distribution, Trans. ASAE, 35, pp. 1465-1472, (1992); 
+Karmeli D., Estimating sprinkler distribution patterns using linear regression, Trans. ASAE, 21, pp. 0682-0686, (1978); 
+Keller J., Bliesner R.D., Sprinkler and Trickle Irrigation, (1990); 
+King B.A., Wall R.W., Karsky T.F., Center-pivot irrigation system for independent site-specific management of water and chemical application, Appl. Eng. Agric., 25, pp. 187-198, (2009); 
+Li J., Kawano H., Sprinkler rotation nonuniformity and water distribution, Trans. ASAE, 39, pp. 2027-2031, (1996); 
+Li J., Kawano H., The areal distribution of soil moisture under sprinkler irrigation, Agric. Water Manag., 1, pp. 29-36, (1996); 
+Marek T.H., Undersander D.J., Ebeling L.L., An areal-weighted uniformity coefficient for center pivot irrigation systems, Trans. ASAE, 29, pp. 1665-1667, (1986); 
+Marjang N., Merkley G.P., Shaban M., Center-pivot uniformity analysis with variable container spacing, Irrig. Sci., 30, pp. 149-156, (2012); 
+Merriam J.L., Keller J., Farm irrigation system evaluation: a guide for management, Farm Irrig. Syst. Eval. Guide Manag., (1978); 
+NASS, 2013 Farm and Ranch Irrigation Survey. 2012 Census of Agriculture, (2013); 
+Perrens S.J., Numerical analysis of soil water uniformity under sprinkler irrigation, J. Agric. Eng. Res. UK, (1984); 
+Ramberg J.S., Schmeiser B.W., An approximate method for generating symmetric random variables, Commun. ACM, 15, pp. 987-990, (1972); 
+Seginer I., Irrigation uniformity related to horizontal extent of root zone, Irrig. Sci., 1, pp. 89-96, (1979); 
+Smesrud J.K., Selker J.S., Analytical solution for normal irrigation distribution parameters, J. Irrig. Drain. Eng., 127, pp. 45-48, (2001); 
+Wallach R., Effective irrigation uniformity as related to root zone depth, Irrig. Sci., 11, pp. 15-21, (1990); 
+Wilcox J.C., Swailes G.E., Uniformity of water distribution by some under tree orchard sprinkler, J. Sci. Agric., 27, pp. 565-583, (1947); 
+Zhang L., Merkley G.P., Relationships between common irrigation application uniformity indicators, Irrig. Sci., 30, pp. 83-88, (2012); 
+Zhang L., Merkley G.P., Pinthong K., Assessing whole-field sprinkler irrigation application uniformity, Irrig. Sci., 31, pp. 87-105, (2013)#FRF#

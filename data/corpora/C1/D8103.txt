@@ -1,0 +1,57 @@
+#ITI#Efficiency and productivity terms for water management: A matter of contextual relativism versus general absolutism#FTI#
+#IRE#Growing water scarcity and increasing demands for agricultural products generate much debate about improving the agricultural sector's water use efficiency and productivity. Agricultural engineering traditions feed this debate with notions such as agricultural yield gaps and low water use efficiencies that draw attention to potential improvements. However, when perspectives are shifted from an irrigated field to a river basin, someone's (water) loss may be another's (water) gain. Such shifts in perspectives complicate the applications of our concepts of irrigation efficiency (IE), water use efficiency (WUE) and water productivity (WP). This paper studies the use and abuse of definitions and applications of concepts of IE, WUE and WP and examines their appropriate application for different scales and domains of water use. In this paper we argue that water management decisions are best informed by using IE and WP at the irrigation scheme and catchment level, respectively. This use can identify context specific opportunities and potentials for increased water use efficiency and productivity as well as the potential trade-offs in water re-allocations between diverse water users and uses. © 2011 Elsevier B.V.#FRE#
+#IPC#Consumptive use; Economic water productivity; Irrigation efficiency; Water productivity; Water use efficiency; Water valuation#FPC#
+#IRF#Ben-Gal A., Kool D., Agam N., van Halsema G.E., Yermiyahu U., Yafe A., Presnov E., Erel R., Majdop A., Zipori I., Segal E., Ruger S., Zimmermann U., Cohen Y., Alchanatis V., Dag A., Whole-tree water balance indicators for short-term drought stress in non-bearing 'Barnea' olives, Agric. Water Manage., 98, pp. 124-133, (2010); 
+Benli B., Pala M., Stockle C., Oweis T., Assessment of winter wheat production under early sowing with supplemental irrigation in cold highland environment using CropSyst simulation model, Agric. Water Manage., 93, pp. 45-53, (2007); 
+Bluemling B., Yang H., Pahl-Wostl C., Making water productivity operational - a concept of agricultural water productivity exemplified as a wheat-maize cropping pattern in the North China Plain, Agric. Water Manage., 91, 1-3, pp. 11-23, (2007); 
+Bos M.G., Nugteren J., On Irrigation Efficiencies Int'l Inst. for Land Reclamation and Improvement, (1982); 
+Brouwer C., Prins K., Heibloem M., Irrigation Water Management: Irrigation Scheduling. Training Manual No. 4, (1989); 
+Buckley R.B., Irrigation Pocket Book, or Facts, Figures and Formulae for Irrigation Engineers, (1920); 
+Burill A., Assessing the Social Value of Water and its Uses, Inst. for Prospective Technological Studies, (1997); 
+Burt C.M., Clemmens A.J., Strelkoff T.S., Solomon K.H., Bliesner R.D., Hardy L.A., Howell T.A., Eisenhauer D.E., Irrigation performance measures: efficiency and uniformity, J. Irrig. Drain. Eng., pp. 423-442, (1997); 
+Clark A.K., Aniq M., Canal irrigation and development opportunities for the Indus Right Bank in Sindh and Balochistan, ICID Bulletin, 42, 1, pp. 11-32, (1993); 
+Daily G.C., Soderqvist T., Aniyar S., Arrow K., The value of nature and the nature of value, Science, 289, pp. 395-396, (2000); 
+de Fraiture C., Wichelns D., Satisfying future water demands for agriculture, Agric. Water Manage., 97, pp. 502-511, (2010); 
+de Fraiture C., Molden D., Wichelns D., Investing in water for food, ecosystems and livelihoods: an overview of the comprehensive assessment of water management in agriculture, Agric. Water Manage., 97, pp. 495-501, (2010); 
+de Wit C.T, (1958); 
+Food and Agriculture Organization (FAO), Crops and Drops: Making the Best Use of Water for Agriculture, (2002); 
+'More Crop per Drop': Revisiting a Research Paradigm, (2006); 
+Guillet D., Rethinking irrigation efficiency: chain irrigation in Northwestern Spain, Hum. Ecol., 34, 3, pp. 305-329, (2006); 
+Hermans L.M., van Halsema G.E., Mahoo H.F., Building a mosaic of values to support local resources management, Water Policy, 8, pp. 415-434, (2006); 
+Hermans L.M., van Halsema G.E., Renault D., Developing economic arrangements for water resources management - the potential for stakeholder oriented water valuation, Water and Agriculture: Sustainability, Markets and Policies, pp. 280-303, (2006); 
+Hoekstra A.Y., Saveneije H.H.G., Chapagain A.K., An integrated approach towards assessing the value of water - a case study on the Zambezi basin, Integr. Assess., 2, pp. 199-208, (2001); 
+Israelson O.W., Irrigation Principles and Practices, (1950); 
+Israelson O.W., Criddle W.D., Furriman D.K., Hansen V.E., (1944); 
+Jensen M., Beyond irrigation efficiency, Irrig. Sci., 25, pp. 233-245, (2007); 
+Kahlown M.A., Khan A.D., Azam M., The world's largest contiguous irrigation system - developments, successes and challenges of the Indus irrigation system in Pakistan, A History of Water Vol. 1: Water Control and River Biographies, pp. 35-54, (2006); 
+Kamilov B., Ibragimov N., Evett S., Heng L., Use of neutron probe for investigations of winter wheat irrigation scheduling in automorphic and semi-hydromorphic soils of Uzbekistan, Proceedings of the International Workshop on Conservation Agriculture for Sustainable Wheat Production in rotation with Cotton in limited water resource areas, (2002); 
+Kassam A.H., Molden D., Fereres E., Doorenbos J., Water productivity: science and practice - introduction, Irrig. Sci., 25, pp. 185-188, (2007); 
+Keller A., Keller J., (1995); 
+Knox J.W., Morris J., Weatherhead E.K., Turner A.P., Mapping the financial benefits of sprinkler irrigation and potential financial impacts of restrictions on abstractions: a case-study in Anglian Region, J. Environ. Manage., 58, pp. 45-59, (2000); 
+Lankford B., Localising irrigation efficiency, Irrig. Drain., 55, pp. 345-362, (2006); 
+Levine G., (1982); 
+Molden D., (1997); 
+Molden D., Sakthivadivel R., Water accounting to assess use and productivity of water, Int. J. Water Resour. Dev., 15, 1-2, pp. 55-77, (1999); 
+Molden D., Sakthivadivel R., Perry C.J., de Fraiture C., Kloezen W.H., Indicators for comparing performance of irrigated agricultural systems, Res. Rep., 20, (1998); 
+Molden D., Oweis T., Steduto P., Bindraban P., Hanjra M.A., Kijne J., Improving agricultural water productivity: between optimism and caution, Agric. Water Manage., 97, pp. 528-535, (2010); 
+Molle F., Wester P., Hirsh P., River basin closure: processes, implications and responses, Agric. Water Manage., 97, pp. 569-577, (2010); 
+Murray-Rust D.H., Snellen W., Irrigation System Performance: Assessment and Diagnosis, (1993); 
+Murray-Rust D.H., van Halsema G.E., Effects of construction defects on hydraulic performance of Kalpani distributary, NWFP, Pakistan, Irrig. Drain. Syst., 12, 4, pp. 323-339, (1998); 
+Oktem A., Simsek M., Gulgun-Oktem A., Deficit irrigation effects on sweet corn (Zea masy sacharata Sturt) with drip irrigation system in a semi-arid region. I Water-yield relationship, Agric. Water Manage., 61, pp. 63-74, (2003); 
+Oweis T., Zhang H., Pala M., Water use efficiency of rainfed and irrigated bread wheat in a Mediterranean environment, Agron. J., 92, pp. 231-238, (2000); 
+Perry C., Efficient irrigation; inefficient communication; flawed recommendations, Irrig. Drain., 56, 4, pp. 367-378, (2007); 
+Renault D., Wallander W.W., Nutritional water productivity and diets, Agric. Water Manage., 45, 3, pp. 275-296, (2000); 
+Rodriguez-Diaz J.A., Camacho-Poyato E., Lopez-Luque R., Perez-Urrestarazu L., Benchmarking and multivariate data analysis techniques for improving the efficiency of irrigation districts: an application in Spain, Agric. Syst., 96, pp. 250-259, (2008); 
+Sadras V.O., Angus J.F., Benchmarking water-use efficiency of rainfed wheat in dry environments, Aust. J. Agric. Res., 57, pp. 847-856, (2006); 
+Seckler D., 1, (1996); 
+Seckler D.D., Molden R., Saktivadivel The concept of efficiency in water-resources management and policy, Water Productivity in Agriculture: Limits and Opportunities, pp. 37-51, (2003); 
+Steduto P., Hsiao T.C., Fereres E., On the conservative behavior of biomass water productivity, Irrig. Sci., 25, pp. 189-207, (2007); 
+Stockle C.O., Cabelguenne M., Debaeke P., Comparison of CropSyst performance for water management in southwestern France using submodels of different levels of complexity, Eur. J. Agron., 7, pp. 89-98, (1997); 
+Sullivan C., Meigh J., Considering the water poverty index in the context of poverty alleviation, Water Policy, 5, 5-6, pp. 513-528, (2003); 
+Sun H.Y., Liu C.M., Zhang X.Y., Shen Y.J., Zhang Y.Q., Effects of irrigation on water balance, yield and WUE of winter wheat in the North China Plain, Agric. Water Manage., 85, pp. 211-218, (2006); 
+Turner K., Georgiu S., Clark R., Brouwer R., Burke J., (2004); 
+van Halsema G.E., (2002); 
+van Halsema G.E., Beshir Keddi Luncha Mengitsu Assefa Hengsdijk H., Wesseler J., (2011); 
+Vos J., Vincent L., Volumetric water control in a large-scale open canal system with many smallholders: the case of Chancay-Lambeyeque in Peru, Agric. Water Manage., 98, 4, pp. 705-714, (2010); 
+Wheeler T.R., Hong T.D., Ellis R.H., Batts G.R., Morrison J.I.L., Hadley P., The duration and rate of grain growth, and harvest index, of wheat (Triticum aestivum L.) in response to temperature and CO <sub>2</sub> , J. Exp. Bot., 47, 5, pp. 623-630, (1996); 
+Zwart S.J., Bastiaanssen W.G.M., Review of measured crop water productivity values for irrigated wheat, rice, cotton and maize, Agric. Water Manage., 69, 2, pp. 115-133, (2004)#FRF#

@@ -1,0 +1,56 @@
+#ITI#The AtDREB1A transcription factor up-regulates expression of a vernalization pathway gene, GmVRN1-like, delaying flowering in soybean#FTI#
+#IRE#The dehydration-responsive element binding proteins/C-repeat binding factors (i.e., DREBs/CRT) are crucial transcription factors, they can bind the cis-elements containing the A/GCCGAC sequence in the promoter region. Overexpression of DREB genes enhances the resistance to multiple abiotic stresses, but also causes dwarfism and delayed flowering in many plant species. In this study, constitutive overexpression of AtDREB1A in soybean plants caused dwarfism and delayed-flowering phenotypes. The delayed-flowering phenotype was not affected by day length and could not be reversed by exogenous gibberellic acid. The expression levels of flowering-related genes were determined by quantitative real-time RCR. The Glyma11g13220 (designated as GmVRN1-like) expression was strongly induced in transgenic plants. GmVRN1-like was homologous to the Arabidopsis thaliana VRN1 gene (At3g18990). Electrophoretic mobility shift assay showed that AtDREB1A could bind the dehydration-responsive element motif, ACCGAC, in a region −157 to −186 bp upstream of GmVRN1-like. The motif shared 100 % identity with the DRE sequence present in RD29A. Our results imply that the delayed-flowering of AtDREB1A-overexpressing plants might be caused by up-regulating of GmVRN1-like gene. © 2016, The Author(s).#FRE#
+#IPC#AtDREB1A overexpression; Delayed flowering; GmVRN1-like; Soybean#FPC#
+#IRF#Achard P., Gong F., Cheminant S., Et al., The cold-inducible CBF1 factor-dependent signaling pathway modulates the accumulation of the growth-repressing DELLA proteins via its effect on gibberellin metabolism, Plant Cell, 20, pp. 2117-2129, (2008); 
+Agarwal P.K., Agarwal P., Reddy M.K., Et al., Role of DREB transcription factors in abiotic and biotic stress tolerance in plants, Plant Cell Rep, 25, pp. 1263-1274, (2006); 
+Baker S.S., Wilhelm K.S., Thomashow M.F., The 5′-region of Arabidopsis thaliana cor15a has cis-acting elements that confer cold-, drought-and ABA-regulated gene expression, Plant Mol Biol, 24, pp. 701-713, (1994); 
+Bastow R., Mylne J.S., Lister C., Et al., Vernalization requires epigenetic silencing of FLC by histone methylation, Nature, 427, pp. 164-167, (2004); 
+Baurle I., Dean C., The timing of developmental transitions in plants, Cell, 125, pp. 655-664, (2006); 
+Bernier G., Perilleux C., A physiological overview of the genetics of flowering time control, Plant Biotechnol J, 3, pp. 3-16, (2005); 
+Blumel M., Dally N., Jung C., Flowering time regulation in crops-what did we learn from Arabidopsis?, Curr Opin Biotechnol, 32, pp. 121-129, (2015); 
+Boss P.K., Bastow R.M., Mylne J.S., Et al., Multiple pathways in the decision to flower: enabling, promoting, and resetting, Plant Cell, 16, pp. S18-S31, (2004); 
+Chen W.J., Zhu T., Networks of transcription factors with roles in environmental stress response, Trends Plant Sci, 9, pp. 591-596, (2004); 
+Chew Y.H., Halliday K.J., A stress-free walk from Arabidopsis to crops, Curr Opin Biotechnol, 22, pp. 281-286, (2011); 
+Dubouzet J.G., Sakuma Y., Ito Y., Et al., OsDREB genes in rice, Oryza sativa L., encode transcription activators that function in drought-, high-salt- and cold-responsive gene expression, Plant J, 33, pp. 751-763, (2003); 
+Gilmour S.J., Zarka D.G., Stockinger E.J., Et al., Low temperature regulation of the Arabidopsis CBF family of AP2 transcriptional activators as an early step in cold-induced COR gene expression, Plant J, 16, pp. 433-442, (1998); 
+Gilmour S.J., Sebolt A.M., Salazar M.P., Et al., Overexpression of the Arabidopsis CBF3 transcriptional activator mimics multiple biochemical changes associated with cold acclimation, Plant Physiol, 124, pp. 1854-1865, (2000); 
+Gilmour S.J., Fowler S.G., Thomashow M.F., Arabidopsis transcriptional activators CBF1, CBF2, and CBF3 have matching functional activities, Plant Mol Biol, 54, pp. 767-781, (2004); 
+Hecht V., Foucher F., Ferrandiz C., Et al., Conservation of Arabidopsis flowering genes in model legumes, Plant Physiol, 137, pp. 1420-1434, (2005); 
+Hsieh T.H., Lee J.T., Yang P.T., Et al., Heterology expression of the Arabidopsis C-repeat/dehydration response element binding factor 1 gene confers elevated tolerance to chilling and oxidative stresses in transgenic tomato, Plant Physiol, 129, pp. 1086-1094, (2002); 
+Huang J.G., Yang M., Liu P., Et al., GhDREB1 enhances abiotic stress tolerance, delays GA-mediated development and represses cytokinin signalling in transgenic Arabidopsis, Plant Cell Environ, 32, pp. 1132-1145, (2009); 
+Ito Y., Katsura K., Maruyama K., Et al., Functional analysis of rice DREB1/CBF-type transcription factors involved in cold-responsive gene expression in transgenic rice, Plant Cell Physiol, 47, pp. 141-153, (2006); 
+Jung C.H., Wong C.E., Singh M.B., Et al., Comparative genomic analysis of soybean flowering genes, PLoS One, 7, (2012); 
+Kasuga M., Miura S., Shinozaki K., Et al., A combination of the Arabidopsis DREB1A gene and stress-inducible rd29A promoter improved drought- and low-temperature stress tolerance in tobacco by gene transfer, Plant Cell Physiol, 45, pp. 346-350, (2004); 
+Kim M.Y., Shin J.H., Kang Y.J., Et al., Divergence of flowering genes in soybean, J Biosci, 37, pp. 857-870, (2012); 
+Kissoudis C., van de Wiel C., Visser R., Et al., Enhancing crop resilience to combined abiotic and biotic stress through the dissection of physiological and molecular crosstalk, Front Plant Sci, 5, (2014); 
+Lata C., Prasad M., Role of DREBs in regulation of abiotic stress responses in plants, J Exp Bot, 62, pp. 4731-4748, (2011); 
+Lee H., Suh S.S., Park E., Et al., The AGAMOUS-LIKE 20 MADS domain protein integrates floral inductive pathways in Arabidopsis, Genes Dev, 14, pp. 2366-2376, (2000); 
+Levy Y.Y., Mesnage S., Mylne J.S., Et al., Multiple roles of Arabidopsis VRN1 in vernalization and flowering time control, Science, 297, pp. 243-246, (2002); 
+Li J., Wei S.M., Ouyang B., Et al., Tomato SlDREB gene restricts leaf expansion and internode elongation by downregulating key genes for gibberellin biosynthesis, J Exp Bot, 63, pp. 6407-6420, (2012); 
+Liu Q., Kasuga M., Sakuma Y., Et al., Two transcription factors, DREB1 and DREB2, with an EREBP/AP2 DNA binding domain separate two cellular signal transduction pathways in drought- and low-temperature-responsive gene expression, respectively, in Arabidopsis, Plant Cell, 10, pp. 1391-1406, (1998); 
+Livak K.J., Schmittgen T.D., Analysis of relative gene expression data using real-time quantitative PCR and the 2(-Delta Delta C(T)) method, Methods, 25, pp. 402-408, (2001); 
+Lu J., Suo H., Yi R., Et al., Glyma11g13220, a homolog of the vernalization pathway gene VERNALIZATION 1 from soybean [Glycine max (L.) Merr.], promotes flowering in Arabidopsis thaliana, BMC Plant Biol, (2015); 
+Magome H., Yamaguchi S., Hanada A., Et al., dwarf and delayed-flowering 1, a novel Arabidopsis mutant deficient in gibberellin biosynthesis because of overexpression of a putative AP2 transcription factor, Plant J, 37, pp. 720-729, (2004); 
+Magome H., Yamaguchi S., Hanada A., Et al., The DDF1 transcriptional activator upregulates expression of a gibberellin-deactivating gene, GA2ox7, under high-salinity stress in Arabidopsis, Plant J, 56, pp. 613-626, (2008); 
+Maruyama K., Sakuma Y., Kasuga M., Et al., Identification of cold-inducible downstream genes of the Arabidopsis DREB1A/CBF3 transcriptional factor using two microarray systems, Plant J, 38, pp. 982-993, (2004); 
+Michaels S.D., Amasino R.M., FLOWERING LOCUS C encodes a novel MADS domain protein that acts as a repressor of flowering, Plant Cell, 11, pp. 949-956, (1999); 
+Mizoi J., Shinozaki K., Yamaguchi-Shinozaki K., AP2/ERF family transcription factors in plant abiotic stress responses, Biochim Biophys Acta, 1819, pp. 86-96, (2012); 
+Moon J., Lee H., Kim M., Et al., Analysis of flowering pathway integrators in Arabidopsis, Plant Cell Physiol, 46, pp. 292-299, (2005); 
+Mouradov A., Cremer F., Coupland G., Control of flowering time: interacting pathways as a basis for diversity, Plant Cell, 14, pp. S111-S130, (2002); 
+Sakuma Y., Liu Q., Dubouzet J.G., Et al., DNA-binding specificity of the ERF/AP2 domain of Arabidopsis DREBs, transcription factors involved in dehydration- and cold-inducible gene expression, Biochem Biophys Res Commun, 290, pp. 998-1009, (2002); 
+Schmutz J., Cannon S.B., Schlueter J., Et al., Genome sequence of the palaeopolyploid soybean, Nature, 463, pp. 178-183, (2010); 
+Seo E., Lee H., Jeon J., Et al., Crosstalk between cold response and flowering in Arabidopsis is mediated through the flowering-time gene SOC1 and its upstream negative regulator FLC, Plant Cell, 21, pp. 3185-3197, (2009); 
+Simpson G.G., Dean C., Arabidopsis, the Rosetta stone of flowering time?, Science, 296, pp. 285-289, (2002); 
+Srikanth A., Schmid M., Regulation of flowering time: all roads lead to Rome, Cell Mol Life Sci, 68, pp. 2013-2037, (2011); 
+Stockinger E.J., Gilmour S.J., Thomashow M.F., Arabidopsis thaliana CBF1 encodes an AP2 domain-containing transcriptional activator that binds to the C-repeat/DRE, a cis-acting DNA regulatory element that stimulates transcription in response to low temperature and water deficit, Proc Natl Acad Sci USA, 94, pp. 1035-1040, (1997); 
+Sun Q., Csorba T., Skourti-Stathaki K., Et al., R-loop stabilization represses antisense transcription at the Arabidopsis FLC locus, Science, 340, pp. 619-621, (2013); 
+Sung S., Amasino R.M., Vernalization and epigenetics: how plants remember winter, Curr Opin Plant Biol, 7, pp. 4-10, (2004); 
+Suo H., Ma Q., Ye K., Et al., Overexpression of AtDREB1A causes a severe dwarf phenotype by decreasing endogenous gibberellin levels in soybean [Glycine max (L.) Merr], PLoS One, 7, (2012); 
+Swiezewski S., Liu F., Magusin A., Et al., Cold-induced silencing by long antisense transcripts of an Arabidopsis Polycomb target, Nature, 462, pp. 799-802, (2009); 
+Thomashow M.F., Role of cold-responsive genes in plant freezing tolerance, Plant Physiol, 118, pp. 1-8, (1998); 
+Thomashow M.F., Plant cold acclimation: freezing tolernce genes and regulatory mechanisms, Annu Rev Plant Physiol Plant Mol Biol, 50, pp. 571-599, (1999); 
+Tong Z., Hong B., Yang Y., Et al., Overexpression of two chrysanthemum DgDREB1 group genes causing delayed flowering or dwarfism in Arabidopsis, Plant Mol Biol, 71, pp. 115-129, (2009); 
+Wang Y., Yu K., Poysa V., Et al., Selection of reference genes for normalization of qRT-PCR analysis of differentially expressed genes in soybean exposed to cadmium, Mol Biol Rep, 39, pp. 1585-1594, (2012); 
+Watanabe S., Harada K., Abe J., Genetic and molecular bases of photoperiod responses of flowering in soybean, Breed Sci, 61, pp. 531-543, (2012); 
+Yamaguchi-Shinozaki K., Shinozaki K., A novel cis-acting element in an Arabidopsis gene is involved in responsiveness to drought, low-temperature, or high-salt stress, Plant Cell, 6, pp. 251-264, (1994); 
+Yamaguchi-Shinozaki K., Shinozaki K., Transcriptional regulatory networks in cellular responses and tolerance to dehydration and cold stresses, Annu Rev Plant Biol, 57, pp. 781-803, (2006)#FRF#

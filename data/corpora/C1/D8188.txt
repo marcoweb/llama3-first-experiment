@@ -1,0 +1,39 @@
+#ITI#Implementing irrigation: Water balances and irrigation quality in the Lerma basin (Spain)#FTI#
+#IRE#The growing necessity to develop more productive agriculture has encouraged the expansion of new irrigated lands. However, water use in agriculture may affect the natural regimes of water systems. This study aims to analyze, for the first time, water use and its dynamics during the creation of a newly irrigated land. Water use was studied through the development of water balances and subsequent application of quality indices for irrigation in two unirrigated years (2004-2005) and three years of gradual implementation of irrigation (2006, 2007 and 2008) in the Lerma basin (752. ha, Spain). Increases in evapotranspiration, drainage and water content in the aquifer were verified during the gradual transformation into irrigated land. Water balances closed adequately, giving consistency to the results and enabling the application of quality indices for irrigation. Irrigation quality analysis showed a use of available water resources equal to 84%. However, the estimated irrigation efficiency presented lower values, mainly due to irrigation drainage (15%) and combined losses by both evaporation and wind drift of sprinkler irrigation systems (13%). The results indicate that the use of water in the Lerma basin is at the same management level of other modern irrigation systems in the Ebro basin, although there is still margin for improvement in irrigation management, such as reducing the irrigation drainage fraction and the evaporation and wind drift losses of sprinkler irrigation systems. © 2011 Elsevier B.V.#FRE#
+#IPC#Ebro basin; Irrigation management; Lerma basin; Transition to irrigated land; Water use#FPC#
+#IRF#Allen R., Pereira L., Raes D., Smith M., Crop Evapotranspiration. Guidelines for Computing Crop Water Requirements, (1998); 
+Al-Jamal M.S., Ball S., Sammis T.W., Comparison of sprinkler, trickle and furrow irrigation efficiencies for onion production, Agric. Water Manage., 46, 3, pp. 253-266, (2001); 
+Beltran A., Estudio de suelos de la zona regable de Bardenas. II. Sectores: VIII, XI, X, XII y XIII, (1986); 
+Burt C.M., Clemmens A.J., Strelkoff T.S., Solomon K.H., Bliesner R.D., Hardy L.A., Howell T.A., Eisenhauer D.E., Irrigation performance measures: efficiency and uniformity, J. Irrig. Drain. Eng.-ASCE, 123, 6, pp. 423-442, (1997); 
+Causape J., Quilez D., Aragues R., Assessment of irrigation and environmental quality at the hydrological basin level. I. Irrigation quality, Agric. Water Manage., 70, 3, pp. 195-209, (2004); 
+Causape J., A computer-based program for the assessment of water-induced contamination in irrigated lands, Environ. Monit. Assess., 158, 1-4, pp. 307-314, (2009); 
+Cavero J., Beltran A., Aragues R., Nitrate exported in drainage waters of two sprinkler-irrigated watersheds, J. Environ. Qual., 32, 3, pp. 916-926, (2003); 
+Charbonneau R., Kondolf G.M., Land use change in California, USA: nonpoint source water quality impacts, Environ. Manage., 17, 4, pp. 453-460, (1993); 
+Chaudhry F.H., Nonuniform sprinkler irrigation application efficiency, J. Irrig. Drain. Div.-ASCE, 104, 2, pp. 165-178, (1978); 
+Clemmens A.J., Burt C.M., Accuracy of irrigation efficiency estimates, J. Irrig. Drain. Eng., 123, 6, pp. 443-453, (1997); 
+Critchley W., Siegert K., Water Harvesting: A Manual for the Design and Construction of Water Harvesting Schemes for Plant Production, (1991); 
+Cuenca R.H., Irrigation System Design. An Engineering Approach, (1989); 
+Custodio E., Llamas M., Hidrología Subterránea, (1983); 
+Dechmi F., Playan E., Cavero J., Faci J.M., Martinez-Cob A., Wind effects on solid set sprinkler irrigation depth and yield of maize (Zea mays), Irrig. Sci., 22, 2, pp. 67-77, (2003); 
+Doorenbos J., Kassam A.H., Yield Response to Water, (1979); 
+Faci J.M., Bensaci A., Slatni A., Playan E., A case study for irrigation modernisation. I. Characterisation of the district and analysis of water delivery records, Agric. Water Manage., 42, 3, pp. 313-334, (2000); 
+FAO Unlocking the Water Potential of Agriculture, (2003); 
+FAO World Agriculture Towards 2015/2030. An FAO Perspective, (2003); 
+Farre I., Faci J.M., Deficit irrigation in maize for reducing agricultural water use in a Mediterranean environment, Agric. Water Manage., 96, 3, pp. 383-394, (2009); 
+Garcia-Garizabal I., Causape J., Abrahao R., Evolution of the efficiency and agro-environmental impact of a traditional irrigation land in the middle Ebro valley (2001-2007), Span. J. Agric. Res., 7, 2, pp. 465-473, (2009); 
+Garcia-Garizabal I., Causape J., Abrahao R., Application of the irrigation land environmental evaluation tool for flood irrigation management and evaluation of water use, Catena, 87, pp. 260-267, (2011); 
+Isaaks E., Srivastava R.M., An Introduction to Applied Geostatistics, (1989); 
+Isidoro D., Quilez D., Aragues R., Water balance and irrigation performance analysis: La Violada irrigation district (Spain) as a case study, Agric. Water Manage., 64, 2, pp. 123-142, (2004); 
+Lecina S., Playan E., Isidoro D., Dechmi F., Causape J., Faci J.M., Irrigation evaluation and simulation at the irrigation district V in Bardenas (Spain), Agric. Water Manage., 73, 3, pp. 223-245, (2005); 
+Martinez-Cob A., (2004); 
+Playan E., Salvador R., Faci J.M., Zapata N., Martinez-Cob A., Sanchez I., Day and night wind drift and evaporation losses in sprinkler solid-sets and moving laterals, Agric. Water Manage., 76, 3, pp. 139-159, (2005); 
+Rosegrant M.W., Ximing C., Cline S.A., Global Water Outlook to 2025. Averting an Impending Crisis, (2002); 
+Information Manual. Soil Survey Investigations Report No. 45. Version 1.0, (1995); 
+Keys to Soil Taxonomy, (1992); 
+Tanji K.K., Kielen N.C., Agricultural Drainage Water Management in Arid and Semi-arid Areas, (2002); 
+Tedeschi A., Beltran A., Aragues R., Irrigation management and hydrosalinity balance in a semi-arid area of the middle Ebro river basin (Spain), Agric. Water Manage., 49, 1, pp. 31-50, (2001); 
+Urdanoz V., Amezqueta E., Claveria I., Ochoa V., Aragues R., Mobile and georeferenced electromagnetic sensors and applications for salinity assessment, Span. J. Agric. Res., 6, 3, pp. 469-478, (2008); 
+Wahl T., Winflume User's Manual, (2000); 
+Zalidis G., Dimitriads X., Antonopoulos A., Geraki A., Estimation of a network irrigation efficiency to cope with reduced water supply, Irrig. Drain. Syst., 11, 4, pp. 337-345, (1997); 
+Zapata N., Playan E., Martinez-Cob A., Sanchez I., Faci J.M., Lecina S., From on-farm solid-set sprinkler irrigation design to collective irrigation network design in windy areas, Agric. Water Manage., 87, 2, pp. 187-199, (2007); 
+Zapata N., Playan E., Skhiri A., Burguete J., Simulation of a collective solidset sprinkler irrigation controller for optimum water productivity, J. Irrig. Drain. Eng., 135, 1, pp. 13-24, (2009)#FRF#

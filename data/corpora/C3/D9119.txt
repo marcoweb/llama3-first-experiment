@@ -1,0 +1,39 @@
+#ITI#Response of photomorphogenic tomato mutants to nutrient omissions#FTI#
+#IRE#Light is a critical environmental factor that influences nutrient uptake, but understanding how light acts on nutrient uptake is still very elusive. To verify the role of opposite light responses in accumulation, nutrient use efficiency (UE) and growth, a tomato cultivar Micro-Tom (MT), the non-mutant high-pigment-1 (hp1, light exaggerated response) and the mutant aurea (au, phytochrome-deficient) were grown under hydroponic conditions with a complete nutrient solution (CS) or with the individual omission (–) of N, P, K, Ca and Mg. Our results showed that in -N, hp1 exhibited high NUE in the roots and increased root dry mass. In -P, MT compensated the lower accumulation of this nutrient with the increase in PUE and produced shoot dry mass equivalent to the other genotypes with higher PUE and less PUE. In -K, the higher shoot KUE of the au was evidenced by the higher shoot dry weight in relation to the MT. In -Ca, the shoot dry weight loss of hp1 was lower in relation to the other genotypes. In -Mg, hp1 had a low shoot and root MgUE. Finally, we highlighted the perspective of utilizing hp1 in breeding programs as a tool to stimulate root growth under N deprivation conditions, hp1 for poor Ca environments, and au for poor K environments. © 2021, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Abiotic stress; aurea mutant; high-pigment-1 mutant; Solanum lycopersicum L#FPC#
+#IRF#Alves F.R.R., de Melo H.C., Crispim-Filho A.J., Et al., Physiological and biochemical responses of photomorphogenic tomato mutants (cv. Micro-Tom) under water withholding, Acta Physiol Plant, (2016); 
+An Y., Wan S., Zhou X., Et al., Plant nitrogen concentration, use efficiency, and contents in a tallgrass prairie ecosystem under experimental warming, Glob Chang Biol, 11, pp. 1733-1744, (2005); 
+Bataglia O.C., Furlani A.M.C., Teixeira J.A.F., Et al., Métodos de análise química de plantas, Inst. Agronômico Campinas, 46, (1983); 
+Bianco M.S., Bernardes A., Filho C., De L.B., Nutritional status of the Cauliflower Cultivar ‘ Verona ’ grown with omission of out added macronutrients, PLoS ONE, (2015); 
+Carvalho R.F., Aidar S.T., Azevedo R.A., Et al., Enhanced transpiration rate in the high pigment 1 tomato mutant and its physiological significance, Plant Biol, 13, pp. 546-550, (2011); 
+Carvalho R.F., Campos M.L., Pino L.E., Et al., Convergence of developmental mutants into a single tomato model system: “Micro-Tom” as an effective toolkit for plant development research, Plant Methods, 7, pp. 1-14, (2011); 
+Carvalho R.F., Moda L.R., Silva G.P., Et al., Nutrition in tomato (Solanum lycopersicum L) as affected by light: Revealing a new role of phytochrome A, Aust J Crop Sci, 10, pp. 331-335, (2016); 
+Chen J., Lu S., Zhang Z., Et al., Environmentally friendly fertilizers: a review of materials used and their effects on the environment, Sci Total Environ, 613-614, pp. 829-839, (2018); 
+De O.R.H., Jamilly M., Lima S., Et al., Characterization of visual symptoms of micronutrient deficiencys of “ salada ” group tomato plants, Semin Ciências Agrárias, 30, pp. 1093-1100, (2009); 
+Ferreira D.F., Sisvar: a computer statistical analysis system, Ciência e Agrotecnol, 35, pp. 1039-1042, (2011); 
+Ferreira Junior D.C., Sousa L.A.G.G.S., Santos J.D.M.M., Drought-induced proline synthesis depends on root-to-shoot communication mediated by light perception, Acta Physiol Plant, 40, pp. 1-5, (2018); 
+Good A.G., Shrawat A.K., Muench D.G., Can less yield more? Is reducing nutrient input into the environment compatible with maintaining crop production?, Trends Plant Sci, 9, pp. 597-605, (2004); 
+Goud K.V., Sharma R., Retention of photoinduction of cytosolic enzymes in aurea mutant of Tomato (Lycopersicon esculentum), Plant Physiol, 105, pp. 643-650, (1994); 
+Gould K.S., Nature’s Swiss Army Knife: the diverse protective roles of anthocyanins in leaves, J Biomed Biotechnol, 5, pp. 314-320, (2004); 
+Herdel K., Schmidt P., Feil R., Et al., Dynamics of concentrations and nutrient fluxes in the xylem of Ricinus communis—diurnal course, impact of nutrient availability and nutrient uptake, Plant Cell Environ, 24, pp. 41-52, (2001); 
+Hoagland D.R., Arnon D.I., The water-culture method for growing plants without soil, Calif Agric Exp Stn Circ, 347, pp. 1-32, (1950); 
+Jia Z., Giehl R.F.H., von Wiren N., The root foraging response under low nitrogen depends on DWARF1-mediated brassinosteroid biosynthesis, Plant Physiol, 183, pp. 998-1010, (2020); 
+Kendrick R.E., Kerckhoffs L.H.J., Van Tuinen A., Koornneef M., Photomorphogenic mutants of tomato, Plant Cell Environ, 20, pp. 746-751, (1997); 
+Koornneef M., Cone J.W., Dekens R.G., Et al., Photomorphogenic responses of long hypocotyl mutants of Tomato, J Plant Physiol, 120, pp. 153-165, (1985); 
+Kwon C.-T., Song G., Kim S.-H., Et al., Functional deficiency of phytochrome B improves salt tolerance in rice, Environ Exp Bot, 148, pp. 100-108, (2018); 
+Liu Y., Xie Y., Wang H., Et al., Light and ethylene coordinately regulate the phosphate starvation response through transcriptional regulation of PHOSPHATE STARVATION RESPONSE1, Plant Cell, 29, pp. 2269-2284, (2017); 
+Lopez-Arredondo D.L., Leyva-gonz M.A., Gonz S.I., Phosphate nutrition: improving low-phosphate tolerance in crops, Annu Rev Plant Biol, 65, pp. 95-123, (2014); 
+Meissner R., Jacobson Y., Melamed S., Et al., A new model system for tomato genetics, Plant J, 12, pp. 1465-1472, (1997); 
+Otitoju M.A., Ochimana D.D., Determinants of farmers ’ access to fertilizer under fertilizer task force distribution system in Kogi State, Cogent Econ Financ, (2016); 
+Park J.E., Park J.Y., Kim Y.S., Et al., GH3-mediated auxin homeostasis links growth regulation with stress adaptation response in Arabidopsis, J Biol Chem, 282, pp. 10036-10046, (2007); 
+Prado R.M., Nutrição De Plantas, (2020); 
+Rouached H., Red light means on for phosphorus, Nat Plants, 4, pp. 983-984, (2018); 
+Rubio V., Bustos R., Irigoyen M., Et al., Plant hormones and nutrient signaling, Plant Mol Biol, 69, pp. 361-373, (2009); 
+Sakuraba Y., Yanagisawa S., Light signalling-induced regulation of nutrient acquisition and utilisation in plants, Semin Cell Dev Biol, 83, pp. 123-132, (2018); 
+Sakuraba Y., Kanno S., Mabuchi A., Et al., A phytochrome-B-mediated regulatory mechanism of phosphorus acquisition, Nat Plants, 4, pp. 1089-1101, (2018); 
+Schachtman D.P., Shin R., Nutrient Sensing and Signaling: NPKS, Annu Rev Plant Biol, (2007); 
+Sellin A., Ounapuu E., Karusion A., Experimental evidence supporting the concept of light-mediated modulation of stem hydraulic conductance, Tree Physiol, 30, pp. 1528-1535, (2010); 
+Siddiqi M.Y., Glass A.D.M., Utilization index: A modified approach to the estimation and comparison of nutrient utilization efficiency in plants, J Plant Nutr, 4, pp. 289-302, (1981); 
+Sokolskaya S.V., Sveshnikova N.V., Kochetova G.V., Et al., Involvement of phytochrome in regulation of transpiration: red-/far red-induced responses in the chlorophyll-deficient mutant of pea, Funct Plant Biol, 30, pp. 1249-1259, (2003); 
+Wei H., Zhao H., Chen X., He X., Secondary metabolites, carbohydrate accumulation, and nutrient uptake in Aralia elata (Miq.) Seem seedlings exposed to shoot cutting and different LED spectra, Acta Physiol Plant, 42, (2020); 
+Xing Y., Jiang W., He X., Et al., A review of nitrogen translocation and nitrogen- use efficiency, J Plant Nutr, 42, pp. 2624-2641, (2019)#FRF#

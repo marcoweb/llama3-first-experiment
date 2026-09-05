@@ -1,0 +1,46 @@
+#ITI#Putrescine application reduces softening and maintains the quality of pear fruit during cold storage#FTI#
+#IRE#To enhance the storage potential of pear cv. Punjab Beauty fruit, the effect of putrescine (PUT) treatments was evaluated by analysing various physico-chemical characteristics and enzymatic activities. Postharvest dip treatments of PUT (1, 2 and 3 mM) were given to uniform and healthy fruit, while tap water was used for the control fruit. Treated fruit were stored at 0–1 °C and 90–95% RH for 75 days. Evaluation of fruit quality parameters was made on the 0th, 15th, 30th, 45th, 60th, 67th and 75th days of storage. The PUT treatments (2 and 3 mM) proved to be effective to diminish the softening and enhance the storage potential with acceptable quality. These treatments also suppressed the pectin methyl esterase and cellulase activity, reduced the weight loss and spoilage compared with control. Moreover, 2 and 3 mM PUT applications delayed colour changes, retained higher soluble solids content, starch content and titratable acidity at the end of storage than in control. These findings suggested that exogenous PUT application of 2 and 3 mM could effectively maintain fruit quality and prolong the storage potential of pear cv. Punjab Beauty fruit by reducing the softening during storage. © 2020, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Cellulase; Pear; PME; Putrescine and storage potential#FPC#
+#IRF#Abbott J.A., Conway S.W., Sams E.C., Postharvest calcium chloride infiltration affects textural attributes of apples, J Am Soc Hortic Sci, 114, pp. 932-936, (1989); 
+Abd El-Migid M.B., Post-Harvest Physiological Studies on Le Conte and Kiefer Pear Fruits Stored at Different Temperatures, (1986); 
+Abeles F.B., Morgan P.W., Saltveit M.E., Ethylene in plant biology, (1992); 
+Akhtar A., Abbasi N.A., Hussain A., Effect of calcium chloride treatments on quality characteristics of loquat fruits during storage, Pak J Bot, 42, pp. 181-188, (2010); 
+Amerine M.A., Pangborn R.M., Roessler E.B., Principal of sensory evaluation of food, (1965); 
+Arthey D., Philip R.A., Fruit processing nutrition, product and quality management, (2005); 
+Bregoli A.M., Scaramagli S., Costa G., Sabatini E., Ziosi V., Biondi S., Torrigiani P., Peach (Prunus persica) fruit ripening: amino ethoxyvinyl glycine (AVG) and exogenous polyamines affect ethylene emission and flesh firmness, Physiol Plant, 114, pp. 472-481, (2002); 
+Champa W.A.H., Gill M.I.S., Mahajan B.V.C., Bedi S., Exogenous treatment of spermine to maintain quality and extend postharvest life of table grapes (Vitis vinifera L.) cv. Flame seedless under low temperature storage, LWT-J Food Sci Technol, 60, pp. 412-419, (2015); 
+Devlieghere F., Vermeulen A., Debevere J., Chitosan: antimicrobial activity, interactions with food components and applicability as a coating on fruit and vegetables, Food Microbiol, 21, pp. 703-714, (2004); 
+Deytieux-Belleau C., Vallet A., Doneche B., Geny L., Pectin methyl esterase and polygalactouronase in the developing grape berry skin, Plant Physiol Biochem, 46, pp. 638-646, (2008); 
+Dibble A.R., Davies P.J., Mutschler M.A., Polyamines content of long-keeping alcobaca tomato fruit, Plant Physiol, 86, pp. 338-340, (1998); 
+Food and Agriculture Organization of the United Nations, (2017); 
+Fisher R.L., Bennett A.B., Role of cell wall hydrolases in fruit ripening, Annu Rev Plant Biol, 42, pp. 675-703, (1991); 
+Gwanpua S.G., Buggenhot S.V., Verlinden B.E., Christiaens S., Pectin modifications and the role of pectin-degrading enzymes during postharvest softening of Jonagold apples, Food Chem, 158, pp. 283-291, (2014); 
+Hulme A.C., Rhodes M.J.C., Pome fruits, The Biochemistry of Fruits and Their Products, 2, (1971); 
+Hunter S., The measurement of appearance, (1975); 
+Keegstra K., Plant cell walls, Plant Physiol, 154, pp. 483-486, (2010); 
+Khan A.S., Singh Z., Abbasi N.A., Pre-storage putrescine application suppresses ethylene biosynthesis and retard fruit softening during low temperature storage in ‘Angelino’ plum, Postharvest Biol Technol, 46, pp. 36-46, (2007); 
+Khosroshahi M.R.Z., Esna-ashari M., Ershadi A., Effect of exogenous putrescine on postharvest life of strawberry (Fragaria ananassa Duch.) fruit cultivar Selva, Sci Hortic, 114, pp. 27-32, (2007); 
+Koehler S.M., Matters G.L., Nath P., Kemmerer E.C., Tucker M.L., The gene promoter for a bean abscission cellulase is ethylene-induced in transgenic tomato and shows high sequence conservation with a soybean abscission cellulase, Plant Mol Biol, 31, pp. 595-606, (1996); 
+Kramer G.F., Wang C.Y., Conway W.S., Correlation of reduced softening and increased polyamines levels during low-oxygen storage of ‘McIntosh’ apples, J Am Soc Hortic Sci, 114, pp. 942-946, (1989); 
+Lammertyn J., Scheerlinck N., Jancsok P., Verlinden B., Nicolai B., A respiration–diffusion model for ‘Conference’ pears I: model development and validation, Postharvest Biol Technol, 30, pp. 29-42, (2003); 
+Li X., Xu C., Korban S.S., Chen K., Regulatory mechanisms of textural changes in ripening fruits, Crit Rev Plant Sci, 29, pp. 222-243, (2010); 
+Mahadevan A., Sridhar R., Methods on physiological plant pathology, (1982); 
+Mahammad M.U., Kamba A.S., Abubakar L., Bagna E.A., Nutritional composition of pear fruits (Pyrus communis), Afr J Food Sci Technol, 1, pp. 76-81, (2010); 
+Malik A.U., Singh Z., Pre-storage application of polyamines improves shelf life and fruit quality of mango, J Hortic Sci Biotechnol, 80, pp. 363-369, (2005); 
+Malik A.U., Singh Z., Improved fruit retention, yield and fruit quality in mango with exogenous application of polyamines, Sci Hortic, 110, pp. 167-174, (2006); 
+Martinez R.D., Serrano M., Carbonell A., Burgos O.L., Riquelme F., Valero D., Effect of post-harvest putrescine treatment on extending shelf life and reducing mechanical damage in apricot, J Sci Food Agric, 67, pp. 1706-1712, (2002); 
+Park Y., Lee B., Park H., Observation of anatomical causes of fruit softening during growth and storage periods in ‘Wonhwang’ oriental pear (Pyrus pyrifolia), Sci Hortic, 210, pp. 250-257, (2016); 
+Perez-Vicente A., Martinez-Romero D., Carbonell A., Serrano M., Riquelme F., Guillen F., Valero D., Role of polyamines in extending shelf life and the reduction of mechanical damage during plum (Prunus salicina Lindl.) storage, Postharvest Biol Technol, 25, pp. 25-32, (2002); 
+Popovic R.B., Kyle D.J., Cohen A.S., Zalik S., Stabilization of thylakoid membranes by spermine during stress induced senescence of barley leaf discs, Plant Physiol, 64, pp. 721-726, (1979); 
+Ramezanian A., Rahemi M., Maftoun M., Bahman K., Eshghi S., Safizadeh M.R., Tavallali V., The ameliorative effects of spermidine and calcium chloride on chilling injury in pomegranate fruits after long-term storage, Fruits, 65, pp. 169-178, (2010); 
+Singh V., Jawandha S.K., Gill P.P.S., Gill M.S., Suppression of fruit softening and extension of shelf life of pear by putrescine application, Sci Hortic, (2019); 
+Slocum R.D., Kaur S.R., Galston A.W., The physiology and biochemistry in of polyamines in plants, Arch Biochem Biophys, 235, pp. 283-303, (1984); 
+Stevens F.J., Chapman R.A.G., The determination of starch in meat production with the anthrone reagent, J AOAC Int, 32, pp. 202-210, (1955); 
+Valero D., Martinez-Romero D., Serrano M., The role of polyamines in the improvement of the shelf life of fruit, Trends Food Sci Technol, 13, pp. 228-234, (2002); 
+Valero D., Martinez-Romero D., Serrano M., Riquelme F., Polyamine roles on the postharvest of fruits, A review. In recent research developments in agricultural and food chemistry, pp. 39-55, (1999); 
+Valero D., Serrano M., Postharvest biology and technology for preserving fruit quality, pp. 1-288, (2010); 
+Villalobos A.M., Mitcham E.J., Ripening of European pears: the chilling dilemma, Postharvest Biol Technol, 49, pp. 187-200, (2008); 
+Walters D.R., Polyamines and plant disease, Phytochemistry, 64, pp. 97-107, (2003); 
+Wannabussapawich B., Seraypheap K., Effects of putrescine treatment on the quality attributes and antioxidant activities of ‘Nam Dok Mai No.4’ mango fruit during storage, Sci Hortic, 233, pp. 22-28, (2018); 
+Yang Q., Wang F., Rao J., Effect of putrescine treatment on chilling injury, fatty acid composition and antioxidant system in Kiwifruit, PLoS ONE, 11, (2016); 
+Zokaee-Khosroshahi M.R., Esna-Ashari M., Ershadi A., Effect of exogenous putrescine on post-harvest life of strawberry (Fragaria ananassa Duch.) fruit cultivar ‘Selva’, Sci Hortic, 114, pp. 27-32, (2007)#FRF#

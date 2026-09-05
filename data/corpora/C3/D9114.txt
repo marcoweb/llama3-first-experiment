@@ -1,0 +1,57 @@
+#ITI#Drought tolerance in citrus rootstocks is associated with better antioxidant defense mechanism#FTI#
+#IRE#Citrus is one of the major fruit crops grown worldwide. Citrus trees are affected by different abiotic stresses including drought which decrease its yield. In this study, six different citrus rootstocks (Volkameriana lemon, Brazilian sour orange, Carrizo citrange, Eureka lemon, Gada dahi, and Rangpur lime) were subjected to drought stress (24 days) and leaf relative water content (LRWC), chlorophyll ‘a’ and ‘b’, antioxidant capacity (AC), total phenolic content, and proline content (PRO) were measured. Hydrogen peroxide (H2O2), lipid peroxidation (MDA), total soluble proteins (TSP), and enzymatic antioxidant activities, such as superoxidase dismutase (SOD), catalase (CAT), and peroxidase (POD), were measured in leaves and roots of the rootstocks. Drought-stressed Volkameriana lemon had the minimum LRWC but higher SOD activity in its leaves. Carrizo citrange possessed the minimum amount of Chl ‘a’ and ‘b’ in leaves and exhibited lesser MDA and H2O2 in roots but greater TSP content in leaves and roots. SOD, CAT, POD, PRO, MDA, H2O2, and AC decreased in the leaves of Eureka lemon and Rangpur lime under drought stress. MDA and H2O2 contents were observed higher in leaves of Brazilian sour orange (a drought sensitive rootstock). However, higher SOD activity in roots and higher CAT and POD activities in leaves and roots were recorded in Carrizo citrange (a drought-tolerant rootstock). The results indicated that all the studied rootstocks were different in their defense mechanism. Tolerant rootstocks exhibited less amount of MDA and H2O2 and more antioxidant enzymatic activities (SOD, CAT, and POD) to cope with reactive oxygen species produced during drought stress. © 2018, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Citrus genotypes; Drought stress; Enzymatic antioxidant activities; Lipid peroxidation; Reactive oxygen species (ROS)#FPC#
+#IRF#Arbona V., Hossain Z., Lopez-Climent M.F., Perez-Clemente R.M., Gomez-Cadenas A., Antioxidant enzymatic activity is linked to waterlogging stress tolerance in citrus, Physiol Plant, 132, pp. 452-466, (2008); 
+Arnon D., Copper enzymes in isolated chloroplasts, polyphenoxidase in Beta vulgaris, Plant Physiol, 24, pp. 1-15, (1949); 
+Asada K., The water–water cycle in chloroplasts: scavenging of active oxygens and dissipation of excess photons, Annu Rev Plant Physiol Plant Mol Biol, 50, pp. 601-639, (1999); 
+Bates L.S., Waldren R.P., Teare I.D., Rapid determination of free proline for water-stress studies, Plant Soil, 39, pp. 205-207, (1973); 
+Baxter A., Mittler R., Suzuki N., ROS as key players in plant stress signalling, J Exp Bot, 65, pp. 1229-1240, (2014); 
+Bohnert H.J., Jensen R.J., Strategies for engineering water-stress tolerance in plants, Trends Biotechnol, 14, pp. 89-97, (1996); 
+Bradford M., A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein dye binding, Anal Biochem, 72, pp. 248-254, (1976); 
+Bray E.A., Bailey-Serres J., Weretilnyk E., Responses to abiotic stresses, Biochem Mol Biol Plant, 1158, (2000); 
+Chakraborty U., Pradhan B., Oxidative stress in five wheat varieties (Triticum aestivum L.) exposed to water stress and study of their antioxidant enzyme defense system, water stress responsive metabolites and H<sub>2</sub>O<sub>2</sub> accumulation, Braz J Plant Physiol, 24, pp. 117-130, (2012); 
+Chance B., Maehly A.C., Assay of catalases and peroxidases, Methods Enzymol, 2, pp. 764-775, (1955); 
+Choudhury F.K., Rivero R.M., Blumwald E., Mittler R., Reactive oxygen species, abiotic stress and stress combination, Plant J, 90, pp. 856-867, (2016); 
+Dionisio-Sese M.L., Tobita S., Antioxidant responses of rice seedlings to salinity stress, Plant Sci, 135, pp. 1-9, (1998); 
+Djoukeng J.D., Arbona V., Argamasilla R., Cadenas A.G., Flavonoid profiling in leaves of citrus genotypes under different environmental situations, J Agric Food Chem, 56, pp. 11087-11097, (2008); 
+Farooqi A.H.A., Kumar R., Fatima S., Sharma S., Response of different genotypes of lemongrasses (Cymbopogon flexuosus and C. pendulus) to water stress, J Plant Biol, 27, pp. 277-282, (2000); 
+Giannopolitis C.N., Ries S.K., Superoxide dismutases. I. Occurrence in higher plants, Plant Physiol, 59, pp. 309-314, (1977); 
+Gill S.S., Tuteja N., Reactive oxygen species and antioxidant machinery in abiotic stress tolerance in crop plants, Plant Physiol Biochem, 48, pp. 909-930, (2010); 
+Gomez K.A., Gomez A.A.S., Statistical procedures for agricultural research, (1984); 
+Guo P., Li Q., Qi Y.P., Yang L.T., Chen H.H., Chen L.S., Sulfur-mediated-alleviation of aluminum-toxicity in Citrus grandis seedlings, Int J Mol Sci, 18, (2017); 
+Haifeng G., Cuina F., Xinnan L., Effects of drought stress on antioxidant system of leaves from different citrus rootstocks, Agric Sci Technol, 11, pp. 32-35, (2011); 
+Han S., Tang N., Jiang H.X., Yang L.T., Li Y., Chen L.S., CO<sub>2</sub> assimilation, photosystem II photochemistry, carbohydrate metabolism and antioxidant system of citrus leaves in response to boron stress, Plant Sci, 176, pp. 143-153, (2009); 
+Harborne J.B., Phenolic compounds, Phytochemical methods, pp. 33-88, (1973); 
+Hayat S., Hayat Q., Alyemeni M.N., Wani A.S., Pichtel J., Ahmad A., Role of proline under changing environments: a review, Plant Signal Behav, 7, pp. 1456-1466, (2012); 
+Heath R.L., Packer L., Photoperoxidation in isolated chloroplasts: I. Kinetics and stoichiometry of fatty acid peroxidation, Arch Biochem Biophys, 125, pp. 189-198, (1968); 
+Helena M., Carvalho C.D., Drought stress and reactive oxygen species production, scavenging and signaling, Plant Signal Behav, 3, pp. 156-165, (2008); 
+Hodges D.M., DeLong J.M., Forney C.F., Prange R.K., Improving the thiobarbituric acid-reactive-substances assay for estimating lipid peroxidation in plant tissues containing anthocyanin and other interfering compounds, Planta, 207, pp. 604-611, (1999); 
+Hussain S., Luro F., Costantino G., Ollitraut P., Morillon R., Physiological analysis of salt stress behaviour of citrus species and genera: low chloride accumulation as an indicator of salt tolerance, South Afr J Bot, 81, pp. 103-112, (2012); 
+Hussain S., Morillon R., Anjum M.A., Ollitraut P., Costantino G., Luro F., Genetic diversity revealed by physiological behavior of citrus genotypes subjected to salt stress, Acta Physiol Plant, 37, (2015); 
+Kaur G., Asthir B., Proline: a key player in plant abiotic stress tolerance, Biol Plant, 59, pp. 609-619, (2015); 
+Koussevitzky S., Suzuki N., Huntington S., Armijo L., Sha W., Cortes D., Shulaev V., Mittler R., Ascorbate peroxidase 1 plays a key role in the response of Arabidopsis thaliana to stress combination, J Biol Chem, 283, pp. 34197-34203, (2008); 
+Li Q., Chen L.S., Jiang H.X., Tang N., Yang L.T., Lin Z.H., Li Y., Yang G.H., Effects of manganese-excess on CO<sub>2</sub> assimilation, ribulose-1,5-bisphosphate carboxylase/oxygenase, carbohydrates and photosynthetic electron transport of leaves, and antioxidant systems of leaves and roots in Citrus grandis seedlings, BMC Plant Biol, 10, (2010); 
+Mafakheri A., Siosemardeh A., Bahramnejad B., Struik P.C., Sohrabi E., Effect of drought stress on yield, proline and chlorophyll contents in three chickpea cultivars, Aust J Crop Sci, 4, pp. 580-585, (2010); 
+Merah O., Potential importance of water status traits for durum wheat improvement under Mediterranean conditions, J Agric Sci, 137, pp. 139-145, (2001); 
+Mittler R., Oxidative stress, antioxidants and stress tolerance, Trends Plant Sci, 7, pp. 405-410, (2002); 
+Mittler R., Abiotic stress, the field environment and stress combination, Trends Plant Sci, 11, pp. 15-19, (2006); 
+Mittler R., ROS are good, Trends Plant Sci, 22, pp. 11-19, (2016); 
+Mohammadi A., Habibi D., Rohami M., Mafakheri S., Effect of drought stress on antioxidant enzymes activity of some chickpea cultivars, Am Eur J Agric Environ Sci, 11, pp. 782-785, (2011); 
+Mouhaya W., Allario T., Brumos J., Andres F., Froelcher Y., Luro F., Talon M., Ollitraut P., Morillon R., Sensitivity to high salinity in tetraploid citrus seedlings increases with water availability and correlates with expression of candidate genes, Funct Plant Biol, 37, pp. 674-685, (2010); 
+Nakashima K., Yamaguchi-Shinozaki K., ABA signaling in stress response and seed development, Plant Cell Rep, 32, pp. 959-970, (2013); 
+Ozgen M., Scheerens J.C., Reese R.N., Miller R.A., Total phenolic, anthocyanin contents and antioxidant capacity of selected elderberry (Sambucus canadensis L.) accessions, Pharmacogn Mag, 23, pp. 198-203, (2010); 
+Pyngrope S., Bhoomika K., Dubey R.S., Reactive oxygen species, ascorbate–glutathione pool, and enzymes of their metabolism in drought-sensitive and tolerant indica rice (Oryza sativa L.) seedlings subjected to progressing levels of water deficit, Protoplasma, 250, pp. 585-600, (2013); 
+Sambrook J., Russell D.W., In vitro mutagenesis using double-stranded DNA templates, selection of mutants with DpnI, Mol Cloning, 2, pp. 13-19, (2001); 
+Sarkar J., Ray A., Chakraborty B., Chakraborty U., Antioxidative changes in Citrus reticulata L. induced by drought stress and its effect on root colonization by arbuscular mycorrhizal fungi, Eur J Biol Res, 6, pp. 1-13, (2016); 
+Shao H., Chu L., Shao M., Jaleel C.A., Mi H., Higher plant antioxidants and redox signaling under environmental stresses, C R Biol, 331, pp. 433-441, (2008); 
+Shirley B.W., Biosynthesis of flavonoids and effects of stress, Curr Opin Plant Biol, 5, pp. 218-223, (2002); 
+Singleton V.L., Rossi J.A., Colorimetry of total phenolics with phosphomolybdic–phosphotungstic acid reagents, Am J Enol Vitic, 16, pp. 144-158, (1965); 
+Suzuki N., Koussevitzky S., Mittler R., Miller G., ROS and redox signalling in the response of plants to abiotic stress, Plant Cell Environ, 35, pp. 259-270, (2012); 
+Syvertsen J., Levy Y., Salinity interactions with other abiotic and biotic stresses in citrus, HortTechnol, 15, pp. 100-103, (2005); 
+Szabados L., Savoure A., Proline: a multifunctional amino acid, Trends Plant Sci, 15, pp. 89-97, (2010); 
+Van Breusegem F., James E.V., DirkInze F.D., The role of active oxygen species in plant signal transduction, Plant Sci, 161, pp. 405-414, (2001); 
+Velikova V., Yordanov I., Edreva A., Oxidative stress and some antioxidant systems in acid rain-treated bean plants: protective role of exogenous polyamines, Plant Sci, 151, pp. 59-66, (2000); 
+Yang G.H., Yang L.T., Jiang H.X., Li Y., Wang P., Chen L.S., Physiological impacts of magnesium-deficiency in citrus seedlings: photosynthesis, antioxidant system and carbohydrates, Trees, 26, pp. 1237-1250, (2012); 
+Yang L.T., Qi Y.P., Chen L.S., Sang W., Lin X.J., Wu Y.L., Yang C.J., Nitric oxide protects sour pummelo (Citrus grandis) seedlings against aluminum-induced inhibition of growth and photosynthesis, Environ Exp Bot, 83, pp. 1-13, (2012); 
+Zandalinas S.I., Rivero R.M., Martinez V., Gomez-Cadenas A., Arbona V., Tolerance of citrus plants to the combination of high temperatures and drought is associated to the increase in transpiration modulated by a reduction in abscisic acid levels, BMC Plant Biol, 16, (2016); 
+Zandalinas S.I., Balfagon D., Arbona V., Gomez-Cadenas A., Modulation of antioxidant defense system is associated with combined drought and heat stress tolerance in citrus, Front Plant Sci, 8, pp. 1-10, (2017)#FRF#

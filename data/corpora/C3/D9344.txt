@@ -1,0 +1,56 @@
+#ITI#Relationship between ripening time and sugar content of apricot (Prunus armeniaca L.) kernels#FTI#
+#IRE#Apricot seeds could be obtained as a byproduct in different juice or conserve producing industries. Disposal of large amount of apricot seeds is wasting of potentially precious sources of phytochemicals. This study encompassed apricot cultivars that have different origin and flowering time with the aim of providing valuable information about the sugar content in its kernels. High-performance anion-exchange chromatography with pulsed amperometric detection was used for the determination of 22 sugars in the kernels of 70 apricot cultivars. The most common sugars in the apricot kernels are sucrose, fructose, and glucose whose ratio proved to be ripening time dependent (1:1:1 in the early, 1:2:3 in medium and 1:3:3 in the late cultivars). The kernels of the apricot with shorter vegetation period had the highest sum of glucose and fructose compared to other groups. Other sugar components were present in different levels as minor constituents depending on the ripening time. Also, most common sugars and some low-level sugars were strongly correlated to each other, indicating the normal metabolic carbohydrate pathway. To understand the distribution modes of sugars, a principal component analysis was performed. © 2018, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Apricot kernels; High-performance anion-exchange chromatography with pulsed amperometric detection; Pattern recognition method; Ripening time of apricot; Sugar profile#FPC#
+#IRF#Akin E.B., Karabulut I., Topcu A., Some compositional properties of main Malatya apricot (Prunus armeniaca L.) varieties, Food Chem, 107, pp. 939-948, (2008); 
+Alpaslan M., Hayta M., Apricot kernel: physical and chemical properties, J Am Oil Chem Soc, 83, pp. 469-471, (2006); 
+Amasino R., Seasonal and developmental timing of flowering, Plant J, 61, pp. 1001-1013, (2010); 
+Audergon J.M., Duffillol M.J., Souty M., Breuils L., Reich M., Biochemical and physicochemical characterization of 400 apricot varieties. Consequences in the apricot selection and improvement process, Acta Hortic, 293, pp. 111-120, (1991); 
+Bassi D., Selli R., Evaluation of fruit quality in peach and apricot, Adv Hortic Sci, 4, pp. 107-112, (1990); 
+Borsani J., Budde C.O., Porrini L., Lauxmann M.A., Lombardo V.A., Murray R., Carbon metabolism of peach fruit after harvest: changes in enzymes involved in organic acid and sugar level modifications, J Exp Bot, 60, pp. 1823-1837, (2009); 
+Cao S.F., Yang Z.F., Zheng Y.H., Sugar metabolism in relation to chilling tolerance of loquat fruit, Food Chem, 136, pp. 139-143, (2013); 
+Couee I., Sulmon C., Gouesbet G., Amrani A.E., Involvement of soluble sugars in reactive oxygen species balance and responses to oxidative stress in plants, J Exp Bot, 57, pp. 449-459, (2006); 
+Dragovic-Uzelac V., Levaj B., Mrkic V., Bursac D., Boras M., The content of polyphenols and carotenoids in three apricot cultivars depending on stage of maturity and geographical region, Food Chem, 102, pp. 966-975, (2007); 
+Drogoudi P.D., Vemmos S., Pantedelis G., Petri E., Tzoutzoukou C., Karayannis I., Physical characters and antioxidant, sugar, and mineral nutrient contents in fruit from 29 apricot (Prunus armeniaca L.) cultivars and hybrids, J Agric Food Chem, 56, pp. 10754-10760, (2008); 
+Ernst R., Arditti J., Carbohydrate physiology of orchid seedlings III: Hydrolysis of maltooligosaccharides by Phalaenopsis (Orchidaceae) seedlings, Am J Bot, 77, pp. 188-195, (1990); 
+(2014); 
+Fernandez O., Bethencourt L., Quero A., Sangwan R.S., Clement C., Trehalose and plant stress responses: friend or foe?, Trends Plant Sci, 15, pp. 409-417, (2010); 
+Gechev T.S., Hille J., Woerdenbag H.J., Benina M., Mehterov N., Toneva V., Fernie A.R., Mueller-Roeber B., Natural products from resurrection plants: potential for medical applications, Biotechnol Adv, 32, pp. 1091-1101, (2014); 
+Girgis A.Y., El-Aziz N.M., El-Salam S.M., Physical and chemical characteristics of toilet soap made from apricot kernel oil and palm stearin, Grasas Aceites, 49, pp. 434-439, (1998); 
+Gomez E., Burgos L., Soriano C., Marin J., Amygdalin content in the seeds of several apricot cultivars, J Sci Food Agric, 77, pp. 184-186, (1998); 
+Gurrieri F., Audergon J.M., Albagnac G., Reich M., Soluble sugars and carboxylic acids in ripe apricot fruit as parameters for distinguishing different cultivars, Euphytica, 117, pp. 183-189, (2001); 
+Halford N.G., Curtis T.Y., Muttucumaru N., Postles J., Mottram D.S., Sugars in crop plants, Ann Appl Biol, 158, pp. 1-25, (2011); 
+Harb J., Alseekh S., Tohge T., Fernie A.R., Profiling of primary metabolites and flavonols in leaves of two table grape varieties collected from semiarid and temperate regions, Phytochemistry, 117, pp. 444-455, (2015); 
+Hegedus A., Engel R., Abranko L., Balogh E., Blazovics A., Herman R., Halasz J., Ercisli S., Pedryc A., Stefanovits-Banyai E., Antioxidant and antiradical capacities in apricot (Prunus armeniaca L.) fruits: variations from genotypes, years and analytical methods, J Food Sci, 75, pp. C722-C730, (2010); 
+Higashiyama T., Novel functions and applications of trehalose, Pure Appl Chem, 74, pp. 1263-1269, (2002); 
+Hintze J., Number Cruncher Statistical Systems, Kaysville, UT, (2001); 
+Kamel B.S., Kakuda Y., Characterization of the seed oil and meal from apricot, cherry, nectarine, peach and plum, J Am Oil Chem Soc, 69, pp. 492-494, (1992); 
+Korekar G., Stobdan T., Arora R., Yadav A., Singh S.B., Antioxidant capacity and phenolics content of apricot (Prunus armeniaca L.) kernel as a function of genotype, Plant Foods Hum Nutr, 66, pp. 376-383, (2011); 
+Kralova K., Jampilek J., Ostrovsky I., Metabolomics—useful tool for study of plant responses to abiotic stresses, Ecol Chem Eng, S19, pp. 133-161, (2012); 
+Ledbetter C., Peterson S., Jenner J., Modification of sugar profiles in California adapted apricots (Prunus armeniaca L.) through breeding with Central Asian germplasm, Euphytica, 148, pp. 251-259, (2006); 
+Li T.S.C., Vegetables and fruits: nutritional and therapeutic values, (2009); 
+Loescher W.H., Physiology and metabolism of sugar alcohols in higher plants, Physiol Plant, 70, pp. 553-557, (1987); 
+Luber F., Demmel A., Hosken A., Busch U., Engel K.H., Apricot DNA as an indicator for persipan: detection and quantitation in marzipan using ligation-dependent probe amplification, J Agric Food Chem, 60, pp. 5853-5858, (2012); 
+Martinelli F., Remorinic D., Saiab S., Massaic R., Tonutti P., Metabolic profiling of ripe olive fruit in response to moderate water stress, Sci Hortic, 159, pp. 52-58, (2013); 
+Meier U., Graf H., Hack H., Hess M., Kennel W., Klose R., Mappes D., Seipp D., Stauss R., Streif J., Van den Boom T., Phänologische Entwick-lungsstadien des Kernobstes (Malus domestica Borkh. und Pyrus communis L.), des Steinobstes (Prunus-Arten), der Johannisbeere (Ribes-Arten) und der Erdbeere (Fragaria × ananassa Duch.), Nachrichtenbl Deut Pflanzenschutzd, 46, pp. 141-153, (1994); 
+Milatovic D., Durovic D., Milivojevic J., Tehnološke osobine koštica kajsije, Jugoslovensko voćarstvo, 34, pp. 147-151, (2000); 
+Moore J.P., Nguema-On E.E., Vicre-Gibouin M., Sorensen I., Willats W.G., Driouich A., Arabinose-rich polymers as an evolutionary strategy to plasticize resurrection plant cell walls against desiccation, Planta, 237, pp. 739-754, (2013); 
+Munzuroglu O., Karatas F., Geckil H., The vitamin and selenium contents of apricot fruit of different varieties cultivated in different geographical regions, Food Chem, 83, pp. 205-212, (2003); 
+Nigam P., Singh D., Solid state (substrate) fermentation systems and their applications in biotechnology, J Basic Microbiol, 34, pp. 405-414, (1994); 
+Ozcan M.M., Ozalp C., Unver A., Arslan D., Dursun N., Properties of apricot kernel and oils as fruit juice processing waste, Food Nutr Sci, 1, pp. 31-37, (2010); 
+Patrick J.W., Botha F.C., Birch R.G., Metabolic engineering of sugars and simple sugar derivatives in plants, Plant Biotechnol J, 11, pp. 142-156, (2013); 
+Price J., Laxmi A., Martin S.K., Jang J.C., Global transcription profiling reveals multiple sugar signal transduction mechanisms in Arabidopsis, Plant Cell, 16, pp. 2128-2150, (2004); 
+Rolland F., Sheen J., Sugar sensing and signaling networks in plants, Biochem Soc Trans, 33, pp. 269-271, (2005); 
+Rolland F., Moore B., Sheen J., Sugar sensing and signaling in plants, Plant Cell, 14, pp. 185-205, (2002); 
+Schmitzer V., Slatnar A., Mikulic-Petkovsek M., Veberic R., Krska B., Stampar F., Comparative study of primary and secondary metabolites in apricot (Prunus armeniaca L.) cultivars, J Sci Food Agric, 91, pp. 860-866, (2011); 
+Sheen J., Zhou J., Jang J.C., Sugars as signaling molecules, Curr Opin Plant Biol, 2, pp. 410-418, (1999); 
+Smeekens S., Sugar-induced signal transduction in plants, Annu Rev Plant Physiol Plant Mol Biol, 51, pp. 49-81, (2000); 
+Stanojevic M., Trifkovic J., Fotiric Aksic M., Rakonjac V., Nikolic D., Segan S., Milojkovic-Opsenica D., Sugar profile of kernels as a marker of origin and ripening time of peach (Prunus persicae L.), Plant Foods Hum Nutr, 70, pp. 433-440, (2015); 
+Targais K., Stobdan T., Yadav A., Singh S.B., Extraction of apricot kernel oil in cold desert Ladakh, India, Ind J Tradit Knowl, 10, pp. 304-306, (2011); 
+Tian H., Zhang H., Zhan P., Tian F., Composition and antioxidant and antimicrobial activities of white apricot almond (Amygdalus communis L.) oil, Eur J Lipid Sci Technol, 113, pp. 1138-1144, (2011); 
+van Dijken A.J., Schluepmann H., Smeekens S.C., Arabidopsis trehalose-6-phosphate synthase 1 is essential for normal vegetative growth and transition to flowering, Plant Physiol, 135, pp. 969-977, (2004); 
+Wang Z., Cao J., Jiang W., Changes in sugar metabolism caused by exogenous oxalic acid related to chilling tolerance of apricot fruit, Postharvest Biol Biotechnol, 114, pp. 10-16, (2016); 
+Xue G.-P., McIntyre C.L., Glassop D., Shorter R., Use of expression analysis to dissect alterations in carbohydrate metabolism in wheat leaves during drought stress, Plant Mol Biol, 67, pp. 197-214, (2008); 
+Yarilgac T., Bostan S.Z., Karadeniz T., Balta M.F., Kernel sugar components of Turkish and foreign apricot (Prunus armeniaca L.) varieties, Asian J Chem, 20, pp. 787-792, (2008); 
+Yigit D., Yigit N., Mavi A., Antioxidant and antimicrobial activities of bitter and sweet apricot (Prunus armeniaca L.) kernels, Braz J Med Biol Res, 42, pp. 346-352, (2009); 
+Yildirim F.A., Askin A.M., Variability of amygdalin content in seeds of sweet and bitter apricot cultivars in Turkey, Afr J Biotechnol, 9, pp. 6522-6524, (2010); 
+Yildirim F.A., Yildirim A.N., Askin M.A., Kankaya A., Total oil, fatty acid composition and tocopherol content in kernels of several bitter and sweet apricot (Prunus armeniaca Batsch) cultivars from Turkey, J Food Agric Environ, 8, pp. 196-201, (2010)#FRF#

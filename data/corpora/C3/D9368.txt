@@ -1,0 +1,51 @@
+#ITI#Effects of external supplied sucrose on the uptake and metabolism of glycine by pakchoi (Brassica chinensis L.)#FTI#
+#IRE#Sucrose is crucial for plant growth, but research about the effect of sucrose on the uptake of different nitrogen (N) and the metabolism of glycine is lacking. The uptake of glycine by pakchoi, when it was in a mixture of glycine, nitrate, and ammonium or acted as the single N source under different sucrose levels were detected in a sterilized environment. The optimal sucrose level for pakchoi growth varied with N supply; it was 6 μM in the single N source of glycine, while it was 15 μM in the mixture. The N contribution of glycine increased under the optimal sucrose, while the N contribution of ammonium decreased. The effect of exogenously supplied sucrose on the uptake and metabolism of glycine is dependent on the N supply. With the single N source, the metabolism of glycine to serine in roots rather than uptake was the limiting step under a high sucrose level (300 μM). In the mixed nitrogen, active uptake and the metabolism of glycine to serine are the limiting steps under high sucrose level. Externally supplied sucrose affects the absorption and metabolism of glycine by pakchoi greatly, and this effect varied with nitrogen supply. © 2017, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Brassica chinensis L; Glycine: uptake and metabolism; Nitrogen; Sucrose#FPC#
+#IRF#Bi Y.M., Zhang Y., Signorelli T., Rong Z., Tong Z., Steven R., Genetic analysis of Arabidopsis GATA transcription factor gene family reveals a nitrate-inducible member important for chlorophyll synthesis and glucose sensitivity, Plant J, 44, pp. 680-692, (2005); 
+Blasing O.E., Gibon Y., Gunther M., Hohne M., Morcuende R., Osuna D., Thimm O., Usadel B., Scheible W.R., Stitt M., Sugars and circadian regulation make major contributions to the global regulation of diurnal gene expression in Arabidopsis, Plant Cell, 17, pp. 3257-3281, (2005); 
+Bloom A.J., The increasing importance of distinguishing among plant nitrogen sources, Curr Opin Plant Biol, 25, pp. 10-16, (2015); 
+Bush D.R., Proton-coupled sugar and amino acid transporters in plants, Annu Rev Plant Biol, 44, pp. 513-542, (2003); 
+Chanyarat P.L., Lonhienne T.G.A., Doris R., Nicole R., Michael C., Webb R.I., Gamage H.K., Carroll B.J., Schenk P.M., Susanne S., Plants can use protein as a nitrogen source without assistance from other organisms, Proc Natl Acad Sci USA, 105, pp. 4524-4529, (2008); 
+Cross J.M., Maria V.K., Thomas A., Linda B., Ronan S., Yves G., Natalia P., Mark S., Variation of enzyme activities and metabolite levels in 24 Arabidopsis accessions growing in carbon-limited conditions, Plant Physiol, 142, pp. 1574-1588, (2007); 
+De J.F., Thodey K., Lejay L.V., Bevan M.W., Glucose elevates nitrate transporter2.1 protein levels and nitrate transport activity independently of its hexokinase1-mediated stimulation of nitrate transporter2.1 expression, Plant Physiol, 164, pp. 308-320, (2014); 
+Francesca S., Zwieniecki M.A., Analysis of xylem sap from functional (nonembolized) and nonfunctional (embolized) vessels of Populus nigra: chemistry of refilling, Plant Physiol, 160, pp. 955-964, (2012); 
+Francozorrilla J.M., Martin A.C., Leyva A., Pazares J., Interaction between phosphate-starvation, sugar, and cytokinin signaling in Arabidopsis and the roles of cytokinin receptors CRE1/AHK4 and AHK3, Plant Physiol, 138, pp. 847-857, (2005); 
+Guo J.H., Liu X.J., Zhang Y., Shen J.L., Han W.X., Zhang W.F., Christie P., Goulding K.W.T., Vitousek P.M., Zhang F.S., Significant acidification in major Chinese croplands, Science, 327, pp. 1008-1010, (2010); 
+Gutierrez R.A., Crawford N.M., Insights into the genomic nitrate response using genetics and the Sungear Software System, J Exp Bot, 58, pp. 2359-2367, (2007); 
+Horchani F., Hajri R., Aschi-Smiti S., Effect of ammonium or nitrate nutrition on photosynthesis, growth, and nitrogen assimilation in tomato plants, J Plant Nutr Soil Sci, 173, pp. 610-617, (2010); 
+Jones D.L., Hodge A., Kuzyakov Y., Plant and mycorrhizal regulation of rhizodeposition, New Phytol, 163, pp. 459-480, (2004); 
+Jones D.L., Healey J.R., Willett V.B., Farrar J.F., Hodge A., Dissolved organic nitrogen uptake by plants—an important N uptake pathway?, Soil Biol Biochem, 37, pp. 413-423, (2005); 
+Kielland K., Mcfarland J., Olson K., Amino acid uptake in deciduous and coniferous taiga ecosystems, Plant Soil, 288, pp. 297-307, (2006); 
+Kuzyakov Y., Domanski G., Carbon input by plants into the soil. Review, J Plant Nutr Soil Sci, 163, pp. 421-431, (2000); 
+Lambers H., Veneklaas E.J., Root structure and functioning for efficient acquisition of phosphorus: matching morphological and physiological traits, Ann Bot, 98, pp. 693-713, (2006); 
+Lianghuan W., Shihong J., Qingnan T., The application of colorimetric method on the determination of transaminase activity, Chin J Soil Sci, 3, pp. 41-43, (1998); 
+Lynch J.M., Whipps J.M., Substrate flow in the rhizosphere, Plant Soil, 129, pp. 1-10, (1990); 
+Ma Q., Cao X., Wu L., Mi W., Feng Y., Light intensity affects the uptake and metabolism of glycine by pakchoi (Brassica chinensis L.), Sci Rep, 6, (2016); 
+Ma Q., Cao X., Xie Y., Gu Y., Feng Y., Mi W., Yang X., Wu L., Effect of pH on the uptake and metabolism of glycine in pakchoi (Brassica chinensis L.), Environ Exp Bot, 133, pp. 139-150, (2017); 
+Ma Q., Cao X., Tan X., Si L., Wu L., Effects of cadmium stress on pakchoi (Brassica chinensis L.) growth and uptake of inorganic and organic nitrogenous compounds, Environ Exp Bot, (2017); 
+Mason M.G., Ross J.J., Babst B.A., Wienclaw B.N., Beveridge C.A., Sugar demand, not auxin, is the initial regulator of apical dominance, Proc Natl Acad Sci USA, 111, pp. 6092-6097, (2014); 
+Miller A.E., Bowman W.D., Alpine plants show species-level differences in the uptake of organic and inorganic nitrogen, Plant Soil, 250, pp. 283-292, (2003); 
+Mimmo T., Hann S., Jaitz L., Cesco S., Gessa C.E., Puschenreiter M., Time and substrate dependent exudation of carboxylates by Lupinus albus L. and Brassica napus L, Plant Physio Biochem, 49, pp. 1272-1278, (2011); 
+Nero D., Krouk G., Tranchina D., Coruzzi G.M., A system biology approach highlights a hormonal enhancer effect on regulation of genes in a nitrate responsive “biomodule, BMC Syst Biol, 3, (2009); 
+Pearse S.J., Veneklaas E.J., Cawthray G.R., Bolland M.D.A., Lambers H., Carboxylate release of wheat, canola and 11 grain legume species as affected by phosphorus status, Plant Soil, 288, pp. 127-139, (2006); 
+Persson J., Gardestrom P., Nasholm T., Uptake, metabolism and distribution of organic and inorganic nitrogen sources by Pinus sylvestris, J Exp Bot, 57, pp. 2651-2659, (2006); 
+Persson J., Gardestrom P., Nasholm T., Regulation of amino acid uptake in conifers by exogenous and endogenous nitrogen, Planta, 215, pp. 639-644, (2002); 
+Ruan Y.L., Sucrose metabolism: gateway to diverse carbon use and sugar signaling, Annu Rev Plant Biol, 65, pp. 33-67, (2014); 
+Ruffel S., Gojon A., Lejay L., Signal interactions in the regulation of root nitrate uptake, J Exp Bot, 65, pp. 5509-5517, (2014); 
+Sauheitl L., Glaser B., Weigelt A., Uptake of intact amino acids by plants depends on soil amino acid concentrations, Environ Exp Bot, 66, pp. 145-152, (2009); 
+Schmidt S., Stewart G.R., Glycine metabolism by plant roots and its occurrence in Australian plant communities, Aust J Plant Physiol, 26, pp. 253-264, (1999); 
+Schofield R.A., Bi Y.M., Kant S., Rothstein S.J., Over-expression of STP13, a hexose transporter, improves plant growth and nitrogen use in Arabidopsis thaliana seedlings, Plant Cell Environ, 32, pp. 271-285, (2009); 
+Secchi F., Zwieniecki M.A., Analysis of xylem sap from functional (nonembolized) and nonfunctional (embolized) vessels of Populus nigra: chemistry of refilling, Plant Physiol, 160, pp. 955-964, (2012); 
+Susanne S., Torgny N., Doris R., Organic nitrogen, New Phytol, 203, pp. 29-31, (2014); 
+Tegeder M., Transporters for amino acids in plant cells: some functions and many unknowns, Curr Opin Plant Biol, 15, pp. 315-321, (2012); 
+Thornton B., Inhibition of nitrate influx by glutamine in Lolium perenne depends upon the contribution of the HATS to the total influx, J Exp Bot, 55, pp. 761-769, (2004); 
+Thornton B., Robinson D., Uptake and assimilation of nitrogen from solutions containing multiple N sources, Plant, Cell Environ, 28, pp. 813-821, (2005); 
+Torgny N.S., Knut K., Ulrika G., Uptake of organic nitrogen by plants, New Phytol, 182, pp. 31-48, (2009); 
+Wang L., Ruan Y.L., Shoot–root carbon allocation, sugar signalling and their coupling with nitrogen uptake and assimilation, Funct Plant Biol, 43, 2, pp. 105-113, (2015); 
+Warren C.R., Post-uptake metabolism affects quantification of amino acid uptake, New Phytol, 193, pp. 522-531, (2012); 
+Warren C.R., Quaternary ammonium compounds can be abundant in some soils and are taken up as intact molecules by plants, New Phytol, 198, pp. 476-485, (2013); 
+Warren C.R., Organic N molecules in the soil solution: what is known, what is unknown and the path forwards, Plant Soil, 375, pp. 1-19, (2014); 
+Wu L.H., Mo L.Y., Fan Z.L., Tao Q.N., Zhang F.S., Absorption of glycine by three agricultural species under sterile sand culture conditions, Pedosphere, 15, pp. 286-292, (2005); 
+Xu G., Fan X., Miller A.J., Plant nitrogen assimilation and use efficiency, Annu Rev Plant Biol, 63, pp. 153-182, (2011); 
+Zerihun A., Mckenzie B.A., Morton J.D., Photosynthate costs associated with the utilization of different nitrogen–forms: influence on the carbon balance of plants and shoot-root biomass partitioning, New Phytol, 138, pp. 1-11, (1998); 
+Zhang F., Cui Z., Chen X., Ju X., Shen J., Chen Q., Liu X., Zhang W., Mi G., Fan M., 1 integrated nutrient management for food security and environmental quality in China, Adv Agron, 116, (2012)#FRF#

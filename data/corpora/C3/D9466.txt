@@ -1,0 +1,37 @@
+#ITI#Expression regulation of a mature intronic miR3029 by 5′ UTR-like#FTI#
+#IRE#5′ UTR of the coding gene affected gene expression at the transcription and translation levels. For miRNA, 5′ UTR (termed 5′ UTR-like) is similar to UTR of encoding protein gene. However, the function of 5′ UTR-like has not been reported in the regulation of pre-miRNA formation and the process of miRNA’s formation. In this study, the regulated elements of 5′ UTR-like of intron miR3029 were analyzed by bioinformatics. The function analysis of primary structure of 5′ UTR-like was studied by the transient expression system of Arabidopsis thaliana protoplast. The function of second-structure stem loops of 5′ UTR-like was conducted by detecting the expression of miRNA3029 and pri-miRNA3029 in transgenic tobacco. In this study, we found that 5′ UTR-like region of miR3029 existences low temperature (LTR), oxygen stress element (ARE) and stem loop structure. These elements and structure may control miRNA’s stability and thereby affect the formation of mature miR3029. There also existed a translation enhancer similar to that of the UTRs of coding genes. The function analysis of second structure found that the predicted stem loop 5 can promote the expression of mature miR3029; stem loops 1, 2, 3 and 4 can inhibit the formation of mature miR3029. To sum up, this study lays a foundation for exploring the mechanism of how the primary transcript is cleaved into pre-miRNA, and provides reference for the study of the regulation of miRNA. © 2018, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#5′ UTR-like; Biogenesis; Intronic miRNA; Rice#FPC#
+#IRF#Bartel D.P., MicroRNAs: genomics, biogenesis, mechanism, and function, Cell, 116, pp. 281-297, (2004); 
+Bugaut A., Balasubramanian S., 5′-UTR RNA G-quadruplexes: translation regulation and targeting, Nucleic Acids Res, 40, pp. 4727-4741, (2012); 
+Carthew R.W., Sontheimer E.J., Origins and mechanisms of miRNAs and siRNAs, Cell, 136, pp. 642-655, (2009); 
+Chapman E.J., Carrington J.C., Specialization and evolution of endogenous small RNA pathways, Nat Rev Genet, 8, pp. 884-896, (2007); 
+Czech B., Hannon G.J., Small RNA sorting: matchmaking for Argonautes, Nat Rev Genet, 12, pp. 19-31, (2011); 
+Frolov I., Hardy R., Rice C.M., Cis-acting RNA elements at the 5′end of Sindbis virus genome RNA regulate minus-and plus-strand RNA synthesis, RNA, 7, pp. 1638-1651, (2001); 
+Gibson S.I., Control of plant development and gene expression by sugar signaling, Curr Opin Plant Biol, 8, pp. 93-102, (2005); 
+Gray N.K., Hentze M.W., Regulation of protein synthesis by mRNA structure, Mol Biol Rep, 19, pp. 195-200, (1994); 
+Gray N.K., Wickens M., Control of translation initiation in animals, Ann Rev Cell Dev Biol, 14, pp. 399-458, (1998); 
+Hentze M.W., Kuhn L.C., Molecular control of vertebrate iron metabolism: mRNA-based regulatory circuits operated by iron, nitric oxide, and oxidative stress, Proc Natl Acad Sci, 93, pp. 8175-8182, (1996); 
+Horsch R.B., A simple and general method for transferring genes into plants, Science, 227, pp. 1229-1231, (1985); 
+Kawaguchi R., Bailey-Serres J., Regulation of translational initiation in plants, Curr Opin Plant Biol, 5, pp. 460-465, (2002); 
+Kim V.N., MicroRNA biogenesis: coordinated cropping and dicing nature reviews, Mol Cell Biol, 6, pp. 376-385, (2005); 
+Klein R., Mullet J., Control of gene expression during higher plant chloroplast biogenesis. Protein synthesis and transcript levels of psbA, psaA-psaB, and rbcL in dark-grown and illuminated barley seedlings, J Biol Chem, 262, pp. 4341-4348, (1987); 
+Kozak M., An analysis of 5′-noncoding sequences from 699 vertebrate messenger RNAs, Nucleic Acids Res, 15, pp. 8125-8148, (1987); 
+Kozak M., Circumstances and mechanisms of inhibition of translation by secondary structure in eucaryotic mRNAs, Mol Cell Biol, 9, pp. 5134-5142, (1989); 
+Kozak M., The scanning model for translation: an update, J Cell Biol, 108, pp. 229-241, (1989); 
+Lauressergues D., Couzigou J.-M., San Clemente H., Martinez Y., Dunand C., Becard G., Combier J.-P., Primary transcripts of microRNAs encode regulatory peptides, Nature, 520, pp. 90-93, (2015); 
+Lee Y., Kim M., Han J., Yeom K.H., Lee S., Baek S.H., Kim V.N., MicroRNA genes are transcribed by RNA polymerase II, EMBO J, 23, pp. 4051-4060, (2004); 
+Li M., Doll J., Weckermann K., Oecking C., Berendzen K.W., Schoffl F., Detection of in vivo interactions between Arabidopsis class A-HSFs, using a novel BiFC fragment, and identification of novel class B-HSF interacting proteins, Eur J Cell Biol, 89, pp. 126-132, (2010); 
+Lu J., Sivamani E., Azhakanandam K., Samadder P., Li X., Qu R., Gene expression enhancement mediated by the 5′ UTR intron of the rice rubi3 gene varied remarkably among tissues in transgenic rice plants, Mol Genet Genomics, 279, pp. 563-572, (2008); 
+Lu J., Gao F., Wei Z., Liu P., Zheng H., Yang L., Lin T., Yuan S., Et al., A 5′-proximal stem-loop structure of 5′untranslated region of porcine reproductive and respiratory syndrome virus genome is key for virus replication, Virol J, 8, 1, pp. 1-15, (2011); 
+Mayfield S.P., Cohen A., Danon A., Yohn C.B., Translation of the psbA mRNA of Chlamydomonas reinhardtii requires a structured RNA element contained within the 5′ untranslated region, J Cell Biol, 127, pp. 1537-1545, (1994); 
+Mignone F., Gissi C., Liuni S., Pesole G., Untranslated regions of mRNAs, Genome Biol, 3, 3, (2002); 
+Nagashima S., Sasaki J., Taniguchi K., The 5′-terminal region of the Aichi virus genome encodes cis-acting replication elements required for positive-and negative-strand RNA synthesis, J Virol, 79, pp. 6918-6931, (2005); 
+Pasternak A.O., van den Born E., Spaan W.J., Snijder E.J., The stability of the duplex between sense and antisense transcription-regulating sequences is a crucial factor in arterivirus subgenomic mRNA synthesis, J Virol, 77, pp. 1175-1183, (2003); 
+Pickering B.M., Willis A.E., The implications of structured 5′ untranslated regions on translation and disease, Semin Cell Dev Biol, 16, 1, pp. 39-47, (2005); 
+Pina C., Pinto F., Feijo J.A., Becker J.D., Gene family analysis of the Arabidopsis pollen transcriptome reveals biological implications for cell growth, division control, and gene expression regulation, Plant Physiol, 138, pp. 744-756, (2005); 
+Satoh J., Kato K., Shinmyo A., The 5′-untranslated region of the tobacco alcohol dehydrogenase gene functions as an effective translational enhancer in plant, J Biosci Bioeng, 98, pp. 1-8, (2004); 
+Sugio T., Satoh J., Matsuura H., Shinmyo A., Kato K., The 5′-untranslated region of the Oryza sativa alcohol dehydrogenase gene functions as a translational enhancer in monocotyledonous plant cells, J Biosci Bioeng, 105, pp. 300-302, (2008); 
+Van Der Velden A.W., Thomas A.A., The role of the 5′ untranslated region of an mRNA in translation regulation during development, Int J Biochem Cell Biol, 31, pp. 87-106, (1999); 
+Vazquez F., Blevins T., Ailhas J.M., Boller T., Meins F., Evolution of Arabidopsis MIR genes generates novel microRNA classes, Nucleic Acids Res, 36, pp. 6429-6438, (2008); 
+Wilkie G.S., Dickson K.S., Gray N.K., Regulation of mRNA translation by 5′-and 3′-UTR-binding factors, Trends Biochem Sci, 28, pp. 182-188, (2003); 
+Yoo S.-D., Cho Y.H., Sheen J., Arabidopsis mesophyll protoplasts: a versatile cell system for transient gene expression analysis, Nat Protoc, 2, pp. 1565-1572, (2007)#FRF#

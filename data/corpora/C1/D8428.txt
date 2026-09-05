@@ -1,0 +1,56 @@
+#ITI#Nitrogen fixation symbiosis and salt tolerance of the boreal woody species Elaeagnus commutata#FTI#
+#IRE#Soil salinity is a major abiotic stress that reduces the growth, survival and physiological functions of most plants. In the boreal forest, elevated levels of NaCl pose reclamation challenges for habitats disturbed by the oil sand industry. The objectives of this study were to determine how salinity affects the nitrogen fixation capability of the native boreal N-fixing shrub, wolf willow (Elaeagnus commutata), as well as to examine how salinity affects its growth and physiology. Seedlings of E. commutata were exposed to 0, 50 and 100 mM NaCl in a hydroponic system and physiological parameters were measured after 1, 4, 8 and 12 weeks of treatment. All plants survived the salinity treatments. Gas exchange parameters including leaf photosynthesis, stomatal conductance and transpiration were only reduced at 100 mM NaCl. In addition, plants showed signs of photosynthetic recovery after 4 weeks. Increasing salinity also led to moderate declines in plant shoot and root growth. While N and K content in plant leaf and root tissues were not reduced by higher salinity, salinity did reduce Ca content in plant leaf tissues. Root nodule function was largely inhibited at 100 mM NaCl, resulting from the absence of nitrogen-fixing vesicles within these nodules. Our data suggested that E. commutata seedlings can survive and grow under up to 100 mM NaCl while maintaining moderate levels of physiological functions, and reduced ability to fix nitrogen, limiting improvements to soil fertility in restoration applications. © 2020, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Actinorhizal plants; Land reclamation; Oil sand tailings; Root nodule; Salinity stress; Salt-impacted soil#FPC#
+#IRF#Athar H.R., Ashraf M., Strategies for crop improvement against salinity and drought stress: an overview, Salinity and water stress: improving crop efficiency, pp. 1-16, (2009); 
+Bolanos L., Martin M.E., El-Hamdaoui A., Rivilla R., Bonilla I., Nitrogenase inhibition in nodules from pea plants grown under salt stress occursat the physiological level and can be alleviated by B and Ca, Plant and Soil, 280, pp. 135-142, (2006); 
+Boyer J., Leaf water potentials measured with a pressure chamber, Plant Physiol, 42, pp. 133-137, (1967); 
+Bradford M.M., A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding, Anal Biochem, 72, pp. 248-254, (1976); 
+Chinnusamy V., Jagendorf A., Zhu J.K., Understanding and improving salt tolerance in plants, Crop Sci, 45, pp. 437-448, (2005); 
+Corns W.G., Schraa R.J., Dormancy and germination of seeds of silverberry (Elaeagnus commutata Bernh.), Can J Bot, 40, pp. 1051-1055, (1962); 
+Dawson J.O., Gibson A.H., Sensitivity of selected Frankia isolates from Casuarina, Allocasuarina and North American host plants to sodium chloride, Physiol Plant, 70, pp. 272-278, (1987); 
+Devecchi M., Remotti D., Effect of salts on ornamental ground covers for green urban areas, Int Conf Urban Hortic, 643, pp. 153-156, (2002); 
+Diagne N., Arumugam K., Ngom M., Et al., Use of Frankia and actinorhizal plants for degraded lands reclamation, BioMed Res Int, 2013, (2013); 
+Flowers T.J., Colmer T.D., Salinity tolerance in halophytes, New Phytol, 179, pp. 945-963, (2008); 
+Frechilla S., Lasa B., Ibarretxe L., Lamsfus C., Aparicio-Tejo P., Pea responses to saline stress is affected by the source of nitrogen nutrition (ammonium or nitrate), Plant Growth Regul, 35, pp. 171-179, (2001); 
+Girgis M.G.Z., Ishac Y.Z., Diem H.G., Dommergues Y.R., Selection of salt tolerant Casuarina glauca and Frankia, Acta Oecol, 13, pp. 443-451, (1992); 
+Gupta B., Huang B., Mechanism of salinity tolerance in plants: physiological, biochemical, and molecular characterization, Int J Genomics, 2014, (2014); 
+Hamada A.M., Effect of NaCl, water stress or both on gas exchange and growth of wheat, Biol Plant, 38, pp. 405-412, (1996); 
+Hanin M., Ebel C., Ngom M., Laplaze L., Masmoudi K., New insights on plant salt tolerance mechanisms and their potential use for breeding, Front Plant Sci, (2016); 
+Hasanuzzaman M., Nahar K., Alam M.M., Et al., Potential use of halophytes to remediate saline soils, BioMed Res Int, 2014, (2014); 
+Hendry G.A., Grime J.P., Methods in comparative plant ecology: a laboratory manual, (1993); 
+Howat D., Acceptable salinity, sodicity and pH values for boreal forest reclamation, Alberta Environment, Environmental Sciences Division, (2000); 
+Koyro H.W., Effect of salinity on growth, photosynthesis, water relations and solute composition of the potential cash crop halophyte Plantago coronopus (L.), Environ Exper Bot, 56, pp. 136-146, (2006); 
+Koyro H.W., Geissler N., Hussin S., Huchzermeyer B., Survival at extreme locations: life strategies of halophytes-the long way from system ecology, whole plant physiology, cell biochemistry and molecular aspects back to sustainable utilization at field sites, Biosaline agriculture and high salinity tolerance, pp. 1-16, (2008); 
+Lefrancois E., Quoreshi A., Khasa D., Et al., Field performance of alder-Frankia symbionts for the reclamation of oil sands sites, Appl Soil Ecol, 46, pp. 183-191, (2010); 
+Lambers H., Introduction, dryland salinity: a key environmental issue in southern Australia, Plant Soil, 257, pp. 5-7, (2003); 
+Maas E.V., Salinity and citriculture, Tree Physiol, 12, pp. 195-216, (1993); 
+Mackinney G., Absorption of light by chlorophyll solutions, J Biol Chem, 140, pp. 315-322, (1941); 
+Maimaiti A., Yunus Q., Iwanaga F., Mori N., Tanaka K., Yamanaka N., Effects of salinity on growth, photosynthesis, inorganic and organic osmolyte accumulation in Elaeagnus oxycarpa seedlings, Acta Physiol Plant, 36, pp. 881-892, (2014); 
+Manchanda G., Garg N., Salinity and its effects on the functional biology of legumes, Acta Physiol Plant, 30, pp. 595-618, (2008); 
+Mansour S.R., Abdel-Kateif K., Bogusz D., Franche C., Influence of salt stress on inoculated Casuarina glauca seedlings, Symbiosis, 70, pp. 129-138, (2016); 
+Markham J.H., Zekveld C., Nitrogen fixation makes biomass allocation to roots independent of soil nitrogen supply, Botany, 85, pp. 787-793, (2007); 
+Mendez M.O., Maier R.M., Phytoremediation of mine tailings in temperate and arid environments, Rev Environ Sci Bio, 7, pp. 47-59, (2008); 
+Meng S., Su L., Li Y., Wang Y., Zhang C., Zhao Z., Nitrate and ammonium contribute to the distinct metabolism of Populus simonii during moderate salt stress, PLoS ONE, 11, (2016); 
+Munns R., Comparative physiology of salt and water stress, Plant Cell Environ, 25, pp. 239-250, (2002); 
+Munns R., Tester M., Mechanisms of salinity tolerance, Annu Rev Plant Biol, 59, pp. 651-681, (2008); 
+Niknam S.R., McComb J., Salt tolerance screening of selected Australian woody species—a review, For Ecol Manag, 139, pp. 1-19, (2000); 
+Noel A.R.A., A staining and mounting combination for sections of plant tissues, Stain Technol, 39, pp. 324-325, (1964); 
+Pawlowski K., Sirrenberg A., Symbiosis between Frankia and actinorhizal plants: root nodules of non-legumes, Indian J Exp Biol, 41, pp. 1165-1183, (2003); 
+(Plants for a future) (n.d.) Elaeagnus commutata - Bernh. ex Rydb., (2018); 
+Purdy B.G., Ellen Macdonald S., Lieffers V.J., Naturally saline boreal communities as models for reclamation of saline oil sand tailings, Restor Ecol, 13, pp. 667-677, (2005); 
+Qin J., Dong W.Y., He K.N., Chen J., Liu J., Wang Z.L., Physiological responses to salinity in Silver buffaloberry (Shepherdia argentea) introduced to Qinghai high-cold and saline area, China, Photosynthetica, 48, pp. 51-58, (2010); 
+Qin J., Dong W.Y., He K.N., Et al., NaCl salinity-induced changes in water status, ion contents and photosynthetic properties of Shepherdia argentea (Pursh) Nutt. seedlings, Plant Soil Environ, 56, pp. 325-332, (2010); 
+Renault S., Qualizza C., MacKinnon M., Suitability of altai wildrye (Elymus angustus) and slender wheatgrass (Agropyron trachycaulum) for initial reclamation of saline composite tailings of oil sands, Environ Pollut, 128, pp. 339-349, (2004); 
+Renault S., Response of red-osier dogwood (Cornus stolonifera) seedlings to sodium sulphate salinity: effects of supplemental calcium, Physiol Plant, 123, pp. 75-81, (2005); 
+Renault S., Salinity tolerance of Cornus sericea seedlings from three provenances, Acta Physiol Plant, 34, pp. 1735-1746, (2012); 
+Shannon M.C., Grieve C.M., Tolerance of vegetable crops to salinity, Sci Hortic, 78, pp. 5-38, (1998); 
+Sofo A., Dichio B., Xiloyannis C., Masia A., Lipoxygenase activity and proline accumulation in leaves and roots of olive trees in response to drought stress, Physiol Plant, 121, pp. 58-65, (2004); 
+Sudhir P., Murthy S.D.S., Effects of salt stress on basic processes of photosynthesis, Photosynthetica, 42, pp. 481-486, (2004); 
+Tani C., Sasakawa H., Salt tolerance of Casuarina equisetifolia and Frankia Ceq1 strain isolated from the root nodules of C. equisetifolia, Soil Sci Plant Nutr, 49, pp. 215-222, (2003); 
+Tavakkoli E., Rengasamy P., McDonald G.K., High concentrations of Na<sup>+</sup> and Cl<sup>–</sup> ions in soil solution have simultaneous detrimental effects on growth of Faba bean under salinity stress, J Exp Bot, 61, pp. 4449-4459, (2010); 
+Vicente O., Boscaiu M., Naranjo M.A., Estrelles E., Belles J.M., Soriano P., Responses to salt stress in the halophyte Plantago crassifolia (Plantaginaceae), J Arid Environ, 58, pp. 463-481, (2004); 
+Visser S., Danielson R.M., Parkinson D., Field performance of Elaeagnus commutata and Shepherdia canadensis (Elaeagnaceae) inoculated with soil containing Frankia and vesicular-arbuscular mycorrhizal fungi, Can J Bot, 69, pp. 1321-1328, (1991); 
+Wall L.G., The actinorhizal symbiosis, J Plant Growth Regul, 19, pp. 167-182, (2000); 
+Wiebe B.H., Eilers R.G., Eilers W.D., Brierley J.A., Application of a risk indicator for assessing trends in dryland salinization risk on the Canadian Prairies, Can J Soil Sci, 87, pp. 213-224, (2007); 
+Whysong G.L., Bailey A.W., Production and nitrogen content of herbage in a silverberry (Elaeagnus commutata) community compared to adjacent grassland and forest communities, Can J Plant Sci, 55, pp. 801-808, (1975); 
+Young I., Renault S., Markham J., Low levels organic amendments improve fertility and plant cover on non-acid generating gold mine tailings, Ecol Eng, 74, pp. 250-257, (2015)#FRF#

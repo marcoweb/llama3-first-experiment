@@ -1,0 +1,45 @@
+#ITI#The effects of harvest regime, irrigation, and salinity on stem lignocellulose concentrations in alfalfa (Medicago sativa L.)#FTI#
+#IRE#Alfalfa (Medicago sativa L.) is a potential candidate for cellulosic ethanol production due to its high biomass, perennial-habit, relationship with nitrogen-fixing bacteria, and other co-products. We examined the effects of harvest regime, irrigation, and salinity on stem lignocellulose concentrations in alfalfa during the 2010 and 2011 growing seasons in Southern Minnesota. Stem cellulose, hemicellulose and lignin concentrations, and theoretical ethanol yields were examined in eight alfalfa cultivars with full-bud and 50%-flower harvest regimes, irrigation, and salinity as applied treatments. Plants received weekly applications of (1) 1.27 cm of well water (“fresh water;” 0.75 dS m−1), (2) 1.27 cm of saline water (NaCl; “brackish water”; 5.0 dS m−1) or (3) ambient precipitation (“rainfed”). Holocellulose concentrations reached the highest values during the full bud (2010) and 50% flower (2011) harvest regimes with concentrations averaging 45%. Theoretical ethanol yields were generally higher for the 50%-flower harvest regime, suggesting the longer growth period increased holocellulose concentrations while not being hindered by more lignin in older stems. Alfalfa growing under brackish-water treatments had 1.3–6.1% more holocellulose than those receiving irrigation or ambient precipitation over two growing seasons. Lignin concentrations across all treatments were almost 23% lower during the second growing season. Interestingly, plants growing under brackish-water treatments had higher holocellulose to lignin ratios and higher theoretical ethanol yields during both field seasons suggesting that moderate levels of salt may stimulate holocellulose concentrations. © 2016 Elsevier B.V.#FRE#
+#IPC#Alfalfa; Biofuel; Cellulose; Feedstocks; Hemicelluloses; Holocellulose; Lignin#FPC#
+#IRF#Allakhverdiev S.I., Sakamota A., Nishiyama Y., Inaba M., Murata N., Ionic and osmotic effects of NaCl-induced inactivation of photosystems I and II in Synechococcus sp, Plant Physiol., 123, pp. 1047-1056, (2000); 
+Arinze E.A., Schoenau G.J., Sokhansanj S., Adapa P., Aerodynamic separation and fractional drying of alfalfa leaves and stems—a review and new concept, Drying Technol., 21, pp. 1669-1698, (2003); 
+Badger P.C., Ethanol from cellulose: a general review, Trends in New Crops and New Uses, pp. 17-21, (2002); 
+Bauder J.W., Jacobsen J.S., Lanier W.T., Alfalfa emergence and survival response to irrigation water quality and soil series, Soil Sci. Soc. Am. J., 56, pp. 890-896, (1992); 
+Behr M., Legary S., Hausman J.F., Guerriero G., Analysis of cell-wall related genes in organs of Medicago sativa L. under different abiotic stresses, Int. J. Mol. Sci., 15, pp. 16104-16124, (2015); 
+Carlson C.R., Cummins J.F., Diers M.P., Dykhuizen D.R., Poch G., Rolling R.E., Saari C.T., Whitaker O.J., Soil Survey of Freeborn County, Minnesota, United States Department of Agriculture Soil Conservation Service in cooperation with the Minnesota Agricultural Experiment Station, pp. 30-31, (1980); 
+Chapple C., Ladisch M., Meilan R., Loosening lignin's grip on biofuel production, Nat. Biotechnol., 25, pp. 746-748, (2007); 
+Deetz D.A., Jung H.J., Buxton D.R., Water-deficit effects on cell-wall composition and in-vitro degradability of structural polysaccharides in alfalfa stems, Crop Sci., 36, pp. 383-388, (1994); 
+Downing M., Volk T.A., Schmidt D.A., Development of new generation cooperatives in agriculture for renewable energy research, development, and demonstration projects, Biomass Bioenergy, 28, pp. 425-434, (2004); 
+Esechie H.A., Al-Barhi B., Al-Gheity S., Al-Khanjari S., Root and shoot growth in salinity stressed alfalfa in response to nitrogen source, J. Plant Nutr., 25, pp. 2559-2569, (2002); 
+Guerriero G., Legay S., Hausman J.F., Alfalfa cellulose synthase gene expression under abiotic stress: a hitchhiker's guide to RT-qPCR normalization, PLoS One, 9, (2014); 
+Howell T.A., Enhancing water use efficiency in irrigated agriculture, Agron. J., 93, pp. 281-289, (2001); 
+Jung H.G., Engel F.M., Alfalfa stem tissues: cell wall deposition, composition, and degradability, Crop Sci., 42, pp. 524-534, (2002); 
+Khan M.G., Silberbush M., Lips S.H., Physiological studies on salinity and nitrogen interactions in alfalfa. II. Photosystems and transpiration, J. Plant Nutr., 17, pp. 669-682, (1994); 
+Krogman K.K., Hobbs E.H., Evapotranspiration of irrigated alfalfa as related to season and growth stage, Can. J. Plant Sci., 45, pp. 310-313, (1965); 
+Lamb J.F.S., Sheaffer C.C., Samac D.A., Population density and harvest maturity effects on leaf and stem yield in alfalfa, Agron. J., 95, pp. 635-641, (2003); 
+Lamb J.F.S., Jung H.G., Sheaffer G.C., Samac D.A., Alfalfa leaf protein and stem cell wall polysaccharide yields under hay and biomass management systems, Crop Sci., 47, pp. 1407-1415, (2007); 
+Lamb J.F.S., Jung H.G., Riday H., Growth environment, harvest management and germplasm impacts on potential ethanol and crude protein yield in alfalfa, Biomass Bioenergy, 63, pp. 114-125, (2014); 
+Maheshwari S., The science behing the biofuels controversy, Curr. Sci. India, 95, pp. 594-602, (2008); 
+Manske L., Goetz H., Alfalfa variety trial, (1982); 
+McCaslin M., Miller D., The Future of Alfalfa as a Biofuels Feedstock, (2007); 
+McKenzie R.H., Soil and Nutrient Management of Alfalfa, (2005); 
+Montazar A., Sadeghi M., Effects of applied water and sprinkler irrigation uniformity on alfalfa growth and hay yield, Agric. Water Manag., 95, pp. 1279-1287, (2008); 
+Munns R., Comparative physiology of salt and water stress, Plant Cell Environ., 25, pp. 239-250, (2002); 
+Munns R., James A.J., Lauchli A., Approaches to increasing the salt tolerance of wheat and other cereals, J. Exp. Bot., 57, pp. 1025-1043, (2006); 
+Quiroga M., Guerrero C., Botella M.A., Barcelo A., Amaya I., Medina M.I., Alonso F.J., deForchetti S.M., Tigier H., Valpuesta V., A tomato peroxidase involved in the synthesis of lignin and suberin, Plant Physiol., 122, pp. 1119-1127, (2000); 
+Rock K.P., Thelemann R.T., Jung H.J.G., Tschirner U.W., Sheaffer C.C., Johnson G.A., Variation due to growth environment alfalfa yield, cellulosic ethanol traits, and paper pulp characteristics, Bioenergy Res., 2, pp. 79-89, (2009); 
+Rugagauska A.J., Williams C.K., Davison B.H., Britovsek G., Caimey J., Eckert C.A., Frederick W.J., Hallett J.P., Leak D.J., Liotta C.L., Mielenz J.R., Murphy R., Templer R., Tschaplinski T., The path forward for biofuels and biomaterials, Science, 311, pp. 484-489, (2006); 
+Ruhland C.T., Warnke A.H., Cahlander-Mooers A., Wood J., Wozniak B.M., Cellulose and lignin concentrations in prairie and wetland species: implications for feedstock in cellulosic ethanol production, Proc. N. Am. Prairie Conf., 22, pp. 176-180, (2011); 
+Saeed I.A.M., El-Nadi A.H., Irrigation effects on the growth, yield, and water use efficiency of alfalfa, Irrig. Sci., 17, pp. 63-68, (1997); 
+Samac D.A., Jung H.J.G., Lamb J.F.S., Development of Alfalfa (Medicago sativa L.) as a feedstock for production of ethanol and other bioproducts, Alcoholic Fuels, pp. 79-98, (2006); 
+Sanchez-Aguayo I., Rodriguez-Galan J.M., Garcia R., Torreblanca J., Pardo J.M., Salt stress enhances xylem development and expression of S-adenoysl-L-methionine synthase in lignifying tissue of tomato plants, Planta, 220, pp. 278-285, (2004); 
+Sanderson M.A., Wedin W.F., Cell wall composition of alfalfa stems at similar morphological stages and chronological age during spring growth and summer regrowth, Crop Sci., 28, pp. 342-347, (1988); 
+Serraj R., Drevon J.J., Effects of salinity and nitrogen source on growth and nitrogen fixation in alfalfa, J. Plant Nutr., 21, pp. 1805-1818, (1998); 
+Sheaffer C.C., Martin N.P., Lamb F.S., Cuomo G.R., Jewett J.G., Querting S.R., Leaf and stem properties of alfalfa entries, Agron. J., 92, pp. 733-739, (2000); 
+Shinners K.J., Herzmann M.E., Binversie B.N., Digman M.F., Harvest fractionation of alfalfa, T. ASABE, 50, pp. 713-718, (2007); 
+Tenhaken R., Cell wall remodeling under abiotic stress, Front. Plant Sci., 5, pp. 1-9, (2015); 
+Vadas P.A., Barnett K.H., Undersander D.J., Economics and Energy of Ethanol Production from Alfalfa Corn, and Switchgrass in the Upper Midwest, USA, Bioenergy Res., 1, pp. 44-55, (2008); 
+Van Soest P.J., Robertson J.B., Lewis B.A., Methods for dietary fiber, neutral detergent fiber, and nonstarch polysaccharides in relation to animal nutrition, J. Dairy Sci., 74, pp. 3583-3597, (1991); 
+Vaughan L.V., MacAdams J.W., Smith S.E., Dudley L.M., Growth and yield of differing alfalfa rooting populations under increasing salinity and zero leaching, Crop Sci., 42, pp. 2064-2071, (2002); 
+Walsh M.E., De La Torre Ugarte D.G., English B.C., Jensen K., Hellwinckel C., Jamey Menard R., Nelson R.G., Agricultural impacts of biofuels production, J. Agric. Appl. Econ., 39, pp. 365-372, (2007); 
+Wyman C.E., What is (and is not) vital to advancing cellulosic ethanol, Trends Biotechnol., 25, pp. 153-157, (2007)#FRF#

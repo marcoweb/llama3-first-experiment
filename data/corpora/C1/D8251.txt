@@ -1,0 +1,43 @@
+#ITI#Effects of different irrigation water and nitrogen levels on the water use, rose flower yield and oil yield of Rosa damascena#FTI#
+#IRE#This study aimed to determine the effects of different irrigation water amounts and nitrogen doses on flower and oil yields and water use in Rosa damascena in Isparta which is located in the Mediterranean Region of Turkey. Different water and nitrogen doses were applied to the Rosa damascena plant, and the drip irrigation method was used at 10-day intervals. The treatments included four different irrigation water amounts [T0 (kcp0: 0.00), T1 (kcp1: 0.40), T2 (kcp2: 0.80), and T3 (kcp3: 1.20) as crop-pan coefficients] and four different nitrogen doses (N0:0 kg ha−1, N1: 80 kg ha−1, N2: 160 kg ha−1, N3: 240 kg ha−1, and pure substance). The experiment was conducted in a randomized block factorial design with 3 replicates. The seasonal evapotranspiration, water use efficiency, irrigation water use efficiency and yield response factor (ky) varied between 346.2 and 614.7 mm, between 4.87 and 13.86 kg m−3, between 8.05 and 32.18 kg m−3, and between 0.92 and 1.59, respectively. The different irrigation water amounts and nitrogen doses did not have a significant effect on flower yield in 2010, but had a significant effect (P < 0.01) in 2011 and 2012. The flower yield ranged from 2339 to 3046 kg ha−1, 2215 to 6373 kg ha−1, 2104 to 6616 kg ha−1 in 2010, 2011 and 2012, respectively. Similarly, the effects of different irrigation amounts and nitrogen doses on the rose oil yield were significant in 2011 and 2012 (P < 0.01) but not in 2010. The rose oil yield was 1.10–1.66 kg ha−1, 1.13–3.42 kg ha−1, 0.72–2.89 kg ha−1 in 2010, 2011, and 2012, respectively. The results of this study showed that the increasing irrigation water amounts and nitrogen doses significantly increased the flower yield. Considering yield and water use efficiency, it was concluded that the most efficient irrigation scheduling was T1 and that the most efficient nitrogen doses were N2 and N3. © 2016 Elsevier B.V.#FRE#
+#IPC#Evapotranspiration; Oil rose; Rosa damascena; Water use efficiency; Yield response factor#FPC#
+#IRF#Akgul M., Basayigit L., Süleyman Demirel Üniversitesi Çiftlik arazisinin detaylı toprak etüdü ve haritalanması, SDÜ Fen Bilim. Enstitüsü Derg., 9, pp. 1-10, (2005); 
+Allen R.G., Pereira L.S., Raes D., Smith M., Crop Evapotranspiration − Guidelines for Computing Crop Water Requirements − FAO Irrigation and Drainage Paper 56, (1998); 
+Anac O., Gas chromatograhic analysis on turkis rose oil, absolute and concrete, Perfum. Flavorist, pp. 1-14, (1984); 
+Anonymous, 2014 yılı Gülçiçeği raporu [WWW document], Tarimdan Haber., (2015); 
+Baser K.H., Kurkcuoglu M., Konur O.Z., Türk gül yağının üretimi ve özellikleri: anadolu Üniversitesi Tıbbi ve aromat, Bitk. Bül. Gül Özel Sayısı, 4, pp. 13-15, (1990); 
+Baser K.H.C., Turkish rose oil, Perfum. Flavorist, 17, pp. 45-52, (1992); 
+Baser K.H.C., Arslan N., Oil Rose (Rosa Damascena), In: Medicinal and Aromatic Plants of the Middle-East, pp. 281-304, (2014); 
+Baydar H., Baydar N.G., The effects of harvest date, fermentation duration and Tween 20 treatment on essential oil content and composition of industrial oil rose (Rosa damascena Mill.), Ind. Crops Prod., 21, pp. 251-255, (2005); 
+Baydar H., Kazaz S., Süleyman Demirel Üniversitesi Gül ve Gül Ürünlerini Araştırma ve Uygulama Merkezi Raporları, (2008); 
+Baydar H., Oil-bearing rose (Rosa damascena Mill.) cultivation and rose oil industry in Turkey, Euro Cosmet., 14, (2006); 
+Bayrak A., Akgul A., Volatile oil composition of Turkish rose (Rosa damascena), J. Sci. Food Agric., 64, pp. 441-448, (1994); 
+Daneshkhah M., Mohsen K., Nikbakht A., Effects of different levels of nitrogen and potassium fertilizers on flower yield and essential oil content of Rosa damascena Mill from Barzok of Kashan, Iran. J. Hortic. Technol., 8, pp. 83-90, (2007); 
+Doorenbos J., Kassam A.H., Yield Response to Water, (1979); 
+Ganchev G., Studies on the Irrigation Regime and Vodorazhoda of Kazanlak Rose, (1976); 
+Garnero J., Guichard G., Buil P., Sur la composition des huiles essentielles et absolues de rose bulgare (Rosa damascena Mill.), Rev. Litt. Rev. Ital. Essenza Profumi Piante Off. Olii Veg. Saponi, 58, pp. 548-552, (1976); 
+Guterman I., Shalit M., Menda N., Piestun D., Dafny-Yelin M., Shalev G., Bar E., Davydov O., Ovadis M., Emanuel M., Et al., Rose scent genomics approach to discovering novel floral fragrance–related genes, Plant Cell, 14, pp. 2325-2338, (2002); 
+Howell T.A., Cuenca R.H., Solomon K.H., Crop yield response, Management of Farm Irrigation Systems, pp. 93-122, (1990); 
+Jabbarzadeh Z., Khosh-Khui M., Factors affecting tissue culture of Damask rose (Rosa damascena Mill.), Sci. Hortic., 105, pp. 475-482, (2005); 
+Joshi K.I., Parekh N.S., Kikani K.P., Effect of sulphur and micronutrients on Rosa damascena, Indian Soc. Ornamental Hortic., pp. 234-235, (2002); 
+Kurkcuoglu M., Türk gül yağı, konkreti ve absolüsünün üretimi ve özellikleri, (1995); 
+Kazaz S., Hasat zamanı ve hasat sonrası bekleme süresinin yağ gülünde (Rosa damascena Mill.) yağ miktarı ve kalitesine etkileri üzerine bir araştırma, Süleyman Demirel Üniversitesi, Fen Bilimleri Enstitüsü, Isparta, (1997); 
+Kazaz S., Yöremizde yağ Gülü (Rosa damascena mill.) bahçelerinde yıl boyunca yapılması gereken kültürel işlemler, Gülbirlik, 2, pp. 12-13, (2005); 
+Keller J., Bliesner R.D., Sprinkle and Trickle Irrigation, (1990); 
+Kovacheva N., Rusanov K., Atanassov I., Industrial cultivation of oil bearing rose and rose oil production in Bulgaria during 21 st century, directions and challenges, Biotechnol. Biotechnol. Equip., 24, pp. 1793-1798, (2010); 
+Kumar R., Sharma S., Sood S., Agnihotri V.K., Agronomic interventions for the improvement of essential oil content and composition of damask rose (Rosa damascena Mill.) under western Himalayas, Ind. Crops Prod., 48, pp. 171-177, (2013); 
+Lawrence B.M., Rose oil, Perfum. Flavoridt, 17, pp. 55-56, (1992); 
+Misra A., Srivastava N.K., Kumar R., Khan A., Effect of anti-gibberellic compound on flowering quality and quantity of Rosa damascena, Plant Resour. Util., pp. 248-252, (2002); 
+Nedkov N., Matev A., Ovcharova A., Additional yield?irrigation depth relationship for white bearing rose (Rosa Alba L.), Ovidius Univ. Ann. Constantza Ser. Civ Eng., 16, pp. 91-104, (2014); 
+Popov A., Pavlov K., Popov P., Rastenie Vidstvo, (1968); 
+Richards L.A., Diagnosis and Improvement of Saline and Alkali Soils Agriculture, (1954); 
+Rusanov K., Kovacheva N., Stefanova K., Atanassov A., Atanassov I., Rosa damascena —genetic resources and capacity building for molecular breeding, Biotechnol. Biotechnol. Equip., 23, pp. 1436-1439, (2009); 
+Rusanov K., Kovacheva N., Rusanova M., Atanassov I., Flower phenotype variation, essential oil variation and genetic diversity among Rosa alba L. accessions used for rose oil production in Bulgaria, Sci. Hortic., 161, pp. 76-80, (2013); 
+Senapati S.K., Rout G.R., Study of culture conditions for improved micropropagation of hybrid rose, Hortic. Sci. Prague, 35, pp. 27-34, (2008); 
+Sengun A., Farklı azot ve fosfor gübre dozlarının Isparta yağ gülünde verim ve bitki gelişimine etkisi, Süleyman Demirel Üniversitesi, Fen Bilimleri Enstitüsü, Isparta, (1998); 
+Staikov V., Balinova-Tsvetkova A., Decheva R., Kalaidjiev I., Rose flower storage conditions and their influence on the quantity and quality of rose oil: estratto Dalla Riv, Ital. Essenze Profumi Piante Off. Aromi Saponi Cosmet. Aerosol, 57, pp. 176-180, (1975); 
+Tabaei-Aghdaei S.R., Babaei A., Khosh-Khui M., Jaimand K., Rezaee M.B., Assareh M.H., Naghavi M.R., Morphological and oil content variations amongst Damask rose (Rosa damascena Mill.) landraces from different regions of Iran, Sci. Hortic., 113, pp. 44-48, (2007); 
+Tajuddin Y.M., Sharma S., Saproo M.L., Akhor-Husain H.A., Effect to fertilizers application on the flowering pattern of rosa damascena, Curr. Med. Aromat. Plants, 17, pp. 173-176, (1995); 
+Tucker A.O., Maciarello M.J., Nomenclature and chemistry of the Kazanlik damask rose and some potential alternatives from the horticultural trade of North America and Europe, Flavors and Fragrances: A World Perspective, (1988); 
+Usta S., Yalcin S.R., Yuksel M., Topcuoglu B., Isparta yöresinde tarımı yapılan gül bitkisinin (Rosa damascena) bazı bitki besin maddesi içerikleri üzerine bir araştırma, AÜ Ziraat Fakültesi Yıllığı, 44, pp. 183-190, (1994); 
+Zekavati H.R., Zadeh A.A., Effect of time and type of pruning on the growth characteristics of rose, Int. J. Agric. Crop Sci., 6, (2013)#FRF#

@@ -1,0 +1,40 @@
+#ITI#Development of a simulation method for paddy fields based on surface FTABLE of hydrological simulation program–FORTRAN#FTI#
+#IRE#The Hydrological Simulation Program–FORTRAN (HSPF) is a widely used watershed-scale model; however, it does not comprise any functions that can be used to simulate rice paddy fields, thereby hindering its applicability in many Asian countries. To address this limitation, a paddy field simulation method was developed by considering the water detention effect and seasonal changes in the outlet height of paddy fields; this was achieved using the existing functions of HSPF. Surface FTABLE, a function of the relationship between surface water storage and outflow, was applied to represent the physical structure and inundated condition of paddy fields. Surface FTABLE was temporally changed by Special Actions, an HSPF module, to reflect the seasonal variation in drainage outlet height. By employing these methods, HSPF was applied to paddy fields for evaluating the model performance. On comparing the simulated and observed values of ponding depth and surface outflow, the model showed good performance with a coefficient of determination that ranged from 0.71 to 0.89 and an index of agreement that ranged from 0.92 to 0.97. Comparing the results of the simulation performed with or without Surface FTABLE, the simulation with Surface FTABLE exhibited a reduced surface outflow (−40.0%) due to the blocking effect of the paddy field, a decreased infiltration (−17.3%) due to the saturation of the upper soil zone, and a higher level of soil water in all subsurface layers. Based on these differences in each component, it is necessary to apply Surface FTABLE when considering the hydrological processes of paddy fields for HSPF modeling. The simulation method developed in this study only uses the existing functions of HSPF without performing any external modifications; therefore, it can be used conveniently to improve the applicability of HSPF in rice-growing regions. © 2022 The Authors#FRE#
+#IPC#Hydrological Simulation Program–FORTRAN; Outlet height; Paddy field; Special Actions; Surface FTABLE; Watershed modeling#FPC#
+#IRF#Arnold J.G., Srinivasan R., Muttiah R.S., Williams J.R., Large area hydrologic modeling and assessment: Part I: model development, J. Am. Water Resour., 34, pp. 73-89, (1998); 
+Chin Y.M., Park S.W., Kim S.M., Kang M.S., Kang M.G., Nutrient loads estimation at paddy fields using CREAMS-PADDY model, J. Korean Soc. Rural Plan, 8, pp. 60-68, (2002); 
+Cho J.Y., Han K.W., Nutrient losses from a paddy field plot in central Korea, Water Air Soil Poll., 134, pp. 215-228, (2002); 
+Choi S.K., Cho J., Jeong J., Kim M.K., Yeob S.J., Jo S., Bang J.H., Assessing future water demand for irrigating paddy rice under Shared Socioeconomic Pathways (SSPs) scenario using the APEX-Paddy model. J. Korean Soc., Environ. Eng., 63, pp. 1-16, (2021); 
+Choi S.K., Jeong J., Kim M.K., Simulating the effects of agricultural management on water quality dynamics in rice paddies for sustainable rice production - model development and validation, Water, 9, (2017); 
+Chung S.O., Kim H.S., Kim J.S., Model development for nutrient loading from paddy rice fields, Agr. Water Manag., 62, pp. 1-17, (2003); 
+Crawford N.H., (1973); 
+Du B., Arnold J., Saleh A., Jaynes D., Development and application of SWAT to landscapes with tiles and potholes, Trans. ASAE, 48, pp. 1121-1133, (2005); 
+Food and Agriculture Organization of the United Nations (FAO), Irrigation water management: irrigation scheduling, Train. Man., (1989); 
+Han K.W., Cho J.Y., Son J.G., Losses of chemical components by infiltration water during the rice cultivation at silt loam paddy soil, Korean J. Environ. Agric., 17, pp. 268-273, (1998); 
+Ikawa H., Ono K., Mano M., Kobayashi K., Takimoto T., Kuwagata T., Miyata A., Evapotranspiration in a rice paddy field over 13 crop years, J. Agric. Meteorol., 73, pp. 109-118, (2017); 
+Jeon J.H., Yoon C.G., Donigian A.S., Jung K.W., Development of the HSPF-Paddy model to estimate watershed pollutant loads in paddy farming regions, Agr. Water Manag., 90, pp. 75-86, (2007); 
+Jeon J.H., Yoon C.G., Ham J.H., Jung K.W., Model development for nutrient loading estimates from paddy rice fields in Korea, J. Environ. Sci. Heal. B., 39, pp. 845-860, (2004); 
+Johanson R.C., Imhoff J.C., (1980); 
+Jung C.G., Park J.Y., Lee J.W., Jung H., Kim S.J., The applicability of SWAT-APEX model for agricultural nonpoint source pollution assessment, J. Korean Soc. Environ. Eng., 53, pp. 35-42, (2011); 
+Jung J.W., Yoon K.S., Choi W.J., Choi W.Y., Lee S.H., Chang N.I., Hong S.K., Joo S.H., Analysis of purification capacity of paddy fields using nutrient balance, J. Wet. Res., 10, pp. 1-7, (2008); 
+Jung S.H., Rhee H.P., Hwang H.S., Yoon C.G., Study on development of Paddy-RCH method to consider discharge characteristics of paddy field in watershed model HSPF, J. Korean Soc. Environ. Eng., 41, pp. 311-320, (2019); 
+Kang M.S., Park S.W., Lee J.J., Yoo K.H., Applying SWAT for TMDL programs to a small watershed containing rice paddy fields, Agr. Water Manag., 79, pp. 72-92, (2006); 
+Kim D.H., Jang T., Hwang S., Evaluating impacts of climate change on hydrology and total nitrogen loads using coupled APEX-paddy and SWAT models, Paddy Water Environ., 18, pp. 515-529, (2020); 
+Kim H.K., Jang T.I., Im S.J., Park S.W., Estimation of irrigation return flow from paddy fields considering the soil moisture, Agr. Water Manag., 96, pp. 875-882, (2009); 
+Kim N.W., Shin S.C., (2005); 
+Lee D.G., Song J.H., Ryu J.H., Lee J., Choi S.K., Kang M.S., Integrating the mechanisms of agricultural reservoir and paddy cultivation to the HSPF-MASA-CREAMS-PADDY System, J. Korean Soc. Environ. Eng., 60, pp. 1-12, (2018); 
+Moriasi D.N., Gitau M.W., Pai N., Daggupati P., Hydrologic and water quality models: performance measures and evaluation criteria, Trans. Asabe., 58, pp. 1763-1785, (2015); 
+Nash J.E., Sutcliffe J.V., River flow forecasting through conceptual models part I – A discussion of principles, J. Hydrol., 10, pp. 282-290, (1970); 
+Odhiambo L.O., Murty V.V.N., Modeling water balance components in relation to field layout in lowland paddy fields: I. Model development, Agr. Water Manag., 30, pp. 185-199, (1996); 
+Philip J.R., The theory of infiltration: 1, infiltration Equ. its Solut. Soil Sci., 83, pp. 345-358, (1957); 
+Press W.H., Teukolsky S.A., Adaptive stepsize Runge‐Kutta integration, Comput. Phys., 6, pp. 188-191, (1992); 
+Ryu J.H., Song J.H., Kang S.M., Jang J.S., Kang M.S., Impact of water management techniques on agricultural reservoir water supply, J. Korean Soc. Environ. Eng., 60, pp. 121-132, (2018); 
+Sakaguchi A., Eguchi S., Kato T., Kasuya M., Ono K., Miyata A., Tase N., Development and evaluation of a paddy module for improving hydrological simulation in SWAT, Agr. Water Manag., 137, pp. 116-122, (2014); 
+Seo C.S., Park S.W., Im S.J., Yoon K.S., Kim S.M., Kang M.S., Development of CREAMS-PADDY model for simulating pollutants from irrigated paddies, J. Korean Soc. Agric. Eng., 44, pp. 146-156, (2002); 
+Seong C., Oh C., Hwang S., Watershed-scale hydrologic modeling considering a detention effect of rice paddy fields using HSPF Surface-Ftable, J. Korean Soc. Agric. Eng., 60, pp. 41-54, (2018); 
+Tsuchiya R., Kato T., Jeong J., Arnold J.G., Development of SWAT-Paddy for simulating lowland Paddy fields, Sustainability, 10, (2018); 
+(2018); 
+Wang J.K., Hagan R.E., Irrigated Rice Production Systems: Design Procedures, Westview Tropical Agriculture Series no. 3, (1981); 
+Willmott C.J., On the validation of models, Phys. Geogr., 2, pp. 184-194, (1981); 
+Yoo S.H., Choi J.Y., Jang M.W., Estimation of paddy rice crop coefficients for FAO Penman-Monteith and Modified Penman method, J. Korean Soc. Agric. Eng., 48, pp. 13-23, (2006); 
+Yoon K.S., Cho J.Y., Choi J.K., Son J.G., Water management and N, P losses paddy Fields South. Korea J. Am. Water Resour., 42, pp. 1205-1216, (2006)#FRF#

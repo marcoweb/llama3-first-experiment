@@ -1,0 +1,58 @@
+#ITI#A comparative proteome assay on the quality of yardlong bean pods as influenced by the organic and inorganic nourishment systems#FTI#
+#IRE#The assumption of enhanced nutritional quality of food produced through the organic systems against the inorganic systems is under constant challenge. Changes in nutritional quality under varying methods of crop nourishment, if any, should be through the differential translation of proteins and hence should be reflected in the proteome profile. The present study was undertaken to understand the effect of organic and inorganic crop nourishments on the nutritional quality of yardlong bean, through two-dimensional proteome profiling. Yardlong beans were raised separately under organic and inorganic nourishment and the proteome of pods was profiled. The differentially expressed and upregulated proteins from immature and mature pods from both the systems were characterized through MALDI-ToF/MS. Under both the production systems, differentially expressed proteins were the contributors to antioxidant properties at different pod maturity stages and pod quality was proven to be independent of crop nourishment system. This study does not support the hypothesis that organically produced foods will be nutritionally superior. © 2017, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#2DE; Food quality; Organic farming; Proteome profile; Sensory evaluation; Vigna unguiculata#FPC#
+#IRF#Ahn A.H., Dziennis S., Hawkes R., Herrup K., The cloning of zebrin II reveals its identity with aldolase C, Development, 120, pp. 2081-2090, (1994); 
+Baker B.P., Benbrook C.M., Groth E., Benbrook K.L., Pesticide residues in conventional, integrated pest management (IPM)-grown and organic foods: insights from three US data sets, Food Addit Contam, 19, pp. 427-446, (2002); 
+Barrios E.X., Costell E., Review: use of methods of research into consumers’ opinions and attributes in food research, Food Sci Technol Int, 523, pp. 359-371, (2004); 
+Belane A.K., Dakora F.D., Levels of nutritionally-important trace elements and macronutrients in edible leaves and grain of 27 nodulated cowpea (Vigna unguiculata L. Walp.) genotypes grown in the Upper West Region of Ghana, Food Chem, 125, pp. 99-105, (2011); 
+Berkelman T., Stenstedt T., 2-D electrophoresis using immobilized pH gradients: principles and methods, (1998); 
+Boguth G., Harder A., Scheibe B., Wildgruber R., Weiss W., The current state of two-dimensional electrophoresis with immobilized pH gradients, Electrophoresis, 21, pp. 1037-1053, (2000); 
+Bourn D., Prescott J., A comparison of the nutritional value, sensory qualities, and food safety of organically and conventionally produced foods, Crit Rev Food Sci Nutr, 42, pp. 1-34, (2002); 
+Brandt K., Molgaard J.P., Organic agriculture: does it enhance or reduce the nutritional value of plant foods?, J Sci Food Agric, 81, pp. 924-931, (2001); 
+Campiglia E., Mancinellia R., De Stefanisb E., Pucciarmatib S., Radicettiaa E., The long-term effects of conventional and organic cropping systems, tillage managements and weather conditions on yield and grain quality of durum wheat (Triticum durum Desf.) in the Mediterranean environment of Central Italy, Field Crops Res, 176, pp. 34-44, (2015); 
+Chen M.F., Consumer attitudes and purchase intentions in relation to organic foods in Taiwan: moderating effects of food-related personality traits, Food Qual Prefer, 18, pp. 1008-1021, (2007); 
+Chen C., Sinapic acid and its derivatives as medicine in oxidative stress-induced diseases and aging, Oxid Med Cell Longev, 2, pp. 34-37, (2015); 
+de Ponti T., Rijk B., Van Ittersum M.K., The crop yield gap between organic and conventional agriculture, Agric Syst, 108, pp. 1-9, (2012); 
+Dolferus R., Osterman J.C., Peacock W.J., Dennis E.S., Cloning of the Arabidopsis and rice formaldehyde dehydrogenase genes: implications for the origin of plant ADH enzymes, Genetics, 146, pp. 1131-1141, (1997); 
+Gaur V., Chanana V., Jaina A., Salunke D.M., The structure of a hemopexin-fold protein from cowpea (Vigna unguiculata) suggests functional diversity of hemopexins in plants, Acta Cryst F, 67, pp. 93-200, (2010); 
+Gegenheimer P.A., Preparation of extracts from plants, Method Enzymol, 182, pp. 174-193, (1990); 
+Heintz C.M., Kader A.A., Procedures for the sensory evaluation of horticultural crops, HortScience, 18, pp. 18-22, (1983); 
+Hunter D., Foster M., McArthur J.O., Ojha R., Petocz P., Samman S., Evaluation of the micronutrient composition of plant foods produced by organic and conventional agricultural methods, Crit Rev Food Sci Nutr, 51, pp. 571-582, (2011); 
+Kasuya E., Mann–Whitney U-test when variances are unequal, Anim Behav, 61, pp. 1247-1249, (2001); 
+Kaufmann E., Geisler N., Weber K., SDS-PAGE strongly overestimates the molecular masses of the neurofilament proteins, FEBS Lett, 170, pp. 81-84, (1984); 
+Package of practices recommendations: crops, (2007); 
+Kosova K., Vitamvas P., Prasil I.T., Renaut J., Plant proteome changes under abiotic stress—contribution of proteomics studies to understanding plant stress response, J Proteom, 74, pp. 1301-1322, (2011); 
+Kumar N., Pruthi V., Potential applications of ferulic acid from natural sources, Biotechnol Rep, 4, pp. 86-93, (2014); 
+Laemmli U.K., Most commonly used discontinuous buffer system for SDS electrophoresis, Nature, 227, pp. 680-685, (1970); 
+Lairon D., Nutritional quality and safety of organic food: a review, Agron Sustain Dev, 30, pp. 33-41, (2010); 
+Lei Z., Elmer A.M., Watson B.S., Dixon R.A., Mendes P.J., Sumner W.L., A two-dimensional electrophoresis proteomic reference map and systematic identification of 1367 proteins from a cell suspension culture of the model legume Medicago truncatula, Mol Cell Proteom, 4, pp. 1812-1825, (2005); 
+Lima G.P., Vianello F., Review on the main differences between organic and conventional plant based foods, Int J Food Sci Technol, 46, pp. 1-13, (2011); 
+Lopez A., Fenoll J., Hellin P., Flores P., Physical characteristics and mineral composition of two pepper cultivars under organic, conventional and soilless cultivation, Sci Hortic, 150, pp. 259-266, (2013); 
+Lowry O.H., Rosebrough N.J., Farr A.L., Randall R.J., Protein measurement with the Folin phenol reagent, J Biol Chem, 193, pp. 265-275, (1951); 
+Maggio A., DePascale S., Paradiso R., Barbieri G., Quality and nutritional value of vegetables from organic and conventional farming, Sci Hortic, 164, pp. 532-539, (2013); 
+Magkos F., Arvaniti F., Zampelas A., Organic food: nutritious food or food for thought? A review of the evidence, Int J Food Sci Nutr, 54, pp. 357-371, (2003); 
+Magkos F., Arvaniti F., Zampelas A., Organic foods: buying more safety or just peace of mind? A critical review of the literature, Crit Rev Food Sci Nutr, 46, pp. 23-56, (2006); 
+Mazzoncini M., Antichi D., Silvestri N., Ciantelli G., Sgherri C., Organically vs conventionally grown winter wheat: effects on grain yield, technological quality, and on phenolic composition and antioxidant properties of bran and refined flour, Food Chem, 175, pp. 445-451, (2015); 
+McCormack D., McFadden D., A review of pterostilbene antioxidant activity and disease modification, Oxid Med Cell Longev, 1, pp. 16-31, (2013); 
+Merkulova M., Hurtado-Lorenzo A., Hosokawa H., Zhuang Z., Brown D., Ausiello D.A., Marshansky V., Aldolase directly interacts with ARNO and modulates cell morphology and acid vesicle distribution, Am J Physiol Cell Physiol, 300, pp. C1442-C1455, (2011); 
+Natarajan S., Xu C., Caperna T.J., Garrett W.M., Comparison of protein solubilization methods suitable for proteomic analysis of soybean seed proteins, Anal Biochem, 342, pp. 214-220, (2005); 
+Nogueira F.C.S., Goncalves E.F., Jereissati E.S., Santos M., Costa J.H., Oliveira-Neto O.B., Soares A.A., Domont G.B., Campos A.P., Proteome analysis of embryogenic cell suspensions of cowpea (Vigna unguiculata), Plant Cell Rep, 26, pp. 1333-1343, (2007); 
+Nunes-Damaceno M., Munoz-Ferreiro N., Romero-Rodriguez M.A., Vazquez-Oderiz M.L., A comparison of kiwi fruit from conventional, integrated and organic production systems, Food Sci Technol, 54, pp. 291-297, (2013); 
+Pathuri I.P., Reitberger I.E., Huckelhoven R., Proels R.K., Alcohol dehydrogenase 1 of barley modulates susceptibility to the parasitic fungus Blumeria graminis f.sp. hordei, J Exp Bot, 23, pp. 1-9, (2011); 
+Paul J.W., Beauchamp E.G., Nitrogen availability for corn in soils amended with urea, cattle slurry, and solid and composted manures, Can J Soil Sci, 73, pp. 253-266, (1993); 
+Peryam D.R., Pilgrim F.J., Hedonic scale method of measuring food preferences, Food Technol, 11, pp. 9-14, (1957); 
+Rabilloud T., Chevallet M., Luche S., Lelong C., Two-dimensional gel electrophoresis in proteomics: past, present and future, J Proteom, 73, pp. 2064-2077, (2010); 
+Rangarajan E.S., Park H., Fortin E., Sygusch J., Izard T., Mechanism of alolase control of sorting nexin 9 function in endocytosis, J Biol Chem, 285, pp. 11983-11990, (2010); 
+Shiny A.A., Mathew D., Nazeem P.A., Abida P.S., Mathew S.K., Valsala P.A., Identification and confirmation of trailing-type vegetable cowpea resistance to anthracnose, Trop Plant Pathol, 40, pp. 169-175, (2015); 
+Stanhill G., The comparative productivity of organic agriculture, Agric Ecosyst Environ, 30, pp. 1-26, (1990); 
+UniprotKB, (2017); 
+UniprotKB, (2017); 
+UniprotKB, (2017); 
+UniprotKB, (2017); 
+Vasconcelos E.A., Nogueira F.C.S., Abreu E.F.M., Goncalves E.F., Souza P.A.S., Campos F.A.P., Protein extraction from cowpea tissues for 2-D gel electrophoresis and MS analysis, Chromatographia, 62, pp. 447-450, (2005); 
+Vigeolas H., Chinoy C., Zuther E., Blessington B., Geigenberger P., Domoney C., Combined metabolomic and genetic approaches reveal a link between the polyamine pathway and albumin 2 in developing pea seeds, Plant Physiol, 146, pp. 74-82, (2008); 
+Warman P.R., Havard K.A., Yield, vitamin and mineral contents of organically and conventionally grown potatoes and sweet corn, Agric Ecosyst Environ, 68, pp. 207-216, (1998); 
+Watson C.A., Atkinson D., Gosling P., Jackson L.R., Rayns F.W., Managing soil fertility in organic farming systems, Soil Use Manag, 18, s1, pp. 239-247, (2002); 
+Williams C.M., Nutritional quality of organic food: shades of grey or shades of green?, Proc Nutr Soc, 61, pp. 19-24, (2002); 
+Worthington V., Nutritional quality of organic versus conventional fruits, vegetables, and grains, J Altern Complement Med, 7, pp. 161-173, (2001); 
+Young J.E., Zhao X., Carey E.E., Welti R., Yang S., Wang W., Phytochemical phenolics in organically grown vegetables, Mol Nutr Food Res, 49, (2005)#FRF#

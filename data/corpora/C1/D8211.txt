@@ -1,0 +1,51 @@
+#ITI#Evaluating water-saving efficiency of plastic mulching in Northwest China using remote sensing and SEBAL#FTI#
+#IRE#Plastic mulching of agricultural land surfaces has been widely used to cope with growing water shortage, but little research has been done in evaluating its water-saving efficiency at large catchment scale. We evaluate the effectiveness of water use in plastic mulching in a large catchment in Northwest China using remote sensing data and the Surface Energy Balance Algorithm for Land (SEBAL). We use a decision-tree method to delineate the plastic mulching lands (PML) from other croplands (NPML) based on land surface albedo and temperature derived from Landsat images. We use SEBAL and Moderate-resolution Imaging Spectroradiometer (MODIS) data to estimate evapotranspiration (ET) and the water use in PML and NPML. Our study shows that ET from the PML reduced about 6.6% compared with NPML, and the area of PML increased about 84.2% during the 14-year period of 2000–2013 in the catchment. However, the total water use in the area still increased 50.0% as the total cropland area increased about 48.6% in the same period. Our study therefore suggests that the best water management strategy in arid China needs not only to increase water use efficiency but also to control total water usage by limiting reclamation of farmlands. © 2018 Elsevier B.V.#FRE#
+#IPC#Evapotranspiration; Land classification; Plastic mulching; Remote sensing; SEBAL#FPC#
+#IRF#Abdusalamu M., The status of plastic film pollution in farmland and control measures in Aksu region, Eng. Resour. Protec., 3, pp. 47-48, (2015); 
+Ai Z., Yang Y., Wang Q., Han S., Yang Y., Wang J., Wang Q., Qiu G., Changes of surface energy partitioning caused by plastic mulch in a cotton field, Int. Agrophys., 32, pp. 349-356, (2018); 
+Allen R.G., Tasumi M., Trezza R., Satellite-based energy balance for mapping evapotranspiration with internalized calibration (METRIC)—model, J. Irrig. Drain. Eng., 133, pp. 380-394, (2007); 
+Ayars J.E., Schoneman R.A., Irrigating field crops in the presence of saline groundwater, Irrig. Drain., 55, pp. 265-279, (2006); 
+Bastiaanssen W.G.M., Menenti M., Feddes R.A., Holtslag A.A.M., A remote sensing surface energy balance algorithm for land (SEBAL) - 1, Formul. J. Hydrol., 212, pp. 198-212, (1998); 
+Bastiaanssen W.G.M., Pelgrum H., Wang J., Ma Y., Moreno J.F., Roerink G.J., van der Wal T., A remote sensing surface energy balance algorithm for land (SEBAL) - 2, Valid. J. Hydrol., 212, pp. 213-229, (1998); 
+Blackett M., Early analysis of Landsat-8 thermal infrared sensor imagery of volcanic activity, Remote Sens-Basel, 6, pp. 2282-2295, (2014); 
+Carvajal F., Crisanto E., Aguilar F.J., Aguera F., Aguilar M.A., Greenhouses detection using an artificial neural network with a very high resolution satellite image, ISPRS Technical Commission II Symposium, Vienna, pp. 37-42, (2006); 
+Chavez J.L., Gowda P.H., Howell T.A., Neale C.M.U., Copeland K.S., Estimating hourly crop ET using a two-source energy balance model and multispectral airborne imagery, Irrig. Sci., 28, pp. 79-91, (2009); 
+Chemin Y., Platonov A., Ul-Hassan M., Abdullaev I., Using remote sensing data for water depletion assessment at administrative and irrigation-system levels: case study of the Ferghana Province of Uzbekistan, Agric. Water Manage., 64, pp. 183-196, (2004); 
+Chen Y., Ye Z., Mao X., Zhang X., Luo J., Dried-up trend of Tarim River and the countermeasures for mitigation, Arid Land Geogr., 32, pp. 813-820, (2009); 
+Chung S.O., Horton R., Soil heat and water flow with a partial surface mulch, Water Resour. Res., 23, pp. 2175-2186, (1987); 
+Crippen R.E., Calculating the vegetation index faster, Remote Sens. Environ., 34, pp. 71-73, (1990); 
+Fan Z., Xie A., Wang Y., Chen Y., Formation, development and evolution of the artificially-irrigated oases in Xinjiang, Arid Zone Res., 23, pp. 410-418, (2006); 
+Gu X., Synergy Effect and Yield Formation Mechanism of Plastic Film Mulching of Rice Fields in a Saline-sodic Soil in Songnen Plain, China, (2012); 
+Heissner A., Schmidt S., von Elsner B., Comparison of plastic films with different optical properties for soil covering in horticulture: test under simulated environmental conditions, J. Environ. Sci. Health B, 85, pp. 539-548, (2005); 
+Huang S., Krysanova V., Zhai J., Su B., Impact of intensive irrigation activities on river discharge under agricultural scenarios in the Semi-Arid Aksu River Basin, Northwest China, Water Resour. Manage., 29, pp. 945-959, (2015); 
+Ingman M., The Role of Plastic Mulch as a Water Conservation Practice for Desert, Oasis Communities of Northern China, (2012); 
+Ingman M., Santelmann M., Tilt B., Agricultural water conservation in China: plastic mulch and traditional irrigation, Ecosyst. Health Sustain., 1, (2015); 
+Kimura R., Bai L., Fan J., Takayama N., Hinokidani O., Evapo-transpiration estimation over the river basin of the Loess Plateau of China based on remote sensing, J. Arid Environ., 68, pp. 53-65, (2007); 
+Kumar U., Kerle N., Punia M., Ramchandra T., Mining land cover information using multiplayer perception and decision tree from MODIS data, J. Indian Soc. Remote Sens., 38, pp. 592-602, (2010); 
+Levin N., Lugass R., Ramon U., Braun O., Ben-Dor E., Remote sensing as a tool for monitoring plasticulture in agricultural landscapes, Int. J. Remote Sens., 28, pp. 183-202, (2007); 
+Li H., Lei Y., Zheng L., Mao L., SEBAL model and its application in the study of regional evapotranspiration, Remote Sens. Technol. Appl., 20, pp. 321-325, (2005); 
+Li H., Zheng L., Lei Y., Li C., Liu Z., Zhang S., Estimation of water consumption and crop water productivity of winter wheat in North China Plain using remote sensing technology, Agric. Water Manage., 95, pp. 1271-1278, (2008); 
+Li B., Chen Y., Li W., Cao Z., Remote sensing and the SEBAL model for estimating evapotranspiration in the Tarim River, Acta Geogr. Sin., 66, pp. 1230-1238, (2011); 
+Liu W., Estimating Spation-Emporal Variation of Regional Actual Evapotranspiration Using Remote Sensing Approach, (2010); 
+Liu Q., Xue Y., Jin T., Yan C., He W., Report on China's Plastic Film Use in 2014, (2016); 
+Long D., Singh V.P., Li Z., How sensitive is SEBAL to changes in input variables, domain size and satellite sensor?, J. Geophys. Res. - Atmos., 116, (2011); 
+Lu L., Di L., Ye Y., A decision-tree classifier for extracting transparent plastic-mulched landcover from Landsat-5 TM images, IEEE J.-Stars, 7, pp. 4548-4558, (2014); 
+Mahrer Y., Naot O., Rawitz E., Katan J., Temperature and moisture in soils mulched with transparent polyethylene, Soil Sci. Soc. Am. J., 48, pp. 362-367, (1984); 
+Menenti M., Choudhury B.J., Parameterization of land surface evapotranspiration using a location dependent potential evapotranspiration and surface temperature range, Exchange Processes at the Land Surface for a Range of Space and Time Scale, (1993); 
+(2001); 
+Norman J.M., Kustas W.P., Humes K.S., Source approach for estimating soil and vegetation energy fluxes in observations of directional radiometric surface temperature, Agric. For. Meteorol., 77, pp. 263-293, (1995); 
+Picuno P., Tortora A., Capobianco R.L., Analysis of plasticulture landscapes in Southern Italy through remote sensing and solid modelling techniques, Landsc. Urban Plan., 100, pp. 45-56, (2011); 
+Roerink G.J., Su Z., Menenti M., S-SEBI: a simple remote sensing algorithm to estimate the surface energy balance, Phys. Chem. Earth Part B Hydrol. Ocean. Atmos., 25, pp. 147-157, (2000); 
+Sha X., A Study on Exraction of Plastic-mulched Landcover and on Retrieval of Mulched Land Surface Temperature Using Remote Sensing Data, (2012); 
+Sica C., Picuno P., Spectro-radiometrical characterization of plastic nets for protected cultivation, International Symposium on High Technology for Greenhouse System Management (Greensys 2007), Naples, ITALY, pp. 245-252, (2007); 
+Soffianian A., Madanian M., Monitoring land cover changes in Isfahan Province, Iran using Landsat satellite data, Environ. Monit. Assess., (2015); 
+Su Z., The Surface Energy Balance System (SEBS) for estimation of turbulent heat fluxes, Hydrol. Earth Syst. Sci., 6, pp. 85-100, (2002); 
+Usman M., Liedl R., Awan U.K., Spatio-temporal estimation of consumptive water use for assessment of irrigation system performance and management of water resources in irrigated Indus Basin, Pakistan, J. Hydrol., 525, pp. 26-41, (2015); 
+Wang K., Shen R., Huang J., Field experiment study on calculating transpiration and evaporation of winter wheat under transparent polyethylene condition, J. Hydraul. Eng., 31, pp. 87-91, (2000); 
+Wang S., Ding Y., Ye B., Liao J., Xie Z., A land use analysis based on the influences of climate change and human activities a case study in the Aksu River Basin Oasis, J. Glaciol. Geocryol., 34, pp. 828-835, (2012); 
+Wu C., Huang J., Shen R., A model of heat and water flow in SPAC under transparent polyethylene mulch, J. Hydraul. Eng., 31, pp. 89-96, (2000); 
+Yong H., Study of Countermeasure Andeffection of Agriculture Development to Water Resource Utilize in Tarim River Basin, (2011); 
+Yu J., Yang G., Wang Y., Wang C., Research on soil moisture in fuxin based on inversion of MODIS data, Remote Sens. Technol. Appl., 26, pp. 413-419, (2011); 
+Zhang Q., Xu C., Tao H., Jiang T., Chen Y.D., Climate changes and their impacts on water resources in the arid regions: a case study of the Tarim River basin, China, Stoch. Environ. Res. Risk Assess., 24, pp. 349-358, (2010); 
+Zhang X., Yang D., Xiang X., Huang X., Impact of agricultural development on variation in surface runoff in arid regions: a case of the Aksu River Basin, J. Arid Land, 4, pp. 399-410, (2012); 
+Zhu Z., Zhao G., Deng T., Fang W., Fu X., Characteristics of microclimate in mulched wheat field, Q. J. Appl. Meteorol., 11, pp. 112-118, (2000)#FRF#

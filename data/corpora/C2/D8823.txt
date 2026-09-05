@@ -1,0 +1,39 @@
+#ITI#Optimization of pea (Pisum sativum) seeds hydropriming by application of response surface methodology#FTI#
+#IRE#Evaluation of selected parameters viz. initial germination percentage (IGP), soaking duration (SD), process temperature, rotation speed (rpm) and air flow rate (AFR) was performed in this research investigation for hydropriming of Pea (Pisum sativum) seeds. Three seed lots having difference in their moisture content (14.94–28.04 % d.b) and germination percentage (60–80 %) were selected in this study. Procured seed lots were subjected to variable duration of accelerated aging (40 ± 1 °C, 100 % RH) to attain necessary seed lots for experimental run. Response surface methodology (Box–Behnken design) with five factors and three-level combination was adopted, and the independent variables are germination percentage (80, 70, 60), soaking duration (45, 60, 75 min), temperature (20, 25, 30 °C), rotation speed (320, 340, 360 rpm) and air flow rate (0.411, 0.548, 0.685 m3/min). Second order polynomial equation was fitted for analyzing the experimental data and data was also subjected to analysis of variance as a part of regression analysis. Process responses which were selected to evaluate the effect of hydropriming were moisture content after hydropriming, final germination percentage, seedling length, seedling dry weight, vigor indices (VI–I and VI–II) and electrical conductivity. Regression analysis suggested that models were significant for all process responses and using numerical optimization technique, the optimal solution found was 75 % IGP, 55 min SD, 20 °C temperature, 320 rpm and 0.50 m3/min AFR. Values predicted by model were found to be at par with the results of a confirmation experiment carried out at optimum conditions. © 2016, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Accelerated aging; Hydropriming; Optimization; Response surface methodology#FPC#
+#IRF#Abdolahi M., Andelibi B., Zangani E., Shekari F., Somarin S.J., Effect of accelerated aging and priming on seed germination of rapeseed (Brassica napus L.) cultivars, Int Res J Appl Basic Sci, 3, 3, pp. 499-508, (2012); 
+Abdul-Baki A., Anderson J.D., Vigor determination in soybean seed by multiple criteria, Crop Sci, 13, pp. 630-633, (1973); 
+Abdulrahmani B., Ghassemi-Golezani K., Valizadeh M., Feizi-Asl V., Seed priming and seedling establishment of barley (Hordeum vulgare L.), J Food Agric Environ, 5, pp. 179-184, (2007); 
+Ashraf M., Rauf H., Inducing salt tolerance in maize (Zea mays L.) through seed priming with chloride salts: growth and ion transport at early growth stages, Acta Physiol Plant, 23, pp. 407-414, (2001); 
+Box G.E.P., Draper N.R., Empirical model building and response surfaces, (1987); 
+Bradford K.J., Manipulation of seed water relations via osmotic priming to improve germination under stress conditions, Hortic Sci, 21, pp. 1105-1112, (1986); 
+Ellis R.H., Roberts E.H., The quantification of ageing and survival in orthodox seeds, Seed Sci Technol, 9, pp. 373-409, (1981); 
+Ferreira S.L.C., Bruns R.E., Ferreira H.S., Matos G.D., David J.M., Brandao G.C., Da Silva E.G.P., Portugal L.A., dos Reis P.S., Souza A.S., dos Santos W.N.L., Box–Behnken design: an alternative for the optimization of analytical methods, Anal Chim Acta, 597, pp. 179-186, (2007); 
+Goela A., Goelb A.K., Sheorana I.S., Changes in oxidative stress enzymes during artificial aging in cotton (Gossypium hirsutum L.) seeds, J Plant Physiol, 160, pp. 1093-1100, (2003); 
+Guan Y.J., Hu J., Li Y.P., Zheng Y.Y., A new anti-counterfeiting method: fluorescent labeling by safranine T in tobacco seed, Acta Physiol Plant, 33, pp. 1271-1276, (2011); 
+Harris D., The effects of manure, genotype, seed priming, depth and date of sowing on the emergence and early growth of Sorghum bicolor (L.) Moench in semi-arid Botswana, Soil Till Res, 40, pp. 73-88, (1992); 
+Harris D., Tripathi R.S., Joshi A., On-farm seed priming to improve crop establishment and yield in direct-seeded rice, In, (2001); 
+Standards I.M.S.C., The Central Seed Certification Board, Department of Agriculture and Co-operation, Ministry of Agriculture, (2013); 
+ISTA, International rules for seed testing, Seed Sci Technol, 21, pp. 141-186, (1993); 
+Kalil S.J., Maugeri F., Rodrigues M.I., Response surface analysis and simulation as a tool for bioprocess design and optimization, Proc Biochem, 35, pp. 539-550, (2000); 
+Kaya M.D., Okc U.G., Atak M.C., Ikili Y., Kolsarici O., Seed treatments to overcome salt and drought stress during germination in sunflower (Helianthus annuus L.), Eur J Agron, 24, pp. 291-295, (2006); 
+Khuri A.I., Cornell J.A., Response surfaces designs and analysis, (1987); 
+Khuri A.I., Mukhopadhyay S., Response surface methodology. WIREs, Comput Stat, 2, pp. 128-149, (2010); 
+Kibinza S., Vinel D., Come D., Bailly C., Corbineau F., Sunflower seed deterioration as related to moisture content during ageing, energy metabolism and active oxygen species scavenging, Physiol Plant, 128, pp. 496-506, (2006); 
+Mehta D.K., Kanwar H.S., Thakur A.K., Thakur K.S., Influence of organic seed priming on germination and seedling quality in bell pepper (Capsicum annuum L.), J Hill Agric, 1, 1, pp. 85-87, (2010); 
+Mohammadi G.R., Dezfuli M.P.M., Sharifzadeh F., Seed invigoration techniques to improve germination and early growth of inbred line of maize under salinity and drought stress, Gen Appl Plant Physiol, 34, pp. 215-226, (2008); 
+Musa A.M., Harris D., Johansen C., Kumar J., Short duration chickpea to replace fallow after aman rice: the role of on-farm seed priming in the High Barind Tract of Bangladesh, Exp Agric, 37, 4, pp. 509-521, (2001); 
+Indian Horticulture Database, (2014); 
+Nawaz J., Hussain M., Jabbar A., Nadeem G.A., Sajid M., Subtain M., Shabbir I., Seed Priming A technique, Int J Agric Crop Sci, 6-20, pp. 1373-1381, (2013); 
+Pandey D.K., Priming induced alleviation of the effects of natural ageing derived selective leakage of constituents in French bean seeds, Seed Sci Technol, 17, pp. 391-397, (1989); 
+Perry D.A., Report of the Vigor Test Committee 1977–1980, pp. 115-126, (1981); 
+Presley J.T., Relations of protoplast permeability of cotton seed viability and pre-deposition of disease, Plant Dis Rep, 42, (1958); 
+Radha B.N., Channakeshava B.C., Bhanuprakash K., Pandurange Gowda K.T., Ramachandrappa B.K., Munirajappa R., DNA damage during seed ageing, J Agric Vet Sci, 7, 1, pp. 34-39, (2014); 
+Rana B., Awasthi P., Kumbhar B.K., Optimization of processing conditions for cyanide content reduction in fresh bamboo shoot during NaCl treatment by response surface methodology, J Food Sci Technol, 49, 1, pp. 103-109, (2012); 
+Rudrapal D., Naukamura S., The effect of hydration-dehydration pre treatments on egg plant and radish seed viability and vigor, Seed Sci Technol, 16, pp. 123-130, (1988); 
+Simak M., Testing of forest tree and shrub seeds by X-radiography, Tree and shrub seed handbook, pp. 141-1428, (1991); 
+Stofella P.J., Paola M.L.D., Pardossi A., Tognoni F., Seedling root morphology and shoot growth after seed priming or pre-germination of bell pepper, Hortic Sci, 27, pp. 214-215, (1992); 
+Suthar S.H., Das S.K., Some physical properties of karingda [Citrullus lanatus (thumb) Mansf] seeds, J Agric Eng Res, 65, 1, pp. 15-22, (1996); 
+Takayanagi K., Murakami K., Rapid germinability test with exudates from seed, Nature, 218, 5140, pp. 493-494, (1968); 
+Varier A., Kuriakose A., Dadlani M., Subcellular basis of seed priming, Curr Sci, 99, pp. 450-456, (2010); 
+Yogalakshmi J., Ponnuswamy A.S., Karivartharaju J.V., Seed storage potential of rice hybrid (CORH-1) and parental lines, Madras Agric J, 83, pp. 829-832, (1996)#FRF#

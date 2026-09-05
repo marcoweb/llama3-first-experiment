@@ -1,0 +1,56 @@
+#ITI#The changes in C/N, carbohydrate, and amino acid content in leaves during female flower bud differentiation of Juglans sigillata#FTI#
+#IRE#This study was conducted to investigate the relationship between carbon and nitrogen nutrition with physiological and morphological differentiation stages of Juglans sigillata, which could provide an important theoretical basis for improving walnut output and its quality. The results showed that the female flower bud differentiation of J. sigillata was finished in 2 years and the total duration was nearly 1 year. At the physiological differentiation stage, higher carbon-to-nitrogen ratio (C/N) due to an increase in the soluble sugar content, heterocyclic, aromatic, and hydrophobic amino acids, and proline (Pro) and alanine (Ala) initiated the differentiation of the female flower bud. After initiation of flower bud differentiation, nitrogenous compounds, such as alkaline amino acids and heterocyclic imino acids, especially arginine (Arg), Pro, Ala, and l-cysteine (Cys), and a higher content of soluble sugars favored its morphological differentiation. These results could provide a theoretical basis and reference for controlling the ratio of male and female flower buds in production to improve iron walnut yield. © 2022, The Author(s) under exclusive licence to Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Carbohydrate and nitrogenous compounds; Female flower bud differentiation; Free amino acids; Iron walnut; Soluble sugar#FPC#
+#IRF#Anderson J.V., Russ W.G., Jia Y., Chao W.S., Horvath D.P., Seasonal shifts in dormancy status, carbohydrate metabolism, and related gene expression in crown buds of leafy spurge, Plant Cell Environ, 28, pp. 1567-1578, (2005); 
+Assuero S.G., Tognetti J.A., Tillering regulation by endogenous and environmental factors and its agricultural management, AM J Plant Sci Biotechnol, 4, pp. 35-48, (2010); 
+Bao S.D., Soil agricultural chemistry analysis, (1999); 
+Bertrand J., Goichon A., Dechelotte P., Coeffier M., Regulation of intestinal protein metabolism by amino acids, Amino Acids, 45, 3, pp. 443-450, (2013); 
+Chen Y., Li W., Floral gradient in flowering tobacco in relation to free amino acids, Cell Res, 3, 1, pp. 85-92, (1993); 
+Chiara B., Daniela T.M., Irene P., Roberto B., Isolation of a gene encoding for a class III peroxidase in female flower of Corylus avellana L, Mol Biol Rep, 39, 4, pp. 4997-5008, (2012); 
+Cho Y.H., Yoo S.D., Signaling role of fructose mediated by FINS<sub>1</sub> /FBP in Arabidopsis thaliana, PLoS Genet, 7, 1, (2011); 
+Corbesier L., Lejune P., Bernier G., The role of carbohydrates in the induction of flowering in Arabidopsis thaliana: comparison between the wild type and a starchless mutant, Planta, 206, 1, pp. 131-137, (2013); 
+Culea M., Scrob S., Suvar S., Podea P., Has I., Muste S., Determination of amino acids in corn seed by gas chromatography-mass spectrometry, Anal Lett, 48, 1, pp. 37-46, (2015); 
+Deng J.Y., Study on the Morhological Development and Physiological Changes of Floral Bud Differentiation in Radish (Raphanus Sativus L.), (2003); 
+Douglas J.C.F., Monique B., Georges B., Promotion of flowering in Brassica campestris L. cv ceres by sucrose, Plant Physiol, 57, 4, pp. 1085-1089, (1984); 
+Eduwds G.R., Ammonia, arginine, polyamines and flower initiation in apple, Acta Hort, 79, pp. 363-366, (1986); 
+Eshghi S., Tafazoli E., Dokhani S., Rahemi M., Emam Y., Changes in carbohydrate contents in shoot tips, leaves and roots of strawberry (Fragaria×ananassa Duch.) during flower-bud differentiation, Sci Hortic, 113, 3, pp. 255-260, (2007); 
+Feng X.J., Yuan X.Y., Sun Y.W., Hu Y.H., Zulfiqar S., Ouyang X.H., Dang M., Zhou H.J., Woeste K., Zhao P., Resources for studies of iron walnut (Juglans sigillata) gene expression, genetic diversity, and evolution, Tree Genet Genomes, 14, (2018); 
+Francis D., Halford N.G., Nutrient sensing in plant meristems, Plant Mol Biol, 60, 6, pp. 981-993, (2006); 
+Gao Y., Liu H., Dong N.G., Pei D., Temporal and spatial pattern of indole-3-acetic acid occurrence during walnut pistillate flower bud differentiation as revealed by immunohistochemistry, J Am Soc Hortic Sci, 137, 5, pp. 283-289, (2012); 
+Gholizadeha J., Sadeghipour H.R., Abdolzadeha A., Hemmatib K., Hassanic D., Vahdatid K., Redox rather than carbohydrate metabolism differentiates endodormant lateral buds in walnut cultivars with contrasting chilling requirements, Sci Hortic, 225, pp. 29-37, (2017); 
+Hassankhah A., Rahemi M., Ramshini H., Sarikhani S., Vahdati K., Flowering in Persian walnut: patterns of gene expression during flower development, BMC Plant Biol, 20, (2020); 
+Ho L.C., Metabolism and compartmentation of imported sugars in sink organs in relation to sink strength, Annu Rev Plant Physiol Plant Mol Biol, 39, pp. 355-378, (1988); 
+Kraus E.J., Kraybill H.R., Vegetation and reproduction with special reference to the tomato, Oregon Agr Exp Sta Bul, 149, (1918); 
+Langbrova V., Sladky Z., The role of growth regulators in the differentiation of walnut buds (Juglans regia L.), Biol Plantarum (praha), 13, 5-6, pp. 361-367, (1971); 
+Li Y.T., Zhao Y.G., Yang K.Q., Fang Y.Y., Hou L.Q., Studies on floral organ development process of precocious walnut (Juglans regia) by anatomia, Acta Hortic Sinica, 38, pp. 434-440, (2011); 
+Li J.J., Pan X.J., Zhang W.E., Relationship between mineral nutrition, hormone content and flower bud differentiation of Juglans sigillata, Acta Bot Boreal Occident Sin, 36, 5, pp. 0971-0978, (2016); 
+Liu J.S., Zhang S.L., Variation in amino acid contents in the bearing and non-bearing mandarin trees during flower bud differentiation, J Southwest Univ (nat Sci Edn), 30, 2, pp. 71-76, (2008); 
+Liu X.Z., Lai Y., Xu S.J., Xu X.J., A study on the fluctuation of protein and amino acid contents during the flower bud differentiation period in valencia orange trees, Acta Hortic Sinica, 11, 2, pp. 85-92, (1984); 
+Liu J.J., Qi J.R., Dai Z.L., Study on relationship between free proline content in Citrus anther and pollen fertility, South China Fruits, 21, 4, pp. 7-9, (1992); 
+Luo L.S., Huo G.H., Liu Y., Xiao D.X., Gu Q.Q., The relation between male fertility and free amino acid content of flower organ in peach, J Fruit Sci, 17, 4, pp. 255-260, (2000); 
+Qin Q., Kass Q., Zhang C., Zhou L.P., Luo X.Y., Zhou M.B., Sun X.M., Zhang L.L., Paek K., Cui Y.Y., The cold awakening of doritaenopsis ‘TinnyTender’ orchid flowers: the role of leaves in cold-induced bud dormancy release, J Plant Growth Regul, 31, 2, pp. 139-151, (2012); 
+Roessner-Tunali U., Urbanczyk-Wochniak E., Czechowski T., Kolbe A., Willmitzer L., Fernie A.R., De novo amino acid biosynthesis in potato tubers is regulated by sucrose levels, Plant Physiol, 133, 2, pp. 683-692, (2003); 
+Sachs R.M., Hacket WP (1983) Source-sink relationships and flowering, Meudtendt MJ. Stategies of Plant Reproduction, pp. 263-272; 
+Sairanen I., Novak O., Pineik A., Ikeda Y., Jones B., Sandberg G., Ljung K., Soluble carbohydrates regulate auxin biosynthesis via PIF proteins in Arabidopsis, Plant Cell, 24, 12, pp. 4907-4916, (2012); 
+Smeekens S., Ma J., Hanson J., Rolland F., Sugar signals and molecular networks controlling plant growth, Curr Opin Plant Biol, 13, pp. 274-279, (2010); 
+Solar A., Osterc G., Tampar F., Kelc D., Branching of annual shoots in common walnut (Juglans regia L.) as affected by bud production and indol-3-acetic acid (IAA) content, Trees, 25, pp. 1083-1090, (2011); 
+Sun W.Q., Chu M.Y., Changes of amino acid in xylem sap, leaves and spurs during flower bud formation in Japanese apricot (Prunus mume Sieb. et Zucc.), Acta Hortic Sinica, 15, 4, pp. 280-283, (1988); 
+Tognetti J.A., Pontis H.G., Martinez-Noёl G.M.A., Sucrose signaling in plants: a world yet to be explored, Plant Signal Behav, 8, 3, (2013); 
+Tong B.Q., Hao Z.Y., The pattern of endogenous hormones of pistillate flower differentiation in walnut (Juglans regia), Scientia Silvae Sinicae, 27, 4, pp. 401-409, (1991); 
+Vahdati K., Arab M.M., Sarikhani S., Sadat-Hosseini M., Leslie C.A., Brown P.J., Et al., Advances in persian walnut (Juglans regia L.) breeding strategies, Advances in plant breeding strategies: nut and beverage crops, pp. 401-472, (2019); 
+Wang H., Pan G., Ma Q.G., Zhang J.P., Pei D., The genetic diversity and introgression of Juglans regia and Juglans sigillata in Tibet as revealed by SSR markers, Tree Genet Genomes, 11, (2015); 
+Wind J., Smeekens S., Hanson J., Sucrose: Metabolite and signaling molecule, Phytochemistry, 71, 14-15, pp. 1610-1614, (2010); 
+Wu X.R., Basic biochemistry, (2011); 
+Wu L.H., Tao Q.N., The plant sterile culture method and its application in the study of plant organic nutrition, Acta Pedol Sin, 36, 4, pp. 551-558, (1999); 
+Wu Y.Q., She Z.S., Li R.H., Chen F.Y., Wang C.N., Wang Z.B., Effect of plant amino acid liquid fertilizer on the physiological index and yield of sweet corn, J Maize Sci, 14, 5, pp. 130-133, (2006); 
+Xia X.Q., Xi R.T., The periods of physiological and morphological differentiation of pistillate flower buds in walnut (Juglans regia L.), J Agr Univ Heibei, 12, pp. 18-21, (1989); 
+Xin H., Zhang Y.X., Wang X.T., Liu C.Y., Feng W.R., Gai S.P., Morphological, anatomical and DNA methylation changes of tree peony buds during chilling induced dormancy release, Plant Physiol Bioch, 144, pp. 64-72, (2019); 
+Xu J.Z., Chen H.J., Li X.D., Zhang Z.H., Wang Y.H., Effect of exogenous polyamines on female and male flower differentiation and content of endogenous polyamines in leaves of walnut, Acta Hortic Sinica, 31, 4, pp. 437-440, (2004); 
+Yahata D., Matsumoto K., Ushijima K., Relationship between flower-bud differentiation and carbohydrate contents in spring shoots of very-early and late maturing cultivars of satsuma mandarin, J Jpn Soc Hortic Sci, 73, 5, pp. 405-410, (2004); 
+Yang Y., Yao A., Wang J., Hu J., The effect of sucrose on the expression of the VvTFL<sub>1</sub> and VFL genes during flower development in the “Xiangfei” grapevine, Sci Hortic, 129, 2, pp. 299-305, (2011); 
+Yasuda T., Hasegawa P.M., Cheng T., Analysis of newly synthesized proteins during differentiation of cultured Douglas fir cotyledons, Physiol Plantarum, 48, 1, pp. 83-87, (1980); 
+Zhang D., Flower bud development and flowering mechanism in Agapanthus Praecox ssp, Orientalis, (2011); 
+Zhang Z.H., Wang W.J., Gao Y., Du G.Q., The Process of flower differentiation on dichogamy of walnut, Acta Hortic Sinica, 22, 4, pp. 391-393, (1995); 
+Zhang W.E., Wang C.L., Shi B.B., Pan X.J., Effect of storage temperature and time on the nutritional quality of walnut male inflerescences, J Food Drug Anal, 25, pp. 374-384, (2017); 
+Zhou L., Quan S.W., Ma L., Xu H., Yang J.P., Niu J.X., Molecular characterization of SBP-box gene family during floral induction in walnut (Juglans regia L.), Tree Genet Genomes, 16, (2020); 
+Zinselmeier C., Jeong B.R., Boyer J.S., Starch and the control of kernel number in maize at low water potentials, Plant Physiol, 121, 1, pp. 25-35, (1999)#FRF#

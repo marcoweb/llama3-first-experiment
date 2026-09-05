@@ -1,0 +1,29 @@
+#ITI#Morphological and anatomical changes in soybean roots subjected to indole-3-acetic acid and tryptophol: indole compounds present in plant auxin metabolism#FTI#
+#IRE#The auxin metabolism is practically elucidated, and the compounds that are part of the biosynthesis are well characterized, but the indole-3-ethanol or tryptophol, a molecule that has a regulatory position in the indole-3-acetic acid biosynthesis, still represents a gap in the understanding of this pathway. We examined the hypothesis that tryptophol present the function of plant growth regulation on soybean root development. We evaluated two doses of auxin and two doses of tryptophol (100 e 200 mg L− 1), respectively, beside a control treatment (water), via leaf application, in soybean plants under V1–V2 phonological stages. After 18 days of application, the roots were collected for their volume and area measurement, thereafter small segments (0.5 cm of length), were collected at 1 cm below the root-collar, for anatomical analysis. We observed that the control showed greater area and root volume, but using 200 mg L− 1 auxin and 100 mg L− 1 tryptophol led to a radial increase of roots with significant increases in width radius vascular and cortical parenchyma. These results suggest that the application of both compounds had a potential of modify the vascular and ground tissues in soybean roots, which may be beneficial for the development of plants. © 2018, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Glycine max L; Indole compounds; Roots; Vascular tissue#FPC#
+#IRF#Ahmad A., Hayat S., Fariduddin Q., Ahmad I., Photosynthetic efficiency of plants of Brassica juncea, treated with chlorosubstituted auxins, Photosynthetica, 39, pp. 565-568, (2001); 
+Alameda D., Villar R., Linking root traits to plant physiology and growth in Fraxinus angustifolia Vahl. seedlings under soil compaction conditions, Environ Exp Bot, 79, pp. 49-57, (2012); 
+Aloni R., Role of hormones in controlling vascular differentiation and the mechanism of lateral root initiation, Planta, 238, pp. 819-830, (2013); 
+Aloni R., Ecophysiological implications of vascular differentiation and plant evolution, Trees Struct Funct, 29, pp. 1-16, (2015); 
+Aloni R., Zimmermann M.H., The control of vessel size and density along the plant axis: a new hypothesis, Differentiation, 24, pp. 203-208, (1983); 
+Cato S.C., Macedo W.R., Peres L.E.P., Castro P.R.C., Sinergism among auxins, gibberellins and cytokinins in tomato cv. Micro-Tom, Hortic Bras, (2013); 
+Eliasson L., Bertell G., Bolander E., Inhibitory action of auxin on root elongation not mediated by ethylene, Plant Physiol, 91, pp. 310-314, (1989); 
+Guzman-Lopez O., Trigos A., Fernandez F.J., Et al., Tyrosol and tryptophol produced by Ceratocystis adiposa, World J Microbiol Biotechnol, 23, pp. 1473-1477, (2007); 
+Johansen D.A., Plant Microtechnique, (1940); 
+Kraus J.E., Arduin M., Manual básico de métodos em morfologia vegetal, (1997); 
+Lacan G., Magnus V., Simaga S., Et al., Metabolism of tryptophol in higher and lower plants, Plant Physiol, 78, pp. 447-454, (1985); 
+Lebuhn M., Heulin T., Hartmann A., Production of auxin and other inolic and phenolic compounds by Paenibacillus polymyxa strains isolated from different proximity to plant roots, FEMS Microbiol Ecol, 22, pp. 325-334, (1997); 
+Ljung K., Auxin metabolism and homeostasis during plant development, Development, 140, pp. 943-950, (2013); 
+Ljung K., Ostin A., Lioussanne L., Sandberg G., Developmental regulation of indole-3-acetic acid turnover in scots pine seedlings, Plant Physiol, 125, pp. 464-475, (2001); 
+Nascimento A.L.V., Macedo W.R., Silva G.H., Et al., Physiological and agronomical responses of common bean subjected to tryptophol, Ann Appl Biol, 168, pp. 195-202, (2016); 
+Olson M.E., Rosell J.A., Vessel diameter-stem diameter scaling across woody angiosperms and the ecological causes of xylem vessel diameter variation, New Phytol, 197, pp. 1204-1213, (2013); 
+Percival F.W., Purves W.K., Vickery L.E., Indole-3-ethanol oxidase, Plant Physiol, 51, pp. 739-743, (1973); 
+Perrot-Rechenmann C., Cellular responses to auxin: division versus expansion, Cold Spring Harb Perspect Biol, 2, pp. 1-15, (2010); 
+Persello-Cartieaux F., Nussaume L., Robaglia C., Tales from the underground: molecular plant–rhizobacteria interactions, Plant Cell Environ, 26, pp. 189-199, (2003); 
+Piotrowska-Niczyporuk A., Bajguz A., The effect of natural and synthetic auxins on the growth, metabolite content and antioxidant response of green alga Chlorella vulgaris (Trebouxiophyceae), Plant Growth Regul, 73, pp. 57-66, (2014); 
+Rajagopal R., Metabolism of Indole-3-acetaldehyde. I. Distribution of indoleacetic acid and tryptopbol forming activities in plants, Physiol Plant, 20, pp. 982-990, (1967); 
+Ribeiro A.C., Guimaraes P.T.G., Alvarez V.H., Amostragem do Solo, (1999); 
+SAS/STAT 9.1 User’s Guide, (2004); 
+Shi H., Chen L., Ye T., Et al., Modulation of auxin content in Arabidopsis confers improved drought stress resistance, Plant Physiol Biochem, 82, pp. 209-217, (2014); 
+Takahashi H., Auxin biology in roots, Plant Root, 7, pp. 49-64, (2013); 
+Zazimalova E., Murphy A.S., Yang H., Et al., Auxin transporters—why so many?, Cold Spring Harb Perspect Biol, 2, (2010)#FRF#

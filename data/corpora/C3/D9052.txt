@@ -1,0 +1,32 @@
+#ITI#Similar behavior, different mechanisms: the research of the style bending of Alpinia species#FTI#
+#IRE#The styles of the plants of genus Alpinia show a similar bending behavior. Each species has two types—hyper-type and cata-type. The styles of hyper-type bend downward first, and then bend upward second. The styles of cata-type also bend twice, but the bending direction is opposite to hyper-type. We tested the effects of light, IAA, and NPA on the style movement of Alpinia oxyphylla and Alpinia galanga, and analyzed the IAA distribution in their styles. We found that the effects of light were similar for the two species, but the two types of each species responded differently. The first style bending of hyper-type was downward when it was in dark, and was upward when in light; the second bending was upward if in light, and did not move if in dark. The two bendings of cata-type showed no obvious difference between in dark and in light. Effects of IAA and NPA were different for two species. For A. galanga, neither IAA nor NPA had obvious effects on the style bending. For A. oxyphylla, IAA enhanced the second bending of hyper-type and the two bendings of cata-type. NPA enhanced the second bending of hyper-type and the first bendings of cata-type, and significantly inhibited the second bending of cata-type. The results of IAA immunolocalization indicated that IAA was symmetrical in the styles of A. galanga both before the first bending and before the second bending in two types. However, in A. oxyphylla, IAA asymmetry was found in two types. Therefore, we hypothesize that the mechanisms of the style bending of Alpinia plants are different, not only between two types of each species, but also among species. © 2017, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Alpinia; Auxin distribution; Auxin transport; Light; Style bending#FPC#
+#IRF#Adamowski M., Friml J., PIN-dependent auxin transport: action, regulation, and evolution, Plant Cell, 27, pp. 20-32, (2015); 
+Atamian H.S., Creux N.M., Brown E.A., Garner A.G., Blackman B.K., Harmer S.L., Circadian regulation of sunflower heliotropism, floral orientation, and pollinator visits, Science, 353, pp. 587-590, (2016); 
+De Rybel B., Mahonen A.P., Helariutta Y., Weijers D., Plant vascular development: from early specification to differentiation, Nature Rev Mol Cell Bio, 17, pp. 30-40, (2016); 
+Endo Y., Miyauchi T., Thermonasty of young main stems of Phryma leptostachya (Phrymaceae), J Plant Res, 119, pp. 449-457, (2006); 
+Fankhauser C., Christie J.M., Plant phototropic growth, Curr Bio, 25, pp. 384-389, (2015); 
+Goyal A., Szarzynska B., Fankhauser C., Phototropism: at the crossroads of light-signaling pathways, Trends Plant Sci, 18, pp. 393-401, (2013); 
+Hohm T., Peruten T., Fankhauser C., Phototropism: translating light into directional growth, Am J Bot, 100, pp. 47-59, (2013); 
+Kim J.-Y., Ryu J.Y., Baek K., Park C.-M., High temperature attenuates the gravitropism of inflorescence stems by inducing SHOOT GRAVITROPISM 5 alternative splicing in Arabidopsis, New Phyt, 209, pp. 265-279, (2015); 
+Kumar N., Kaur P., Das K., Chakroborty S., Mimosa Pudica L. A sensitive plant, Int J Pharm Pharm Sci, 1, pp. 1-7, (2009); 
+Lavenus J., Guyomarc'h S., Laplaze L., PIN transcriptional regulation shapes root system architecture, Trends Plant Sci, 21, pp. 175-177, (2016); 
+Li Q.J., Xu Z.F., Kress W.J., Xia Y.M., Zhang L., Deng X.B., Gao J.Y., Bai Z.L., Flexible style that encourages outcrossing, Nature, 40, (2001); 
+Luo Y.L., Li Q.J., Effect of light and low temperature on the reciprocal style curvature of flexistylous Alpinia species (Zingiberaceae), Acta Physiol Plant, 32, pp. 1229-1234, (2010); 
+Luo Y.L., Bi T.J., Li D., Su Z.L., Tao C., Luo Y.J., Li Q.J., Effects of indole-3-acetic acid and auxin transport inhibitors on the style curvature of three Alpinia species (Zingiberaceae), Acta Physiol Plant, 34, pp. 2019-2025, (2012); 
+Moctezuma E., Feldman L.J., Auxin redistributes upwards in graviresponding gynophores of the peanut plant, Planta, 209, pp. 180-186, (1999); 
+Moran N., Osmoregulation of leaf motor cells, FEBS Lett, 581, pp. 2337-2347, (2007); 
+Moyen C., Bonmort J., Roblin G., Membrane effects of 2,4-dichlorophenoxyacetic acid in motor cells of Mimosa pudica L, Plant Physiol Biochem, 45, pp. 420-426, (2007); 
+Retzer K., Korbei B., Luschnig C., Zazimalova E., Petrasek J., Benkova E., Auxin and tropisms, Auxin and its role in plant development, pp. 171-189, (2014); 
+Rocha D.I., Monte Bello C.C., Sobol S., Samach A., Dornelas M.C., Auxin and physical constraint exerted by the perianth promote androgynophore bending in Passiflora mucronata L. (Passifloraceae), Plant Bio, 17, pp. 639-646, (2015); 
+Scorza L.C.T., Dornelas M.C., Exploring the role of auxin in the androgynophore movement in Passiflora, Genet Mol Bio, 38, pp. 301-307, (2015); 
+Shimizu M., Tomita-Yokotani K., Nakamura T., Yamashita M., Pistil and stamen of lily flowers bend upward by light, Bio Sci Space, 17, (2003); 
+Sun S., Gao J.Y., Liao W.J., Li Q.J., Zhang D.Y., Adaptive significance of flexistyly in Alpinia blepharocalyx (Zingiberaceae): a hand pollination experiment, Ann Bot, 99, pp. 661-666, (2007); 
+Tanaka O., Murakami H., Wada H., Tanaka Y., Naka Y., Flower opening and closing of Oxalis martiana, J Plant Res, 102, pp. 245-253, (1989); 
+Toriyama H., Jaffe M.J., Migration of calcium and its role in the regulation of seismonasty in the motor cell of Mimosa pudica L, Plant Physiol, 49, pp. 72-81, (1972); 
+Toyota M., Gilroy S., Gravitropism and mechanical signaling in plants, Am J Bot, 100, pp. 111-125, (2013); 
+Velasquez S.M., Barbez E., Kleine-Vehn J., Estevez J.M., Auxin and cellular elongation, Plant Physiol, (2016); 
+Von Hase A., Cowling R.M., Ellis A.G., Petal movement in cape wildflowers protects pollen from exposure to moisture, Plant Ecol, 184, pp. 75-87, (2006); 
+Xi W., Gong X., Yang Q., Yu H., Liou Y.-C., Pin1At regulates PIN1 polar localization and root gravitropism, Nature Commun, (2016); 
+Zadnikova P., Smet D., Zhu Q., Van Der Straeten D., Benkova E., Strategies of seedlings to overcome their sessile nature: auxin in mobility control, Front Plant Sci, 6, (2015); 
+Zhao Y., Auxin biosynthesis and its role in plant development, Annu Rev Plant Biol, 61, pp. 49-64, (2010)#FRF#

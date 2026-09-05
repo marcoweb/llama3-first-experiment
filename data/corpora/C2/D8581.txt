@@ -1,0 +1,34 @@
+#ITI#Comparative response of two wucai (Brassica campestris L.) genotypes to heat stress on antioxidative system and cell ultrastructure in root#FTI#
+#IRE#The effects on root growth, root antioxidant capacity, and cellular ultrastructure were investigated using two wucai genotypes (heat-tolerant WS-1 and heat-sensitive WS-6) under heat stress (40/30 °C) for 5 days. Heat stress caused decreases in root biomass, relative water content (RWC), root vigor, and root traits of two wucai genotypes. In addition, it resulted in reactive oxygen species (ROS) accumulation and increased hydrogen peroxide (H2O2) content, superoxide anion (O2         −) formation rate, and malondialdehyde (MDA) content, but the activities of superoxide dismutase (SOD), peroxidase (POD), and catalase (CAT) were inhibited to different extents in two genotype wucai roots. However, these data indicated that the decline extent of WS-1 (heat tolerant) in root growth and antioxidant capacity was significantly lower than that of WS-6 (Heat sensitive). Microscopic analyses revealed that WS-1 (heat tolerant) showed a better cellular shape than WS-6 under heat stress and slightly oxidative damage; nuclear and mitochondria in WS-1 were of a better intact shape and clear bilayer membrane. Most importantly, the thicker root cell wall in heat-tolerant wucai genotype responding to heat stress was first reported. These results suggested that the ability of heat-tolerant wucai genotype to minimize the heat stress depended upon the higher self-regulation capacity and effectiveness of the antioxidant metabolism. © 2016, Franciszek Górski Institute of Plant Physiology, Polish Academy of Sciences, Kraków.#FRE#
+#IPC#Antioxidative system; Heat stress; Root; Ultrastructure; Wucai#FPC#
+#IRF#Aebi H., Catalase in vitro, Method Enzymol, 105, pp. 121-126, (1984); 
+Almeselmani M., Deshmukh P.S., Sairam R.K., High temperature stress tolerance in wheat genotypes: role of antioxidant defence enzymes, Acta Agron Hung, 57, pp. 1-4, (2009); 
+Apel K., Hirt H., Reactive oxygen species: metabolism, oxidative stress and signal transduction, Ann Rev Plant Biol, 55, pp. 373-399, (2004); 
+Baker N.R., Rosenqvist E., Application of chlorophyll fluorescence can improve crop production strategies: an examination of future possibilities, J Exp Bot, 403, pp. 607-1621, (2004); 
+Balla K., Bencze S., Janda T., Veisz O., Analysis of heat tolerance in winter wheat, Acta Agron Hung, 57, pp. 437-444, (2009); 
+Elstner E.F., Heupel A., Inhibition of nitrate formation from hydroxylammonium chloride: a simple assay for superoxide dismutase, Anal Biochem, 70, pp. 616-620, (1976); 
+Esfandiari E., Shekari F., Shekari F., Esfandiar M., The effect of salt stress on antioxidant enzymes activity and lipid peroxidation on the wheat seedlings, Not Bot Hort Agrobot Cluj, 35, pp. 48-56, (2007); 
+Gewin V., Food: an underground revolution, Nature, 466, pp. 552-553, (2010); 
+Giannopolitis C.N., Ries S.K., Superoxide dismutase in higher plants, Plant Physiol, 59, pp. 309-314, (1977); 
+Gowda V.R.P., Henry A., Yamauchi A., Shashidhar H.E., Serraj R., Root biology and genetics improvement for drought avoidance in rice, Field Crops Res, 122, pp. 1-13, (2011); 
+Hasanuzzaman M., Nahar K., Mahabub A.M., Roychowdhury R., Fujita M., Physiological, biochemical, and molecular mechanisms of heat stress tolerance in plants, Int J Mol Sci, 14, pp. 9643-9684, (2013); 
+He Y., Huang B., Protein changes during heat stress in three Kentucky bluegrass cultivars differing in heat tolerance, Crop Sci, 47, pp. 2513-2520, (2007); 
+Heath R.L., Packer L., Photoperoxidation in isolated chloroplasts: I. Kinetic and stoichiometry of fatty acid peroxidation, Arch Biochem Biophys, 125, pp. 189-198, (1968); 
+Herder G.D., Van Isterdael G., Beeckman T., De Smet I., The roots of a new green revolution, Trends Plant Sci, 15, pp. 600-607, (2010); 
+Herzog V., Fahimi H., Determination of the activity of peroxidase, Anal Biochem, 55, pp. 554-562, (1973); 
+Kumar A., Bali Y., Sharma K.D., Thakral S.K., Evaluation of wheat genotypes for terminal heat tolerance by simple physiological traits, India J Plant Physiol, 13, pp. 21-27, (2008); 
+Liu X., Huang B., Heat stress injury in relation to membrane lipid peroxidation in creeping bentgrass, Crop Sci, 40, pp. 503-510, (2000); 
+Liu J.J., Wei Z., Li J.H., Effects of copper on leaf membrane structure and root activity of maize seedling, Bot Stud, 55, (2014); 
+Maestri E., Klueva N., Perrotta C., Gulli M., Nguyen H.T., Marmiroli N., Molecular genetics of heat tolerance and heat shock proteins in cereals, Plant Mol Biol, 48, pp. 667-681, (2002); 
+Matsuo N., Ozawa K., Mochizuki T., Genotypic differences in root hydraulic conductance of rice (Oryza sativa L.) in response to water regimes, Plant Soil, 316, pp. 25-34, (2009); 
+Patterson B.D., Macrae E.A., Ferguson I.B., Estimation of hydrogen peroxide in plants extracts using titanium (IV), Ann Biochem, 139, pp. 487-492, (1984); 
+Porter J.R., Rising temperatures are likely to reduce crop yields, Nature, 436, (2005); 
+Schulze E.D., Turner N.C., Nicoll D., Schumacher J., Leaf and wood carbon isotope ratios, specific leaf areas and wood growth of Eucalyptus species across a rainfall gradient in Australia, Tree Physiol, 26, pp. 479-492, (2006); 
+Shao L., Wang C.G., Song J.H., Zhang H., Wang S.S., Yang J., Relationship of major morphological characteristics with low temperature tolerance in savoy, J China Agri Univer, 19, pp. 95-102, (2014); 
+Wahid A., Close T.J., Expression of dehydrins under heat stress and their relationship with water relations of sugarcane leaves, Biol Plant, 51, pp. 104-109, (2007); 
+Wahid A., Gelani S., Ashraf M., Foolad M.R., Heat tolerance in plants: an overview, Environ Exp Bot, 61, pp. 199-223, (2007); 
+Wang H., Inukai Y., Yamauchi A., Root development and nutrient uptake, CRC Crit Rev Plant Sci, 25, pp. 279-301, (2006); 
+Xu S., Li J., Zhang X., Wei H., Cui L., Effects of heat acclimation pre-treatment on changes of membrane lipid peroxidation, antioxidant metabolites, and ultrastructure of chloroplasts in two cool-season turfgrass species under heat stress, Environ Exp Bot, 56, pp. 274-285, (2006); 
+Yuan H., Sun Y., Correlation and path analysis of some agronomic characters of savoy (Brassica chinensis var. rosulars Tsen et Lee.), China Vegeta, 5, pp. 17-18, (2001); 
+Yuan L.Y., Shu S., Sun J., Guo S.R., Tezuka T., Effects of 24-epibrassinolide on the photosynthetic characteristics, antioxidant system, and chloroplast ultrastructure in Cucumis sativus L. under Ca(NO<sub>3</sub>)<sub>2</sub> stress, Photosynth Res, 112, pp. 205-214, (2012); 
+Yuan L.Y., Zhu S.D., Li S.H., Shu S., Sun J., Guo S.R., 24-Epibrassinolide regulates carbohydrate metabolism and increase polyamine content in cucumber exposed to Ca(NO<sub>3</sub>)<sub>2</sub> stress, Acta Physiol Plant, 36, pp. 2845-2852, (2014)#FRF#

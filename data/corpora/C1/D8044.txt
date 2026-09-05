@@ -1,0 +1,36 @@
+#ITI#Mimicking some features of a root-soil system by dual porosity media#FTI#
+#IRE#We report an experimental study of evaporation from a non-homogeneous dual porous system consisting of a finer pore size material at the centre surrounded by coarser particles in a glass beaker. This configuration can be considered to mimic, to a first order, the coupling between the plant roots and soil water. Similar to how roots extract water from the soils, here also water moves, driven by the capillary pressure gradient, from larger to the smaller voids. We explore two different configurations (a) when the small pore sizes span the entire porous column along the gravitational direction and (b) when they are limited to a thin annular region at the porous medium top surface. We measured the mass loss from the system, surface temperature using a thermal camera, and the ambient conditions. We compared the results with two standard systems – (a) a homogeneous porous medium and (b) a texturally layered configuration of finer particles at the top and coarser at the bottom. Compared to the homogeneous case, the duration of stage 1 (high evaporation rate regime) of evaporation and thus the characteristic evaporative length increased significantly in the case of root-mimics; this outcome shows the ability of the root-mimics in sustaining the surface water content induced by the strong capillary pressure gradient in such a dual porosity system. Finally, we track the evaporation sites using the fluorescein dye particles method and assess its effect (if any) on the overall evaporation characteristics. © 2019 Elsevier B.V.#FRE#
+#IPC#Dual porosity; Evaporation; Porous media; Root-soil coupling#FPC#
+#IRF#Aminzadeh M., Or D., Energy partitioning dynamics of drying terrestrial surfaces, J. Hydrol. (Amst), 519, pp. 1257-1270, (2014); 
+Assouline S., Narkis K., Gherabli R., Lefort P., Prat M., Analysis of the impact of surface layer properties on evaporation from porous systems using column experiments and modified definition of characteristic length, Water Resour. Res., 50, 5, pp. 3933-3955, (2014); 
+Ben Neriah A., Assouline S., Shavit U., Weisbrod N., Impact of ambient conditions on evaporation from porous media, Water Resour. Res., 50, 8, pp. 6696-6712, (2014); 
+Brutsaert W., Chen D., Desorption and the two stages of drying of natural tallgrass prairie, Water Resour. Res., 31, 5, pp. 1305-1313, (1995); 
+Huang M., Bruch P.G., Barbour S.L., Evaporation and water redistribution in layered unsaturated soil profiles, Vadose Zone J., 12, 1, (2013); 
+Israelsen O.W., West F.L.R., Water-holding capacity of irrigated soils, Utah Agric. College Exper. Station, 183, pp. 1-24, (1922); 
+Kato T., Kimura R., Kamichika M., Estimation of evapotranspiration, transpiration ratio and water-use efficiency from a sparse canopy using a compartment model, Agric. Water Manag., 65, 3, pp. 173-191, (2004); 
+Keita E., Faure P., Rodts S., Coussot P., MRI evidence for a receding-front effect in drying porous media, Phys. Rev. E, 87, 6, (2013); 
+Kumar N., Evaporation of Water from Soil-like, Leaf-like Surfaces and Unconventional Porous Media, (2017); 
+Kumar N., Arakeri J.H., Natural convection driven evaporation from a water surface, Procedia IUTAM, 15, pp. 108-115, (2015); 
+Kumar N., Arakeri J.H., Evaporation from confined porous media due to controlled IR heating from above, Transp. Porous Media, 125, 2, pp. 311-340, (2018); 
+Kumar N., Arakeri J.H., Experimental and numerical investigation of evaporation from line sources of water in low porosity surfaces, J. Hydrol., 569, pp. 795-808, (2019); 
+Kumar N., Arakeri J.H., Evaporation from layered porous medium in the presence of infrared heating, Water Resour. Res., 54, 10, pp. 7670-7687, (2018); 
+Kumar N., Arakeri J.H., Investigation on the effect of temperature on evaporative characteristic length of a porous medium, Dry. Technol., pp. 1-13, (2019); 
+Kumar N., Arakeri J.H., Sustained high evaporation rates from porous media consisting of packed circular rods, Int. J. Therm. Sci., 133, pp. 299-306, (2018); 
+Kumar N., Arakeri J.H., Experimental investigation of effect of orientation and surface roughness on drying of porous media consisting of rods, Int. J. Multiph. Flow, 109, pp. 114-122, (2018); 
+Lehmann P., Or D., Evaporation and capillary coupling across vertical textural contrasts in porous media, Phys. Rev. E, 80, 4, (2009); 
+Lehmann P., Assouline S., Or D., Characteristic lengths affecting evaporative drying of porous media, Phys. Rev. E, 77, 5, (2008); 
+Majumdar D., William S.P., Chalk dustfall during classroom teaching: particle size distribution and morphological characteristics, Environ. Monit. Assess., 148, pp. 343-351, (2009); 
+Nachshon U., Shahraeeni E., Or D., Dragila M., Weisbrod N., Infrared thermography of evaporative fluxes and dynamics of salt deposition on heterogeneous porous surfaces, Water Resour. Res., 47, 12, pp. 1-16, (2011); 
+Nachshon U., Weisbrod N., Dragila M., Grader A., Combined evaporation and salt precipitation in homogeneous and heterogeneous porous media, Water Resour. Res., 47, 3, pp. 1-16, (2011); 
+Or D., Lehmann P., Shahraeeni E., Shokri N., Advances in soil evaporation physics—a review, Vadose Zone J., 12, 4, (2013); 
+Richards L.A., Weaver L.R., Moisture retention by some irrigated soils as related to soil moisture tension, J. Agric. Res., 69, 6, pp. 215-235, (1944); 
+Shahraeeni E., Or D., Thermo‐evaporative fluxes from heterogeneous porous surfaces resolved by infrared thermography, Water Resour. Res., 46, 9, (2010); 
+Shokri N., Or D., Drying patterns of porous media containing wettability contrasts, J. Colloid Interface Sci., 391, pp. 135-141, (2013); 
+Shokri N., Lehmann P., Or D., Evaporation from layered porous media, J. Geophys. Res. Solid Earth, 115, B6, (2010); 
+Veihmeyer F.J., Hendrickson A.H., The moisture equivalent as a measure of the field capacity of soils, Soil Sci., 32, 3, pp. 181-194, (1931); 
+Wang Y., Sun S., Yu B., Acceleration of gas flow simulations in dual-continuum porous media based on the mass-conservation POD method, Energies, 10, 9, pp. 1-17, (2017); 
+Wang Y., Sun S., Gong L., Yu B., A globally mass-conservative method for dual-continuum gas reservoir simulation, J. Nat. Gas Sci. Eng., 53, pp. 301-316, (2018); 
+Wang Y., Yu B., Wang Y., Acceleration of gas reservoir simulation using proper orthogonal decomposition, Geofluids, 2018, pp. 1-15, (2018); 
+Weiss T., Slavik M., Bruthans J., Use of sodium fluorescein dye to visualize the vaporization plane within porous media, J. Hydrol., 565, pp. 331-340, (2018); 
+Yiotis A.G., Salin D., Tajer E.S., Yortsos Y.C., Drying in porous media with gravity-stabilized fronts: experimental results, Phys. Rev. E, 86, 2, (2012); 
+Zhang Y., Yang Z., Feng Y., Li R., Zhang Q., Geng H., Dong C., Effects of coarse chalk dust particles (2.5–10 μm) on respiratory burst and oxidative stress in alveolar macrophages, Environ. Sci. Pollut. Res. - Int., 22, 16, pp. 12450-12457, (2015)#FRF#

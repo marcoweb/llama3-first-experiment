@@ -1,0 +1,43 @@
+#ITI#Geospatial decision support system for ameliorating adverse impacts of irrigated agriculture on aquatic ecosystems#FTI#
+#IRE#Tributary stream systems provide an important source of water for sustaining adjacent irrigated agricultural enterprises. Unfortunately, irrigation withdrawals, depending on the timing and amounts, can have substantial negative impacts on critical aquatic ecosystems in the tributaries. Current regulatory trends in many regions point to increased restrictions on irrigation diversions for ecosystem protection, which could lead to increased risk of shortfalls in agricultural crop production. A geospatial decision support system (geo-DSS) integrating a spatially gridded hydro-meteorological flow estimation model (HL-RDHM) with a GIS-based river basin management model (GeoMODSIM) is presented for evaluating water management alternatives for maintaining the viability of irrigated agriculture while mollifying detrimental impacts on aquatic ecosystems and maintaining environmental flow requirements. As a case study, the geo-DSS is applied to the Feliz Creek basin tributary to the Russian River of northern coastal California which is home to a thriving viticulture industry while supporting spawning habitat for endangered and threatened fish species. The geo-DSS is applied on spatial (~1 km grid size) and temporal (daily) scales that are ecologically relevant for modeling agricultural operations and water rights priorities. The geo-DSS utilizes extensive sets of hydrologic forcing data varying from dry to wet conditions to assess baseline conditions and evaluate management alternatives. Baseline model results show that with minimum bypass flow restrictions in place for instream flow protection, the cumulative effects of upstream diversions can still be significant during low flow periods, while creating substantial risk of agricultural irrigation supply shortages. The case study application demonstrates that the geo-DSS is capable of locating, sizing, and managing off-stream farm ponds receiving optimally timed diversions from adjacent streams that are necessary for maintaining agricultural water supply while complying with environmental flow requirements for sustaining aquatic ecosystems. © 2021 Elsevier B.V.#FRE#
+#IPC#Agricultural storage optimization; Agricultural water management; Critical fisheries habitat; Instream flows; Stream ecosystems; Viticulture#FPC#
+#IRF#Bonada N., Resh V.H., Mediterranean-climate streams and rivers: geographically separated but ecologically comparable freshwater systems, Hydrobiologia, 719, 1, pp. 1-29, (2013); 
+Deitch M.J., Kondolf G.M., Merenlender A.M., Surface water balance to evaluate the hydrological impacts of small instream diversions and application to the Russian River basin, California, USA, Aquat. Conserv. Mar. Freshw. Ecosyst., 19, 3, pp. 274-284, (2009); 
+Deitch M.J., Kondolf G.M., Merenlender A.M., Hydrologic impacts of small-scale instream diversions for frost and heat protection in the California wine country, River Res. Appl., 25, 2, pp. 118-134, (2009); 
+Deitch M.J., Merenlender A.M., Feirer S., Cumulative effects of small reservoirs on streamflow in Northern Coastal California catchments, Water Resour. Manag., 27, 15, pp. 5101-5118, (2013); 
+Dettinger M.D., Atmospheric rivers as drought busters on the U.S. West Coast, J. Hydrometeorol., 14, pp. 1721-1732, (2013); 
+Fields C.M., Labadie J.W., Johnson L.E., Geospatial DSS for maintaining agricultural diversions under environmental flow requirements, J. Irrig. Drain. Eng., 146, 2, (2020); 
+Gasith A., Resh V.H., Streams in Mediterranean climate regions: abiotic influences and biotic responses to predictable seasonal events, Annu. Rev. Ecol. Syst., 30, 1, pp. 51-81, (1999); 
+Graf W.L., Dam nation: a geographic census of American dams and their large-scale hydrologic impacts, Water Resour. Res., 35, 4, pp. 1305-1311, (1999); 
+Grantham T.E., Merenlender A.M., Resh V.H., Climatic influences and anthropogenic stressors: an integrated framework for streamflow management in Mediterranean-climate California, USA, Freshw. Biol., 55, pp. 188-204, (2010); 
+Grantham T.E., Mezzatesta M., Newburn D.A., Merenlender A.M., Evaluating tradeoffs between environmental flow protections and agricultural water security, River Res. Appl., 30, 3, pp. 315-328, (2014); 
+Hines D., Brian C., Robert H., Scope of potential frost protection impacts on salmonids, (2009); 
+Johnson B.J., Reasonable use on the Russian River: a brief history of the frost protection rule, Golden Gate Univ. Environ. Law J., 9, (2015); 
+Johnson L., Distributed E., (2021); 
+Johnson L.E., Hsu C., Zamora R., Cifelli R., (2016); 
+Khan S., Tariq R., Yuanlai C., Blackwell J., Can irrigation be sustainable?, Agric. Water Manage., 80, 1-3, pp. 87-99, (2006); 
+Kingsford R.T., Ecological impacts of dams, water diversions and river management on floodplain wetlands in Australia, Austral Ecol., 25, 2, pp. 109-127, (2000); 
+Lytle D.A., Poff N.L., Adaptation to natural flow regimes, Trends Ecol. Evol., 19, 2, pp. 94-100, (2004); 
+(2019); 
+Merenlender A., Deitch M., Feirer S., Decision support tool seeks to aid stream-flow recovery and enhance water security., California Agriculture, 62, 4, pp. 148-155, (2008); 
+Patten D.T., Riparian ecosystems of semi-arid North America: diversity and human impacts, Wetlands, 18, 4, pp. 498-512, (1998); 
+Poff N.L., Allan J.D., Bain M.B., Karr J.R., Prestegaard K.L., Richter B.D., Sparks R.E., Stromberg J.C., The natural flow regime, BioScience, 47, 11, pp. 769-784, (1997); 
+Poff N.L., Olden J.D., Merritt D.M., Pepin D.M., Homogenization of regional river dynamics by dams and global biodiversity implications, Proc. Nat. Acad. Sci., 104, 14, pp. 5732-5737, (2007); 
+Potter K.W., Small-scale, spatially distributed water management practices: implications for research in the hydrologic sciences, Water Resour. Res., 42, 3, (2006); 
+Pringle C.M., Threats to US public lands from cumulative hydrologic alterations outside of their boundaries, Ecol. Appl., 10, 4, pp. 971-989, (2000); 
+Pritchard T.L., Irrigation management of winegrapes with a limited water supply, (2010); 
+Rolls R.J., Leigh C., Sheldon F., Mechanistic effects of low-flow hydrology on riverine ecosystems: ecological principles and consequences of alteration, Freshw. Sci., 31, 4, pp. 1163-1186, (2012); 
+(2019); 
+Schoof R., ENvironmental impact of channel modification 1, JAWRA J. Amer. Water Resour. Assoc., 16, 4, pp. 697-701, (1980); 
+Smakhtin V.U., Low flow hydrology: a review, J. Hydrol., 240, 3-4, pp. 147-186, (2001); 
+Smith R.J., Klonsky K.M., Livingston P.L., DeMoura R., Sample L., (2004); 
+Spina A.P., McGoogan M.R., Gaffney T.S., Influence of surface-water withdrawal on juvenile steelhead and their habitat in a south-central California nursery stream, Calif. Fish Game, 92, 2, (2006); 
+(1997); 
+(2010); 
+(2011); 
+Tiessen K.H.D., Elliott J.A., Stainton M., Yarotski J., Flaten D.N., Lobb D.A., The effectiveness of small-scale headwater storage dams and reservoirs on stream water quality and quantity in the Canadian Prairies, J. Soil Water Conserv., 66, 3, pp. 158-171, (2011); 
+Triana E., Labadie J.W., GIS-based decision support system for improved operations and efficiency conservation in large-scale irrigation systems, J. Irrig. Drain. Eng., 138, 10, pp. 857-867, (2012); 
+Congress U.S., pp. 1534-1544, (1973); 
+(2017); 
+Walls S., (2013); 
+Wohl E., Springer International Publishing AG, Sustaining River Ecosystems and Water Resources, (2018)#FRF#
